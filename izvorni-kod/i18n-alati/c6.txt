@@ -1,0 +1,463 @@
+4437|Zrake svjetionika
+4438|Iza Ride trepere tople zrake svjetla, kao s vrha svjetionika
+4439|Tuljanka Pega
+4440|Okrugla siva tuljanka s pjegama. Na kopnu poskakuje na trbuhu, a u moru je brza kao strijela
+4441|Iz mora donosi ribu i bisere
+4442|Tuljanovo plivanje
+4443|Pega pliva kroz valove i roni pod vodu. Na kopnu poskakuje sporije, ali vrlo veselo
+4444|Pega te nosi! U moru je najbrža, a može i roniti
+4445|Pufin Klempo
+4446|Mali pufin šarenog kljuna. Zbog kljuna ga zovu morski klaun
+4447|S hridi donosi pera i ribice
+4448|Pufinov let
+4449|Klempo brzo maše krilima i letite nisko iznad valova! Skok je gore, Roni je dolje
+4450|Klempo leti! Skok je gore, Roni je dolje
+4451|Plovak
+4452|Na balkonu svjetionika. Penji se zavojitim stubama do vrha
+4453|Škrinja kraj velike lampe
+4454|Svjetioničareva škrinja
+4455|Ribarska škrinja
+4456|Ribarsko selo
+4457|Signalna svjetla gore pravim redom! Kućica na kraju mola se otvorila
+4458|Ups, krivo svjetlo. Pogledaj zastavice na jarbolu, odozgo prema dolje, i kreni ispočetka
+4459|U kućici na kraju mola. Upali signalna svjetla redom kao zastavice na jarbolu
+4460|U Nelinoj ribarskoj kućici. Pomozi Neli skupiti plovke
+4461|Ribarska luka
+4462|Iznad najveće plimne lokve na istočnoj obali
+4463|Plimne lokve
+4464|U morskoj špilji ispod zapadne stijene. Uplivaj kroz otvor na moru
+4465|Na vrhu zapadne stijene. Do njega te nosi puhalica iz špilje
+4466|Škrinja u morskoj špilji
+4467|Morska špilja
+4468|Na najvišoj tuljanovoj stijeni na sjeverozapadu
+4469|Škrinja na tuljanovoj stijeni
+4470|Tuljanove stijene
+4471|Na vrhu Otočića galebova. Skočni kamenčići te nose gore
+4472|Škrinja galebova
+4473|Otočić galebova
+4474|Na plutači sa zvonom daleko na istoku. Plivaj ili veslaj do nje
+4475|Plutača sa zvonom
+4476|Na splavi južno od luke. Otvara se kad pobijediš u regati! Start je na kraju mola
+4477|Regata
+4478|Pobjeda u regati! Splav južno od luke se otvorila
+4479|Bijeli kamen i plavo platno, kao kuće u ribarskom selu
+4480|Svjetioničar ti daruje crveno-bijele blokove. Sagradi svoj svjetionik
+4481|Biseri iz morske špilje
+4482|Tuljani su ovdje čuvali šljunak i jedan biser
+4483|Galebovi ti daju sijeno za gnijezda i jedan zlatni grumen
+4484|Svjetionik ponovno svijetli! Ovo je blago svjetioničara
+4485|Djed Lovro
+4486|Ribarica Nela
+4487|Ribar Jakov
+4488|Mačić Luka
+4489|Ovčica Bijela
+4490|Runka
+4491|Kriko
+4492|Bistra
+4493|Kliješta
+4494|Jura
+4495|Bijela
+4496|Kriki
+4497|Siva
+4498|Pjegica
+4499|Brk
+4500|Mali
+4501|Klaun
+4502|Pjena
+4503|Ribica za Pegu
+4504|Arf, arf! Ja sam Pega. Gladna sam, a ribice su se sakrile u plimne lokve na istočnoj obali. Doneseš mi tri? Onda te vodim plivati
+4505|Arf! Najukusnije ribice! Sad smo prijateljice. Skoči mi na leđa, idemo u valove
+4506|Mladi tuljani imaju bijelo, mekano krzno koje ih grije na hladnoći
+4507|Mahovina za gnijezdo
+4508|Pip-pip! Ja sam Klempo. Gradim gnijezdo, a treba mi mekana mahovina. Raste kraj svjetionika, na vrhu zapadne stijene, na tuljanovoj stijeni i kraj luke. Doneseš mi četiri busena
+4509|Kakvo meko gnijezdo! Hvala ti. Hoćeš letjeti sa mnom nisko iznad valova
+4510|Pufini mogu u kljunu odjednom nositi i deset malih ribica
+4511|Joj, mala! Ja sam Nela. Oluja mi je otkinula pet plovaka s mreže i raznijela ih po zaljevu. Pronađeš ih? Plivaj ili veslaj, crveno-bijeli su pa se lako vide
+4512|Svih pet plovaka! Hvala ti, mreža je opet cijela. Uđi u moju kućicu, ostavila sam ti nešto lijepo
+4513|Mreža je opet cijela, hvala ti! U kućici te čeka dar
+4514|Crveno-bijeli plovci plutaju po zaljevu
+4515|Svjetionik! Unutra se zavojite stube penju sve do balkona. Gore je velika lampa, ali ugašena je
+4516|Plimne lokve! U njima žive rakovi i zvjezdače, a jedna lokva skriva biser svjetla
+4517|Morska špilja! Ono što šumi gore je puhalica. Stani u nju i val te izbaci na vrh stijene
+4518|Otočić galebova! Skočni kamenčići te bacaju na višu terasu
+4519|Svjetionik opet svijetli! Brodovi sad sigurno nalaze put. Gore u sobi s lampom čeka te moja škrinja, zaslužila si je
+4520|Dobro došla na Otok svjetionika, malena! Ja sam Djed Lovro, svjetioničar. Sinoć je oluja ugasila moju lampu i raznijela deset bisera svjetla po otoku i po moru. Bez njih svjetionik ne može svijetliti, a brodovi se noću izgube. Pomozi mi ih skupiti
+4521|bisera svjetla
+4522|Na otoku ima i prijatelja kojima treba pomoć
+4523|Stjenoviti otok u sumrak: visoki svjetionik koji se ugasio, ribarsko selo, plimne lokve, morska špilja s puhalicom, tuljani i regata po zaljevu
+4524|signalna svjetla
+4525|Biser svjetla
+4526|Biseri svjetla
+4527|Svi biseri svjetla
+4528|Svih 10 bisera svjetla! Velika lampa svjetionika ponovno svijetli i kristalni poklopac na vrhu se otvara
+4529|Prvi biser svjetla! Kompas na vrhu pokazuje najbliži
+4530|Otok svjetionika! Biseri svjetla
+4531|Djed Lovro te čeka na trgu
+4532|Svjetlo svjetionika vidi se i trideset kilometara daleko. Svaki svjetionik bljeska na svoj način, pa mornari po bljeskovima znaju koji je
+4533|U plimnim lokvama žive životinje koje izdrže i vodu i sunce: rakovi, puževi, moruzgve i zvjezdače
+4534|More stotinama godina udara u stijenu i polako je dubi. Tako nastaju morske špilje
+4535|Puhalica je rupa u stijeni iznad morske špilje. Kad val udari u špilju, voda izleti kroz rupu visoko u zrak, kao kad kit diše
+4536|Tuljani mogu ostati pod vodom i do pola sata. Na kopnu se kreću poskakujući na trbuhu
+4537|Galebovi su vrlo pametni. Neki bacaju školjke na kamen da se razbiju, pa pojedu ono što je unutra
+4538|Plutače pokazuju brodovima put. Neke imaju zvono koje zazvoni kad ih zaljuljaju valovi, pa se čuju i u magli
+4539|Regata je natjecanje brodova na jedra. Neke regate na svijetu održavaju se već više od sto pedeset godina
+4540|Brodovi noću nose svjetla: crveno na lijevoj strani, zeleno na desnoj i bijelo na jarbolu. Tako drugi brodovi znaju kamo plove
+4541|Ribari vežu mreže za plovke da ne potonu i da ih lako pronađu na moru
+4542|Večeras je more mirno kao ulje
+4543|Signalna svjetla na molu pale se redom kao zastavice na jarbolu: odozgo prema dolje
+4544|Regata kreće s kraja mola. Prođi kroz sve plave obruče na moru
+4545|Kad narastem, bit ću svjetioničar kao Djed Lovro
+4546|Jesi li vidjela puhalicu na zapadnoj stijeni? Pšššš
+4547|Arf! Arf
+4548|Sunčam se na stijeni, ne smetaj, molim te
+4549|U moru ima toliko ribica
+4550|Pip! Kakav lijep dan za ribarenje
+4551|Moj kljun je najšareniji na otoku
+4552|Kri-kri! Ovo je moje mjesto
+4553|Vidjela sam biser svjetla iz zraka
+4554|Klik-klak
+4555|Pazi, u lokvi su zvjezdače, nemoj ih zgaziti
+4556|Beee! Ovdje gore puše vjetar
+4557|Mmm, slana trava je najbolja
+4558|Iii-iii! Utrkuj se sa mnom
+4559|Kristalni poklopac drži sobu s lampom zatvorenom. Skupi svih 10 bisera svjetla
+4560|Svjetionik opet svijetli
+4561|Blago svjetioničara
+4562|Lisica u kabanici i Zrake svjetionika sad su tvoji. Djed Lovro kaže da su brodovi noćas sigurni zahvaljujući tebi
+4563|Karnevalska lisica
+4564|Ljubičasto-zlatni karnevalski kostim. Svaki korak je kao ples
+4565|Konfeti
+4566|Iza Ride lete šareni karnevalski konfeti
+4567|Golub Gugi
+4568|Pametni golub s trga. Zna svaki krov i svaki dimnjak u gradu
+4569|S krovova donosi sjemenke i izgubljene zlatnike
+4570|Golubov let
+4571|Gugi te nosi preko krovova i kanala! Skok je gore, Roni je dolje
+4572|Gugi leti! Skok je gore, Roni je dolje
+4573|Paun Šarko
+4574|Ponosni paun iz palačina vrta. Kad raširi rep, cijeli trg zastane
+4575|Iz vrta donosi šarena pera i bobice
+4576|Paunov skok
+4577|Šarko skače visoko i dvaput zaredom, a rep mu se raširi kao lepeza
+4578|Šarko te nosi! Skoči dvaput zaredom za paunov skok
+4579|Mrvice kruha
+4580|Staklena perla
+4581|Karnevalsko pero
+4582|Na dnu stare cisterne ispod bunara na trgu. Skoči u bunar i zaroni
+4583|Škrinja u cisterni
+4584|Gore u zvoniku na trgu. Stube se penju oko tornja
+4585|Zvonik
+4586|Škrinja na trgu
+4587|Trg golubova
+4588|Riznica karnevala
+4589|Palača karnevala
+4590|Ispod natkrivenog mosta između palače i krovova. Doplivaj ili doveslaj kanalom
+4591|Most uzdaha
+4592|U samom središtu labirinta u palačinom vrtu
+4593|Palačin vrt
+4594|Peć je zapjevala! Staklar Marko otvara vitrinu sa staklenim blagom
+4595|Staklo je puklo! Pogledaj vitraj na zidu radionice, odozgo prema dolje, i kreni ispočetka
+4596|U staklenoj vitrini u staklarskoj radionici. Upali peć pravim redom boja
+4597|Staklareva škrinja
+4598|Staklarska radionica
+4599|U izlogu Inesine radionice maski. Pomozi Ines skupiti karnevalska pera
+4600|Radionica maski
+4601|BUM! Konfeti-top te ispalio ravno na vrh gradskog sata
+4602|Karnevalska pozornica
+4603|Na vrhu gradskog sata. Do njega te nosi konfeti-top s karnevalske pozornice
+4604|Juhuu! Natrag na karnevalsku pozornicu
+4605|Gradski sat
+4606|Na najvišem krovu u četvrti krovova. Skoči na skočni oblak i trči po krovovima
+4607|Škrinja na krovu
+4608|Četvrt krovova
+4609|U paviljonu gondolijera kod portala. Otvara se kad pobijediš u utrci gondola
+4610|Utrka gondola
+4611|Pobjeda u utrci gondola! Paviljon gondolijera se otvorio
+4612|Zakopano pod crvenim X-om na pješčanom sprudu daleko u laguni. Kopaj
+4613|Kopaš, kopaš... i eno ga! Zlatna maska u pijesku
+4614|Škrinja na sprudu
+4615|Pješčani sprud
+4616|Kamen s trga: sagradi i ti svoj mali trg
+4617|Davno izgubljeno blago iz cisterne
+4618|Vrtlarova škrinja: živica i cvjetovi trešnje
+4619|Staklar Marko ti daruje staklo za prozore
+4620|Crijep i cigle s najvišeg krova u gradu
+4621|Pijesak i biser sa spruda u laguni
+4622|Riznica karnevala! Najsjajnije blago u cijelom gradu
+4623|Gondolijer Toni
+4624|Maskarka Ines
+4625|Staklar Marko
+4626|Mačak Brko
+4627|Maca Lili
+4628|Zeko Hop
+4629|Gugu
+4630|Perica
+4631|Mrva
+4632|Dudu
+4633|Lepa
+4634|Grlica
+4635|Kvak
+4636|Kvačica
+4637|Patkić
+4638|Paunica Lea
+4639|Gru-gru! Ja sam Gugi. Netko je na trgu prosuo mrvice kruha, a ja ih ne mogu sve pronaći. Doneseš mi četiri hrpice? Onda te provedem preko krovova
+4640|Gru-gru, kakva gozba! Sad smo prijatelji. Popni se, letimo iznad kanala
+4641|Golubovi uvijek pronađu put kući, čak i kad su stotinama kilometara daleko
+4642|Hm-hm, dobar dan! Ja sam Šarko. Skupljam sve što svjetluca, a izgubio sam četiri staklene perle. Jedna je kod staklara, druge su u palačinom vrtu. Doneseš mi ih
+4643|Prekrasne su! Pogledaj kako mi se rep sjaji. Hoćeš li skakati sa mnom
+4644|Samo paun mužjak ima dugi šareni rep. Kad ga raširi, ima više od sto pera s okom
+4645|Dobro došla, mala! Ja sam Ines i radim karnevalske maske. Vjetar mi je odnio pet šarenih pera po cijelom gradu: na mostove, trgove i kod pozornice. Doneseš mi ih? Bez pera maska nije maska
+4646|Svih pet pera! Sad je moja najljepša maska gotova. Pogledaj u izlog, ostavila sam ti nešto posebno
+4647|Maska je gotova, hvala ti! U izlogu te čeka dar
+4648|Šarena pera svjetlucaju po gradu
+4649|Stari bunar! Kažu da ispod trga postoji tajna cisterna. Skoči unutra i zaroni
+4650|Staklarska radionica! Stani na obojene ploče redom kao boje na vitraju
+4651|Skočni oblak! Odbaci se na krov i trči od krova do krova sve do najvišeg
+4652|Labirint od živice! Nađi put do sredine
+4653|Bravo, mala! Riznica karnevala je otvorena. Pogledaj vatromet iznad grada, to je za tebe
+4654|Ciao, dobro došla u Grad na kanalima! Ja sam Toni, gondolijer. Večeras je veliki karneval, ali deset zlatnih maski izgubilo se po gradu i bez njih se riznica u palači ne otvara. Pronađi ih! Možeš hodati preko mostića ili veslati kanalima
+4655|zlatnih maski
+4656|Pomozi i prijateljima u gradu
+4657|Šareni grad na vodi u vrijeme karnevala: gondole, mostići, trg s golubovima, zvonik, staklarska radionica, labirint u palačinom vrtu i tajna cisterna ispod bunara
+4658|utrka gondola
+4659|Zlatna maska
+4660|Zlatne maske
+4661|Sve zlatne maske
+4662|Svih 10 zlatnih maski! Kristalna vrata riznice u palači su se otvorila, a nad gradom počinje vatromet
+4663|Prva zlatna maska! Kompas na vrhu pokazuje najbližu
+4664|Grad na kanalima! Zlatne maske
+4665|Gondolijer Toni te čeka kod portala
+4666|Zvonici su se gradili visoko da se zvona čuju po cijelom gradu, a s vrha se moglo vidjeti dolazi li brod
+4667|Gradovi na moru nemaju izvore pitke vode, pa su ljudi kišnicu skupljali u velike podzemne cisterne ispod trgova
+4668|Staklo se radi od pijeska koji se rastali u jako vrućoj peći. Staklar ga zatim puše kroz dugu cijev, kao balon
+4669|Na karnevalu ljudi nose maske i kostime, pa nitko ne zna tko je tko. Neke karnevalske maske rade se od papira i ljepila
+4670|Gondola je duga crna lađa. Gondolijer je vesla stojeći, samo jednim veslom, na stražnjem kraju lađe
+4671|Prije nego što su ljudi imali satove na ruci, cijeli grad je gledao u veliki sat na tornju
+4672|U gradovima na vodi kuće su gusto zbijene jer na otočićima nema puno mjesta, pa rastu u visinu
+4673|Labirinti od živice sade se u vrtovima već stotinama godina. Iz svakog labirinta možeš izaći ako se rukom stalno držiš istog zida
+4674|Grad na vodi može imati i više od četiristo mostova. Mnogi su zaobljeni da ispod njih prođu lađe
+4675|Sprud je plitko pješčano mjesto u moru. Za oseke izviri iz vode, a za plime ga more opet prekrije
+4676|Peć mora biti jako vruća, više od tisuću stupnjeva
+4677|Pogledaj moj vitraj na zidu. Boje idu odozgo prema dolje
+4678|Mijau, golubovi su me opet nadmudrili
+4679|Najbolje ribe su kod ribarnice, ali psst
+4680|U labirintu sam se izgubila tri puta. Drži se jednog zida
+4681|Juhu, karneval! Volim konfete
+4682|Gru-gru
+4683|Mrvica? Imaš li mrvicu
+4684|Gru, s krova se vidi cijeli grad
+4685|Pogledaj moj rep! Lijep je, zar ne
+4686|Kvak! Ovo je moj kanal
+4687|Kvak-kvak, pazi na gondole
+4688|Šarko je najljepši paun u vrtu, ali to mu nemoj reći
+4689|Kristalna vrata čuvaju riznicu palače. Skupi svih 10 zlatnih maski
+4690|Karneval može početi
+4691|Karnevalska lisica i Konfeti sad su tvoji. Toni kaže da je ovo najljepši karneval u povijesti grada
+4692|Svjetleća lisica
+4693|Krzno joj svijetli plavo kao more u Svjetlećem zaljevu. Noću je vidiš izdaleka
+4694|Svjetleći plankton
+4695|Gdje Rida prođe, zasvijetli plavi sjaj kao more u zaljevu
+4696|Raža Svjetlica
+4697|Mala raža čija krila noću svijetle plavo. Klizi kroz vodu kao da leti
+4698|Iz mora donosi bisere i svjetleće školjke
+4699|Svjetlucavo plivanje
+4700|Svjetlica te nosi kroz valove i pod vodu, a iza vas ostaje plavi sjaj
+4701|Svjetlica te nosi! U moru je najbrža, a može i roniti
+4702|Rakun Maskić
+4703|Znatiželjni rakun s maskom oko očiju. Noću istražuje plažu i pere sve što nađe
+4704|S plaže donosi školjke i izgubljene zlatnike
+4705|Rakunov trk
+4706|Maskić juri preko pijeska i dina i skače dvaput zaredom
+4707|Maskić te nosi! Juri brzo i skače dvaput zaredom
+4708|Kornjačica
+4709|Svjetleća školjka
+4710|Na vrhu Mjesečevih vrata, kamenog luka na ulazu u zaljev. Školjka-katapult na plaži te baca gore
+4711|Mjesečeva vrata
+4712|Školjka se zatvorila i PLJUS! Letiš prema Mjesečevim vratima
+4713|Blago Mjesečevog hrama
+4714|Mjesečev hram
+4715|Teleskop se okrenuo prema pravom zviježđu! Ormarić sove zvjezdoznanke se otvorio
+4716|Hm, to nije to zviježđe. Pogledaj zvjezdanu kartu na zidu, odozgo prema dolje, i kreni ispočetka
+4717|U zvjezdarnici na zapadnom rtu. Stani na ploče redom kao na zvjezdanoj karti
+4718|U špilji svjetlećih crvića na istočnom rtu. Ulaz je s plaže
+4719|Škrinja u špilji
+4720|Špilja svjetlećih crvića
+4721|Na vrhu Velike dine. Penji se po pijesku
+4722|Škrinja na dini
+4723|Velika dina
+4724|Na dnu svjetleće uvale u zaljevu, među plavim koraljima. Zaroni
+4725|Svjetleća uvala
+4726|U kućici za kornjače. Pomozi baki Mirti skupiti izgubljene kornjačice
+4727|Kornjačja gnijezda
+4728|U šupljem panju kraj dina. Otvara se kad uhvatiš sve krijesnice! Start je kraj kornjačjih gnijezda
+4729|Ples krijesnica
+4730|Uhvatila si sve krijesnice! Šuplji panj kraj dina se otvorio
+4731|Na vrhu Hridi meduza. Div-meduza te diže strujom zraka uz hrid
+4732|Škrinja na hridi
+4733|Hrid meduza
+4734|Zakopano pod crvenim X-om na Kokosovu otočiću. Kopaj
+4735|Kopaš, kopaš... i eno ga! Mjesečev kamen svijetli u pijesku
+4736|Škrinja na otočiću
+4737|Kokosov otočić
+4738|Na splavi s lampionima daleko izvan zaljeva. Plivaj ili veslaj
+4739|Škrinja na splavi
+4740|Splav s lampionima
+4741|Pijesak s Velike dine. Sagradi pješčani dvorac
+4742|Svjetleći crvići čuvali su ovo blago
+4743|Meduze su na hridi sakrile bisere
+4744|Gusari su davno ovdje ostavili zlatni grumen
+4745|Lampioni sa splavi, da i tvoj otok noću svijetli
+4746|Blago Mjesečevog hrama! Svijetli kao sam zaljev
+4747|Baka Mirta
+4748|Sova Zvjezdana
+4749|Klik
+4750|Klak
+4751|Pustinjak
+4752|Brzi
+4753|Zelenko
+4754|Noćko
+4755|Sjaj
+4756|Bok! Ja sam Svjetlica. Moje svjetleće školjke more je izbacilo na plažu, a bez njih ne mogu zaspati. Doneseš mi četiri? Onda te vodim kroz svjetleće valove
+4757|Moje školjke! Hvala ti. Sad smo prijateljice, skoči mi na leđa
+4758|Raže dišu kroz male rupice na leđima, pa mogu ležati zakopane u pijesku
+4759|Školjka za Maskića
+4760|Psst, bok! Ja sam Maskić. Volim prati školjke u moru, a kraj kornjačjih gnijezda ima najljepših. Doneseš mi tri? Ali nježno, ne smetaj kornjačicama
+4761|Joj, kako sjaje kad ih operem! Hoćeš juriti sa mnom po dinama
+4762|Rakuni imaju vrlo osjetljive prednje šape. Prije jela često drže hranu u vodi i opipavaju je
+4763|Dobra večer, dušo. Ja sam baka Mirta. Noćas se legu male kornjače, a pet ih je krenulo krivo, prema dinama umjesto prema moru! Pronađeš ih i doneseš meni? Onda ih zajedno pustimo u more
+4764|Svih pet! Gledaj kako jure prema moru, pa-pa, mališani! U mojoj kućici čeka te dar
+4765|Kornjačice su sretno stigle u more. Hvala ti
+4766|Kornjačice svjetlucaju među dinama
+4767|Div-školjka! Stani na zlatni biser u njoj i ona te baci na Mjesečeva vrata
+4768|Zvjezdarnica! Zvjezdana karta na zidu pokazuje redoslijed ploča
+4769|Špilja svjetlećih crvića! Strop svijetli kao noćno nebo
+4770|Div-meduza! Popni se na kamenčić ispod nje, sa zapadne strane hridi, i struja te digne na vrh
+4771|Mjesečev hram se otvorio! Takvu noć ovaj zaljev nije vidio sto godina. Uđi, dušo, blago je tvoje
+4772|Dobra večer, dušo. Ja sam baka Mirta i ovdje čuvam kornjačja gnijezda. Ovo je Svjetleći zaljev: noću more svijetli plavo! Na brdu je Mjesečev hram, a otvara ga deset mjesečevih kamenova koji su se rasuli po zaljevu. Pronađi ih, a usput pazi na moje mališane
+4773|mjesečevih kamenova
+4774|Na plaži ima i prijatelja kojima treba pomoć
+4775|Noćna plaža na kojoj more svijetli plavim sjajem: kornjačice se legu, krijesnice plešu nad dinama, a div-meduze svijetle oko hridi
+4776|svjetleće more
+4777|ples krijesnica
+4778|div-školjka
+4779|Mjesečev kamen
+4780|Mjesečevi kamenovi
+4781|Svi mjesečevi kamenovi
+4782|Svih 10 mjesečevih kamenova! Kristalna vrata Mjesečevog hrama na brdu su se otvorila
+4783|Prvi mjesečev kamen! Kompas na vrhu pokazuje najbliži
+4784|Svjetleći zaljev! Mjesečevi kamenovi
+4785|Baka Mirta te čeka kraj kornjačjih gnijezda
+4786|Kameni lukovi u moru nastaju kad valovi tisućama godina dube stijenu sa dvije strane, dok se u sredini ne spoje
+4787|Zviježđa su skupine zvijezda koje su ljudi povezali u slike. Mornari su se po njima noću snalazili na moru
+4788|Svjetleći crvići žive na stropu špilja i svijetle da bi namamili sitne mušice. Strop tada izgleda kao zvjezdano nebo
+4789|Dine su brežuljci od pijeska koje gradi vjetar. Polako putuju, ponekad i nekoliko metara na godinu
+4790|More svijetli zbog sićušnih bića, planktona. Kad ih nešto zaljulja, zasvijetle plavo, kao male lampice
+4791|Morske kornjače izlegu se noću i odmah jure prema moru. Snalaze se po svjetlu mjeseca na vodi
+4792|Krijesnice svijetle stražnjim dijelom tijela. Svjetlom dozivaju jedna drugu, svaka vrsta svojim ritmom
+4793|Meduze nemaju ni mozak ni srce, a žive na Zemlji duže od dinosaura. Neke svijetle u mraku
+4794|Kokosov orah može plutati morem mjesecima. Kad ga valovi izbace na obalu, iz njega može izrasti nova palma
+4795|Ribari su nekad noću palili lampione na brodicama da bi ribe doplivale prema svjetlu
+4796|Huu! Vidiš li ono zviježđe? Zove se Veliki medvjed
+4797|Zvjezdana karta na zidu pokazuje kojim redom staješ na ploče: odozgo prema dolje
+4798|Klik-klak! Noću je plaža najljepša
+4799|Pazi, ne zgazi kornjačice
+4800|Mora! Moram do mora
+4801|Je li ono mjesec ili velika svjetiljka
+4802|Psst, imaš li nešto sjajno
+4803|Iii-iii! Pliva se kroz svjetlo
+4804|Kristalna vrata Mjesečevog hrama su zatvorena. Skupi svih 10 mjesečevih kamenova
+4805|Zaljev svijetli za tebe
+4806|Svjetleća lisica i Svjetleći plankton sad su tvoji. Baka Mirta kaže da će kornjačice zauvijek pamtiti tvoje ime
+4807|Lisica bubamara
+4808|Crvena kao bubamara, s crnim točkicama. Najmanja i najhrabrija u vrtu
+4809|Latice
+4810|Iza Ride lete ružičaste i bijele latice cvijeća
+4811|Pčelica Medica
+4812|Vrijedna pčelica iz Divovskog vrta. Zuji od cvijeta do cvijeta i nikad se ne umori
+4813|S cvijeća donosi med i pelud
+4814|Pčelin let
+4815|Medica te nosi od cvijeta do cvijeta! Skok je gore, Roni je dolje
+4816|Medica leti! Skok je gore, Roni je dolje
+4817|Skakavac Skokić
+4818|Zeleni skakavac s jakim stražnjim nogama. Skače dvadeset puta dalje od svoje duljine
+4819|Iz trave donosi sjemenke i zlatnike
+4820|Skakavčev skok
+4821|Skokić skače nevjerojatno visoko, i to dvaput zaredom
+4822|Skokić te nosi! Skoči, pa u zraku skoči još jednom
+4823|Pelud
+4824|Kap rose
+4825|Sjemenka
+4826|Na vrhu divovskog suncokreta! Žličica-katapult kraj trga baca te gore
+4827|Divovski suncokret
+4828|Žličica je zamahnula i HOP! Letiš na suncokret
+4829|U samom vrhu košnice, među saćem. Uđi kroz otvor na dnu i penji se
+4830|Škrinja s medom
+4831|Košnica
+4832|U staroj puževoj kućici na istoku vrta. Ulaz je s južne strane
+4833|Puževa škrinja
+4834|U mravljoj smočnici duboko u mravinjaku. Mrav Mravko je otvara kad mu doneseš sjemenke
+4835|Mravinjak
+4836|Na lopoču usred velike lokve na zapadu. Skači s lista na list
+4837|Velika lokva
+4838|Na dnu kante za zalijevanje, pod vodom. Prskalica te diže do ruba, onda skoči unutra i zaroni
+4839|Škrinja kraj prskalice
+4840|Kanta za zalijevanje
+4841|Pod prevrnutom teglicom među zvončićima. Pozvoni zvončićima redom kao na pločici
+4842|Zvončići su zasvirali pjesmu! Teglica se podigla
+4843|Ups, kriva nota. Pogledaj pločicu s bojama, odozgo prema dolje, i kreni ispočetka
+4844|Zvončići
+4845|Zakopano pod crvenim X-om u povrtnjaku. Kopaj
+4846|Kopaš, kopaš... i eno je! Sunčana kap među korijenjem
+4847|Povrtnjak
+4848|U divovskoj kapi rose na vrhu velikog lista. Penji se po listu
+4849|U kućici od latica kraj portala. Otvara se kad pobijediš u utrci bubamara
+4850|Utrka bubamara
+4851|Pobjeda! Kućica od latica kraj portala se otvorila
+4852|Blago ružinog pupoljka
+4853|Ružin pupoljak
+4854|Pčele su ti ostavile saće i malo jantara
+4855|Puž Polagani kaže: moja stara kućica sad je tvoja
+4856|Škrinja iz kante, malo mokra, ali puna blaga
+4857|Blago ružinog pupoljka! Najljepše u cijelom vrtu
+4858|Bubamara Točkica
+4859|Mrav Mravko
+4860|Puž Polagani
+4861|Gusjenica Gricko
+4862|Leptirica Šarenka
+4863|Leptirić Plavko
+4864|Crvenka
+4865|Točka
+4866|Mrvko
+4867|Kopko
+4868|Nosko
+4869|Vrijedna
+4870|Trčko
+4871|Mala
+4872|Zzz-zdravo! Ja sam Medica. Trebam pelud za med, a najbolja je na vrhu divovskih cvjetova. Doneseš mi pelud s četiri cvijeta? Penji se po listićima oko stabljike
+4873|Zzzz, kakva pelud! Napravit ću najslađi med. Hoćeš letjeti sa mnom od cvijeta do cvijeta
+4874|Pčele plešu da bi drugim pčelama pokazale gdje je cvijeće. Taj ples zove se pčelinji ples
+4875|Hop-hop! Ja sam Skokić. Jutros sam toliko skakao da sam ožednio. Doneseš mi tri kapi rose? Leže na lišću po vrtu
+4876|Hop! Sad imam snage za najveći skok na svijetu! Skoči mi na leđa
+4877|Skakavci čuju nogama! Uši su im na trbuhu ili na prednjim nogama
+4878|Stoj! Tko ide? Ah, prijateljica. Ja sam Mravko. Zima dolazi, a smočnica nam je prazna. Doneseš nam pet sjemenki? Raznio ih je vjetar po cijelom vrtu
+4879|Pet sjemenki! Smočnica je puna, cijeli mravinjak ti zahvaljuje. Siđi dolje u smočnicu, ostavili smo ti nešto
+4880|Smočnica je puna! Hvala ti, prijateljice
+4881|Sjemenke su raštrkane po vrtu
+4882|Divovska žličica! Stani na zlatnu točku i ona te baci na vrh suncokreta
+4883|Prskalica! Stani u mlaz i voda te digne do ruba kante
+4884|Košnica! Uđi kroz otvor i penji se po stubama od saća
+4885|Ulaz u mravinjak! Tunel vodi duboko pod zemlju
+4886|Ružin pupoljak se otvorio! Vidiš kako sve cvjeta? Uđi, blago je tvoje
+4887|Bok, mala! Ja sam bubamara Točkica. Ne boj se, nisi se izgubila, samo si sada malena kao mi! Ovo je Divovski vrt. Deset sunčanih kapi palo je po vrtu, a bez njih se ružin pupoljak ne može otvoriti. Pomozi nam ih skupiti
+4888|sunčanih kapi
+4889|U vrtu ima i prijatelja kojima treba pomoć
+4890|Rida je malena kao bubamara! Vlati trave visoke kao stabla, suncokret kao neboder, kapi rose kao kuće, košnica, mravinjak i puževa kućica
+4891|žličica-katapult
+4892|zvončići
+4893|Sunčana kap
+4894|Sunčane kapi
+4895|Sve sunčane kapi
+4896|Svih 10 sunčanih kapi! Kristalna vrata ružinog pupoljka su se otvorila
+4897|Prva sunčana kap! Kompas na vrhu pokazuje najbližu
+4898|Divovski vrt! Sunčane kapi
+4899|Bubamara Točkica te čeka kod portala

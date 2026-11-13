@@ -1,0 +1,489 @@
+1639|Stani kraj vode i dodirni štapić na traci. Led se otopi nakon pola minute
+1640|Mamutić Kosko
+1641|Mali mamut iz Ledenog kraljevstva. Krzno mu je toplo, ali surla mu se stalno smrzava
+1642|Iz snijega iskopa plavi led i zlatnike
+1643|Irvas Zvjezdan
+1644|Rogovi mu svijetle kao zvijezde, a kad skoči, lebdi kroz zrak
+1645|Donosi zvjezdanu prašinu i čarobno sjeme
+1646|Medvjedić Grudko
+1647|Bijeli medvjedić s plavim šalom. Obožava ribu i klizanje na trbuhu
+1648|Iz mora donosi bisere
+1649|Mamutovo jahanje
+1650|Kosko te nosi kroz snijeg. Kad doskoči, zemlja zadrhti i snijeg poleti uvis
+1651|Zvjezdani let
+1652|Zvjezdan trči brže od vjetra. U zraku drži Skok i lebdjet ćete među zvijezdama
+1653|Medvjeđe klizanje
+1654|Grudko te nosi, a na ledu klizi na trbuhu kao raketa
+1655|Kosko te nosi! Kad doskoči, snijeg poleti uvis
+1656|Zvjezdan juri! Skoči i drži Skok, pa ćete lebdjeti
+1657|Grudko te nosi! Na ledu klizi kao raketa
+1658|Brrr! Ja sam Kosko. Tako mi je hladno da mi se surla smrznula! Na toplim vrelima sjaje topli kamenčići. Doneseš mi tri
+1659|Topli kamenčić
+1660|Toplo! Surla mi se odmrznula! Hvala ti, sad smo prijatelji. Popni se, nosit ću te
+1661|Pssst... Ja sam Zvjezdan. Rogovi mi sjaje samo kad pojedem svjetleći lišaj. U šumi raste pet komadića. Pomogneš mi
+1662|Svjetleći lišaj
+1663|Gle, rogovi mi opet sjaje! Hvala ti. Skoči mi na leđa, poletjet ćemo
+1664|Ja sam Grudko! Gladan sam, a ribe iskaču iz rupe u ledu prebrzo za mene. Uhvatiš mi tri? Dodirni ribu dok se praćaka na ledu
+1665|Riba za Grudka
+1666|Njam, njam! Najbolja riba na svijetu! Sad smo prijatelji. Hoćeš klizati sa mnom
+1667|Na šeširu divovskog snjegovića. Penji se po grudama oko njega
+1668|Na vrhu ledenog tornja usred zaleđenog jezera. Kliži do njega
+1669|Duboko u Ledenoj špilji, na ledenom stupu. Uđi s istočne strane planine
+1670|Škrinja Ledene špilje
+1671|Na vrhu Sanjkaškog brijega. Odozgo se spusti ledenim toboganom
+1672|Sanjkaška škrinja
+1673|Na vrhu Zvjezdarnice. Idi stazom koja se vije oko tornja
+1674|U srcu Ledenog labirinta. Ulaz je s južne strane
+1675|Škrinja u labirintu
+1676|Na visokoj stijeni kraj gejzira. Stani na gejzir kad proključa i poletjet ćeš uvis
+1677|Topla škrinja
+1678|Na vrhu Stare smreke u šumi. Stube se vrte oko debla
+1679|Šumska škrinja
+1680|Iza Zaleđenog slapa skriva se špiljica. Uđi kroz procjep sa strane
+1681|U najvećem igluu u Iglu selu. Ulaz je s južne strane
+1682|Škrinja u igluu
+1683|Snježna livada
+1684|Divovski snjegović
+1685|Zaleđeno jezero
+1686|Ledena špilja
+1687|Sanjkaški brijeg
+1688|Ledeni labirint
+1689|Topla vrela
+1690|Mamutova dolina
+1691|Smrekova šuma
+1692|Zaleđeni slap
+1693|Iglu selo
+1694|Ledena palača
+1695|Blago Ledene palače
+1696|Ledena špilja čuva najljepši plavi led. Napravi od njega nešto na svom otoku
+1697|Ledeni tobogan! Složi ga niz brdo na otoku i spuštaj se kao raketa
+1698|Našla si put kroz labirint! Ni car Mrazko to ne zna napamet
+1699|Topla vrela griju cijelu dolinu. Ova škrinja je čak i malo topla
+1700|Mirisne smrekove grane iz Ledenog kraljevstva
+1701|Iza slapa nitko nikad ne gleda. Osim tebe
+1702|Sagradi i ti iglu na svom otoku
+1703|Deset snježnih kristala vratilo je sjaj Ledenoj palači. Polarna svjetlost sad blista za tebe
+1704|Car Mrazko
+1705|Pingo
+1706|Klizko
+1707|Bubica
+1708|Frula
+1709|Točkica
+1710|Šlapko
+1711|Pahulja
+1712|Bijelko
+1713|Inje
+1714|Ribe iskaču iz rupe u ledu i praćakaju se. Dodirni ribu prije nego što skoči natrag
+1715|Svjetlucaju, pa ih lako vidiš
+1716|Dodirni ga i jaši! Čekat će te i na Otoku priča, kraj čarobnog portala
+1717|Riba +1
+1718|Hej, to je moja riba! Dođi do mene
+1719|Gejzir te baca uvis! U zraku se usmjeri prema stijeni
+1720|Vrata Ledene palače su otvorena! Palača je na sjeveru, iza zaleđenog jezera. Blago te čeka u prijestolnoj dvorani
+1721|Svi kristali su tu! Vrata palače se otvaraju
+1722|Dobro došla u Ledeno kraljevstvo! Ja sam car Mrazko. Mećava je raznijela deset snježnih kristala iz krune Ledene palače. Bez njih se vrata ne otvaraju, a polarna svjetlost blijedi. Pomogneš li nam
+1723|kristala. Vidiš kako polarna svjetlost jača? Strelica gore pokazuje najbliži kristal. Pazi, led je sklizak
+1724|U dolini žive i životinje kojima treba pomoć
+1725|Wiii! Led je najbolji za klizanje
+1726|Car Mrazko je najmudriji pingvin na svijetu
+1727|Jesi li vidjela ribe kako iskaču iz rupe u ledu
+1728|Polarna svjetlost je jača sa svakim kristalom
+1729|Mi pingvini nikad ne padnemo. Pa, skoro nikad
+1730|Hop! Ljeti sam smeđ, a zimi bijel kao snijeg
+1731|Hvala što mi pomažeš
+1732|Ovdje nema vode za zaleđivanje. Stani kraj mora ili jezera
+1733|Voda se zaledila! Led se otopi za pola minute
+1734|Wiii! Ledeni tobogan te nosi sve brže. Pokušaj proletjeti kroz zlatne prstenove
+1735|Zvjezdan lebdi! Dok držiš Skok, polako jedrite kroz zrak
+1736|Svi zlatni prstenovi! +25 zlatnika
+1737|Mmm, toplo! Ova vrela griju cijelu dolinu
+1738|Led je sklizak! Rida klizi, pa kreni ranije i polako koči
+1739|Kristali
+1740|Svi kristali
+1741|Svih 10 snježnih kristala! Polarna svjetlost blista, a vrata Ledene palače se otvaraju
+1742|Bravo! Strelica gore pokazuje najbliži kristal. Svaki kristal vraća sjaj polarnoj svjetlosti
+1743|Ledeno kraljevstvo! Kristali
+1744|Car Mrazko te čeka kraj portala
+1745|Led drži škrinju zatvorenom. Skupi svih 10 snježnih kristala
+1746|Ledeno kraljevstvo je spašeno
+1747|Polarna lisica, Polarna svjetlost i Ledeni štapić sad su tvoji. Štapićem možeš zalediti more i hodati po njemu, čak i na Otoku priča
+1748|Dodirni za preskakanje
+1749|Zvijezda priče
+1750|zlatnika · +1 karta
+1751|Ova zvijezda čuva sjećanje na knjigu „
+1752|“. Svaka pročitana knjiga ostavi jednu na otoku
+1753|Zvijezda priče! Svaka pročitana knjiga ostavi jednu na otoku
+1754|postala je
+1755|na tvom otoku
+1756|Gotovo! Pogledaj što je izraslo
+1757|Bravo! Cijela knjiga
+1758|Jupiii! Otok je opet veći
+1759|Zvijezda priče je pala negdje na otok! Pritisni Istraži i pronađi je
+1760|Vidiš li zlatnu zraku? Tamo je pala Zvijezda priče. Idemo je pronaći
+1761|Zvuk
+1762|Uključi zvuk
+1763|Utišaj sve
+1764|Glazba
+1765|Tiha melodija koja se mijenja s dobom dana i svijetom
+1766|Priroda
+1767|More, vjetar, ptice, slap, cvrčci noću, kapi u špilji
+1768|Efekti i koraci
+1769|Koraci po travi, pijesku, snijegu, drvu i kamenu
+1770|Najljepše zvuči sa slušalicama
+1771|Zvuk i glazba
+1772|Dodirni za sljedeću poruku
+1773|Potonuli grad staklenih kupola, koraljni greben s divovskom školjkom, šuma algi, potonuli brod, kit koji pjeva i duboki jarak sa svijetlećim meduzama. Ovdje žive morski konjić, manta i hobotnica
+1774|Morska lisica
+1775|Tirkizna kao plitko more, s bisernim trbuhom. Za njom se dižu mjehurići
+1776|Iza Ride se dižu sjajni mjehurići, i na kopnu i pod vodom
+1777|Čarobni mjehurić
+1778|Mjehurić oko glave: Rida pod vodom diše cijelu minutu, pliva brže i lebdi kamo želi. Radi i na Otoku priča
+1779|Dodirni mjehurić na traci i zaroni. Traje jednu minutu
+1780|Morski konjić Mjehurko
+1781|Malen, narančast i jako znatiželjan. Kad se smije, iz njuškice mu izlaze mjehurići
+1782|Donosi šarene koralje
+1783|Manta Zvjezdica
+1784|Golema i nježna. Na leđima joj svijetle točkice kao zvijezde, a pliva kao da leti
+1785|Iz dubine donosi bisere
+1786|Hobotnica Osmica
+1787|Ima osam ruku i skuplja sve što sjaji. Najbolje se skriva od svih u moru
+1788|Iz potonulog broda donosi zlatnike i morske cigle
+1789|Konjićev galop
+1790|Mjehurko juri kroz vodu, a iza vas ostaje trag mjehurića
+1791|Mantin let
+1792|Zvjezdica klizi morem kao ptica. Na površini pritisni Skok i poletjet ćete iz vode
+1793|Osmičin vrtlog
+1794|Osmica te nosi s osam ruku, a kad ubrza, iza vas ostaje oblačić tinte
+1795|Mjehurko te nosi! Gore i Roni vode vas gore-dolje
+1796|Zvjezdica raširi krila! Na površini pritisni Skok i poletjet ćete iz vode
+1797|Osmica te čvrsto drži s osam ruku! Kad jurite, iza vas ostaje tinta
+1798|Bok! Ja sam Mjehurko. Struja mi je odnijela tri šarene školjkice u Šumu algi, zapadno odavde. Pomogneš mi ih naći
+1799|Šarena školjkica
+1800|Moje školjkice! Hvala ti! Sad smo najbolji prijatelji. Uhvati se za mene, jurimo
+1801|Joj, zapetljala sam se u staru ribarsku mrežu! Ja sam Zvjezdica. Dodirni četiri čvora oko mene i mreža će se raspasti
+1802|Čvor mreže
+1803|Slobodna sam! Hvala ti, mala lisice. Popni mi se na leđa, pokazat ću ti kako mante lete
+1804|Psst, ovdje dolje! Ja sam Osmica. Valovi su mi raznijeli blago iz kapetanove škrinje, četiri stara zlatnika oko broda. Vratiš mi ih
+1805|Stari zlatnik
+1806|Moje blago! Hvala ti, hvala, hvala, hvala! To je osam hvala, za svaku ruku jedna. Sad te mogu nositi
+1807|Na balkonu svjetionika, iznad mora. Popni se stubama oko tornja
+1808|Na vrhu Koraljnog tornja u Gradu kupola. Zapliva gore uz toranj
+1809|Blago Bisernog hrama
+1810|U divovskoj školjki na Koraljnom grebenu. Pričekaj da se otvori
+1811|Škrinja s grebena
+1812|U stijeni usred Šume algi. Uđi u mali otvor s južne strane
+1813|U kapetanovoj kabini potonulog broda, na stolu. Vrata kabine gledaju prema pramcu
+1814|Kapetanova škrinja
+1815|Duboko u Bisernoj špilji, na ljubičastom stupu. Ulaz je s istočne strane brda
+1816|Škrinja Biserne špilje
+1817|Na dnu Dubokog jarka, gdje svijetle meduze. Zaroni do kraja
+1818|Škrinja iz dubine
+1819|Na vrhu Kamenog luka. Mjehurići iz vrela nosit će te gore
+1820|U Dupinovoj areni. Proplivaj kroz svih 12 zlatnih obruča i biser će se pojaviti na stupu
+1821|Na leđima Kita pjevača, koji polako pliva oko grada. Dopliva do njega
+1822|Grad kupola
+1823|Koraljni toranj
+1824|Biserni hram
+1825|Koraljni greben
+1826|Šuma algi
+1827|Biserna špilja
+1828|Duboki jarak
+1829|Kameni luk i vrela mjehurića
+1830|Dupinova arena
+1831|Svjetioničarevo blago! Sagradi i ti svjetionik na svom otoku
+1832|Koralji svih boja! Na otoku će izgledati kao mali greben
+1833|Kapetanova škrinja puna starog zlata. Arrr
+1834|Biserna špilja svjetluca kao noćno nebo
+1835|Iz najdubljeg mjesta u moru. Nitko prije tebe nije bio ovdje
+1836|Deset svjetlećih bisera vratilo je sjaj Bisernom hramu. Cijeli Podvodni grad ti zahvaljuje
+1837|uniform float uTime
+1838|Kornjača Lunja
+1839|Štipko
+1840|Rakica
+1841|Kliješto
+1842|Bočko
+1843|Crvenko
+1844|Starica Ola
+1845|Plovko
+1846|Dodirni ga i jaši! Čekat će te i u moru kraj Otoka priča
+1847|Vrata Bisernog hrama su otvorena! Hram je na sjevernom kraju Grada kupola, iza stupova. Blago te čeka unutra
+1848|Svi biseri su tu! Hram se budi
+1849|Dobro došla, mala lisice! Ja sam kornjača Lunja i čuvam ovaj svjetionik već sto godina. Oluja je raznijela deset svjetlećih bisera iz Bisernog hrama dolje na dnu mora. Bez njih vrata hrama ostaju zatvorena. Ne boj se vode, čarobni mjehurić pomoći će ti disati
+1850|bisera. Strelica gore pokazuje najbliži. Jedan biser nosi Kit pjevač na leđima, a jedan čuva divovska školjka. Pričekaj da se otvori
+1851|Dolje žive i stvorenja kojima treba pomoć
+1852|Klik-klak! Ja hodam postrance, a ti
+1853|Pazi gdje staješ, ovo je moj pijesak
+1854|Jesi li vidjela kita? Pjeva tako lijepo da mi klješta zadrhte
+1855|U potonulom brodu živi netko s osam ruku
+1856|Plivam ovuda već dvjesto godina. More je puno čuda, samo treba gledati
+1857|Kit pjevač! Kad mu se približiš, uspori da ga možeš sustići. Biser mu je na leđima
+1858|Divovska školjka se polako otvara i zatvara. Kad se otvori, brzo uzmi biser
+1859|Svih 12 obruča! Biser se pojavio na zlatnom stupu u sredini arene
+1860|Svih 12 obruča! +20 zlatnika
+1861|Zlatni obruči! Proplivaj kroz svih 12 i nešto će se dogoditi u sredini arene
+1862|Bok! Meduze su mekane i svijetle, ali bolje ih je obići
+1863|Mjehurići te nose gore! Na vrhu luka čeka biser
+1864|Rida diše kroz čarobni mjehurić! Gumbi Gore i Roni vode je gore-dolje kroz more
+1865|Rida diše kroz čarobni mjehurić! Razmaknica je gore, C je dolje, a Shift ubrzava
+1866|Duboki jarak. Ovdje je mračno, ali meduze i kristali svijetle
+1867|Čarobni mjehurić je pukao. Pop
+1868|Mjehurić će uskoro puknuti. Zapliva gore
+1869|Čarobni mjehurić! Jednu minutu Rida diše pod vodom, brže pliva i lebdi kamo želi
+1870|Svjetleći biser
+1871|Biseri
+1872|Svi biseri
+1873|Svih 10 svjetlećih bisera! Biserni hram se budi i njegova vrata se otvaraju
+1874|Bravo, prvi biser! Strelica gore pokazuje najbliži. Pod vodom pliviš kamo god želiš
+1875|Podvodni grad! Biseri
+1876|Kornjača Lunja te čeka kraj svjetionika
+1877|Čarolija drži škrinju zatvorenom. Skupi svih 10 svjetlećih bisera
+1878|Podvodni grad je spašen
+1879|Morska lisica, Mjehurići i Čarobni mjehurić sad su tvoji. S mjehurićem možeš roniti i na Otoku priča
+1880|Izgubljena dolina okružena liticama: vulkan koji se dimi, rijeka za vožnju splavom, laguna s lopočima, iskopine fosila, staze u krošnjama i litice pterosaura. Ovdje žive mali T-rex, pteranodon i dugovrat
+1881|Jantarna lisica
+1882|Zlatna kao jantar na suncu, s tamnim prugama. Za njom svjetlucaju zlatne iskrice
+1883|Dino otisci
+1884|Gdje god Rida hoda, iza nje ostaju otisci malog dinosaura
+1885|Čekić paleontologa
+1886|Kucni po tlu i možda iskopaš pravi fosil! Svaki fosil ide u zbirku Fosili i otkriva ti nešto novo. Radi i na Otoku priča
+1887|Stani na zemlju, pijesak ili kamen i dodirni čekić na traci
+1888|Fosili
+1889|Trilobit
+1890|Trilobiti su živjeli u morima prije više od 250 milijuna godina, još prije dinosaura
+1891|Amonit
+1892|Amoniti su bili morske životinje sa spiralnom kućicom, daleki rođaci današnjih hobotnica i lignji
+1893|Otisak paprati
+1894|Paprati su rasle i prije dinosaura. Neke njihove rođakinje i danas rastu u našim šumama
+1895|Zub T-rexa
+1896|Tiranosaur je imao oko 60 zuba, a najveći su bili dugi kao banana
+1897|Jantar s kukcem
+1898|Jantar je okamenjena smola drveća. U njemu se ponekad sačuvaju kukci stari milijunima godina
+1899|Fosilno jaje
+1900|Neki dinosauri polagali su jaja u gnijezda i čuvali ih, baš kao današnje ptice
+1901|Stani na čvrsto tlo pa kucni čekićem
+1902|Ovdje nema fosila. Probaj na zemlji, pijesku ili kamenu
+1903|Čekić se odmara. Probaj za
+1904|s, ili na drugom mjestu
+1905|Samo kamenčići i zemlja. Paleontolozi ponekad kopaju danima! Probaj negdje drugdje
+1906|Zbirka „Fosili“ je potpuna! Nagrada te čeka u Igre → Zbirka
+1907|Did you know
+1908|Znaš li
+1909|Mali T-rex Ričko
+1910|Malen, zelen i uvijek gladan. Ruke su mu prekratke, ali zato rikne glasnije od svih
+1911|Iz džungle donosi bobice i zlatnike
+1912|Pteranodon Krilko
+1913|Leteći rođak dinosaura s crvenom krijestom. Nekad se bojao visine, a sad je najbolji letač u dolini
+1914|S litica donosi perje i jantar
+1915|Dugovrat Lišćko
+1916|Mladi dugovrati dinosaur. Glavom doseže najviše lišće, a hoda polako i nježno
+1917|Iz krošnji donosi plodove i drvo
+1918|T-rex trk
+1919|Ričko juri kroz džunglu, a kad doskoči, rikne tako da sve zatrese
+1920|Krilkov let
+1921|Krilko raširi krila i letite nad cijelom dolinom! Skok je gore, Roni je dolje
+1922|Pogled s visine
+1923|S Lišćkovih leđa vidiš cijelu džunglu, a kad prolazite kraj drveća, on ti dohvati plodove
+1924|Ričko juri! Skoči i kad doskočite, on rikne
+1925|Krilko raširi krila! Skok je gore, Roni je dolje
+1926|Lišćko te nosi visoko! Prođi kraj drveća i on će ti dohvatiti plodove
+1927|Rrrr! Ja sam Ričko. Gladan sam, a moje omiljeno zvjezdano voće visi na granama. Ruke su mi prekratke da ga dohvatim! Doneseš mi tri ploda? Popni se po granama
+1928|Zvjezdano voće
+1929|Njam! Najslađe voće na svijetu! Hvala ti, sad smo najbolji prijatelji. Skoči mi na leđa, jurimo kroz džunglu
+1930|T-rex je imao kratke ruke, ali jako jake. Znanstvenici misle da je svakom rukom mogao podići težinu dvaju odraslih ljudi
+1931|Bok... Ja sam Krilko. Ja sam pteranodon, ali bojim se letjeti. Mama kaže da hrabrost čuvaju pera vjetra koja lebde u zračnim strujama oko litice. Doneseš mi četiri
+1932|Pero vjetra
+1933|Četiri pera vjetra! Osjećam se hrabro! Hvala ti! Sjedni mi na leđa, idemo letjeti nad cijelom dolinom
+1934|Pterosauri nisu bili dinosauri, nego njihovi leteći rođaci. Krila su im bila od kože razapete na jako dugom četvrtom prstu
+1935|Mmm, zdravo... Ja sam Lišćko. Volim plave paprati koje svijetle u Močvari, južno od rijeke. Moj vrat je dug, ali noge mi zapinju u blatu. Doneseš mi pet paprati
+1936|Plava paprat
+1937|Plave paprati! Mmmm, njam! Hvala ti, mala lisice. Popni mi se na leđa. Odozgo se vidi cijela džungla
+1938|Dugovrati dinosauri bili su najveće životinje koje su ikad hodale po kopnu. Neki su bili dugi kao tri autobusa
+1939|Blago Hrama jantara
+1940|Na rubu kratera Vatrene planine. Staza se penje oko vulkana
+1941|Duboko u Lavinom tunelu. Ulaz je na istočnoj strani vulkana
+1942|Škrinja Lavinog tunela
+1943|U mahovinastoj špiljici na pola Velikog slapa. Stube se penju uz liticu
+1944|Škrinja na vrhu slapa
+1945|U kućici na drvetu, visoko u krošnjama. Penji se stubama oko najvećeg stabla
+1946|Škrinja u krošnjama
+1947|Na stijeni usred Lopočeve lagune. Skači po lopočima, ali brzo, jer tonu
+1948|Krokodilova škrinja
+1949|Na Iskopinama. Pronađi svih pet kostiju u jami i kostur će se složiti
+1950|Škrinja paleontologa
+1951|U gnijezdu dobre mame dinosaura. Prati velike otiske stopala od Ravnice dugovrata
+1952|Visi ispod Kamenog luka iznad rijeke. Plivanjem ga ne dohvatiš, ali splavom proplovi točno ispod njega
+1953|Na Pjevajućoj livadi. Poslušaj pjesmu trubača i ponovi je stajući na obojeno kamenje
+1954|Na vrhu Litica pterosaura. Zračne struje nose te s izbočine na izbočinu
+1955|Škrinja s litice
+1956|Močvarna škrinja
+1957|Kamp istraživača
+1958|Hram jantara
+1959|Vatrena planina
+1960|Lavin tunel
+1961|Kameni luk na rijeci
+1962|Veliki slap
+1963|Staze u krošnjama
+1964|Lopočeva laguna
+1965|Iskopine fosila
+1966|Gnijezdo dobre mame
+1967|Pjevajuća livada
+1968|Litice pterosaura
+1969|Ričkova čistina
+1970|Močvara
+1971|Užarene stijene iz Lavinog tunela. Ne peku, samo svijetle
+1972|Na vrhu Velikog slapa vidi se cijela dolina
+1973|Sagradi i ti kućicu na drvetu na svom otoku
+1974|Zubko je ipak dobar krokodil. Ovu škrinju čuva samo za hrabre skakače
+1975|Paleontolozi su ti ostavili alat i kamenje. Možda i ti nađeš fosil
+1976|Gnijezdo pterosaura na vrhu svijeta
+1977|Blato iz Močvare. Ljepljivo, ali korisno za gradnju
+1978|Deset komadića jantara vratilo je sjaj Hramu jantara. Cijela dolina dinosaura ti zahvaljuje
+1979|s eggs, the dig
+1980|Djed Trorog
+1981|Velika Lisa
+1982|Stari Hrast
+1983|Teta Grana
+1984|Visoki Vjetar
+1985|Pločko
+1986|Šiljko
+1987|Cvrčko
+1988|Brzić
+1989|Mrvica
+1990|Fiju
+1991|Mama Maja
+1992|Plavko
+1993|Žutko
+1994|Lava se hladi i pretvara u tamnu stijenu koja se zove bazalt. U doba dinosaura vulkani su bili puno aktivniji nego danas
+1995|Spinosaurus je bio dinosaur koji je volio vodu. Lovio je ribu u rijekama, a na leđima je imao veliko jedro od kože
+1996|Krokodili su živjeli već u doba dinosaura i preživjeli su sve do danas. Zato ih ponekad zovu živim fosilima
+1997|Paleontolozi proučavaju fosile. Kosti dinosaura polako su se pretvorile u kamen, zato su se sačuvale milijunima godina
+1998|Maiasaura znači 'dobra majka gušterica'. Ti dinosauri čuvali su jaja u gnijezdima i hranili svoje mladunce
+1999|Najveći pterosaur, Quetzalcoatlus, imao je raspon krila kao mali avion, a ipak je bio lagan i mogao je letjeti
+2000|Brahiosaur je bio visok kao zgrada od četiri kata i mogao je brstiti lišće s vrhova drveća
+2001|Lavin tunel nastaje kad se vanjski dio rijeke lave ohladi i stvrdne, a vruća lava ispod nastavi teći i isprazni tunel
+2002|Ptice su potomci dinosaura! Kad gledaš vrapca ili kokoš, gledaš malog rođaka T-rexa
+2003|Parasaurolophus je kroz šuplju krijestu na glavi puštao zvuk kao truba. Tako je dozivao svoje krdo
+2004|Kristalna vrata na vrhu Hrama jantara su otvorena! Hram je sjeverno od rijeke, pred vulkanom. Popni se velikim stubama
+2005|Svih deset jantara! Hram se budi
+2006|Dobro došla u Izgubljenu dolinu, mala lisice! Ja sam Djed Trorog, najstariji triceratops u džungli. Potres je raznio deset komadića jantara iz Hrama jantara po cijeloj dolini. Svaki jantar čuva jednu tajnu o dinosaurima. Pronađi ih i otvorit ćeš hram
+2007|jantara. Strelica gore pokazuje najbliži. Jedan visi ispod kamenog luka na rijeci, pa ti treba splav kraj slapa. A u laguni pazi, lopoči tonu
+2008|U dolini žive i dinosauri kojima treba pomoć
+2009|Mmmmm... ja sam dugovrat. Jedem lišće cijeli dan, svaki dan
+2010|Vrat mi je dug kao drvo. Vidim sve, čak i tebe, malu lisicu
+2011|Pazi na noge, mi smo veliki, ali nježni
+2012|Šiljke na mom repu znanstvenici zovu 'thagomizer'. Ime su dobili po jednom smiješnom stripu
+2013|Cvrk! Kompsognatus sam, velik sam kao kokoš
+2014|Brzo, brzo, brzo
+2015|Jesi li vidjela Ričkovo zvjezdano voće
+2016|Hvala ti što paziš na moja jaja. Uskoro će se izleći mali dinosaurići
+2017|Ja sam Mama Maja. Moje gnijezdo je iza brežuljka. Smiješ pogledati jaja, samo nježno
+2018|Tuuu! Moja krijesta je šuplja kao truba
+2019|Au, vruće! Lava je prevruća za lisičje šape. Rida je odskočila natrag na stazu
+2020|Krater Vatrene planine! Lava je jako vruća, zato ne silazi dolje. Jantar je na rubu kratera
+2021|Au! Lava je vruća. Hop, natrag
+2022|Splav kreće niz rijeku! Uživaj u vožnji. Za iskakanje pritisni Skok
+2023|Splavom proplovi ispod Kamenog luka i uzmi jantar koji visi s njega
+2024|Stigla si do Lopočeve lagune! Splav se vraća do slapa
+2025|Hop! Rida je skočila sa splava
+2026|Lopoči tonu ako na njima predugo stojiš! Skači dalje, brzo
+2027|Krokodil Zubko: Hej, ovo je moja laguna! Ne plivaj, skači po lopočima
+2028|Krokodil Zubko: Bravo, skakačice! Takve hrabre lisice ja poštujem
+2029|Lubanja
+2030|Rebra
+2031|Kralježnica
+2032|Kosti nogu
+2033|Rep
+2034|Svih pet kostiju! Kostur dinosaura je složen, a iznad njega zasjao je jantar
+2035|Kosti
+2036|Svaka kost ide na svoje mjesto na kosturu
+2037|Iskopine fosila! U jami je pet kostiju. Vidiš kako je zemlja složena u slojeve? Svaki sloj je stariji od onoga iznad njega
+2038|Pjevajuća livada! Stani na bijeli kamen i trubači će zapjevati. Onda ponovi pjesmu stajući na obojeno kamenje
+2039|Slušaj pjesmu trubača
+2040|Sad ti! Stani na kamenje istim redom
+2041|Savršeno! Trubači pjevaju od sreće, a na livadi je zasjao jantar
+2042|Ups, ne baš tako. Slušaj još jednom
+2043|Blato je ljepljivo, pa Rida ovdje hoda sporije
+2044|Bobice +1
+2045|Veliki slap! Kraj slapa je splav, a uz liticu se penju kamene stube
+2046|Litice pterosaura! Uđi u zračnu struju koja svjetluca i ona će te podići na izbočinu
+2047|Ulaz u Lavin tunel! Unutra svijetle užarene stijene, a na dnu su jezerca lave. U lavu ne staj, vruća je
+2048|Staze u krošnjama! Mostovi od užeta vode od stabla do stabla
+2049|RRROAR! Ričko rikne svaki put kad doskoči. Kompsognati se razbježe
+2050|Komadić jantara
+2051|Jantari
+2052|Svi jantari
+2053|Svih 10 komadića jantara! Hram jantara se budi i kristalna vrata na njegovu vrhu se otvaraju
+2054|Bravo, prvi jantar! Svaki jantar čuva jednu tajnu o dinosaurima. Strelica gore pokazuje najbliži
+2055|Džungla dinosaura! Jantari
+2056|Djed Trorog te čeka kraj kampa
+2057|Kristalna vrata drže škrinju zatvorenom. Skupi svih 10 komadića jantara
+2058|Dolina dinosaura je spašena
+2059|Jantarna lisica, Dino otisci i Čekić paleontologa sad su tvoji. Čekićem možeš kopati fosile i na Otoku priča
+2060|Otok priča
+2061|Prava životinja
+2062|Davno izumrla
+2063|Čarobno biće
+2064|Mjesto
+2065|Čudo prirode
+2066|Dom
+2067|livade i šume
+2068|Hrana
+2069|trava, djetelina, mrkva
+2070|Veličina
+2071|oko 40 cm
+2072|Jedan od prvih gostiju na otoku
+2073|Zečji zubi rastu cijeli život. Zato zec stalno gricka travu i grančice da ih istroši
+2074|Zašto zec stalno nešto gricka
+2075|Zubi mu stalno rastu
+2076|Uvijek je jako gladan
+2077|Tako čisti uši
+2078|Oči su mu sa strane glave, pa zec vidi gotovo sve oko sebe, čak i iza leđa
+2079|Što zec vidi zahvaljujući očima sa strane glave
+2080|Gotovo sve oko sebe
+2081|Samo ravno naprijed
+2082|Samo u mraku
+2083|Kad osjeti opasnost, zec snažno lupne stražnjim nogama o tlo i tako upozori druge zečeve
+2084|Kako zec upozorava druge zečeve na opasnost
+2085|Lupa nogama o tlo
+2086|Glasno zavija
+2087|Maše ušima
+2088|Patka
+2089|jezera i rijeke
+2090|bilje, sjemenke, kukci
+2091|oko 55 cm
+2092|Patka maže perje uljem iz male žlijezde kod repa, pa voda klizi s nje i ona se ne smoči do kože
+2093|Zašto se patka ne smoči do kože
+2094|Perje maže uljem
+2095|Stalno se suši na suncu
+2096|Ispod perja ima krzno
+2097|Kožice između prstiju rade kao vesla, pa patka lako i brzo pliva
+2098|Čemu patki služe kožice između prstiju
+2099|Za plivanje, kao vesla
+2100|Za penjanje po drveću
+2101|Za kopanje rupa
+2102|Pačići odmah nakon izlijeganja prate prvo biće koje vide, a to je obično njihova mama
+2103|Koga pačići prate čim se izlegu
+2104|Prvo biće koje vide
+2105|Najveću pticu u blizini
+2106|Nikoga, odmah lete sami
+2107|Jež
+2108|vrtovi, živice, šume
+2109|kukci, gliste, puževi
+2110|oko 25 cm
+2111|Jež na leđima ima oko 6000 bodlji. Kad se uplaši, smota se u bodljikavu loptu
+2112|Otprilike koliko bodlji ima jež
+2113|Oko 6000
+2114|Oko 60
+2115|Oko milijun
+2116|Zimi jež spava zimski san. Srce mu tada kuca puno sporije, a tijelo se ohladi
+2117|Što jež radi zimi
+2118|Spava zimski san
+2119|Seli se na jug
+2120|Gradi kućicu od snijega
+2121|Jež je noćna životinja. Danju spava, a noću traži kukce, gliste i puževe
+2122|Kada je jež najaktivniji
+2123|Noću
+2124|U podne
+2125|Samo zimi
+2126|Ovca
+2127|pašnjaci i brda

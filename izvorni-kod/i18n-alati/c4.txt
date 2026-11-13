@@ -1,0 +1,832 @@
+2903|Kompsognat je bio jedan od najmanjih dinosaura, otprilike velik kao kokoš
+2904|Koliko je bio velik kompsognat
+2905|Kao kokoš
+2906|Kao autobus
+2907|Kao kit
+2908|Bio je brz trkač i lovio je guštere i kukce
+2909|Što je lovio kompsognat
+2910|Guštere i kukce
+2911|Velike dinosaure
+2912|Ribe u oceanu
+2913|Ptice su potomci malih dinosaura, pa je svaka ptica zapravo rođak dinosaura
+2914|Koje su životinje danas rođaci dinosaura
+2915|Ptice
+2916|Puževi
+2917|Parasaurolof
+2918|Parasaurolophus
+2919|prije oko 75 milijuna godina
+2920|Pjevaju na livadi
+2921|Parasaurolof je imao dugu šuplju krijestu na glavi kroz koju je mogao trubiti
+2922|Čemu je služila krijesta parasaurolofa
+2923|Za trubljenje
+2924|Znanstvenici su napravili model njegove krijeste i on je zvučao duboko, kao truba
+2925|Kako je zvučala krijesta
+2926|Duboko, kao truba
+2927|Kao zvono
+2928|Nikako
+2929|Parasaurolofi su živjeli u krdima i trubom su se možda dozivali
+2930|Kako su se parasaurolofi možda dozivali
+2931|Trubeći krijestom
+2932|Pismima
+2933|Mašući repom
+2934|Majasaura
+2935|Maiasaura
+2936|prije oko 76 milijuna godina
+2937|Čuva gnijezdo s jajima
+2938|Ime majasaura znači gušterica dobra majka, jer su pronađena njena gnijezda s mladuncima
+2939|Što znači ime majasaura
+2940|Gušterica dobra majka
+2941|Brza noga
+2942|Veliki zub
+2943|Majasaure su gradile gnijezda od zemlje i lišća, jedna blizu druge, kao selo
+2944|Kako su majasaure gradile gnijezda
+2945|Jedna blizu druge, kao selo
+2946|Na vrhu planine
+2947|Mama majasaura donosila je hranu mladuncima dok nisu dovoljno narasli
+2948|Što je mama majasaura radila za mladunce
+2949|Donosila im hranu
+2950|Pjevala im
+2951|Ništa
+2952|Krokodil
+2953|tople rijeke i močvare
+2954|ribe i životinje
+2955|do 6 m
+2956|Zubko čuva lagunu
+2957|Krokodili su živjeli već u doba dinosaura i preživjeli su do danas
+2958|Kada su se pojavili krokodili
+2959|Već u doba dinosaura
+2960|Poslije ljudi
+2961|Oči i nosnice su mu na vrhu glave, pa može vrebati skriven u vodi
+2962|Zašto krokodil ima oči na vrhu glave
+2963|Da vreba skriven u vodi
+2964|Da gleda zvijezde
+2965|Da ne vidi ništa
+2966|Krokodilu cijeli život rastu novi zubi kad mu stari ispadnu
+2967|Što se događa kad krokodilu ispadne zub
+2968|Naraste novi
+2969|Ostane bez zuba
+2970|Ide zubaru
+2971|Vulkan
+2972|Vulkan je planina kroz koju iz unutrašnjosti Zemlje izlazi užarena lava
+2973|Što izlazi iz vulkana
+2974|Užarena lava
+2975|Voda za piće
+2976|Kad se lava ohladi, pretvori se u tamnu stijenu koja se zove bazalt
+2977|U što se pretvori ohlađena lava
+2978|U bazalt
+2979|U zlato
+2980|U pijesak za plažu
+2981|Lava može biti vruća više od 1000 stupnjeva, deset puta više od kipuće vode
+2982|Koliko vruća može biti lava
+2983|Više od 1000 stupnjeva
+2984|Hladna je
+2985|Jantar je smola drveća koja se stvrdnula tijekom milijuna godina
+2986|Što je jantar
+2987|Stvrdnuta smola drveća
+2988|Žuto staklo
+2989|Zaleđeni med
+2990|U jantaru se ponekad nađu kukci stari milijune godina, savršeno sačuvani
+2991|Što se ponekad nađe u jantaru
+2992|Drevni kukci
+2993|Dinosauri
+2994|Kovanice
+2995|Jantar je lagan, pa u slanom moru može plutati
+2996|Što jantar može u slanom moru
+2997|Plutati
+2998|Rasti
+2999|Svijetliti
+3000|Fosili su ostaci ili otisci biljaka i životinja koji su se tijekom milijuna godina pretvorili u kamen
+3001|Što su fosili
+3002|Ostaci pretvoreni u kamen
+3003|Igračke od plastike
+3004|Svježe kosti
+3005|Znanstvenici koji istražuju fosile zovu se paleontolozi
+3006|Kako se zovu znanstvenici koji istražuju fosile
+3007|Paleontolozi
+3008|Astronauti
+3009|Kuhari
+3010|Stijene su složene u slojeve, a što je sloj dublje, to je obično stariji
+3011|Koji su slojevi stijena obično stariji
+3012|Oni dublje
+3013|Oni na vrhu
+3014|Svi su isti
+3015|Nova stranica
+3016|Moja enciklopedija
+3017|Nova stranica u tvojoj enciklopediji! Otvori knjigu gumbom s knjigom i pročitaj zanimljivosti
+3018|nove lupe
+3019|Nova lupa
+3020|za enciklopediju! Svakih 10 pročitanih stranica donosi lupu koja otkriva novu zanimljivost
+3021|Cijela enciklopedija je otkrivena
+3022|Sve zvjezdice znanja! Ti si prava znanstvenica
+3023|NOVO
+3024|Kviz poglavlja · 5 pitanja
+3025|Kviz poglavlja otvara se kad u ovom poglavlju otkriješ barem 3 zanimljivosti
+3026|Stranice
+3027|Zvjezdice znanja
+3028|Svakih 10 pročitanih stranica donosi lupu. Još
+3029|do sljedeće
+3030|🔥 Niz točnih odgovora
+3031|Najbolji
+3032|Životinje s upitnikom iznad glave imaju pitanje za tebe. Priđi im
+3033|Ovu stranicu još nisi otkrila
+3034|Otkrij je u svijetu
+3035|💛 Tvoj prijatelj
+3036|🔒 Pročitaj još
+3037|stranica i dobit ćeš lupu za ovu zanimljivost
+3038|🔒 Skrivena zanimljivost
+3039|Odgovori na pitanje i osvoji zvjezdicu
+3040|encFacts li
+3041|te pita
+3042|★ Nova zvjezdica znanja
+3043|🔥 Niz
+3044|točnih zaredom! Bonus
+3045|Nije baš
+3046|Točan odgovor
+3047|Natrag
+3048|Sljedeće pitanje
+3049|Savršeno! Medalja poglavlja i +40 zlatnika
+3050|Savršeno opet! +10 zlatnika
+3051|Imam pitanje za tebe
+3052|Vidiš upitnik
+3053|Jedan prijatelj
+3054|ima pitanje za tebe. Priđi i odgovori
+3055|ABCČDEFGHIJKLMNOPRSŠTUVZŽ
+3056|Slova na vjetru
+3057|Iza Ride lete šarena slova iz knjiga. Dobiješ ga za 20 zvjezdica znanja u enciklopediji
+3058|📖 Stranica u enciklopediji
+3059|Disko lisica
+3060|Neonske pruge pulsiraju u ritmu glazbe i mijenjaju boje kao disko kugla
+3061|Holografska lisica
+3062|Prelijeva se svim duginim bojama dok se okrećeš, kao sjajna holografska naljepnica
+3063|Lava lisica
+3064|Tamna kao vulkanska stijena, a kroz pukotine joj teče užarena lava
+3065|Lisica zvjezdane prašine
+3066|U krznu joj trepere tisuće zvjezdica, a preko leđa plovi šarena maglica
+3067|Dijamantna lisica
+3068|Brušena kao dragi kamen. Na svakom koraku prska duginim odsjajima
+3069|Igraonica: zlatna medalja
+3070|Brončana
+3071|Srebrna
+3072|Zlatna
+3073|mini mini
+3074|gpop card minipop
+3075|medalja
+3076|Bolja nego prije
+3077|Za brončanu medalju
+3078|Sljedeća medalja
+3079|Zlatna donosi legendarno odijelo
+3080|Igraj opet
+3081|Prva zlatna medalja
+3082|Novo legendarno odijelo za Ridu
+3083|Obuci ga u Čarobnoj trgovini
+3084|Nove igre
+3085|još nema
+3086|Zlato: legendarno odijelo
+3087|Toranj do oblaka
+3088|Kocka klizi lijevo-desno. Pusti je točno na toranj! Svaka šesta kocka je zlatna: savršen pogodak ponovno proširi toranj. Toranj raste kroz oblake sve do svemira
+3089|kat
+3090|katova
+3091|Dodirni ekran ili pritisni Razmak da pustiš kocku
+3092|Toranj
+3093|Zlatna kocka! Pogodi je savršeno i toranj se proširi
+3094|Promašaj
+3095|Toranj se srušio
+3096|Zlatno! Toranj je opet širok
+3097|Savršeno ×
+3098|Kocka raste
+3099|Savršeno
+3100|Iznad oblaka! Sunce zalazi
+3101|Među zvijezdama
+3102|Svemirski toranj
+3103|Povuci prst unatrag od ježa i pusti. Što dulje povučeš, to jači udarac
+3104|Pijesak usporava ježa. Kraći put ide preko pijeska, dulji okolo
+3105|Okrugli odbojnici te odbace. Iskoristi ih
+3106|Strelice na tlu ubrzavaju ježa
+3107|Pazi na vjetrenjaču! Pričekaj pravi trenutak
+3108|Zadnja rupa! Polako i pažljivo
+3109|Ježev golf
+3110|Bodlja se smotao u lopticu! Šest rupa s odbojnicima, ubrzivačima, pijeskom i vjetrenjačom. Točkice pokazuju kamo će se jež odbiti. Dragulji uz stazu donose zlatnike. Staze se mijenjaju iz igre u igru
+3111|udar
+3112|najviše
+3113|udaraca
+3114|Rupa
+3115|Par
+3116|Dragulj! +3 zlatnika
+3117|Osam udaraca je dosta. Idemo dalje
+3118|Rupa iz prvog udarca
+3119|Orao! Dva ispod para
+3120|Ptičica! Jedan ispod para
+3121|Par! Odlično
+3122|Ubačeno
+3123|dragulja
+3124|Svih šest rupa
+3125|Disko pod zvijezdama
+3126|Skakutava polka
+3127|Ples na mjesečini
+3128|Plesna zabava
+3129|Disko pod zvijezdama! Pritisni strelicu točno kad stigne do kruga. Tri pjesme se izmjenjuju, a zlatne note donose zlatnike
+3130|Spremi se
+3131|Zlatna nota! +2 zlatnika
+3132|Dobro
+3133|Blizu
+3134|Niz
+3135|Plesna groznica
+3136|plJ j
+3137|Plesna zvijezda
+3138|Super ples
+3139|Bravo, plesačice
+3140|ZEC
+3141|JEŽ
+3142|KIT
+3143|SOVA
+3144|ŽABA
+3145|RIBA
+3146|MORE
+3147|OTOK
+3148|DUGA
+3149|KIŠA
+3150|ŠUMA
+3151|KRUH
+3152|ZMAJ
+3153|VLAK
+3154|BROD
+3155|MAČKA
+3156|PANDA
+3157|PČELA
+3158|OBLAK
+3159|PRIČA
+3160|BALON
+3161|TORTA
+3162|LOPTA
+3163|LISICA
+3164|CVIJET
+3165|JABUKA
+3166|LEPTIR
+3167|DVORAC
+3168|KOŠARA
+3169|GITARA
+3170|MJESEC
+3171|SLONIĆ
+3172|ŠKOLJKA
+3173|PINGVIN
+3174|ZVIJEZDA
+3175|DINOSAUR
+3176|ČAROLIJA
+3177|KORNJAČA
+3178|ABCČĆDĐEFGHIJKLMNOPRSŠTUVZŽ
+3179|ČĆ
+3180|CĆ
+3181|ČC
+3182|ĐB
+3183|DP
+3184|Slovna oluja
+3185|Slova su se razbježala po livadi! Trči i skupljaj ih pravim redom da složiš riječ. Riječ bez greške donosi dodatno vrijeme, a kocka +4 još sekundi. Pazi na kvačice: Č, Ć, Š, Ž
+3186|1 riječ
+3187|riječi
+3188|Trči do slova redom. Strelice ili WASD, a na mobitelu povuci prstom
+3189|Složi riječ
+3190|Sat! +4 s
+3191|Ne još! Prvo traži
+3192|Ups, to je
+3193|Treba
+3194|Bez greške! +7 s
+3195|Bravo! +5 s
+3196|Vrijeme je isteklo
+3197|Valovi
+3198|Surfaj kroz zalazak sunca! Skupljaj zvjezdice, skači s rampi i radi salta. Magnet privlači zvjezdice, mjehur štiti od sudara, a srce vraća život
+3199|zvjezdic
+3200|Lijevo-desno upravljaš, Razmak je skok. Na mobitelu povuci prstom, a kratki dodir je skok
+3201|Mjehur te spasio
+3202|Bljuc! Valovi su te prevrnuli
+3203|Valovi su bili jaki
+3204|Au! Još
+3205|srce
+3206|srca
+3207|trikova
+3208|Super trik
+3209|Ups, skoro
+3210|Duga zvijezda! +5
+3211|Magnet! Zvjezdice lete k tebi
+3212|Mjehur! Štiti od jednog sudara
+3213|Srce! +1 život
+3214|EW
+3215|Uskršnja pisanica
+3216|Šarene pastelne cik-cak pruge, kao najljepše oslikano jaje
+3217|Mjesečeva zečica
+3218|Srebrno krzno s kraterima koji tiho svijetle, kao da je skočila s Mjeseca
+3219|Cvjetna livada
+3220|Krzno puno sitnog cvijeća. Proljeće na četiri šape
+3221|Dugin skok
+3222|Legendarno: krzno se prelijeva svim bojama duge i iskri na svakom skoku
+3223|Skoči 150 puta kao Zečica Skokica
+3224|Mala tigrica
+3225|Narančaste i crne pruge. Opasno slatka
+3226|Mačka nindža
+3227|Crna kao noć, s crvenim ušima i očima koje svijetle u mraku
+3228|Galaktička mačka
+3229|U krznu joj se vrti cijela galaksija, s ružičastim i ljubičastim maglicama
+3230|Mačka munja
+3231|Legendarno: krzno pucketa plavim munjama, a za njom lete iskre
+3232|Pretrči 2000 metara kao Mačka Brzica
+3233|Ledeni kristal
+3234|Prozirno plavi kao santa leda, s bridovima koji blistaju
+3235|Superpingvin
+3236|Plavo-žuto odijelo junaka. Uz plašt iz ormara poleti kroz valove
+3237|Zlatni pingvin
+3238|Sjaji kao zlatna medalja s pobjedničkog postolja
+3239|Legendarno: po krznu plešu zelene i ljubičaste svjetlosne zavjese polarnog neba
+3240|Preplivaj 800 metara kao Pingvin Plivko
+3241|Cvjetni kaktus
+3242|Zelene bodlje i ružičasti cvjetići. Bodlja kaže da ne bocka
+3243|Zlatni jež
+3244|Svaka bodlja je od čistog zlata. Kotrlja se kao blago
+3245|Jesenji kesten
+3246|Krzno od šarenog jesenskog lišća i bodlje boje kestena
+3247|Ježev vatromet
+3248|Legendarno: svaka bodlja svijetli drugom bojom, a u trku prska iskre
+3249|Kotrljaj se 1500 metara kao Ježić Kotrljko
+3250|Cirkuska zvijezda
+3251|Svjetlucavi šljokičasti kostim za najveću akrobatkinju u cirkusu
+3252|Bambus nindža
+3253|Zeleno odijelo s prugama bambusa. Tiha i brza na granama
+3254|Jesenje lišće
+3255|Krzno od crvenog, narančastog i zlatnog lišća. Šuška dok skače
+3256|Vatrena panda
+3257|Legendarno: krzno gori toplim plamenom koji nikoga ne peče
+3258|Napravi 60 dvostrukih skokova kao Crvena panda
+3259|Snježna sova
+3260|Bijela kao prvi snijeg, s crnim pjegicama i zlatnim kljunom
+3261|Paunova sova
+3262|Perje s paunovim okima u tirkiznoj, zlatnoj i plavoj boji
+3263|Mudra knjižničarka
+3264|Ljubičasti plašt posut zlatnim zvjezdicama, za sovu koja je pročitala sve knjige
+3265|Sova feniks
+3266|Legendarno: perje gori kao feniks, a dok jedri iza nje ostaje vatreni trag
+3267|Jedri ukupno 60 sekundi kao Sovica Lepršica
+3268|Mašne na ušima
+3269|Dvije ružičaste mašne. Uši nikad nisu izgledale ljepše
+3270|Mrkva-ruksak
+3271|Ruksak u obliku goleme mrkve. Grickalica za put
+3272|Vilinska krila
+3273|Prozirna krila koja se prelijevaju i lepršaju dok skačeš
+3274|Ogrlica sa zvončićem
+3275|Crvena ogrlica i zlatni zvončić koji zazvoni kad trčiš
+3276|Kruna kraljice mačaka
+3277|Zlatna kruna s rubinima i safirima. Mijau, veličanstvo
+3278|Naočale srca
+3279|Ružičaste sunčane naočale u obliku srca. Zvijezda otoka
+3280|Kapa s pomponom
+3281|Topla pletena kapa s velikim bijelim pomponom
+3282|Ronilačke naočale
+3283|Žute naočale i disalica. Spreman za istraživanje dna mora
+3284|Plašt junaka
+3285|Crveni plašt sa zlatnom zvijezdom. Leprša dok jurišaš
+3286|Jabuka na bodljama
+3287|Prava ježeva tradicija: crvena jabuka nabodena na leđa
+3288|Gljiva-šešir
+3289|Crveni klobuk s bijelim točkama. Šumski stil
+3290|Balon na uzici
+3291|Šareni balon privezan za bodlju. Pleše na vjetru
+3292|Bambusov štap
+3293|Dugi štap od bambusa za akrobacije na vrhovima drveća
+3294|Cirkuski cilindar
+3295|Mali crni cilindar s crvenom vrpcom, nakrivljen za šou
+3296|Lampion na repu
+3297|Crveni papirnati lampion koji toplo svijetli u mraku
+3298|Naočale za čitanje
+3299|Okrugle zlatne naočale. Za čitanje najdebljih knjiga
+3300|Diplomska kapa
+3301|Crna kapa sa zlatnom resom. Doktorica svih priča
+3302|Mala svjetiljka
+3303|Svjetiljka s krijesnicom u kandžama. Sova vidi i u najmračnijoj noći
+3304|Odijelo lika
+3305|Dodatak lika
+3306|legendarno odijelo
+3307|je
+3308|Legendarno odijelo
+3309|Zaslužila si ga igrajući kao
+3310|Odmah ga nosiš, a mijenjaš ga u Čarobnoj trgovini, kartica Ormar
+3311|Svaki lik ima svoj ormar s posebnim odijelima i dodacima. Legendarno odijelo ne može se kupiti: zaslužiš ga igrajući kao taj lik
+3312|Sada igraš ovim likom ✓
+3313|Igraj s ovim likom
+3314|Prvo nabavi lik u kartici Likovi
+3315|Odijela
+3316|Osnovno krzno
+3317|Onakva kakvu je svi poznaju
+3318|Nosi ✓
+3319|Obuci
+3320|Zaslužuje se igrom
+3321|Dodaci
+3322|Na tijelu
+3323|Napredak se broji samo dok igraš kao taj lik u istraživanju
+3324|Prvo nabavi lik
+3325|u kartici Likovi
+3326|Novo u ormaru
+3327|to odmah nosi
+3328|Obući će to kad zaigraš kao
+3329|Mijenjaš u kartici Ormar
+3330|Dugina kruna
+3331|Zvjezdana aureola
+3332|Jednorogov rog
+3333|Neonske mačje uši
+3334|Neonska ogrlica
+3335|Raketni ruksak
+3336|Dugina krila
+3337|Zvuk i grafika
+3338|Najljepša
+3339|Srednja
+3340|Brza
+3341|Grafika
+3342|Ako igra zapinje, odaberi Srednja ili Brza. Najljepša sama pazi da igra ostane glatka
+3343|Gljive, kristali i čarobna stabla
+3344|Vilinski toranj
+3345|Visoki bijeli toranj s ljubičastim krovom
+3346|Kuća u stablu
+3347|Dom u deblu divovskog čarobnog stabla
+3348|Prugasti svjetionik s kućicom čuvara
+3349|Detektivska vila
+3350|Tamna vila s tornjem i tajnim prozorom
+3351|Toranj sa satom
+3352|Kameni toranj sa zlatnim zvonom
+3353|Drvena utvrda s kulom i zastavom
+3354|Piratski brod
+3355|Pravi brod s jedrima i škrinjom na palubi
+3356|Hram u džungli
+3357|Stari hram sa zlatom na vrhu
+3358|Crvena staja i ograda
+3359|Vjetrenjača
+3360|Bijeli mlin s velikim krilima
+3361|Staklenik
+3362|Stakleni vrt pun biljaka
+3363|Kupola s teleskopom
+3364|Raketa
+3365|Raketa na rampi, spremna za let
+3366|Laboratorij
+3367|Moderni laboratorij sa staklenom kupolom
+3368|Kućica od cigle s dimnjakom
+3369|Slastičarnica
+3370|Slatka trgovina s divovskim kolačem na krovu
+3371|Kuća na kat
+3372|Velika kuća s balkonom i vrtom
+3373|Zdenac želja
+3374|Odaberi jednu od tri čarobne želje
+3375|Tajni signal
+3376|Zapamti i ponovi svjetlosni signal
+3377|Karta blaga
+3378|Kopaj i prati tragove do blaga
+3379|Gladni prijatelji
+3380|Pročitaj što tko voli i nahrani ih
+3381|Teleskop
+3382|Spoji zvijezde u zviježđe
+3383|Kutak uspomena
+3384|Zapiši ili pročitaj uspomenu iz knjige
+3385|bliže moru
+3386|pod planinom
+3387|kraj vrta
+3388|kraj tržnice
+3389|na mirnoj čistini
+3390|Svjetlo i tajne najbolje čuvaju obalu
+3391|Pustolovi vole biti blizu mora
+3392|Pod planinom je nebo najčišće
+3393|Životinje vole biti blizu vrta
+3394|Blizu tržnice je uvijek veselo
+3395|Čarolija voli mirna, skrivena mjesta
+3396|Korak 1 od 3
+3397|Kakva je to knjiga? Za svaku vrstu biraš jednu od tri građevine
+3398|Dalje: odaberi građevinu
+3399|Što će izrasti
+3400|Korak 2 od 3
+3401|Kad završiš knjigu, u građevini te čeka
+3402|Dalje: odaberi mjesto
+3403|Gdje gradimo
+3404|Korak 3 od 3
+3405|Ja bih gradila na mjestu sa zvjezdicom
+3406|Ali ti biraš: dotakni bilo koji bijeli krug
+3407|Odabrano mjesto
+3408|Ridin prijedlog
+3409|je gotova
+3410|Preuredi građevinu
+3411|Preuređenje stoji
+3412|Prvo preuređenje je besplatno
+3413|Odustani
+3414|Preuredi
+3415|To je građevina koju već imaš. Odaberi drugu
+3416|Knjiga je pročitana. Građevina je gotova
+3417|stranica. Građevina raste dok čitaš
+3418|Danas si već bila ovdje. Dođi opet sutra
+3419|Jednom dnevno, uz nagradu
+3420|Otključava se kad pročitaš knjigu do kraja
+3421|Karta za igre
+3422|Odlično
+3423|Želim zlatnu kišu
+3424|Želim nešto sjajno
+3425|Želim iznenađenje
+3426|Šapni jednu želju u zdenac. Svaka donosi nešto drugo, a što točno, zna samo zdenac
+3427|Zdenac je čuo tvoju želju
+3428|Svjetla šalju tajnu poruku. Gledaj redoslijed, pa ga ponovi. Tri kruga, svaki je duži
+3429|Gledaj
+3430|Sad ti
+3431|Ups! Pogledaj još jednom
+3432|Signal je bio težak. Sutra opet
+3433|Poruka glasi: ČITAJ DALJE
+3434|Točno! Sad duži signal
+3435|Blago je zakopano na jednom polju. Broj na iskopanom polju kaže koliko je koraka do blaga. Imaš
+3436|kopanja
+3437|Gdje ćeš prvo kopati
+3438|dig button
+3439|Pronašla si blago
+3440|Vruće! Samo jedan korak
+3441|Hladno. Traži dalje
+3442|Blago je ostalo skriveno. Sutra nova karta
+3443|Hrskavo je, narančasto i raste u zemlji
+3444|Vjeverica
+3445|Tvrdo je izvana, a ukusno iznutra. Skupljam ih za zimu
+3446|Bijelo je i pije se iz zdjelice
+3447|Medo
+3448|Slatko je, zlatno i prave ga pčele
+3449|Koka
+3450|Sitna su, žuta i rastu na klipu
+3451|Majmun
+3452|Žuta je, savijena i guli se
+3453|Miš
+3454|Žut je, ima rupe i lijepo miriše
+3455|Crvena je ili zelena, okrugla i raste na stablu
+3456|od 3
+3457|kaže
+3458|Njam! Hvala
+3459|Hm, to nije to. Htio je
+3460|Nahranila si
+3461|od 3 prijatelja
+3462|Veliki medvjed
+3463|Sedam sjajnih zvijezda čini Velika kola. Dvije zadnje pokazuju prema zvijezdi Sjevernjači
+3464|Kasiopeja
+3465|Izgleda kao slovo W. Vidi se cijele godine jer nikad ne zalazi
+3466|Labud
+3467|Leti duž Mliječne staze. Najsjajnija zvijezda mu je Deneb, u repu
+3468|Orion
+3469|Lovac s tri zvijezde u pojasu. Crvenkasta Betelgeza mu je na ramenu
+3470|Lav
+3471|Proljetno zviježđe. Glava mu izgleda kao obrnuti upitnik
+3472|Dotakni zvijezde redom, od 1 do
+3473|i spoji ih u zviježđe
+3474|Koji ti je trenutak iz ove knjige ostao u srcu
+3475|Kome bi preporučila ovu knjigu i zašto
+3476|Što bi pitala glavnog lika da ga sretneš
+3477|Koji dio te najviše nasmijao ili iznenadio
+3478|Tvoja uspomena
+3479|Spremi uspomenu
+3480|Samo sam svratila
+3481|Uspomena je spremljena u dnevnik
+3482|Lijepo je sjesti uz knjigu
+3483|Lagano
+3484|Sve je sporije. Za vježbu: najviše brončana medalja
+3485|Normalno
+3486|Prava igra za medalje i rekorde
+3487|Brzo
+3488|Početnica
+3489|Učenica
+3490|Znalica
+3491|Majstorica
+3492|Legenda
+3493|Najviša razina
+3494|Kreni
+3495|bonus za Brzo
+3496|Lagano donosi pola zlatnika
+3497|zlatnika i karta za igre
+3498|Izazov dana riješen
+3499|Kup otoka: igra
+3500|od 3 · bodovi
+3501|Sljedeća igra
+3502|btn green
+3503|Dodjela pehara
+3504|btn big
+3505|Kup otoka
+3506|od 9 bodova
+3507|Brončani pehar
+3508|Srebrni pehar
+3509|Zlatni pehar
+3510|Dobra borba
+3511|Pehar ide na tvoju policu u Igraonici
+3512|Za brončani pehar trebaju 3 boda. Svaka medalja nosi bodove
+3513|Kako želiš igrati
+3514|Svaka igra stoji 1 kartu. Imaš ih
+3515|Izazov dana
+3516|Riješeno! Sutra stiže novi izazov
+3517|Tri igre zaredom. Svaka medalja nosi bodove, a na kraju te čeka pehar
+3518|Tvoji pehari: 🥉
+3519|Proljeće
+3520|Ljeto
+3521|Jesen
+3522|Zima
+3523|Jaglac
+3524|Visibaba
+3525|Ptičje pero
+3526|Školjka
+3527|Šumska jagoda
+3528|Sjemenka suncokreta
+3529|Kesten
+3530|Zlatni list
+3531|Šišarka
+3532|Crvene bobice
+3533|Kišna gljiva
+3534|Pala zvjezdica
+3535|Dan darova
+3536|Nedjeljom svi darovi otoka vrijede dvostruko
+3537|Dan akrobata
+3538|Noć zvjezdica
+3539|Petkom navečer na otok padaju zvjezdice. Potraži ih kad padne mrak
+3540|Sunčano
+3541|Vjetrovito
+3542|Kiša
+3543|Dar otoka
+3544|Sezonska zbirka
+3545|je potpuna
+3546|Pronašla si sve darove ovog godišnjeg doba. Sljedeće doba donosi nove
+3547|Akrobatkinja
+3548|trostruki skok
+3549|Trostruki skok! Tri skoka zaredom u trku, svaki čim Rida dotakne tlo
+3550|tres o tlo
+3551|Tres o tlo! Odmah zatim pritisni Skok za veliki odskok. Tres pod krošnjom otrese darove
+3552|Krošnje su za danas otresene. Sutra opet nešto padne
+3553|Palo s krošnje
+3554|Tres
+3555|Mega odskok! Tres o trampolin baca Ridu do oblaka
+3556|Štapić pokazuje
+3557|koraka prema
+3558|još nije nađeno
+3559|Glas otoka
+3560|Kad pada kiša, niknu rijetke kišne gljive. Potraži ih
+3561|Pada snijeg. Otok je tih i bijel
+3562|Vjetar nosi
+3563|lišće
+3564|preko otoka
+3565|Lijep dan za istraživanje
+3566|Danas
+3567|Darovi otoka
+3568|Svaki dan otok sakrije male darove. Svijetle stupom svjetla. Danas pronađeno
+3569|Najbliži je oko
+3570|Sve je pronađeno, bravo
+3571|Zbirka ovog doba je potpuna
+3572|Pronađi sve tri vrste za sezonsku nagradu od 150 zlatnika
+3573|Čarobni štapić pokazuje put do najbližeg dara
+3574|Akrobacije
+3575|Trostruki skok
+3576|Tri skoka zaredom u trku. Skoči čim Rida dotakne tlo: drugi je viši, treći najviši
+3577|Izvedeno
+3578|Tres o tlo
+3579|Veliki odskok
+3580|Odmah nakon tresa pritisni Skok. Tres o trampolin baca još više
+3581|hud-top .stats
+3582|Počinje kiša. Niknut će kišne gljive
+3583|Počinje padati snijeg
+3584|Diže se vjetar
+3585|Razvedrilo se
+3586|Mmm, jutarnja djetelina je najslađa
+3587|U zoru zec izlazi na pašu. Zečevi su najaktivniji u zoru i u sumrak
+3588|Po danu drijemam u hladu
+3589|Usred dana zec se odmara skriven u zaklonu
+3590|Zzz... još malo
+3591|Zec spava lagano, ponekad i otvorenih očiju, da na vrijeme primijeti opasnost
+3592|Čekam pod krošnjom da kiša stane
+3593|Kad pada kiša, zec se skloni pod grmlje ili u jazbinu
+3594|Jutarnji doručak u plićaku
+3595|Patka ujutro traži hranu u plićaku, glavom pod vodom
+3596|Uređujem perje, pero po pero
+3597|Patka svaki dan dugo uređuje perje i maže ga uljem
+3598|Zzz... jedno oko pazi
+3599|Patke često spavaju s jednim okom otvorenim i tako paze na opasnost
+3600|Kiša! Najljepše vrijeme
+3601|Patke vole kišu: perje im ne propušta vodu, a iz zemlje izlaze gliste
+3602|Zzz... danju spavam
+3603|Jež je noćna životinja: danju spava u gnijezdu od lišća
+3604|Hrrr... probudi me navečer
+3605|Jež se u snu sklupča u bodljikavu loptu da bude siguran
+3606|Noć je! Idem u lov na puževe
+3607|Noću jež prijeđe i više od kilometra tražeći kukce i puževe
+3608|Poslije kiše ima najviše puževa
+3609|Nakon kiše jež lako nalazi puževe i gliste
+3610|Trava s rosom je najbolja
+3611|Ovce pasu veći dio dana, najradije rano ujutro
+3612|Ležim i preživam
+3613|Nakon paše ovca leži i preživa: hranu vraća u usta i žvače je ponovno
+3614|Zzz
+3615|Ovce spavaju u stadu, jedna uz drugu, jer se tako osjećaju sigurno
+3616|Moja vuna ne propušta kišu
+3617|Vuna ovcu štiti od kiše jer je masna i odbija vodu
+3618|Grijem se na suncu
+3619|Kornjače su hladnokrvne: ujutro se griju na suncu da skupe snagu
+3620|Tražim morsku travu
+3621|Odrasle zelene morske kornjače jedu morsku travu i alge
+3622|Morske kornjače mogu spavati pod vodom i satima ne udahnuti
+3623|Meni kiša ne smeta, imam oklop
+3624|Oklop je dio kornjačina kostura i štiti je cijeli život
+3625|Jutarnji lov
+3626|Mačke su najaktivnije u zoru i u sumrak
+3627|Mrrr... sunce grije
+3628|Mačka prespava i do 16 sati na dan
+3629|U mraku vidim odlično
+3630|Mačke u polumraku vide oko šest puta bolje od ljudi
+3631|Mokro krzno? Ne, hvala
+3632|Većina mačaka ne voli kišu jer im se krzno sporo suši
+3633|Dobro jutro! Dobro jutro
+3634|Papige su najglasnije u zoru, kad se jato dogovara kamo će
+3635|Orašasti plodovi, njam
+3636|Papiga hranu drži nogom kao rukom
+3637|Papige spavaju na grani stojeći, čvrsto stisnutih prstiju
+3638|Tuširanje
+3639|Papige vole kišu: rašire krila i tuširaju se
+3640|Zzz... dan je za spavanje
+3641|Sova danju spava, a u lov ide noću
+3642|Hrrr
+3643|Danju sova miruje uz deblo ili na tornju, gdje je teško opaziti
+3644|Hu-huu! Noć je moje doba
+3645|Noću sova čuje miša i ispod lišća
+3646|Po kiši ne letim rado
+3647|Sovino mekano perje lako se smoči, pa po jakoj kiši sova rijetko lovi
+3648|Mušica! Hop
+3649|Žaba lovi kukce ljepljivim jezikom brže nego što trepneš
+3650|Skrivam se u hladu
+3651|Danju se žaba skriva u hladu da joj se koža ne osuši
+3652|Kre-kre! Večernji koncert
+3653|Žabe najglasnije pjevaju navečer i poslije kiše
+3654|Kiša, kiša, kre-kre
+3655|Žabe vole kišu jer dišu i kroz vlažnu kožu
+3656|Gegam se u jutarnju šetnju
+3657|Pingvini hodaju gegajući se, a po snijegu se kližu na trbuhu
+3658|Idem po ribu
+3659|Pingvin ne leti zrakom, ali pod vodom krilima 'leti' kroz more
+3660|Pingvini se u hladnoći stisnu jedan uz drugoga i tako se griju
+3661|Kiša mi klizi niz perje
+3662|Gusto, masno perje pingvina ne propušta vodu
+3663|Trnje? Meni je to doručak
+3664|Deva jede i trnovito bilje jer ima čvrste usne
+3665|Vrućina mi ne smeta
+3666|Deva može danima bez vode, a u grbi čuva mast, ne vodu
+3667|Deve spavaju ležeći, s nogama podvijenim pod tijelo
+3668|Trepavice me štite i od kiše
+3669|Duge trepavice i nosnice koje se zatvaraju devu štite od pijeska i vjetra
+3670|Doručak! Gdje je bambus
+3671|Crvena panda najviše jede u zoru i u sumrak
+3672|Zzz... pokrila sam se repom
+3673|Crvena panda danju spava na grani, pokrivena svojim čupavim repom
+3674|Noću se penjem
+3675|Crvena panda vješto se penje i s drveta silazi glavom prema dolje
+3676|Krzno me grije i kad kiši
+3677|Gusto krzno crvenu pandu grije i na kiši i na snijegu
+3678|Jutarnja paša
+3679|Konj pase i do 16 sati na dan
+3680|Trkajmo se
+3681|Konji se u igri trkaju i ritaju, a prijatelje češkaju zubima
+3682|Zzz... spavam stojeći
+3683|Konj može drijemati stojeći jer mu se zglobovi nogu 'zaključaju'
+3684|Kiša me ne smeta
+3685|Konju kiša ne smeta, ali se od jakog vjetra voli skloniti
+3686|Mljac, svježa trava
+3687|Kapibara je najveći glodavac na svijetu i pase travu poput ovce
+3688|Hladim se uz vodu
+3689|Kapibara se za vrućine hladi u vodi i može zaroniti na nekoliko minuta
+3690|Kapibare žive u skupinama i spavaju jedna uz drugu
+3691|Kiša? Još bolje za plivanje
+3692|Kapibara ima kožice među prstima i odlična je plivačica
+3693|po danu
+3694|navečer ili noću
+3695|kad pada kiša
+3696|Sva 4 opažanja
+3697|Novo opažanje u enciklopediji
+3698|točan odgovor na pitanje
+3699|Istina
+3700|prepoznaj istinu od laži
+3701|Detektivka
+3702|pogodi tko sam po tragovima
+3703|Oštro oko
+3704|prepoznaj me na uvećanoj slici
+3705|Veza
+3706|spoji parove bez greške
+3707|Nova naljepnica
+3708|Srebrna stranica
+3709|Dobivaš 1 lupu
+3710|Zlatna stranica
+3711|60 zlatnika
+3712|Znatiželjka
+3713|Mlada istraživačica
+3714|Vrijedna prirodoslovka
+3715|Čuvarica znanja
+3716|Velika enciklopedistica
+3717|Istina ili laž
+3718|✔ Istina
+3719|✘ Laž
+3720|To je bila istina
+3721|To je bila laž. Točno je
+3722|Zanimljivost
+3723|ova životinja
+3724|Tko sam ja
+3725|Pogodi sa što manje tragova. Manje tragova, veća nagrada
+3726|Još jedan trag
+3727|To je bila
+3728|Što je na slici
+3729|Slika se polako udaljava. Što prije pogodiš, to veća nagrada
+3730|Na slici je
+3731|Spoji parove
+3732|Tko što jede
+3733|Tko gdje živi
+3734|Dodirni životinju, zatim njezin par

@@ -1,0 +1,236 @@
+@golub|kanali|z|Golub|Taube|ent=golub,golub2|sci=Columba livia
+i|Dom|Zuhause|gradovi, trgovi i litice|Städte, Plätze und Felsen
+i|Hrana|Nahrung|sjemenke i mrvice|Samen und Krümel
+i|Veličina|Größe|oko 32 cm|etwa 32 cm
+h|Na trgovima Grada na kanalima ima ih na stotine.|Auf den Plätzen der Kanalstadt gibt es Hunderte.
+f|Golubovi uvijek nađu put kući, čak i s mjesta udaljenih stotinama kilometara. Zato su nekad nosili pisma.|Tauben finden immer nach Hause, sogar von Orten, die Hunderte Kilometer weit weg sind. Darum trugen sie früher Briefe.
+q|Zašto su golubovi nekad nosili pisma?|Warum trugen Tauben früher Briefe?
+a|Uvijek nađu put kući|Sie finden immer nach Hause
+w|Vole čitati|Sie lesen gern
+w|Imaju velike torbe|Sie haben große Taschen
+f|Golub pije vodu kao kroz slamku, bez dizanja glave. Većina drugih ptica mora podignuti glavu da proguta.|Die Taube trinkt wie mit einem Strohhalm, ohne den Kopf zu heben. Die meisten anderen Vögel müssen dafür den Kopf heben.
+q|Po čemu je posebno kako golub pije?|Was ist besonders daran, wie eine Taube trinkt?
+a|Pije kao kroz slamku|Sie trinkt wie mit einem Strohhalm
+w|Pije samo kišu u letu|Sie trinkt nur Regen im Flug
+w|Uopće ne pije|Sie trinkt nie
+f|Golub dok hoda kima glavom naprijed-natrag. Tako mu slika svijeta ostaje mirna dok se tijelo kreće.|Beim Gehen nickt die Taube mit dem Kopf vor und zurück. So bleibt das Bild der Welt ruhig, während sich der Körper bewegt.
+q|Zašto golub kima glavom dok hoda?|Warum nickt die Taube beim Gehen?
+a|Da mu slika ostane mirna|Damit ihr Bild ruhig bleibt
+w|Jer sluša glazbu|Weil sie Musik hört
+w|Da pozdravi ljude|Um die Menschen zu grüßen
+
+@paun|kanali|z|Paun|Pfau|ent=paun,paun2|sci=Pavo cristatus
+i|Dom|Zuhause|šume Indije, parkovi i vrtovi|Wälder Indiens, Parks und Gärten
+i|Hrana|Nahrung|sjemenke, kukci, bobice|Samen, Insekten, Beeren
+i|Veličina|Größe|s repom do 2,3 m|mit Schleppe bis 2,3 m
+h|Šeće po vrtovima Grada na kanalima.|Spaziert durch die Gärten der Kanalstadt.
+f|Raskošni rep imaju samo mužjaci. Ženka, paunica, je smeđa i lakše se skrije dok čuva jaja.|Die prächtige Schleppe haben nur die Männchen. Das Weibchen ist braun und versteckt sich so besser, wenn es die Eier bewacht.
+q|Tko od pauna ima raskošan rep?|Wer hat beim Pfau die prächtige Schleppe?
+a|Samo mužjak|Nur das Männchen
+w|Samo ženka|Nur das Weibchen
+w|Samo mladunci|Nur die Küken
+f|Paunovo perje zapravo nema plavu i zelenu boju. Sjaji jer sićušne strukture u perju lome svjetlost, kao mjehurić sapunice.|Pfauenfedern haben eigentlich gar keine blaue und grüne Farbe. Sie schimmern, weil winzige Strukturen das Licht brechen, wie bei einer Seifenblase.
+q|Zašto paunovo perje svjetluca plavo i zeleno?|Warum schimmern Pfauenfedern blau und grün?
+a|Sitne strukture lome svjetlost|Winzige Strukturen brechen das Licht
+w|Paun ga boja bojicama|Der Pfau malt sie an
+w|Jede plave bobice|Er frisst blaue Beeren
+f|Svaki rep pauna ima oko 150 pera s okom. Svake godine perje otpadne i izraste novo.|Eine Pfauenschleppe hat etwa 150 Federn mit Augen. Jedes Jahr fallen sie aus und wachsen neu.
+q|Što se svake godine dogodi s paunovim repom?|Was passiert jedes Jahr mit der Pfauenschleppe?
+a|Perje otpadne i izraste novo|Die Federn fallen aus und wachsen neu
+w|Postane crveno|Sie wird rot
+w|Paun ga pokloni ženki|Der Pfau schenkt sie dem Weibchen
+
+@gondolijer|kanali|l|Gondolijeri|Gondolieri|ent=gondolijer|em=🛶|bg=#2a6ab8
+i|Posao|Beruf|vožnja gondole kroz kanale|mit der Gondel durch die Kanäle fahren
+i|Grad|Stadt|kao Venecija|wie Venedig
+h|Gondolijer Toni vozi gondolu kroz kanale.|Gondoliere Toni fährt die Gondel durch die Kanäle.
+f|Gondola je namjerno malo kriva, lijeva strana duža je od desne. Zato ide ravno iako gondolijer vesla samo s jedne strane.|Eine Gondel ist absichtlich etwas schief, die linke Seite ist länger als die rechte. Darum fährt sie geradeaus, obwohl der Gondoliere nur auf einer Seite rudert.
+q|Zašto gondola ide ravno iako se vesla s jedne strane?|Warum fährt die Gondel geradeaus, obwohl man nur auf einer Seite rudert?
+a|Namjerno je malo kriva|Sie ist absichtlich etwas schief
+w|Ima skriveni motor|Sie hat einen versteckten Motor
+w|Vuku je ribe|Fische ziehen sie
+f|Gondolijer vesla stojeći, licem prema naprijed, s jednim dugim veslom.|Der Gondoliere rudert im Stehen, mit dem Gesicht nach vorn, mit einem einzigen langen Ruder.
+q|Kako gondolijer vesla?|Wie rudert ein Gondoliere?
+a|Stojeći, jednim veslom|Im Stehen mit einem Ruder
+w|Sjedeći, s dva vesla|Im Sitzen mit zwei Rudern
+w|Ležeći na leđima|Auf dem Rücken liegend
+f|U Veneciji nema automobila. Ljudi idu pješice ili brodićima, a čak i hitna pomoć vozi brodom.|In Venedig gibt es keine Autos. Die Menschen gehen zu Fuß oder fahren Boot, sogar der Krankenwagen ist ein Boot.
+q|Čime vozi hitna pomoć u Veneciji?|Womit fährt der Krankenwagen in Venedig?
+a|Brodom|Mit einem Boot
+w|Biciklom|Mit dem Fahrrad
+w|Helikopterom svaki put|Jedes Mal mit dem Hubschrauber
+
+@maskarka|kanali|l|Karnevalske maske|Karnevalsmasken|ent=maskarka|em=🎭|bg=#a83ab8
+i|Posao|Beruf|izrada maski za karneval|Masken für den Karneval machen
+i|Materijal|Material|papir, ljepilo, boje, perje|Papier, Kleister, Farben, Federn
+h|Maskarka Ines pravi maske za karneval.|Maskenmacherin Ines macht Masken für den Karneval.
+f|Prave karnevalske maske rade se od mnogo slojeva papira i ljepila na kalupu, pa se kad se osuše oslikaju.|Echte Karnevalsmasken macht man aus vielen Schichten Papier und Kleister auf einer Form. Wenn sie trocken sind, werden sie bemalt.
+q|Od čega se rade prave karnevalske maske?|Woraus macht man echte Karnevalsmasken?
+a|Od slojeva papira i ljepila|Aus Schichten Papier und Kleister
+w|Od sladoleda|Aus Eis
+w|Od kamena|Aus Stein
+f|Na karnevalu se ljudi maskiraju i plešu ulicama prije korizme. I u Hrvatskoj postoje poznati karnevali, poput Riječkog.|Beim Karneval verkleiden sich die Leute und tanzen durch die Straßen. Auch in Kroatien gibt es berühmte Karnevale, wie den in Rijeka.
+q|Koji je poznati karneval u Hrvatskoj?|Welcher berühmte Karneval findet in Kroatien statt?
+a|Riječki karneval|Der Karneval von Rijeka
+w|Karneval na Mjesecu|Der Karneval auf dem Mond
+w|Karneval pod morem|Der Karneval unter dem Meer
+f|Zvončari s Kastavštine nose velike maske i zvona oko pasa. Zvonjavom tjeraju zimu.|Die Zvončari aus der Gegend von Kastav tragen große Masken und Glocken am Gürtel. Mit dem Läuten vertreiben sie den Winter.
+q|Što zvončari tjeraju zvonjavom?|Was vertreiben die Zvončari mit ihren Glocken?
+a|Zimu|Den Winter
+w|Komarce|Die Mücken
+w|Ljeto|Den Sommer
+
+@staklar|kanali|l|Staklari|Glasbläser|ent=staklar|em=🏺|bg=#3ab8a8
+i|Posao|Beruf|puhanje stakla|Glas blasen
+i|Alat|Werkzeug|duga cijev i vruća peć|langes Rohr und heißer Ofen
+h|Staklar Marko puše staklo u svojoj radionici.|Glasbläser Marko bläst Glas in seiner Werkstatt.
+f|Staklo se radi od pijeska koji se u peći rastali na više od tisuću stupnjeva.|Glas wird aus Sand gemacht, der im Ofen bei über tausend Grad schmilzt.
+q|Od čega se radi staklo?|Woraus wird Glas gemacht?
+a|Od rastaljenog pijeska|Aus geschmolzenem Sand
+w|Od leda|Aus Eis
+w|Od šećera i soli|Aus Zucker und Salz
+f|Staklar puše u dugu cijev, a na drugom kraju užareno staklo se napuhne kao balon.|Der Glasbläser bläst in ein langes Rohr, und am anderen Ende bläht sich das glühende Glas auf wie ein Ballon.
+q|Kako staklar oblikuje vazu?|Wie formt der Glasbläser eine Vase?
+a|Puše u dugu cijev|Er bläst in ein langes Rohr
+w|Reže je nožem|Er schneidet sie mit dem Messer
+w|Lijepi je od komadića|Er klebt sie aus Stücken
+f|Otok Murano kraj Venecije slavan je po staklu već više od 700 godina.|Die Insel Murano bei Venedig ist seit über 700 Jahren für ihr Glas berühmt.
+q|Po čemu je slavan otok Murano?|Wofür ist die Insel Murano berühmt?
+a|Po staklu|Für Glas
+w|Po čokoladi|Für Schokolade
+w|Po dinosaurima|Für Dinosaurier
+
+@raza|zaljev|z|Raža|Rochen|ent=raza|sci=Batoidea
+i|Dom|Zuhause|pješčano morsko dno|sandiger Meeresboden
+i|Hrana|Nahrung|školjke, rakovi, crvi|Muscheln, Krebse, Würmer
+i|Veličina|Größe|od 10 cm do 7 m|von 10 cm bis 7 m
+h|Klizi kroz svijetleće more u zaljevu.|Gleitet durch das leuchtende Meer der Bucht.
+f|Raža pliva mašući širokim perajama kao krilima, pa izgleda kao da leti kroz vodu.|Der Rochen schwimmt mit seinen breiten Flossen wie mit Flügeln, als würde er durchs Wasser fliegen.
+q|Kako izgleda raža dok pliva?|Wie sieht ein Rochen beim Schwimmen aus?
+a|Kao da leti kroz vodu|Als würde er durchs Wasser fliegen
+w|Kao da skače|Als würde er hüpfen
+w|Kao da se kotrlja|Als würde er rollen
+f|Raža se često zakopa u pijesak tako da joj vire samo oči.|Der Rochen gräbt sich oft im Sand ein, sodass nur die Augen herausschauen.
+q|Kako se raža skriva?|Wie versteckt sich der Rochen?
+a|Zakopa se u pijesak|Er gräbt sich im Sand ein
+w|Popne se na stijenu|Er klettert auf einen Felsen
+w|Promijeni se u ribu|Er verwandelt sich in einen Fisch
+f|Raža nema kosti. Kostur joj je od hrskavice, iste tvari koja nam je u uhu i nosu.|Der Rochen hat keine Knochen. Sein Skelett ist aus Knorpel, wie unsere Ohren und Nase.
+q|Od čega je kostur raže?|Woraus ist das Skelett des Rochens?
+a|Od hrskavice|Aus Knorpel
+w|Od drva|Aus Holz
+w|Od kamena|Aus Stein
+
+@rakun|zaljev|z|Rakun|Waschbär|ent=rakun,rakun2|sci=Procyon lotor
+i|Dom|Zuhause|šume uz vodu, a i gradovi|Wälder am Wasser, auch Städte
+i|Hrana|Nahrung|gotovo sve: voće, rakovi, orasi|fast alles: Obst, Krebse, Nüsse
+i|Veličina|Größe|oko 60 cm s repom|etwa 60 cm mit Schwanz
+h|Noću šulja po plaži Svjetlećeg zaljeva.|Schleicht nachts über den Strand der Leuchtbucht.
+f|Rakun ima vrlo osjetljive prednje šape. U vodi njima pipa hranu, pa izgleda kao da je pere.|Der Waschbär hat sehr empfindliche Vorderpfoten. Im Wasser tastet er damit sein Futter ab, es sieht aus, als würde er es waschen.
+q|Zašto se čini da rakun pere hranu?|Warum sieht es aus, als würde der Waschbär sein Futter waschen?
+a|Pipa je šapama u vodi|Er tastet es im Wasser ab
+w|Jako je uredan|Er ist sehr ordentlich
+w|Ne voli slano|Er mag nichts Salziges
+f|Crna mrlja oko očiju izgleda kao maska. Pomaže mu da noću manje bliješti svjetlo.|Der schwarze Fleck um die Augen sieht aus wie eine Maske. Er hilft ihm, dass ihn nachts Licht weniger blendet.
+q|Čemu možda služi rakunova maska oko očiju?|Wozu dient wohl die Maske um die Augen des Waschbärs?
+a|Da ga svjetlo manje bliješti|Damit ihn Licht weniger blendet
+w|Da ga nitko ne prepozna|Damit ihn keiner erkennt
+w|Za karneval|Für den Karneval
+f|Rakuni su vrlo pametni i znaju otvoriti zasune, kutije, pa čak i kante za smeće.|Waschbären sind sehr klug und können Riegel, Kisten und sogar Mülltonnen öffnen.
+q|Što rakuni znaju otvoriti?|Was können Waschbären öffnen?
+a|Zasune i kutije|Riegel und Kisten
+w|Samo kokosove orahe|Nur Kokosnüsse
+w|Ništa, nemaju prste|Nichts, sie haben keine Finger
+
+@kornjacica|zaljev|z|Mlade morske kornjače|Junge Meeresschildkröten|ent=kornjacica,kornjacica2|sci=Caretta caretta
+i|Dom|Zuhause|tople pješčane plaže i otvoreno more|warme Sandstrände und offenes Meer
+i|Hrana|Nahrung|meduze, rakovi, morska trava|Quallen, Krebse, Seegras
+i|Veličina|Größe|kad se izlegu oko 5 cm|beim Schlüpfen etwa 5 cm
+h|Izlegu se na noćnoj plaži Svjetlećeg zaljeva.|Schlüpfen am nächtlichen Strand der Leuchtbucht.
+f|Mlade kornjače izlegu se noću i trče prema moru. Put im pokazuje svjetlina neba nad vodom.|Junge Schildkröten schlüpfen nachts und laufen zum Meer. Den Weg zeigt ihnen der helle Himmel über dem Wasser.
+q|Što mladim kornjačama pokazuje put do mora?|Was zeigt jungen Schildkröten den Weg zum Meer?
+a|Svjetlina neba nad morem|Der helle Himmel über dem Meer
+w|Miris kolača|Kuchenduft
+w|Zvuk zvona|Glockenklang
+f|O toplini pijeska ovisi hoće li iz jaja izaći mužjak ili ženka. Na toplijem pijesku izlegu se uglavnom ženke.|Die Wärme des Sandes bestimmt, ob ein Männchen oder ein Weibchen schlüpft. Im wärmeren Sand schlüpfen meist Weibchen.
+q|O čemu ovisi hoće li se izleći mužjak ili ženka?|Wovon hängt ab, ob ein Männchen oder Weibchen schlüpft?
+a|O toplini pijeska|Von der Wärme des Sandes
+w|O danu u tjednu|Vom Wochentag
+w|O boji jajeta|Von der Farbe des Eis
+f|Kad odraste, ženka se nakon mnogo godina vrati odložiti jaja na istu plažu na kojoj se izlegla.|Wenn sie erwachsen ist, kehrt das Weibchen nach vielen Jahren zum Eierlegen an den Strand zurück, an dem es geschlüpft ist.
+q|Gdje odrasla kornjača odlaže jaja?|Wo legt die erwachsene Schildkröte ihre Eier?
+a|Na plaži gdje se izlegla|Am Strand, wo sie geschlüpft ist
+w|Na vrhu planine|Auf einem Berggipfel
+w|U gnijezdu na stablu|In einem Nest im Baum
+
+@w_gusari|gusari|m|Gusarska uvala|Piratenbucht|enter=gusari|em=🏴‍☠️|bg=#d8501e
+h|Otvara se portal u Lučkom gradu.|Das Portal ist in der Hafenstadt.
+f|Koraljni grebeni rastu jako sporo, samo nekoliko centimetara godišnje, a grade ih sićušne životinjice.|Korallenriffe wachsen sehr langsam, nur ein paar Zentimeter im Jahr, und winzige Tierchen bauen sie.
+q|Tko gradi koraljne grebene?|Wer baut Korallenriffe?
+a|Sićušne životinjice|Winzige Tierchen
+w|Gusari|Piraten
+w|Ribari|Fischer
+f|Mornari su se nekad snalazili po zvijezdama. Zvijezda Sjevernjača uvijek pokazuje sjever.|Seeleute fanden früher ihren Weg mit den Sternen. Der Polarstern zeigt immer nach Norden.
+q|Koja zvijezda uvijek pokazuje sjever?|Welcher Stern zeigt immer nach Norden?
+a|Sjevernjača|Der Polarstern
+w|Sunce|Die Sonne
+w|Danica|Der Morgenstern
+f|Kokosov orah može plutati morem mjesecima i proklijati na posve drugoj plaži. Tako palme putuju po svijetu.|Eine Kokosnuss kann monatelang auf dem Meer treiben und an einem ganz anderen Strand keimen. So reisen Palmen um die Welt.
+q|Kako palme putuju po svijetu?|Wie reisen Palmen um die Welt?
+a|Kokosi plutaju morem|Kokosnüsse treiben auf dem Meer
+w|Nose ih ptice u kljunu|Vögel tragen sie im Schnabel
+w|Hodaju na korijenju|Sie laufen auf ihren Wurzeln
+
+@w_svjetionik|svjetionik|m|Otok svjetionika|Leuchtturminsel|enter=svjetionik|em=🗼|bg=#d83a3a
+h|Otvara se portal u Lučkom gradu.|Das Portal ist in der Hafenstadt.
+f|Jedno od sedam svjetskih čuda bio je svjetionik u Aleksandriji. Bio je visok kao zgrada od četrdeset katova.|Eines der sieben Weltwunder war der Leuchtturm von Alexandria. Er war so hoch wie ein Haus mit vierzig Stockwerken.
+q|Koji je svjetionik bio jedno od sedam svjetskih čuda?|Welcher Leuchtturm war eines der sieben Weltwunder?
+a|Svjetionik u Aleksandriji|Der Leuchtturm von Alexandria
+w|Svjetionik na Mjesecu|Der Leuchtturm auf dem Mond
+w|Svjetionik od čokolade|Der Leuchtturm aus Schokolade
+f|Plimne lokve nastaju kad more za oseke ode, a voda ostane u udubinama stijena. U njima žive rakovi, ježinci i moruzgve.|Gezeitentümpel entstehen, wenn das Meer bei Ebbe zurückgeht und Wasser in Felsmulden bleibt. Darin leben Krebse, Seeigel und Seeanemonen.
+q|Kada nastaju plimne lokve?|Wann entstehen Gezeitentümpel?
+a|Kad more za oseke ode|Wenn das Meer bei Ebbe zurückgeht
+w|Kad pada snijeg|Wenn es schneit
+w|Kad svjetionik zasvijetli|Wenn der Leuchtturm leuchtet
+f|Plimu i oseku stvara Mjesec. Svojom silom privlači more pa se ono dvaput dnevno podigne i spusti.|Ebbe und Flut macht der Mond. Er zieht mit seiner Kraft am Meer, so steigt und sinkt es zweimal am Tag.
+q|Što stvara plimu i oseku?|Was erzeugt Ebbe und Flut?
+a|Mjesec|Der Mond
+w|Vjetar|Der Wind
+w|Kitovi|Die Wale
+
+@w_kanali|kanali|m|Grad na kanalima|Kanalstadt|enter=kanali|em=🎭|bg=#3a6ad8
+h|Otvara se portal u Lučkom gradu.|Das Portal ist in der Hafenstadt.
+f|Venecija je sagrađena na više od sto malih otočića koje spaja oko 400 mostova.|Venedig ist auf mehr als hundert kleinen Inseln gebaut, die etwa 400 Brücken verbinden.
+q|Na čemu je sagrađena Venecija?|Worauf ist Venedig gebaut?
+a|Na više od sto otočića|Auf über hundert kleinen Inseln
+w|Na leđima kita|Auf dem Rücken eines Wals
+w|Na jednom velikom brodu|Auf einem großen Schiff
+f|Kuće u Veneciji stoje na milijunima drvenih stupova zabijenih u mulj. Pod vodom drvo ne trune jer nema zraka.|Die Häuser Venedigs stehen auf Millionen Holzpfählen im Schlamm. Unter Wasser fault das Holz nicht, weil keine Luft dran kommt.
+q|Na čemu stoje kuće u Veneciji?|Worauf stehen die Häuser in Venedig?
+a|Na drvenim stupovima|Auf Holzpfählen
+w|Na balonima|Auf Ballons
+w|Na ledu|Auf Eis
+f|Najpoznatiji most u Veneciji zove se Rialto i star je više od 400 godina.|Die berühmteste Brücke Venedigs heißt Rialto und ist über 400 Jahre alt.
+q|Kako se zove najpoznatiji most u Veneciji?|Wie heißt die berühmteste Brücke Venedigs?
+a|Rialto|Rialto
+w|Duga|Regenbogen
+w|Zlatna vrata|Goldenes Tor
+
+@w_zaljev|zaljev|p|Svjetleće more|Leuchtendes Meer|enter=zaljev|em=🌙|bg=#1a4ab8
+h|Otvara se portal u Lučkom gradu.|Das Portal ist in der Hafenstadt.
+f|More ponekad noću svijetli plavo. To rade sićušna bića planktona kad se voda pomakne.|Das Meer leuchtet manchmal nachts blau. Das machen winzige Lebewesen im Plankton, wenn sich das Wasser bewegt.
+q|Zašto more ponekad noću svijetli plavo?|Warum leuchtet das Meer manchmal nachts blau?
+a|Svijetle sićušna bića|Winzige Lebewesen leuchten
+w|Netko je upalio lampe|Jemand hat Lampen angemacht
+w|Odražava se Sunce|Die Sonne spiegelt sich
+f|Krijesnice su zapravo kornjaši. Svijetle zadnjim dijelom tijela da bi pozvale prijatelje.|Glühwürmchen sind eigentlich Käfer. Sie leuchten mit dem Hinterleib, um Freunde zu rufen.
+q|Što su zapravo krijesnice?|Was sind Glühwürmchen eigentlich?
+a|Kornjaši|Käfer
+w|Male zvijezde|Kleine Sterne
+w|Ptice|Vögel
+f|Svjetlo koje stvaraju živa bića zove se bioluminiscencija. To svjetlo gotovo ne grije.|Licht, das Lebewesen machen, heißt Biolumineszenz. Dieses Licht wird fast gar nicht warm.
+q|Kako se zove svjetlo koje stvaraju živa bića?|Wie heißt Licht, das Lebewesen erzeugen?
+a|Bioluminiscencija|Biolumineszenz
+w|Vatromet|Feuerwerk
+w|Duga|Regenbogen

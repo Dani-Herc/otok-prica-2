@@ -1,0 +1,702 @@
+3735|Za naljepnicu spoji sve bez greške
+3736|Naljepnice
+3737|Naljepnice dijele životinje s upitnikom iznad glave. 3 naljepnice: srebrna stranica i lupa. Svih 5: zlatna stranica
+3738|Moja opažanja
+3739|Promatraj je izbliza
+3740|Doba dana mijenjaš gumbom sa suncem. Sva 4 opažanja donose 50 zlatnika i lupu
+3741|encHead p
+3742|Tvoj naslov
+3743|naljepnice i opažanja
+3744|sljedeći naslov na
+3745|Škola
+3746|Škola od cigle sa zvonikom i zastavom
+3747|Školsko zvono
+3748|Riješi što više zadataka prije zvona
+3749|Mudrost: sova dobiva 8 sekundi više
+3750|Pekara
+3751|Bijela pekara s tendom i dimnjakom
+3752|Vruće pecivo
+3753|Izvadi pecivo iz peći točno kad je zlatno
+3754|Spretne šape: pandi je zlatno polje šire
+3755|Pošta
+3756|Žuta pošta s crvenim sandučićem
+3757|Brza pošta
+3758|Ubaci svako pismo u pravi sandučić
+3759|Brze noge: zec ima 9 sekundi više
+3760|Vatrogasni dom
+3761|Crveni dom s garažom i tornjem
+3762|Gasi vatru
+3763|Ugasi svaki plamen prije nego što se razbukta
+3764|Majstor vode: pingvinu plamen sporije raste
+3765|Veterinarska ambulanta
+3766|Bijela ambulanta s crvenim križem
+3767|Mali veterinar
+3768|Pronađi parove pacijenata u što manje poteza
+3769|Tihe šape: mačka na početku nakratko vidi sve kartice
+3770|Cvjećarna
+3771|Staklena cvjećarna s ružičastim krovom
+3772|Buket po narudžbi
+3773|Zapamti redoslijed cvijeća i složi buket
+3774|Vrtlar: ježu se narudžba pokazuje sporije i ima jedan pokušaj više
+3775|Muzej
+3776|Bijeli muzej sa stupovima
+3777|Što nedostaje
+3778|Zapamti izloške i otkrij koji je nestao
+3779|Oštro oko: lisica izloške gleda dulje
+3780|izložaka
+3781|grad
+3782|Zgrade iz grada
+3783|svaka ima svoju igru
+3784|Igra
+3785|Za zlato treba
+3786|Popločana staza
+3787|Kamena staza od knjižnice do zgrade
+3788|Ulične svjetiljke
+3789|Dvije svjetiljke pred ulazom, svijetle noću
+3790|Klupa i cvijeće
+3791|Klupa za odmor i rascvjetani grmovi
+3792|Zaselak
+3793|Selo
+3794|Mjestašce
+3795|Gradić
+3796|Grad
+3797|Dobro jutro iz mjesta
+3798|Stanovnici su ti ostavili
+3799|Razvoj otoka
+3800|sljedeće
+3801|na
+3802|Bodove donose pročitane knjige, zgrade iz grada, ukrasi i medalje iz igara u zgradama. Viša razina svaki dan donosi više zlatnika
+3803|Igraš kao
+3804|Za zlato dođi kao
+3805|još bez medalje
+3806|Još nisi igrala
+3807|Medalje
+3808|Igra se otključava kad pročitaš knjigu do kraja
+3809|Današnju nagradu već imaš. Igraj dalje za rekord
+3810|Prva igra dana donosi zlatnike
+3811|Uredi okoliš
+3812|Postavljeno
+3813|je postavljena
+3814|Rezultat je za zlato! Zlatnu medalju ovdje može osvojiti samo
+3815|Potraži je u Čarobnoj trgovini
+3816|Preobuci se u Ormaru
+3817|prva zlatna medalja
+3818|Današnja nagrada je već podijeljena. Rekord se i dalje pamti
+3819|Ups! −2 s
+3820|Izvadi
+3821|Pritisni kad je kazaljka u zlatnom polju
+3822|Zagorjelo! 0
+3823|Može proći. +1
+3824|Lijepo pečeno! +2
+3825|Savršeno zlatno! +3
+3826|žuta
+3827|Pismo za
+3828|kuća
+3829|Krivi sandučić! −3 s
+3830|Dodirni plamen prije nego što se razbukta. Tri promašaja i gotovo je
+3831|Pronađi par za svakog pacijenta. Manje poteza, više bodova
+3832|Potezi
+3833|Gledaj narudžbu
+3834|Sad ti! Složi buket istim redom
+3835|Buket je gotov
+3836|Kupac je otišao
+3837|Krivi cvijet! Nova narudžba
+3838|Zapamti izloške
+3839|Što je nestalo
+3840|Nestalo je
+3841|Lučki grad
+3842|Kapetanica Rita
+3843|Ravni grad uz more s dugim molom i tržnicom
+3844|Cvjetna dolina
+3845|Pastirica Runa
+3846|Valovita brda, trešnje u cvatu i jezerce s lopočima
+3847|Gorski kraj
+3848|Čuvarica Hukalica
+3849|Smrekova šuma pod snježnim vrhom s vidikovcem
+3850|Glavni otok
+3851|Iznad fontane na trgu. Popni se na rub i skoči
+3852|u šumarku
+3853|kraj ceste
+3854|blizu obale
+3855|na livadi
+3856|iza kuća
+3857|na rtu
+3858|s druge strane trga
+3859|Negdje
+3860|Na mostu prema glavnom otoku
+3861|Na kraju dugog mola, pod crveno-bijelim krovom
+3862|Dugi mol
+3863|Na dnu jezerca s lopočima. Zaroni
+3864|Jezerce s lopočima
+3865|Na vrhu vidikovca na snježnom brdu. Uđi i pusti vjetar da te digne
+3866|Vidikovac
+3867|Škrinja kraj puta
+3868|Škrinja u travi
+3869|Škrinja na obali
+3870|Gradska škrinja
+3871|Most prema glavnom otoku
+3872|Kamen za staze i dva lampiona
+3873|dijeli s tobom
+3874|Daske i staklo, taman za novu kuću
+3875|Cigle i crijep s obale
+3876|Svih deset ključića
+3877|ti poklanja svoje najljepše kamenje
+3878|Putujemo u
+3879|Pred tobom je
+3880|Pred tobom je glavni otok
+3881|Samo nastavi ravno
+3882|Most za
+3883|otvara se na razini
+3884|Sada si na razini
+3885|je otvoren! Nova četvrt čeka tvoje knjige
+3886|uđi
+3887|Zgrada je u četvrti
+3888|Preuređenu ćeš vidjeti kad dođeš tamo
+3889|uz obalu
+3890|kraj trga
+3891|ima
+3892|slobodnih mjesta. Građevina će rasti tamo dok čitaš, a izdaleka ćeš je vidjeti i odavde. Kad prijeđeš most, možeš ući u nju
+3893|Ovdje su sva mjesta zauzeta. Odaberi drugi kraj
+3894|Sljedeća četvrt
+3895|sada si na razini
+3896|Knjiga je posađena u četvrti
+3897|Prijeđi most da vidiš kako raste
+3898|Svi ključići su tu! Gradska škrinja na trgu je tvoja. I ne zaboravi: ovdje ima mjesta za još tvojih knjiga
+3899|Dobro došla u
+3900|Ja sam
+3901|Po četvrti je skriveno deset zlatnih ključića. Skupi ih i otvorit ćeš gradsku škrinju. A svaka nova knjiga može sagraditi zgradu baš ovdje
+3902|ključića. Strelica gore pokazuje najbliži
+3903|Zlatni ključić
+3904|Ključići
+3905|Svi ključići
+3906|Svih 10 zlatnih ključića! Gradska škrinja na trgu se otvara
+3907|Bravo! Strelica gore pokazuje put do najbližeg ključića
+3908|Most iza tebe vodi natrag na glavni otok
+3909|Gradska škrinja se otvara kad skupiš svih 10 zlatnih ključića
+3910|slavi
+3911|Dar četvrti
+3912|Skupila si sve ključiće. Stanovnici su ti napunili torbu blagom i kamenjem za gradnju
+3913|Natrag na glavni otok
+3914|Možeš se vratiti i pješice preko mosta ili morem. Sve što si ovdje sagradila ostaje
+3915|Vrati me na glavni otok
+3916|Dobro došla natrag na glavni otok
+3917|Zečevi žive na livadama i rubovima šuma. Pasu travu, a kad osjete opasnost, pobjegnu dugim skokovima
+3918|na pašnjaku
+3919|Ovce su životinje pašnjaka. Veći dio dana pasu travu i uvijek se drže stada
+3920|pod drvećem
+3921|Jež danju spava pod lišćem i granjem, a u sumrak izlazi tražiti kukce i puževe
+3922|u krošnjama
+3923|Papige žive među krošnjama. Gnijezde se u dupljama drveća, a jedu plodove i sjemenke
+3924|na drvetu
+3925|Sova danju miruje na grani uz deblo. Perje joj je boje kore, pa je gotovo nevidljiva
+3926|u plićaku
+3927|Patke žive uz mirnu, plitku vodu. Hranu traže tako da urone glavu, a rep im viri van
+3928|na plaži
+3929|Morske kornjače izlaze na pješčane plaže da u toplom pijesku polože jaja
+3930|među kućama
+3931|Mačke rado žive uz ljude. U lukama su stoljećima čuvale brodove i skladišta od miševa
+3932|uz vodu
+3933|Žabe žive uz slatku vodu. Koža im mora ostati vlažna, a jaja polažu u vodu
+3934|na snježnom otočiću
+3935|Pingvini žive uz hladna mora. Na kopnu se gegaju, a pod vodom plivaju kao da lete
+3936|u pustinji
+3937|Deve žive u pustinjama. U grbi čuvaju mast, a ne vodu, i mogu danima hodati bez pića
+3938|Repić
+3939|Mrkvica
+3940|Runa
+3941|Bjelka
+3942|Iglica
+3943|Šuško
+3944|Kiki
+3945|Zeleni
+3946|Huhu
+3947|Pjegava
+3948|Gaga
+3949|Pljusko
+3950|Oklopko
+3951|Pješčanka
+3952|Šapica
+3953|Mornar
+3954|Skočka
+3955|Kreko
+3956|10 zlatnika
+3957|Upoznala si sve stanovnike
+3958|Dobivaš 100 zlatnika, 2 lupe i kartu za igre
+3959|sjemenke mrkve
+3960|meku vunu
+3961|šumske bobice
+3962|zlatni grumen
+3963|dva svjetla
+3964|biser iz plićaka
+3965|morski kamen
+3966|izgubljene zlatnike
+3967|lopoče
+3968|Baš tebe čekam! Evo ti
+3969|zlatnika. Sutra dar čuva netko drugi
+3970|Vodič kroz staništa
+3971|Svaka životinja živi tamo gdje bi živjela i u prirodi. Priđi joj u istraživanju da je upišeš u vodič
+3972|Ovdje si upoznala sve
+3973|Za sve stanovnike: 100 zlatnika, 2 lupe i karta za igre
+3974|još nije stigla na otok
+3975|Današnji dar na ovom mjestu već imaš
+3976|Jedna životinja ovdje danas svjetluca: ima dar za tebe
+3977|Put napretka
+3978|otvara most za četvrt
+3979|Sve tri četvrti su otvorene
+3980|otvara svijet
+3981|kroz čarobni portal
+3982|Svi svjetovi iza portala su otvoreni
+3983|Niz čitanja
+3984|dana
+3985|S nizom od
+3986|dana dolazi
+3987|stiže idući dan kad čitaš
+3988|Sve životinje s otoka su stigle
+3989|Bodove donose knjige, zgrade iz grada, ukrasi, medalje, ključići i vodič
+3990|Otok je pravi grad
+3991|Razinu dižu čitanje i istraživanje, a ona otvara mostove i svjetove. Čitanje iz dana u dan dovodi životinje, a pročitane knjige grade zgrade s igrama
+3992|Vodič kroz staništa i put napretka
+3993|Kod nas živi
+3994|vrsta životinja, svaka na svom mjestu
+3995|Pronađi ih sve
+3996|Mornarska lisica
+3997|Plavo-bijela kao jedra u luci. Dar Lučkog grada
+3998|Trešnjina lisica
+3999|Ružičasta kao latice u Cvjetnoj dolini
+4000|Gorska lisica
+4001|Siva kao stijena pod snijegom Gorskog kraja
+4002|Skupila si sve ključiće
+4003|je sad tvoja i čeka te u Čarobnoj trgovini. Stanovnici su ti napunili i torbu blagom
+4004|Kada si čitala
+4005|čet
+4006|Jučer
+4007|Stranice će se upisati za
+4008|pa ti niz čitanja ostaje cijeli
+4009|Upisano za
+4010|Niz čitanja je sada
+4011|Tvoj tjedan čitanja
+4012|Zaboravila si upisati neki dan? Dodirni ga pa odaberi knjigu
+4013|Svaki dan je upisan. Bravo
+4014|rdDots button
+4015|Sad odaberi knjigu koju si tada čitala
+4016|Topli kruh
+4017|Buket cvijeća
+4018|ljekovito bilje
+4019|Ljekovito bilje
+4020|svježu ribu
+4021|Svježa riba
+4022|šišarke
+4023|Košara šišarki
+4024|Staklenka meda
+4025|Svjetiljka
+4026|Stara karta
+4027|knjižnica
+4028|u knjižnicu
+4029|most za Lučki grad
+4030|na most za Lučki grad
+4031|most za Cvjetnu dolinu
+4032|na most za Cvjetnu dolinu
+4033|most za Gorski kraj
+4034|na most za Gorski kraj
+4035|tržnica u Lučkom gradu
+4036|Kapetanici Riti na tržnicu
+4037|ribarima na Dugi mol
+4038|trg u Cvjetnoj dolini
+4039|Pastirici Runi na trg
+4040|jezerce s lopočima
+4041|žabama na jezerce
+4042|trg u Gorskom kraju
+4043|Čuvarici Hukalici na trg
+4044|stražaru na vidikovac
+4045|Pismo za Kapetanicu Ritu
+4046|Pismo za Čuvaricu Hukalicu
+4047|Pismo za Pastiricu Runu
+4048|Doručak za ribare
+4049|Kruh za stražara na vidikovcu
+4050|Užina za čuvara mosta
+4051|Buket za knjižnicu
+4052|Cvijeće za tržnicu
+4053|Bilje za čaj protiv kašlja
+4054|Bilje za ovčice
+4055|Lektira za male čitače
+4056|Knjiga za duge straže
+4057|Priče za mornare
+4058|Riba za ručak u dolini
+4059|Riba za gladne u gori
+4060|Šišarke za zbirku
+4061|Med za medenjake
+4062|Med za čaj u knjižnici
+4063|Svjetiljka za most
+4064|Svjetiljka za gorski most
+4065|Stara karta za knjižnicu
+4066|Karta nađena kod mosta
+4067|tvoja
+4068|u tvoju školu
+4069|u tvoju pekaru
+4070|u tvoju poštu
+4071|u tvoj vatrogasni dom
+4072|u tvoju ambulantu
+4073|u tvoju cvjećarnu
+4074|u tvoj muzej
+4075|Odnesi
+4076|Prijeđi most za Glavni otok
+4077|Prijeđi
+4078|Idi preko Glavnog otoka
+4079|je kod tebe! Odnesi
+4080|Sva tri zadatka su gotova: još 60 zlatnika i lupa
+4081|Hvala ti
+4082|Zadatak
+4083|Stanovnici danas imaju
+4084|za tebe. Traži zlatne znakove
+4085|Nosiš
+4086|Zadaci stanovnika
+4087|Stanovnici svaki dan trebaju pomoć. U istraživanju priđi zlatnom znaku da uzmeš stvar, pa je odnesi do zelenog znaka. Zadatak na drugom otoku pokazuje zelena zraka iznad njega
+4088|za današnju nagradu
+4089|Sve je obavljeno. Sutra stižu novi zadaci
+4090|Sva tri zadatka u danu donose još 60 zlatnika i lupu za enciklopediju. Ukupno obavljeno
+4091|Vrati stvar i odaberi drugi zadatak
+4092|Učiteljica Sova
+4093|Najstarija hrvatska tiskana knjiga otisnuta je 1483. godine, i to glagoljicom
+4094|Hrvatska abeceda ima 30 slova. Znaš li ih sva napamet
+4095|Sove mogu okrenuti glavu za čak 270 stupnjeva
+4096|Pekar Panda
+4097|Kruh naraste jer kvasac u tijestu stvara sitne mjehuriće plina
+4098|Crvene pande najviše jedu bambus, ali vole i slatko voće
+4099|Tijesto mora odmarati na toplom. Na hladnom kvasac spava
+4100|Poštar Zec
+4101|Prva poštanska marka na svijetu izdana je 1840. u Engleskoj
+4102|Nekad su poruke nosili golubovi pismonoše
+4103|Zec u trku može biti brži od 50 kilometara na sat
+4104|Vatrogasac Pingvin
+4105|Vatrogasce u Hrvatskoj zoveš na 193, a sve hitne službe na 112
+4106|Vatri treba zrak. Zato se mali plamen u tavi gasi poklopcem
+4107|Carski pingvini griju se tako da se stisnu u veliku skupinu
+4108|Doktorica Mačka
+4109|Odrasla mačka ima 30 zuba, a odrasli pas 42
+4110|Zdrav pas ima višu temperaturu od čovjeka, oko 38 i pol stupnjeva
+4111|Mačke prespavaju i do 16 sati na dan
+4112|Cvjećar Jež
+4113|Mladi suncokreti danju okreću glavicu za suncem
+4114|Pčele vide boje koje mi ne vidimo, pa cvijet njima izgleda drukčije
+4115|Jež na leđima ima više od 5000 bodlji
+4116|Kustosica Lisica
+4117|Riječ muzej dolazi od muza, grčkih zaštitnica umjetnosti
+4118|U Krapini je nađeno nalazište neandertalaca staro oko 130 000 godina
+4119|Lisica čuje miša čak i pod snijegom
+4120|Ploča
+4121|Peć
+4122|Šalter
+4123|Vatrogasno vozilo
+4124|Stol za preglede
+4125|Stol s cvijećem
+4126|Glavni izložak
+4127|PECIVO
+4128|Razgovaraj
+4129|Otvori knjigu
+4130|Knjiga zgrade
+4131|Izađi van
+4132|Prvo siđi, pa uđi na vrata
+4133|te čeka
+4134|čitaonica knjige „
+4135|Lijepo te je vidjeti
+4136|Evo ti 10 zlatnika za danas
+4137|Igra te čeka
+4138|Kad pročitaš knjigu do kraja, ovdje te čeka igra
+4139|U sobi se ne gradi. Izađi van pa gradi koliko želiš
+4140|brza karta
+4141|Pristanište
+4142|Trg
+4143|Jezerce
+4144|Brza karta stoji
+4145|zlatnika. S pristaništa je vožnja besplatna
+4146|Brod te dovezao
+4147|Stigla si
+4148|Karta otočja radi na Otoku priča i u četvrtima
+4149|razina
+4150|Karta otočja
+4151|Brod te besplatno vozi do svakog mjesta koje si već otkrila
+4152|zlatnika. S pristaništa je vožnja brodom besplatna
+4153|Otvara se na razini
+4154|Prvo prijeđi most pa ćeš moći i brodom
+4155|Crveni trokut pokazuje gdje si sada. Plavi krugovi su pristaništa, žuti ostala mjesta
+4156|Brod: kamo ploviš
+4157|Brod je pristao
+4158|nad obalom
+4159|Galebovi žive uz more. Mogu piti i slanu vodu, a višak soli izbace kroz nosnice
+4160|na žalu
+4161|Rak hoda postrance jer mu se noge savijaju u stranu. Kad naraste, odbaci stari oklop i napravi novi
+4162|pod smrekama
+4163|Vjeverica u jesen zakopava orahe i sjemenke. One koje zaboravi ponekad izrastu u nova stabla
+4164|u gorskoj šumi
+4165|Jelen
+4166|Jelenu rogovi svake godine otpadnu pa narastu novi. Košuta, njegova ženka, rogove nema
+4167|iznad cvijeća
+4168|Leptir okus osjeća nogama. Prije nego što dobije krila, živi kao gusjenica pa kao kukuljica
+4169|na cvijetu
+4170|Pčela
+4171|Pčela drugim pčelama plesom pokaže gdje je cvijeće. Za žlicu meda treba obići tisuće cvjetova
+4172|Krik
+4173|Bjelko
+4174|Lješnjak
+4175|Repka
+4176|Rogan
+4177|Šumko
+4178|Šarenko
+4179|Lepršavka
+4180|Latica
+4181|Zujka
+4182|Medena
+4183|Svečana lisica
+4184|Sajam
+4185|Štandovi, zastavice i baloni
+4186|Koncert
+4187|Životinje sviraju na maloj pozornici
+4188|Lampionska večer
+4189|Lampioni lebde nad trgom
+4190|Crvena i zlatna kao zastavice na trgu. Dar za tri svečanosti
+4191|Svečanosti
+4192|do nedjelje navečer
+4193|Nagradu već imaš
+4194|Skupi osam svečanih balona na trgu
+4195|Sljedeća svečanost
+4196|Počinje
+4197|u petak
+4198|na trgu
+4199|Nagradu već imaš, ali glazba svira dalje
+4200|Skupi svih osam svečanih balona
+4201|Treća svečanost: Svečana lisica je tvoja
+4202|Svih osam balona
+4203|ti donosi 60 zlatnika i kartu za igre
+4204|do Svečane lisice
+4205|Svečani balon
+4206|od 8! +5 zlatnika
+4207|Svečanost je u tijeku
+4208|Svečanosti na trgu
+4209|Obavljenih svečanosti
+4210|Treća donosi izgled Svečana lisica
+4211|Razglednice
+4212|Običan
+4213|Topli
+4214|Stari film
+4215|Crno-bijeli
+4216|Čarobni svijet
+4217|Povuci prstom ili mišem da okreneš pogled, pa pritisni okrugli gumb
+4218|Album je pun
+4219|Nema više mjesta za slike na ovom uređaju. Obriši koju staru razglednicu
+4220|Razglednica je u dnevniku
+4221|Prva s ovog mjesta: +15 zlatnika
+4222|Fotoaparat se zaglavio. Pokušaj još jednom
+4223|Ovdje su razglednice koje si sama snimila. Fotoaparat radi na otoku i u istraživanju
+4224|Uključi fotoaparat
+4225|Dodirni razglednicu da je povećaš, spremiš ili obrišeš
+4226|Još nema razglednica. Nađi lijep pogled i snimi prvu
+4227|Razglednica
+4228|Spremi sliku
+4229|Natrag u dnevnik
+4230|Ako se slika ne spremi gumbom, zadrži prst na njoj ili je klikni desnom tipkom
+4231|Stvarno obriši
+4232|Fotoaparat
+4233|Tko sam ja? Dođi pješice pa ćeš saznati
+4234|Odozgo me ne možeš upoznati. Pritisni Istraži i priđi mi
+4235|Psst! Upoznat ćemo se kad dođeš do mene s Ridom
+4236|Ovu životinju još nisi upoznala. Pritisni Istraži i priđi joj
+4237|Priđi bliže da se upoznamo
+4238|Oruđa i čarolije
+4239|Kockice u ruci
+4240|tgOn
+4241|tgOff
+4242|Čarolije i oruđa dobivaš u Radionici i Čarobnoj trgovini
+4243|Dolje je tvoja traka. Dodirni mali čarobni štapić na njoj i otvorit će se oruđa i čarolije
+4244|Dolje je tvoja traka. Tipke 1 do 9 biraju mjesto, a tipka Q mijenja kockice i čarolije
+4245|shHero th
+4246|mmQ th
+4247|Još toga
+4248|leaf ao
+4249|most daleko
+4250|SI
+4251|JI
+4252|JZ
+4253|SZ
+4254|Zadatak stanovnika
+4255|Dostava
+4256|Put kući
+4257|"Baloo 2", system-ui, sans-serif
+4258|Trg portala
+4259|Gusarska uvala
+4260|Tropski otočići, gusarsko selo s krčmom, brod Crni galeb, olupina, laguna s koraljima i topovi koji te ispaljuju preko mora
+4261|Otok svjetionika
+4262|Stjenoviti otok u sumrak: visoki svjetionik koji se ugasio, tuljani na stijenama i plimne lokve pune rakova
+4263|Grad na kanalima
+4264|Šareni grad na vodi: gondole, stotinu mostića, karneval s maskama i trgovi puni golubova
+4265|Svjetleći zaljev
+4266|Noćna plaža na kojoj more svijetli plavim sjajem, kornjačice se legu, a krijesnice plešu nad dinama
+4267|Divovski vrt
+4268|Rida je malena kao bubamara! Vlati trave visoke kao stabla, kapi rose kao lopte, košnica i puževa kućica
+4269|Vilinska šuma
+4270|Šuma u vječnom sumraku: svjetleće gljive, vilinske kućice u deblima, jednorog i krugovi od cvijeća
+4271|Slatkišna zemlja
+4272|Rijeka od čokolade, lizalice umjesto drveća, kućice od medenjaka i oblaci od šećerne vune
+4273|Jesenska žetva
+4274|Zlatna dolina u jesen: labirint u kukuruzu, vjetrenjača, bundeve velike kao kuće i voćnjak pun jabuka
+4275|Kristalne dubine
+4276|Ispod planine: špilje pune kristala, podzemno jezero, rudnička kolica i crvići koji svijetle u mraku
+4277|Zmajevi vrhovi
+4278|Planine koje lebde u oblacima, viseći mostovi, slapovi i gnijezda malih zmajeva
+4279|Pustinjski kanjon
+4280|Crveni kanjon, oaza s palmama, stari hram u stijeni i dine po kojima se kliže
+4281|Mjesečeva postaja
+4282|Raketom na Mjesec! Ovdje skačeš visoko kao nikad. Krateri, svemirska postaja i Zemlja na nebu
+4283|Sve pronađeno ✓
+4284|Ovaj svijet još gradimo. Uskoro se otvara
+4285|trg portala
+4286|Natrag u
+4287|Sve što si skupila ostaje tvoje, a ovamo se vraćaš kroz portal na Trgu portala
+4288|Vrati me u
+4289|Banana
+4290|Dragulj
+4291|Paket
+4292|Dodirni ga i jaši! Čekat će te i na glavnom otoku, kraj mosta za
+4293|Tu nešto ima! Ostani na mjestu i Rida će kopati
+4294|Utrka
+4295|Prođi kroz svih
+4296|obruča za
+4297|sekundi
+4298|Bravo! Stigla si na vrijeme
+4299|Vrijeme je isteklo! Vrati se na svjetleći krug na startu i probaj opet
+4300|Točno! Nešto se otvorilo
+4301|Ups, krivi redoslijed. Kreni ispočetka
+4302|Trg portala! Četiri portala vode u četiri nova svijeta. Prođi kroz portal i vidi kamo vodi
+4303|CircleGeometry
+4304|Gusarska lisica
+4305|Hrđavo narančasta, s tamnim čizmama i crvenom maramom. Za njom svjetlucaju zlatni dukati
+4306|Zlatni dukati
+4307|Iza Ride se kotrljaju i svjetlucaju zlatni dukati
+4308|Majmunčić Koko
+4309|Nestašni majmunčić iz gusarskog sela. Skakuće po palmama i krade banane kuharici Mici
+4310|S palmi donosi kokose i zlatnike
+4311|Majmunski skokovi
+4312|Koko skače dvostruko: skoči, pa u zraku skoči još jednom
+4313|Koko te nosi! Skoči dvaput zaredom za majmunski skok
+4314|Tukan Kljunko
+4315|Šareni tukan s atola. Kljun mu je velik kao banana, a lagan kao pero
+4316|S mora donosi školjke i bisere
+4317|Tukanov let
+4318|Kljunko raširi krila i letite iznad mora! Skok je gore, Roni je dolje
+4319|Kljunko leti! Skok je gore, Roni je dolje
+4320|Dukat
+4321|Bim-bam-bum-bom! Zvona su zazvonila pravim redom i vrata male kule su se otvorila
+4322|Ups, zvona nisu zazvonila pravim redom. Pogledaj zastavice na zidu i kreni ispočetka
+4323|U maloj kuli u utvrdi. Zazvoni zvonima redom kao što pokazuju zastavice na zidu
+4324|BUM! Top te ispalio prema visokoj hridi
+4325|Riznica utvrde
+4326|Stara utvrda
+4327|Na krovu krčme Kod sidra. Popni se po bačvama sa strane
+4328|Krčma Kod sidra
+4329|Škrinja u gusarskoj kolibi
+4330|Gusarsko selo
+4331|Gusarski mol
+4332|U špilji u Otoku lubanje. Uđi kroz usta, između zubi
+4333|Blago u lubanji
+4334|Otok lubanje
+4335|U potpalublju olupine na pješčanom sprudu. Uđi kroz rupu u palubi
+4336|Škrinja iz olupine
+4337|Olupina
+4338|Na dnu lagune u atolu, među koraljima. Zaroni
+4339|Zakopano pod velikim crvenim X-om na atolu. Stani na X i kopaj
+4340|Kopaš, kopaš... i eno ga! Nešto zlatno svjetluca u pijesku
+4341|Škrinja na atolu
+4342|Atol
+4343|Na vrhu visoke hridi na sjeverozapadu. Do nje te nosi top iz utvrde
+4344|BUM! Natrag prema gusarskom selu
+4345|Visoka hrid
+4346|Na vrhu promatračnice na pristaništu. Popni se po bačvama
+4347|BUM! Top te nosi do olupine na sprudu
+4348|U sanduku na kraju Gusarske utrke. Utrka počinje kod zlatnog kruga na sjeveru pristaništa
+4349|Gusarska utrka
+4350|Bravo, stigla si na vrijeme! Sanduk na cilju se otvorio
+4351|s crow
+4352|Na košu na jarbolu broda Crni galeb. Stani kraj jarbola i vjetar te digne
+4353|Gusarske daske i bačve. Sagradi si svoj mol
+4354|Zlato iz Otoka lubanje! Gusari su ga skrivali baš ovdje
+4355|Iz olupine: daske, staklo i jedan biser iz školjke
+4356|Koralji i biseri s atola
+4357|Kapetanova škrinja s broda Crni galeb! Platno za jedra i malo zlata
+4358|Pravo gusarsko blago! Riznica utvrde je tvoja
+4359|Brod Crni galeb
+4360|Kapetan Kliješto
+4361|Stara Morska
+4362|Mornar Brko
+4363|Kuharica Mica
+4364|Pirat Ribica
+4365|Kapetanica Perla
+4366|Ara
+4367|Kokos
+4368|Mango
+4369|Kliško
+4370|Krilaš
+4371|Vjetrić
+4372|Val
+4373|Banana za Koka
+4374|Hi-hi! Ja sam Koko! Kuharica Mica je sakrila banane na sanduke po selu. Doneseš mi četiri? Onda ćemo zajedno skakati po palmama
+4375|Njam, njam, banane! Najbolji si prijatelj na svijetu! Popni se, skakat ćemo dvostruko
+4376|Majmuni se njišu po granama držeći se rukama, a neki i repom, kao da imaju petu ruku
+4377|Školjka za Kljunka
+4378|Kre-kre! Ja sam Kljunko. Gradim gnijezdo od najljepših školjki, ali val mi ih je raznio na četiri otoka: pristanište, sprud s olupinom, Otok lubanje i istočnu plažu. Doneseš mi ih
+4379|Kakve divne školjke! Gnijezdo je gotovo. Hvala ti! Hoćeš letjeti sa mnom iznad mora
+4380|Tukanov kljun izgleda težak, ali je lagan kao spužva jer je iznutra pun zraka
+4381|Stara utvrda! Iza zlatne rešetke je riznica. Zastavice na zidu pokazuju kojim redom treba zazvoniti zvonima
+4382|Otok lubanje! Usta su ulaz u špilju
+4383|Brod Crni galeb! Kraj prednjeg jarbola puše vjetar koji te digne do koša
+4384|Atol! Unutra je plitka laguna s koraljima, a na istočnoj dini nešto je zakopano pod X-om
+4385|Zlatna rešetka riznice je otvorena! Utvrda je na brdu, iznad sela. Blago je tvoje, mornarko
+4386|Svih deset dukata! Rešetka se otvara
+4387|Ahoj, mala lisice! Ja sam Kapetan Kliješto. Oluja je raznijela deset zlatnih dukata iz riznice stare utvrde po cijeloj uvali. Nađi ih i zlatna rešetka riznice će se otvoriti! Preko mosta je Otok lubanje sa selom, brodom i utvrdom, a na moru su olupina, atol i visoka hrid. Zlatne ploče kraj topova ispaljuju te preko mora
+4388|dukata
+4389|Savjet
+4390|A u uvali ima i prijatelja kojima treba pomoć
+4391|zakopano blago
+4392|Zlatni dukat
+4393|Dukati
+4394|Svi dukati
+4395|Svih 10 zlatnih dukata! Zlatna rešetka u riznici utvrde se otvara
+4396|Prvi dukat! Kompas na vrhu pokazuje put do najbližeg
+4397|Gusarska uvala! Dukati
+4398|Kapetan Kliješto te čeka na pristaništu
+4399|S visine se vidi mnogo dalje. Zato su mornari stajali na visokim promatračnicama i jarbolima s dalekozorom u ruci
+4400|Mornari su na dugim plovidbama jeli dvopek, kruh pečen dvaput. Bio je tako tvrd da se nije kvario mjesecima
+4401|Gusarska zastava s lubanjom zove se Jolly Roger. Gusari su je dizali da ih drugi brodovi prepoznaju izdaleka
+4402|Mjesto za promatrača na vrhu jarbola zove se koš. Odande se brod na pučini vidi i do dvadeset kilometara daleko
+4403|Na dnu mora leže tisuće starih olupina. Ronioci ih proučavaju jer otkrivaju kako su ljudi nekad gradili brodove i plovili
+4404|Koraljne grebene grade sićušne životinjice koje se zovu koralji. Grebeni rastu toliko polako da su veliki grebeni stari tisućama godina
+4405|Visoke stijene usred mora zovu se hridi. Valovi ih stoljećima udaraju i polako oblikuju, kamenčić po kamenčić
+4406|Gusari su vrlo rijetko zakapali blago. Ali priče o kartama s velikim X-om toliko su lijepe da ih pričamo i danas
+4407|Na brodovima se zvonom mjerilo vrijeme. Svakih pola sata mornar bi udario u zvono, pa su svi znali kad je smjena
+4408|Papige mogu doživjeti više od pedeset godina, a neke nauče izgovarati i desetke riječi
+4409|Ovo je Crni galeb, najbrži brod u uvali! Popni se na palubu
+4410|Kraj prednjeg jarbola uvijek puše vjetar. Uhvati ga i odnijet će te gore u koš
+4411|U kapetanovoj kabini na krmi stoji škrinja. Samo tiho, kapetanica spava
+4412|Dobro došla u krčmu Kod sidra! Danas kuham juhu od kokosa
+4413|Onaj nestašni Koko mi stalno krade banane
+4414|Kažu da se s krova krčme vidi cijelo selo. Popni se po bačvama
+4415|Arr! Ja sam najmanji gusar u uvali, ali najglasniji
+4416|Jesi li probala topove? BUM, i letiš preko mora
+4417|Ova utvrda čuva riznicu već sto godina
+4418|Zvona zvone pravim redom samo ako slušaš zastavice na zapadnom zidu: plava, crvena, bijela, žuta
+4419|Plivam ovim morem već dvjesto godina, dušo
+4420|Morske kornjače se uvijek vraćaju na plažu na kojoj su se izlegle. Čudesno, zar ne
+4421|Na atolu je laguna. Zaroni i vidjet ćeš koralje svih boja
+4422|Dukati! Dukati! Kra
+4423|Kapetan Kliješto! Kapetan Kliješto
+4424|Ahoj, mornarko! Ahoj
+4425|Klik-klak! Hodam bočno, a ti
+4426|Pazi, ne staj mi na kliješta
+4427|Pijesak je topao, baš kako volim
+4428|Kri-kri! Ovo je moj kamen
+4429|Vidjela sam iz zraka nešto zlatno na atolu
+4430|Iii-iii! Uhvati me ako možeš
+4431|Zlatna rešetka čuva riznicu. Skupi svih 10 zlatnih dukata
+4432|Uvala slavi
+4433|Blago utvrde
+4434|Gusarska lisica i trag Zlatnih dukata sad su tvoji. A kapetan kaže da si najbolja mornarka u uvali
+4435|Lisica u kabanici
+4436|Žuta kišna kabanica i plave čizme. Ni oluja je ne može zaustaviti

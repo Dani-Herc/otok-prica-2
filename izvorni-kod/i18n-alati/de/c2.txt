@@ -1,0 +1,462 @@
+1639|Stell dich ans Wasser und tipp den Stab auf der Leiste an. Das Eis schmilzt nach einer halben Minute
+1640|Mammutbaby Kosko
+1641|Ein kleines Mammut aus dem Eiskönigreich. Sein Fell ist warm, aber sein Rüssel friert ständig ein
+1642|Gräbt blaues Eis und Goldmünzen aus dem Schnee
+1643|Rentier Zvjezdan
+1644|Sein Geweih leuchtet wie Sterne, und wenn es springt, schwebt es durch die Luft
+1645|Bringt Sternenstaub und Zaubersamen
+1646|Eisbärchen Grudko
+1647|Ein kleiner weißer Bär mit blauem Schal. Er liebt Fisch und Bauchrutschen
+1648|Bringt Perlen aus dem Meer
+1649|Mammutritt
+1650|Kosko trägt dich durch den Schnee. Wenn er landet, bebt die Erde und der Schnee fliegt hoch
+1651|Sternenflug
+1652|Zvjezdan läuft schneller als der Wind. Halte in der Luft Springen, und ihr schwebt zwischen den Sternen
+1653|Bärenrutschen
+1654|Grudko trägt dich und rutscht auf dem Eis auf dem Bauch wie eine Rakete
+1655|Kosko trägt dich! Wenn er landet, fliegt der Schnee hoch
+1656|Zvjezdan saust los! Spring und halte Springen, dann schwebt ihr
+1657|Grudko trägt dich! Auf dem Eis rutscht er wie eine Rakete
+1658|Brrr! Ich bin Kosko. Mir ist so kalt, dass mein Rüssel eingefroren ist! An den heißen Quellen glänzen warme Steinchen. Bringst du mir drei
+1659|Warmes Steinchen
+1660|Warm! Mein Rüssel ist aufgetaut! Danke, jetzt sind wir Freunde. Steig auf, ich trage dich
+1661|Pssst... Ich bin Zvjezdan. Mein Geweih leuchtet nur, wenn ich leuchtende Flechte fresse. Im Wald wachsen fünf Stück. Hilfst du mir
+1662|Leuchtende Flechte
+1663|Schau, mein Geweih leuchtet wieder! Danke. Spring auf meinen Rücken, wir fliegen los
+1664|Ich bin Grudko! Ich habe Hunger, aber die Fische springen zu schnell aus dem Eisloch für mich. Fängst du mir drei? Tipp einen Fisch an, während er auf dem Eis zappelt
+1665|Fisch für Grudko
+1666|Mjam, mjam! Der beste Fisch der Welt! Jetzt sind wir Freunde. Willst du mit mir rutschen
+1667|Auf dem Hut des Riesenschneemanns. Kletter über die Schneekugeln um ihn herum
+1668|Oben auf dem Eisturm mitten im zugefrorenen See. Rutsch zu ihm hin
+1669|Tief in der Eishöhle, auf einer Eissäule. Geh von der Ostseite des Berges hinein
+1670|Truhe der Eishöhle
+1671|Oben auf dem Rodelberg. Von oben geht's die Eisrutsche hinunter
+1672|Rodeltruhe
+1673|Oben auf der Sternwarte. Nimm den Weg, der sich um den Turm windet
+1674|Im Herzen des Eislabyrinths. Der Eingang ist auf der Südseite
+1675|Truhe im Labyrinth
+1676|Auf einem hohen Felsen beim Geysir. Stell dich auf den Geysir, wenn er sprudelt, dann fliegst du hoch
+1677|Warme Truhe
+1678|Oben auf der Alten Fichte im Wald. Die Treppe windet sich um den Stamm
+1679|Waldtruhe
+1680|Hinter dem Gefrorenen Wasserfall versteckt sich eine kleine Höhle. Geh durch den Spalt an der Seite hinein
+1681|Im größten Iglu im Igludorf. Der Eingang ist auf der Südseite
+1682|Truhe im Iglu
+1683|Schneewiese
+1684|Riesenschneemann
+1685|Zugefrorener See
+1686|Eishöhle
+1687|Rodelberg
+1688|Eislabyrinth
+1689|Heiße Quellen
+1690|Mammuttal
+1691|Fichtenwald
+1692|Gefrorener Wasserfall
+1693|Igludorf
+1694|Eispalast
+1695|Schatz des Eispalasts
+1696|Die Eishöhle hütet das schönste blaue Eis. Bau daraus etwas auf deiner Insel
+1697|Eisrutsche! Bau sie auf der Insel einen Hügel hinunter und saus hinab wie eine Rakete
+1698|Du hast den Weg durchs Labyrinth gefunden! Nicht einmal Kaiser Mrazko kennt ihn auswendig
+1699|Die heißen Quellen wärmen das ganze Tal. Diese Truhe ist sogar ein bisschen warm
+1700|Duftende Fichtenzweige aus dem Eiskönigreich
+1701|Hinter den Wasserfall schaut nie jemand. Außer dir
+1702|Bau auch du ein Iglu auf deiner Insel
+1703|Zehn Schneekristalle haben dem Eispalast seinen Glanz zurückgegeben. Das Polarlicht strahlt jetzt für dich
+1704|Kaiser Mrazko
+1714|Fische springen aus dem Eisloch und zappeln. Tipp einen Fisch an, bevor er zurückspringt
+1715|Sie funkeln, deshalb siehst du sie leicht
+1716|Tipp es an und reite! Es wartet auch auf der Geschichteninsel auf dich, beim Zauberportal
+1717|Fisch +1
+1718|He, das ist mein Fisch! Komm zu mir
+1719|Der Geysir schleudert dich hoch! Steuer in der Luft zum Felsen
+1720|Die Tore des Eispalasts sind offen! Der Palast liegt im Norden, hinter dem zugefrorenen See. Der Schatz wartet im Thronsaal auf dich
+1721|Alle Kristalle sind da! Die Palasttore öffnen sich
+1722|Willkommen im Eiskönigreich! Ich bin Kaiser Mrazko. Ein Schneesturm hat zehn Schneekristalle aus der Krone des Eispalasts verweht. Ohne sie öffnen sich die Tore nicht, und das Polarlicht verblasst. Hilfst du uns
+1723|Kristalle. Siehst du, wie das Polarlicht stärker wird? Der Pfeil oben zeigt den nächsten Kristall. Vorsicht, das Eis ist glatt
+1724|Im Tal leben auch Tiere, die Hilfe brauchen
+1725|Juhuu! Eis ist das Beste zum Rutschen
+1726|Kaiser Mrazko ist der klügste Pinguin der Welt
+1727|Hast du gesehen, wie die Fische aus dem Eisloch springen
+1728|Das Polarlicht wird mit jedem Kristall stärker
+1729|Wir Pinguine fallen nie hin. Na ja, fast nie
+1730|Hopp! Im Sommer bin ich braun und im Winter weiß wie Schnee
+1731|Danke, dass du mir hilfst
+1732|Hier ist kein Wasser zum Einfrieren. Stell dich ans Meer oder an einen See
+1733|Das Wasser ist gefroren! Das Eis schmilzt in einer halben Minute
+1734|Juhuu! Die Eisrutsche trägt dich immer schneller. Versuch, durch die goldenen Ringe zu fliegen
+1735|Zvjezdan schwebt! Solange du Springen hältst, gleitet ihr langsam durch die Luft
+1736|Alle goldenen Ringe! +25 Goldmünzen
+1737|Mmm, warm! Diese Quellen wärmen das ganze Tal
+1738|Das Eis ist glatt! Rida rutscht, also fang früher an und bremse langsam
+1739|Kristalle
+1740|Alle Kristalle
+1741|Alle 10 Schneekristalle! Das Polarlicht strahlt, und die Tore des Eispalasts öffnen sich
+1742|Bravo! Der Pfeil oben zeigt den nächsten Kristall. Jeder Kristall gibt dem Polarlicht Glanz zurück
+1743|Eiskönigreich! Kristalle
+1744|Kaiser Mrazko wartet beim Portal auf dich
+1745|Das Eis hält die Truhe verschlossen. Sammle alle 10 Schneekristalle
+1746|Das Eiskönigreich ist gerettet
+1747|Die Polarfüchsin, das Polarlicht und der Eisstab gehören jetzt dir. Mit dem Stab kannst du das Meer gefrieren lassen und darauf laufen, sogar auf der Geschichteninsel
+1748|Tippen zum Überspringen
+1749|Geschichtenstern
+1750|Goldmünzen · +1 Ticket
+1751|Dieser Stern bewahrt die Erinnerung an das Buch „
+1752|“. Jedes gelesene Buch lässt einen auf der Insel zurück
+1753|Geschichtenstern! Jedes gelesene Buch lässt einen auf der Insel zurück
+1754|ist geworden
+1755|auf deiner Insel
+1756|Fertig! Schau, was gewachsen ist
+1757|Bravo! Ein ganzes Buch
+1758|Juhuuu! Die Insel ist wieder größer
+1759|Ein Geschichtenstern ist irgendwo auf die Insel gefallen! Drück auf Erkunden und finde ihn
+1760|Siehst du den goldenen Strahl? Dort ist ein Geschichtenstern gefallen. Lass ihn uns suchen
+1761|Ton
+1762|Ton einschalten
+1763|Alles stumm
+1764|Musik
+1765|Eine leise Melodie, die sich mit der Tageszeit und der Welt ändert
+1766|Natur
+1767|Meer, Wind, Vögel, Wasserfall, Grillen in der Nacht, Tropfen in der Höhle
+1768|Effekte und Schritte
+1769|Schritte auf Gras, Sand, Schnee, Holz und Stein
+1770|Am schönsten mit Kopfhörern
+1771|Ton und Musik
+1772|Tippen für die nächste Nachricht
+1773|Eine versunkene Stadt mit Glaskuppeln, ein Korallenriff mit einer Riesenmuschel, ein Algenwald, ein gesunkenes Schiff, ein singender Wal und ein tiefer Graben mit leuchtenden Quallen. Hier leben ein Seepferdchen, ein Mantarochen und ein Krake
+1774|Meeresfüchsin
+1775|Türkis wie seichtes Meer, mit Perlenbauch. Hinter ihr steigen Blasen auf
+1776|Hinter Rida steigen glänzende Blasen auf, an Land und unter Wasser
+1777|Zauberblase
+1778|Eine Blase um den Kopf: Rida atmet eine ganze Minute unter Wasser, schwimmt schneller und schwebt, wohin sie will. Funktioniert auch auf der Geschichteninsel
+1779|Tipp die Blase auf der Leiste an und tauch ab. Sie hält eine Minute
+1780|Seepferdchen Mjehurko
+1781|Klein, orange und sehr neugierig. Wenn es lacht, kommen Blasen aus seinem Schnäuzchen
+1782|Bringt bunte Korallen
+1783|Manta Zvjezdica
+1784|Riesig und sanft. Auf ihrem Rücken leuchten Pünktchen wie Sterne, und sie schwimmt, als würde sie fliegen
+1785|Bringt Perlen aus der Tiefe
+1786|Krake Osmica
+1787|Hat acht Arme und sammelt alles, was glänzt. Versteckt sich am besten von allen im Meer
+1788|Bringt Goldmünzen und Meeresziegel aus dem gesunkenen Schiff
+1789|Seepferdchengalopp
+1790|Mjehurko saust durchs Wasser, und hinter euch bleibt eine Blasenspur
+1791|Mantaflug
+1792|Zvjezdica gleitet durchs Meer wie ein Vogel. Drück an der Oberfläche Springen, und ihr fliegt aus dem Wasser
+1793|Osmicas Wirbel
+1794|Osmica trägt dich mit acht Armen, und wenn sie schneller wird, bleibt hinter euch ein Tintenwölkchen
+1795|Mjehurko trägt dich! Hoch und Tauchen bringen euch rauf und runter
+1796|Zvjezdica breitet die Flügel aus! Drück an der Oberfläche Springen, und ihr fliegt aus dem Wasser
+1797|Osmica hält dich mit acht Armen fest! Wenn ihr saust, bleibt Tinte hinter euch
+1798|Hallo! Ich bin Mjehurko. Die Strömung hat drei bunte Muschelchen in den Algenwald getragen, westlich von hier. Hilfst du mir, sie zu finden
+1799|Buntes Muschelchen
+1800|Meine Muschelchen! Danke! Jetzt sind wir beste Freunde. Halt dich an mir fest, los geht's
+1801|Oje, ich habe mich in einem alten Fischernetz verheddert! Ich bin Zvjezdica. Tipp die vier Knoten um mich herum an, dann fällt das Netz auseinander
+1802|Netzknoten
+1803|Ich bin frei! Danke, kleine Füchsin. Steig auf meinen Rücken, ich zeige dir, wie Mantas fliegen
+1804|Psst, hier unten! Ich bin Osmica. Die Wellen haben den Schatz aus der Kapitänstruhe verstreut, vier alte Goldmünzen rund um das Schiff. Bringst du sie mir zurück
+1805|Alte Goldmünze
+1806|Mein Schatz! Danke, danke, danke, danke! Das sind acht Danke, eins für jeden Arm. Jetzt kann ich dich tragen
+1807|Auf dem Balkon des Leuchtturms, über dem Meer. Steig die Treppe um den Turm hinauf
+1808|Oben auf dem Korallenturm in der Kuppelstadt. Schwimm am Turm hinauf
+1809|Schatz des Perlentempels
+1810|In der Riesenmuschel auf dem Korallenriff. Warte, bis sie sich öffnet
+1811|Truhe vom Riff
+1812|Im Felsen mitten im Algenwald. Schwimm durch die kleine Öffnung auf der Südseite hinein
+1813|In der Kapitänskajüte des gesunkenen Schiffs, auf dem Tisch. Die Kajütentür zeigt zum Bug
+1814|Kapitänstruhe
+1815|Tief in der Perlenhöhle, auf einer lila Säule. Der Eingang ist auf der Ostseite des Hügels
+1816|Truhe der Perlenhöhle
+1817|Am Grund des Tiefen Grabens, wo die Quallen leuchten. Tauch bis ganz nach unten
+1818|Truhe aus der Tiefe
+1819|Oben auf dem Steinbogen. Die Blasen aus der Quelle tragen dich hinauf
+1820|In der Delfinarena. Schwimm durch alle 12 goldenen Ringe, und die Perle erscheint auf der Säule
+1821|Auf dem Rücken des Singenden Wals, der langsam um die Stadt schwimmt. Schwimm zu ihm
+1822|Kuppelstadt
+1823|Korallenturm
+1824|Perlentempel
+1825|Korallenriff
+1826|Algenwald
+1827|Perlenhöhle
+1828|Tiefer Graben
+1829|Steinbogen und Blasenquellen
+1830|Delfinarena
+1831|Der Schatz des Leuchtturmwärters! Bau auch du einen Leuchtturm auf deiner Insel
+1832|Korallen in allen Farben! Auf der Insel sehen sie aus wie ein kleines Riff
+1833|Die Kapitänstruhe voller altem Gold. Arrr
+1834|Die Perlenhöhle funkelt wie der Nachthimmel
+1835|Vom tiefsten Ort im Meer. Niemand vor dir war hier
+1836|Zehn leuchtende Perlen haben dem Perlentempel seinen Glanz zurückgegeben. Die ganze Unterwasserstadt dankt dir
+1838|Schildkröte Lunja
+1844|Die alte Ola
+1846|Tipp es an und reite! Es wartet auch im Meer bei der Geschichteninsel auf dich
+1847|Die Tore des Perlentempels sind offen! Der Tempel liegt am Nordende der Kuppelstadt, hinter den Säulen. Der Schatz wartet drinnen
+1848|Alle Perlen sind da! Der Tempel erwacht
+1849|Willkommen, kleine Füchsin! Ich bin die Schildkröte Lunja und hüte diesen Leuchtturm schon seit hundert Jahren. Ein Sturm hat zehn leuchtende Perlen aus dem Perlentempel unten auf dem Meeresgrund verstreut. Ohne sie bleiben die Tore des Tempels verschlossen. Hab keine Angst vor dem Wasser, die Zauberblase hilft dir beim Atmen
+1850|Perlen. Der Pfeil oben zeigt die nächste. Eine Perle trägt der Singende Wal auf dem Rücken, und eine bewacht die Riesenmuschel. Warte, bis sie sich öffnet
+1851|Dort unten leben auch Geschöpfe, die Hilfe brauchen
+1852|Klick-klack! Ich gehe seitwärts, und du
+1853|Pass auf, wo du hintrittst, das ist mein Sand
+1854|Hast du den Wal gesehen? Er singt so schön, dass meine Scheren zittern
+1855|Im gesunkenen Schiff wohnt jemand mit acht Armen
+1856|Ich schwimme hier schon seit zweihundert Jahren. Das Meer ist voller Wunder, man muss nur hinschauen
+1857|Der Singende Wal! Wenn du dich ihm näherst, wird er langsamer, damit du ihn einholen kannst. Die Perle ist auf seinem Rücken
+1858|Die Riesenmuschel öffnet und schließt sich langsam. Wenn sie offen ist, schnapp dir schnell die Perle
+1859|Alle 12 Ringe! Die Perle ist auf der goldenen Säule in der Mitte der Arena erschienen
+1860|Alle 12 Ringe! +20 Goldmünzen
+1861|Goldene Ringe! Schwimm durch alle 12, und in der Mitte der Arena passiert etwas
+1862|Hallo! Quallen sind weich und leuchten, aber man schwimmt besser um sie herum
+1863|Die Blasen tragen dich nach oben! Oben auf dem Bogen wartet eine Perle
+1864|Rida atmet durch die Zauberblase! Die Knöpfe Hoch und Tauchen bringen sie rauf und runter durchs Meer
+1865|Rida atmet durch die Zauberblase! Leertaste ist hoch, C ist runter, und Shift macht schneller
+1866|Der Tiefe Graben. Hier ist es dunkel, aber Quallen und Kristalle leuchten
+1867|Die Zauberblase ist geplatzt. Plopp
+1868|Die Blase platzt gleich. Schwimm nach oben
+1869|Zauberblase! Eine Minute lang atmet Rida unter Wasser, schwimmt schneller und schwebt, wohin sie will
+1870|Leuchtende Perle
+1871|Perlen
+1872|Alle Perlen
+1873|Alle 10 leuchtenden Perlen! Der Perlentempel erwacht, und seine Tore öffnen sich
+1874|Bravo, die erste Perle! Der Pfeil oben zeigt die nächste. Unter Wasser schwimmst du, wohin du willst
+1875|Unterwasserstadt! Perlen
+1876|Die Schildkröte Lunja wartet beim Leuchtturm auf dich
+1877|Ein Zauber hält die Truhe verschlossen. Sammle alle 10 leuchtenden Perlen
+1878|Die Unterwasserstadt ist gerettet
+1879|Die Meeresfüchsin, die Blasen und die Zauberblase gehören jetzt dir. Mit der Blase kannst du auch auf der Geschichteninsel tauchen
+1880|Ein verlorenes Tal, umgeben von Klippen: ein rauchender Vulkan, ein Fluss für Floßfahrten, eine Lagune mit Seerosen, Fossilgrabungen, Wege in den Baumkronen und die Klippen der Flugsaurier. Hier leben ein kleiner T-Rex, ein Pteranodon und ein Langhals
+1881|Bernsteinfüchsin
+1882|Golden wie Bernstein in der Sonne, mit dunklen Streifen. Hinter ihr glitzern goldene Funken
+1883|Dino-Spuren
+1884|Wo Rida auch geht, bleiben Abdrücke eines kleinen Dinosauriers zurück
+1885|Paläontologenhammer
+1886|Klopf auf den Boden, und vielleicht gräbst du ein echtes Fossil aus! Jedes Fossil kommt in die Sammlung Fossilien und verrät dir etwas Neues. Funktioniert auch auf der Geschichteninsel
+1887|Stell dich auf Erde, Sand oder Stein und tipp den Hammer auf der Leiste an
+1888|Fossilien
+1889|Trilobit
+1890|Trilobiten lebten vor mehr als 250 Millionen Jahren in den Meeren, noch vor den Dinosauriern
+1891|Ammonit
+1892|Ammoniten waren Meerestiere mit einem spiralförmigen Gehäuse, entfernte Verwandte der heutigen Kraken und Tintenfische
+1893|Farnabdruck
+1894|Farne wuchsen schon vor den Dinosauriern. Einige ihrer Verwandten wachsen noch heute in unseren Wäldern
+1895|T-Rex-Zahn
+1896|Der Tyrannosaurus hatte etwa 60 Zähne, und die größten waren so lang wie eine Banane
+1897|Bernstein mit Insekt
+1898|Bernstein ist versteinertes Baumharz. Darin bleiben manchmal Millionen Jahre alte Insekten erhalten
+1899|Fossiles Ei
+1900|Manche Dinosaurier legten ihre Eier in Nester und bewachten sie, genau wie heutige Vögel
+1901|Stell dich auf festen Boden und klopf mit dem Hammer
+1902|Hier gibt es keine Fossilien. Probier es auf Erde, Sand oder Stein
+1903|Der Hammer ruht sich aus. Probier es in
+1904|s, oder an einem anderen Ort
+1905|Nur Steinchen und Erde. Paläontologen graben manchmal tagelang! Probier es woanders
+1906|Die Sammlung „Fossilien“ ist vollständig! Die Belohnung wartet unter Spiele → Sammlung
+1908|Weißt du
+1909|Kleiner T-Rex Ričko
+1910|Klein, grün und immer hungrig. Seine Arme sind zu kurz, aber dafür brüllt er lauter als alle anderen
+1911|Bringt Beeren und Goldmünzen aus dem Dschungel
+1912|Pteranodon Krilko
+1913|Ein fliegender Verwandter der Dinosaurier mit rotem Kamm. Früher hatte er Höhenangst, jetzt ist er der beste Flieger im Tal
+1914|Bringt Federn und Bernstein von den Klippen
+1915|Langhals Lišćko
+1916|Ein junger Langhalsdinosaurier. Mit dem Kopf erreicht er die höchsten Blätter, und er geht langsam und sanft
+1917|Bringt Früchte und Holz aus den Baumkronen
+1918|T-Rex-Sprint
+1919|Ričko saust durch den Dschungel, und wenn er landet, brüllt er so, dass alles bebt
+1920|Krilkos Flug
+1921|Krilko breitet die Flügel aus, und ihr fliegt über das ganze Tal! Springen ist hoch, Tauchen ist runter
+1922|Blick von oben
+1923|Von Lišćkos Rücken siehst du den ganzen Dschungel, und wenn ihr an Bäumen vorbeikommt, pflückt er dir Früchte
+1924|Ričko saust los! Spring, und wenn ihr landet, brüllt er
+1925|Krilko breitet die Flügel aus! Springen ist hoch, Tauchen ist runter
+1926|Lišćko trägt dich hoch hinaus! Geh an Bäumen vorbei, und er pflückt dir Früchte
+1927|Rrrr! Ich bin Ričko. Ich habe Hunger, und meine Lieblingssternfrucht hängt an den Ästen. Meine Arme sind zu kurz, um sie zu erreichen! Bringst du mir drei Früchte? Kletter über die Äste
+1928|Sternfrucht
+1929|Mjam! Die süßeste Frucht der Welt! Danke, jetzt sind wir beste Freunde. Spring auf meinen Rücken, wir sausen durch den Dschungel
+1930|Der T-Rex hatte kurze, aber sehr starke Arme. Forscher glauben, dass er mit jedem Arm das Gewicht von zwei Erwachsenen heben konnte
+1931|Hallo... Ich bin Krilko. Ich bin ein Pteranodon, aber ich habe Angst vor dem Fliegen. Mama sagt, der Mut steckt in den Windfedern, die in den Luftströmungen um die Klippe schweben. Bringst du mir vier
+1932|Windfeder
+1933|Vier Windfedern! Ich fühle mich mutig! Danke! Setz dich auf meinen Rücken, wir fliegen über das ganze Tal
+1934|Flugsaurier waren keine Dinosaurier, sondern ihre fliegenden Verwandten. Ihre Flügel waren aus Haut, die über einen sehr langen vierten Finger gespannt war
+1935|Mmm, hallo... Ich bin Lišćko. Ich mag die blauen Farne, die im Sumpf südlich des Flusses leuchten. Mein Hals ist lang, aber meine Beine bleiben im Schlamm stecken. Bringst du mir fünf Farne
+1936|Blauer Farn
+1937|Blaue Farne! Mmmm, mjam! Danke, kleine Füchsin. Steig auf meinen Rücken. Von oben sieht man den ganzen Dschungel
+1938|Langhalsdinosaurier waren die größten Tiere, die je über das Land gelaufen sind. Manche waren so lang wie drei Busse
+1939|Schatz des Bernsteintempels
+1940|Am Kraterrand des Feuerbergs. Der Weg führt um den Vulkan herum nach oben
+1941|Tief im Lavatunnel. Der Eingang ist auf der Ostseite des Vulkans
+1942|Truhe des Lavatunnels
+1943|In der Moosgrotte auf halber Höhe des Großen Wasserfalls. Die Treppe führt die Klippe hinauf
+1944|Truhe oben am Wasserfall
+1945|Im Baumhaus hoch oben in den Kronen. Steig die Treppe um den größten Baum hinauf
+1946|Truhe in den Baumkronen
+1947|Auf dem Felsen mitten in der Seerosenlagune. Spring über die Seerosen, aber schnell, denn sie gehen unter
+1948|Krokodiltruhe
+1949|Bei den Ausgrabungen. Finde alle fünf Knochen in der Grube, dann setzt sich das Skelett zusammen
+1950|Truhe der Paläontologen
+1951|Im Nest der guten Dinomama. Folge den großen Fußspuren von der Langhalsebene
+1952|Hängt unter dem Steinbogen über dem Fluss. Schwimmend erreichst du sie nicht, aber mit dem Floß fährst du genau darunter durch
+1953|Auf der Singenden Wiese. Hör dir das Lied der Trompeter an und spiel es nach, indem du auf die bunten Steine trittst
+1954|Oben auf den Flugsaurierklippen. Die Luftströmungen tragen dich von Vorsprung zu Vorsprung
+1955|Truhe von der Klippe
+1956|Sumpftruhe
+1957|Forscherlager
+1958|Bernsteintempel
+1959|Feuerberg
+1960|Lavatunnel
+1961|Steinbogen am Fluss
+1962|Großer Wasserfall
+1963|Wege in den Baumkronen
+1964|Seerosenlagune
+1965|Fossilgrabung
+1966|Nest der guten Mama
+1967|Singende Wiese
+1968|Flugsaurierklippen
+1969|Ričkos Lichtung
+1970|Sumpf
+1971|Glühende Felsen aus dem Lavatunnel. Sie brennen nicht, sie leuchten nur
+1972|Oben auf dem Großen Wasserfall sieht man das ganze Tal
+1973|Bau auch du ein Baumhaus auf deiner Insel
+1974|Zubko ist doch ein gutes Krokodil. Diese Truhe hütet er nur für mutige Springer
+1975|Die Paläontologen haben dir Werkzeug und Steine dagelassen. Vielleicht findest auch du ein Fossil
+1976|Ein Flugsauriernest auf dem Dach der Welt
+1977|Schlamm aus dem Sumpf. Klebrig, aber nützlich zum Bauen
+1978|Zehn Bernsteinstücke haben dem Bernsteintempel seinen Glanz zurückgegeben. Das ganze Dinosauriertal dankt dir
+1980|Opa Dreihorn
+1981|Große Lisa
+1982|Alte Eiche
+1983|Tante Ast
+1984|Hoher Wind
+1991|Mama Maja
+1994|Lava kühlt ab und wird zu dunklem Gestein, das Basalt heißt. Zur Zeit der Dinosaurier waren Vulkane viel aktiver als heute
+1995|Der Spinosaurus war ein Dinosaurier, der das Wasser liebte. Er fing Fische in Flüssen und hatte auf dem Rücken ein großes Segel aus Haut
+1996|Krokodile lebten schon zur Zeit der Dinosaurier und haben bis heute überlebt. Deshalb nennt man sie manchmal lebende Fossilien
+1997|Paläontologen erforschen Fossilien. Die Knochen der Dinosaurier sind langsam zu Stein geworden, deshalb sind sie Millionen Jahre erhalten geblieben
+1998|Maiasaura bedeutet ‚gute Mutter Echse‘. Diese Dinosaurier bewachten ihre Eier in Nestern und fütterten ihre Jungen
+1999|Der größte Flugsaurier, Quetzalcoatlus, hatte eine Flügelspannweite wie ein kleines Flugzeug und war trotzdem leicht genug zum Fliegen
+2000|Der Brachiosaurus war so hoch wie ein vierstöckiges Haus und konnte Blätter von den Baumspitzen fressen
+2001|Ein Lavatunnel entsteht, wenn der äußere Teil eines Lavaflusses abkühlt und hart wird, die heiße Lava darunter weiterfließt und den Tunnel leert
+2002|Vögel sind Nachfahren der Dinosaurier! Wenn du einen Spatz oder ein Huhn ansiehst, siehst du einen kleinen Verwandten des T-Rex
+2003|Der Parasaurolophus blies durch den hohlen Kamm auf seinem Kopf einen Ton wie eine Trompete. So rief er seine Herde
+2004|Das Kristalltor oben auf dem Bernsteintempel ist offen! Der Tempel liegt nördlich vom Fluss, vor dem Vulkan. Steig die große Treppe hinauf
+2005|Alle zehn Bernsteine! Der Tempel erwacht
+2006|Willkommen im Verlorenen Tal, kleine Füchsin! Ich bin Opa Dreihorn, der älteste Triceratops im Dschungel. Ein Erdbeben hat zehn Bernsteinstücke aus dem Bernsteintempel über das ganze Tal verstreut. Jeder Bernstein hütet ein Geheimnis über Dinosaurier. Finde sie, und du öffnest den Tempel
+2007|Bernsteine. Der Pfeil oben zeigt den nächsten. Einer hängt unter dem Steinbogen am Fluss, dafür brauchst du das Floß beim Wasserfall. Und in der Lagune pass auf, die Seerosen gehen unter
+2008|Im Tal leben auch Dinosaurier, die Hilfe brauchen
+2009|Mmmmm... ich bin ein Langhals. Ich fresse den ganzen Tag Blätter, jeden Tag
+2010|Mein Hals ist lang wie ein Baum. Ich sehe alles, sogar dich, kleine Füchsin
+2011|Pass auf deine Füße auf, wir sind groß, aber sanft
+2012|Die Stacheln an meinem Schwanz nennen Forscher ‚Thagomizer‘. Den Namen haben sie aus einem lustigen Comic
+2013|Zirp! Ich bin ein Compsognathus, so groß wie ein Huhn
+2014|Schnell, schnell, schnell
+2015|Hast du Ričkos Sternfrucht gesehen
+2016|Danke, dass du auf meine Eier aufpasst. Bald schlüpfen kleine Dinos
+2017|Ich bin Mama Maja. Mein Nest ist hinter dem Hügel. Du darfst die Eier anschauen, aber ganz sanft
+2018|Tuuut! Mein Kamm ist hohl wie eine Trompete
+2019|Au, heiß! Die Lava ist zu heiß für Fuchspfoten. Rida ist zurück auf den Weg gesprungen
+2020|Der Krater des Feuerbergs! Die Lava ist sehr heiß, also geh nicht hinunter. Der Bernstein liegt am Kraterrand
+2021|Au! Die Lava ist heiß. Hopp, zurück
+2022|Das Floß fährt den Fluss hinunter! Genieß die Fahrt. Zum Abspringen drück Springen
+2023|Fahr mit dem Floß unter dem Steinbogen durch und nimm den Bernstein, der daran hängt
+2024|Du bist an der Seerosenlagune angekommen! Das Floß fährt zurück zum Wasserfall
+2025|Hopp! Rida ist vom Floß gesprungen
+2026|Seerosen gehen unter, wenn du zu lange darauf stehst! Spring weiter, schnell
+2027|Krokodil Zubko: He, das ist meine Lagune! Nicht schwimmen, spring über die Seerosen
+2028|Krokodil Zubko: Bravo, Springerin! So mutige Füchsinnen respektiere ich
+2029|Schädel
+2030|Rippen
+2031|Wirbelsäule
+2032|Beinknochen
+2033|Schwanz
+2034|Alle fünf Knochen! Das Dinosaurierskelett ist zusammengesetzt, und darüber leuchtet ein Bernstein
+2035|Knochen
+2036|Jeder Knochen kommt an seinen Platz im Skelett
+2037|Fossilgrabung! In der Grube liegen fünf Knochen. Siehst du, wie die Erde in Schichten liegt? Jede Schicht ist älter als die darüber
+2038|Singende Wiese! Stell dich auf den weißen Stein, und die Trompeter singen. Dann spiel das Lied nach, indem du auf die bunten Steine trittst
+2039|Hör dir das Lied der Trompeter an
+2040|Jetzt du! Tritt in derselben Reihenfolge auf die Steine
+2041|Perfekt! Die Trompeter singen vor Freude, und auf der Wiese leuchtet ein Bernstein
+2042|Hoppla, nicht ganz. Hör noch einmal zu
+2043|Der Schlamm ist klebrig, deshalb geht Rida hier langsamer
+2044|Beeren +1
+2045|Der Große Wasserfall! Neben dem Wasserfall liegt ein Floß, und an der Klippe führt eine Steintreppe hinauf
+2046|Die Flugsaurierklippen! Geh in die funkelnde Luftströmung, und sie hebt dich auf den Vorsprung
+2047|Eingang zum Lavatunnel! Drinnen leuchten glühende Felsen, und unten sind kleine Lavaseen. Tritt nicht in die Lava, sie ist heiß
+2048|Wege in den Baumkronen! Seilbrücken führen von Baum zu Baum
+2049|RRROAR! Ričko brüllt jedes Mal, wenn er landet. Die Compsognathen laufen davon
+2050|Bernsteinstück
+2051|Bernsteine
+2052|Alle Bernsteine
+2053|Alle 10 Bernsteinstücke! Der Bernsteintempel erwacht, und das Kristalltor oben auf ihm öffnet sich
+2054|Bravo, der erste Bernstein! Jeder Bernstein hütet ein Geheimnis über Dinosaurier. Der Pfeil oben zeigt den nächsten
+2055|Dinosaurier-Dschungel! Bernsteine
+2056|Opa Dreihorn wartet beim Lager auf dich
+2057|Das Kristalltor hält die Truhe verschlossen. Sammle alle 10 Bernsteinstücke
+2058|Das Dinosauriertal ist gerettet
+2059|Die Bernsteinfüchsin, die Dino-Spuren und der Paläontologenhammer gehören jetzt dir. Mit dem Hammer kannst du auch auf der Geschichteninsel Fossilien ausgraben
+2061|Echtes Tier
+2062|Längst ausgestorben
+2063|Zauberwesen
+2064|Ort
+2065|Naturwunder
+2066|Zuhause
+2067|Wiesen und Wälder
+2068|Nahrung
+2069|Gras, Klee, Karotten
+2070|Größe
+2071|etwa 40 cm
+2072|Einer der ersten Gäste auf der Insel
+2073|Hasenzähne wachsen ein Leben lang. Deshalb knabbert der Hase ständig an Gras und Zweigen, um sie abzunutzen
+2074|Warum knabbert der Hase ständig an etwas
+2075|Seine Zähne wachsen ständig
+2076|Er hat immer großen Hunger
+2077|So putzt er seine Ohren
+2078|Seine Augen sitzen seitlich am Kopf, deshalb sieht der Hase fast alles um sich herum, sogar hinter seinem Rücken
+2079|Was sieht der Hase dank seiner seitlichen Augen
+2080|Fast alles um sich herum
+2081|Nur geradeaus
+2082|Nur im Dunkeln
+2083|Wenn er Gefahr spürt, klopft der Hase kräftig mit den Hinterbeinen auf den Boden und warnt so die anderen Hasen
+2084|Wie warnt der Hase andere Hasen vor Gefahr
+2085|Er klopft mit den Beinen auf den Boden
+2086|Er heult laut
+2087|Er wackelt mit den Ohren
+2088|Ente
+2089|Seen und Flüsse
+2090|Pflanzen, Samen, Insekten
+2091|etwa 55 cm
+2092|Die Ente fettet ihr Gefieder mit Öl aus einer kleinen Drüse am Schwanz ein, deshalb perlt das Wasser ab und sie wird nicht bis auf die Haut nass
+2093|Warum wird die Ente nicht bis auf die Haut nass
+2094|Sie fettet ihr Gefieder mit Öl ein
+2095|Sie trocknet sich ständig in der Sonne
+2096|Unter den Federn hat sie Fell
+2097|Die Schwimmhäute zwischen den Zehen wirken wie Paddel, deshalb schwimmt die Ente leicht und schnell
+2098|Wofür hat die Ente Schwimmhäute zwischen den Zehen
+2099|Zum Schwimmen, wie Paddel
+2100|Zum Klettern auf Bäume
+2101|Zum Graben von Löchern
+2102|Entenküken folgen gleich nach dem Schlüpfen dem ersten Wesen, das sie sehen, und das ist meistens ihre Mama
+2103|Wem folgen Entenküken, sobald sie schlüpfen
+2104|Dem ersten Wesen, das sie sehen
+2105|Dem größten Vogel in der Nähe
+2106|Niemandem, sie fliegen sofort allein
+2107|Igel
+2108|Gärten, Hecken, Wälder
+2109|Insekten, Regenwürmer, Schnecken
+2110|etwa 25 cm
+2111|Der Igel hat etwa 6000 Stacheln auf dem Rücken. Wenn er sich erschreckt, rollt er sich zu einer stacheligen Kugel zusammen
+2112|Wie viele Stacheln hat ein Igel ungefähr
+2113|Etwa 6000
+2114|Etwa 60
+2115|Etwa eine Million
+2116|Im Winter hält der Igel Winterschlaf. Sein Herz schlägt dann viel langsamer, und sein Körper kühlt ab
+2117|Was macht der Igel im Winter
+2118|Er hält Winterschlaf
+2119|Er zieht in den Süden
+2120|Er baut sich ein Haus aus Schnee
+2121|Der Igel ist ein nachtaktives Tier. Tagsüber schläft er, und nachts sucht er Insekten, Regenwürmer und Schnecken
+2122|Wann ist der Igel am aktivsten
+2123|Nachts
+2124|Mittags
+2125|Nur im Winter
+2126|Schaf
+2127|Weiden und Hügel

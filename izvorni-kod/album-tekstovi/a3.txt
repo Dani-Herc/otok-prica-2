@@ -1,0 +1,461 @@
+@bubamara|vrt|z|Bubamara|Marienkäfer|ent=bubamara,bubamara2|sci=Coccinella septempunctata
+i|Dom|Zuhause|vrtovi, livade, šume|Gärten, Wiesen, Wälder
+i|Hrana|Nahrung|biljne uši|Blattläuse
+i|Veličina|Größe|oko 7 mm|etwa 7 mm
+h|Živi u Divovskom vrtu.|Lebt im Riesengarten.
+f|Jedna bubamara u životu pojede i nekoliko tisuća biljnih uši. Zato je vrtlari jako vole.|Ein Marienkäfer frisst in seinem Leben mehrere Tausend Blattläuse. Darum lieben ihn die Gärtner.
+q|Zašto vrtlari vole bubamare?|Warum mögen Gärtner Marienkäfer?
+a|Jedu biljne uši|Sie fressen Blattläuse
+w|Zalijevaju cvijeće|Sie gießen die Blumen
+w|Pjevaju u vrtu|Sie singen im Garten
+f|Crvena boja s točkicama upozorava ptice: ne jedi me, gorka sam!|Die rote Farbe mit Punkten warnt die Vögel: Friss mich nicht, ich schmecke bitter!
+q|Što bubamarina crvena boja poručuje pticama?|Was sagt die rote Farbe des Marienkäfers den Vögeln?
+a|Ne jedi me, gorka sam|Friss mich nicht, ich bin bitter
+w|Dođi se igrati|Komm spielen
+w|Ovdje ima hrane|Hier gibt es Futter
+f|Pod tvrdim crvenim pokrilima bubamara skriva tanka prozirna krila kojima leti.|Unter den harten roten Deckflügeln versteckt der Marienkäfer dünne, durchsichtige Flügel zum Fliegen.
+q|Gdje bubamara skriva krila za letenje?|Wo versteckt der Marienkäfer seine Flügel zum Fliegen?
+a|Ispod tvrdih crvenih pokrilja|Unter den harten roten Deckflügeln
+w|U džepu|In der Tasche
+w|Nema krila|Er hat keine Flügel
+
+@mrav|vrt|z|Mrav|Ameise|ent=mrav,mrav2|sci=Formicidae
+i|Dom|Zuhause|mravinjak pod zemljom|Ameisenhaufen unter der Erde
+i|Hrana|Nahrung|sjemenke, kukci, slatki sokovi|Samen, Insekten, süße Säfte
+i|Veličina|Größe|od 1 mm do 3 cm|von 1 mm bis 3 cm
+h|Mravko i prijatelji žive u Divovskom vrtu.|Mravko und seine Freunde leben im Riesengarten.
+f|Mrav može nositi teret mnogo puta teži od sebe, kao da ti podigneš automobil.|Eine Ameise kann ein Vielfaches ihres eigenen Gewichts tragen, als würdest du ein Auto hochheben.
+q|Koliki teret mrav može nositi?|Wie viel kann eine Ameise tragen?
+a|Mnogo puta teži od sebe|Ein Vielfaches ihres Gewichts
+w|Samo jedno zrnce pijeska|Nur ein Sandkorn
+w|Ništa, samo hoda|Nichts, sie läuft nur
+f|Mravi ostavljaju mirisni trag. Drugi mravi ga njuše ticalima i tako nađu put do hrane.|Ameisen hinterlassen eine Duftspur. Andere Ameisen riechen sie mit den Fühlern und finden so den Weg zum Futter.
+q|Kako mravi nađu put do hrane?|Wie finden Ameisen den Weg zum Futter?
+a|Prate mirisni trag|Sie folgen einer Duftspur
+w|Gledaju kartu|Sie schauen auf eine Karte
+w|Pitaju pčele|Sie fragen die Bienen
+f|U mravinjaku svi imaju posao: neki traže hranu, neki čuvaju ulaz, a neki se brinu za jaja.|Im Ameisenhaufen hat jeder eine Aufgabe: Manche suchen Futter, manche bewachen den Eingang, manche kümmern sich um die Eier.
+q|Kako mravi žive u mravinjaku?|Wie leben Ameisen im Ameisenhaufen?
+a|Svatko ima svoj posao|Jeder hat seine Aufgabe
+w|Svaki živi sam|Jede lebt allein
+w|Cijeli dan spavaju|Sie schlafen den ganzen Tag
+
+@puz|vrt|z|Puž|Schnecke|ent=puz|sci=Helix pomatia
+i|Dom|Zuhause|vlažni vrtovi i šume|feuchte Gärten und Wälder
+i|Hrana|Nahrung|lišće, gljive, povrće|Blätter, Pilze, Gemüse
+i|Veličina|Größe|kućica do 5 cm|Haus bis 5 cm
+h|Puž Polagani putuje Divovskim vrtom.|Schnecke Langsam reist durch den Riesengarten.
+f|Puž klizi po sluzi koju sam stvara. Zbog nje može puzati čak i preko oštrice bez ozljede.|Die Schnecke gleitet auf Schleim, den sie selbst macht. Damit kann sie sogar über eine Klinge kriechen, ohne sich zu verletzen.
+q|Po čemu puž klizi?|Worauf gleitet die Schnecke?
+a|Po sluzi koju sam stvara|Auf Schleim, den sie selbst macht
+w|Po malim kotačićima|Auf kleinen Rädern
+w|Po ledu|Auf Eis
+f|Puž ima oči na vrhu dužih ticala. Ako ih dotakneš, uvuče ih u glavu.|Die Schnecke hat die Augen oben an den langen Fühlern. Wenn man sie berührt, zieht sie sie ein.
+q|Gdje su pužu oči?|Wo hat die Schnecke ihre Augen?
+a|Na vrhu dugih ticala|Oben an den langen Fühlern
+w|Na kućici|Auf dem Haus
+w|Na repu|Am Schwanz
+f|Pužev jezik ima tisuće sićušnih zubića kojima struže lišće kao turpijom.|Die Zunge der Schnecke hat Tausende winzige Zähnchen. Damit raspelt sie Blätter wie mit einer Feile.
+q|Čime puž struže lišće?|Womit raspelt die Schnecke Blätter?
+a|Jezikom s tisućama zubića|Mit einer Zunge mit Tausenden Zähnchen
+w|Kućicom|Mit dem Haus
+w|Ticalima|Mit den Fühlern
+
+@gusjenica|vrt|z|Gusjenica|Raupe|ent=gusjenica|sci=Lepidoptera larva
+i|Dom|Zuhause|na listovima biljaka|auf Pflanzenblättern
+i|Hrana|Nahrung|lišće, puno lišća|Blätter, sehr viele Blätter
+i|Veličina|Größe|od 1 mm do 10 cm|von 1 mm bis 10 cm
+h|Gusjenica Gricko gricka listove u Divovskom vrtu.|Raupe Knabber knabbert Blätter im Riesengarten.
+f|Gusjenica cijele dane jede i raste tako brzo da nekoliko puta presvlači kožu koja joj postane tijesna.|Die Raupe frisst den ganzen Tag und wächst so schnell, dass sie mehrmals ihre Haut wechselt, wenn sie zu eng wird.
+q|Što gusjenica radi kad joj koža postane tijesna?|Was macht die Raupe, wenn ihre Haut zu eng wird?
+a|Presvuče kožu|Sie häutet sich
+w|Kupi novu odjeću|Sie kauft neue Kleidung
+w|Prestane jesti|Sie hört auf zu essen
+f|Gusjenica ima šest pravih nogu sprijeda, a straga još nekoliko mekanih lažnih nožica kojima se drži za list.|Die Raupe hat vorne sechs echte Beine und hinten noch einige weiche Stummelfüße, mit denen sie sich am Blatt festhält.
+q|Čemu služe gusjenici mekane nožice straga?|Wozu hat die Raupe hinten weiche Stummelfüße?
+a|Da se drži za list|Um sich am Blatt festzuhalten
+w|Da pliva|Zum Schwimmen
+w|Da svira|Zum Musizieren
+f|Kad je dovoljno velika, gusjenica napravi kukuljicu. Unutra se pretvori u leptira.|Wenn sie groß genug ist, macht die Raupe eine Puppe. Darin verwandelt sie sich in einen Schmetterling.
+q|U što se gusjenica pretvori u kukuljici?|Was wird in der Puppe aus der Raupe?
+a|U leptira|Ein Schmetterling
+w|U pticu|Ein Vogel
+w|U mrava|Eine Ameise
+
+@skakavac|vrt|z|Skakavac|Heuschrecke|ent=skakavac|sci=Caelifera
+i|Dom|Zuhause|livade i polja|Wiesen und Felder
+i|Hrana|Nahrung|trava i lišće|Gras und Blätter
+i|Veličina|Größe|od 1 do 7 cm|von 1 bis 7 cm
+h|Skače kroz visoku travu Divovskog vrta.|Springt durchs hohe Gras im Riesengarten.
+f|Skakavac skoči i dvadeset puta dalje od duljine svog tijela. Kad bi ti to mogao, preskočio bi bazen.|Eine Heuschrecke springt zwanzigmal so weit, wie sie lang ist. Könntest du das, würdest du über ein Schwimmbecken springen.
+q|Koliko daleko skakavac može skočiti?|Wie weit kann eine Heuschrecke springen?
+a|Dvadeset puta dalje od svoje duljine|Zwanzigmal so weit, wie sie lang ist
+w|Samo do susjednog lista|Nur bis zum nächsten Blatt
+w|Ne zna skakati|Sie kann nicht springen
+f|Skakavci cvrče trljajući stražnju nogu o krilo, kao gudalo o violinu.|Heuschrecken zirpen, indem sie das Hinterbein am Flügel reiben, wie einen Bogen an einer Geige.
+q|Kako skakavac cvrči?|Wie zirpt eine Heuschrecke?
+a|Trlja nogu o krilo|Sie reibt das Bein am Flügel
+w|Puše u travu|Sie bläst ins Gras
+w|Pjeva ustima|Sie singt mit dem Mund
+f|Skakavac uši ima na trbuhu, sa strane tijela.|Die Heuschrecke hat ihre Ohren am Bauch, an der Seite des Körpers.
+q|Gdje skakavac ima uši?|Wo hat die Heuschrecke ihre Ohren?
+a|Na trbuhu|Am Bauch
+w|Na glavi kao mi|Am Kopf wie wir
+w|Na krilima|An den Flügeln
+
+@jednorog|vila|c|Jednorog|Einhorn|ent=jednorog,jednorog2
+i|Dom|Zuhause|bajke i legende|Märchen und Sagen
+i|Rog|Horn|jedan, na sredini čela|eines, mitten auf der Stirn
+h|Jednorožica Bijela živi u Vilinskoj šumi.|Einhorn Weißchen lebt im Feenwald.
+f|Jednorog je izmišljeno biće, ali o njemu se priča već više od dvije tisuće godina, i u Europi i u Aziji.|Das Einhorn ist ein Fabelwesen, aber man erzählt sich seit über zweitausend Jahren von ihm, in Europa und in Asien.
+q|Koliko se dugo priča o jednorozima?|Wie lange erzählt man sich schon von Einhörnern?
+a|Više od dvije tisuće godina|Über zweitausend Jahre
+w|Tek deset godina|Erst zehn Jahre
+w|Od jučer|Seit gestern
+f|Jednorog je nacionalna životinja Škotske i nalazi se na njezinom grbu.|Das Einhorn ist das Nationaltier Schottlands und steht in seinem Wappen.
+q|Kojoj je zemlji jednorog nacionalna životinja?|Für welches Land ist das Einhorn das Nationaltier?
+a|Škotskoj|Schottland
+w|Hrvatskoj|Kroatien
+w|Australiji|Australien
+f|Mornari su nekad prodavali dugi zub narvala kao jednorogov rog. Narval je pravi kit s jednim dugim zubom.|Seeleute verkauften früher den langen Zahn des Narwals als Einhorn-Horn. Der Narwal ist ein echter Wal mit einem langen Zahn.
+q|Čiji su zub nekad prodavali kao rog jednoroga?|Wessen Zahn verkaufte man früher als Einhorn-Horn?
+a|Narvalov|Den des Narwals
+w|Slonov|Den des Elefanten
+w|Morskog psa|Den des Hais
+
+@leptirduga|vila|c|Dugin leptir|Regenbogenfalter|ent=leptirduga
+i|Dom|Zuhause|Vilinska šuma|Feenwald
+i|Krila|Flügel|sve boje duge|alle Regenbogenfarben
+h|Leprša kroz Vilinsku šumu.|Flattert durch den Feenwald.
+f|Duga ima sedam boja: crvenu, narančastu, žutu, zelenu, plavu, modru i ljubičastu.|Der Regenbogen hat sieben Farben: Rot, Orange, Gelb, Grün, Hellblau, Blau und Violett.
+q|Koliko boja ima duga?|Wie viele Farben hat ein Regenbogen?
+a|Sedam|Sieben
+w|Tri|Drei
+w|Dvadeset|Zwanzig
+f|Postoje pravi leptiri s gotovo prozirnim krilima, poput staklokrilca. Kroz krila se vidi cvijet iza njih.|Es gibt echte Schmetterlinge mit fast durchsichtigen Flügeln, wie den Glasflügelfalter. Man sieht die Blume dahinter.
+q|Kakva krila ima leptir staklokrilac?|Was für Flügel hat der Glasflügelfalter?
+a|Gotovo prozirna|Fast durchsichtig
+w|Od pravog stakla|Aus echtem Glas
+w|Četvrtasta|Viereckig
+f|Neki leptiri, poput monarha, svake jeseni prelete tisuće kilometara da bi prezimili na toplom.|Manche Schmetterlinge, wie der Monarchfalter, fliegen jeden Herbst Tausende Kilometer, um im Warmen zu überwintern.
+q|Što monarh leptiri rade u jesen?|Was machen Monarchfalter im Herbst?
+a|Prelete tisuće kilometara na toplo|Sie fliegen Tausende Kilometer ins Warme
+w|Spavaju u snijegu|Sie schlafen im Schnee
+w|Pretvore se u gusjenice|Sie werden wieder Raupen
+
+@vila|vila|c|Vile|Feen|ent=vila,vila2
+i|Dom|Zuhause|šume, izvori i gore iz priča|Wälder, Quellen und Berge aus Geschichten
+i|Moć|Kraft|čarolije i pomoć dobrima|Zauber und Hilfe für die Guten
+h|Vila Lucija i vila Iskrica žive u Vilinskoj šumi.|Fee Lucija und Fee Funkelchen leben im Feenwald.
+f|U hrvatskim narodnim pričama vile žive u gorama i kraj izvora. Često pomažu dobrima, a ljute se na one koji su zli.|In kroatischen Volksmärchen leben die Feen in den Bergen und an Quellen. Oft helfen sie den Guten und ärgern sich über die Bösen.
+q|Gdje žive vile u hrvatskim narodnim pričama?|Wo leben die Feen in kroatischen Volksmärchen?
+a|U gorama i kraj izvora|In den Bergen und an Quellen
+w|U podrumu|Im Keller
+w|Na Mjesecu|Auf dem Mond
+f|Vile se pojavljuju i u Pričama iz davnine Ivane Brlić-Mažuranić, jednoj od najpoznatijih hrvatskih knjiga za djecu.|Feen kommen auch in den Geschichten aus Urzeiten von Ivana Brlić-Mažuranić vor, einem der berühmtesten kroatischen Kinderbücher.
+q|Koja poznata hrvatska knjiga ima vile i bića iz davnine?|Welches berühmte kroatische Buch hat Feen und Wesen aus alter Zeit?
+a|Priče iz davnine|Geschichten aus Urzeiten
+w|Kuharica za vile|Kochbuch für Feen
+w|Atlas svijeta|Weltatlas
+f|Prsten od gljiva u travi narod zove vilinsko kolo. Gljive rastu u krug jer se njihove podzemne niti šire na sve strane.|Einen Ring aus Pilzen im Gras nennt man Hexenring oder Feenkreis. Die Pilze wachsen im Kreis, weil sich ihre Fäden unter der Erde nach allen Seiten ausbreiten.
+q|Zašto gljive ponekad rastu u krug?|Warum wachsen Pilze manchmal im Kreis?
+a|Niti pod zemljom šire se na sve strane|Ihre Fäden unter der Erde wachsen nach allen Seiten
+w|Vile ih tako posade|Feen pflanzen sie so
+w|Tako ih zalijeva kiša|Der Regen gießt sie so
+
+@trol|vila|c|Trol|Troll|ent=trol
+i|Dom|Zuhause|planine, špilje i mostovi iz sjevernih priča|Berge, Höhlen und Brücken aus nordischen Märchen
+i|Narav|Wesen|mrzovoljan, ali često dobar|brummig, aber oft gutmütig
+h|Trol Brundo živi u Vilinskoj šumi.|Troll Brummel lebt im Feenwald.
+f|Trolovi dolaze iz norveških i švedskih bajki. U pričama se boje sunca i skrivaju se u špiljama.|Trolle kommen aus norwegischen und schwedischen Märchen. In den Geschichten fürchten sie die Sonne und verstecken sich in Höhlen.
+q|Iz kojih bajki dolaze trolovi?|Aus welchen Märchen kommen Trolle?
+a|Iz norveških i švedskih|Aus norwegischen und schwedischen
+w|Iz japanskih|Aus japanischen
+w|Iz egipatskih|Aus ägyptischen
+f|U poznatoj bajci tri jarca Bruse moraju prijeći most ispod kojeg živi trol.|Im bekannten Märchen müssen drei Ziegenböcke über eine Brücke, unter der ein Troll wohnt.
+q|Gdje živi trol u bajci o tri jarca?|Wo wohnt der Troll im Märchen von den drei Ziegenböcken?
+a|Ispod mosta|Unter einer Brücke
+w|Na vrhu stabla|Auf einem Baum
+w|U kuhinji|In der Küche
+f|U Norveškoj postoje stijene i planine koje se zovu po trolovima, jer su ljudi mislili da su to okamenjeni divovi.|In Norwegen gibt es Felsen und Berge, die nach Trollen heißen, weil die Menschen dachten, es seien versteinerte Riesen.
+q|Što su ljudi mislili da su neke stijene u Norveškoj?|Was dachten die Menschen über manche Felsen in Norwegen?
+a|Okamenjeni divovi|Versteinerte Riesen
+w|Velike torte|Große Torten
+w|Ostaci raketa|Raketenteile
+
+@gumko|slatko|c|Gumeni medvjedići|Gummibärchen|ent=gumko,gumko_z,gumko_y,gumko_p
+i|Dom|Zuhause|Slatkišna zemlja|Süßigkeitenland
+i|Okus|Geschmack|jagoda, limun, borovnica|Erdbeere, Zitrone, Heidelbeere
+h|Gumko i prijatelji skakuću Slatkišnom zemljom.|Gummi und seine Freunde hüpfen durchs Süßigkeitenland.
+f|Gumene medvjediće izmislio je jedan slastičar u Njemačkoj prije više od sto godina.|Gummibärchen hat ein Süßwarenmacher in Deutschland vor über hundert Jahren erfunden.
+q|Gdje su izmišljeni gumeni medvjedići?|Wo wurden Gummibärchen erfunden?
+a|U Njemačkoj|In Deutschland
+w|Na Sjevernom polu|Am Nordpol
+w|U Brazilu|In Brasilien
+f|Gumeni bomboni su gumeni zbog želatine ili pektina. Pektin se dobiva iz voća, na primjer iz jabuka.|Fruchtgummis sind gummig wegen Gelatine oder Pektin. Pektin gewinnt man aus Früchten, zum Beispiel aus Äpfeln.
+q|Što gumenim bombonima daje gumenost?|Was macht Fruchtgummis gummig?
+a|Želatina ili pektin|Gelatine oder Pektin
+w|Prava guma od guma za bicikl|Echter Fahrradgummi
+w|Snijeg|Schnee
+f|Slatkiši su ukusni, ali šećer hrani bakterije u ustima. Zato je važno oprati zube.|Süßigkeiten sind lecker, aber Zucker füttert die Bakterien im Mund. Darum ist Zähneputzen wichtig.
+q|Zašto trebaš oprati zube nakon slatkiša?|Warum solltest du nach Süßigkeiten die Zähne putzen?
+a|Šećer hrani bakterije u ustima|Zucker füttert die Bakterien im Mund
+w|Da zubi postanu slađi|Damit die Zähne süßer werden
+w|Da bolje vidiš|Damit du besser siehst
+
+@ovcica|slatko|c|Ovčica od šećerne vune|Zuckerwatteschaf|ent=ovcica,ovcica2
+i|Dom|Zuhause|Slatkišna zemlja|Süßigkeitenland
+i|Vuna|Wolle|šećerna vuna u bojama|bunte Zuckerwatte
+h|Ovčice od šećerne vune lebde na sjeveru Slatkišne zemlje.|Die Zuckerwatteschafe schweben im Norden des Süßigkeitenlands.
+f|Prava ovca daje vunu koja se šiša jednom godišnje. Od vune jedne ovce može se isplesti nekoliko džempera.|Ein echtes Schaf wird einmal im Jahr geschoren. Aus der Wolle eines Schafes kann man mehrere Pullover stricken.
+q|Koliko često se šiša prava ovca?|Wie oft wird ein echtes Schaf geschoren?
+a|Jednom godišnje|Einmal im Jahr
+w|Svaki dan|Jeden Tag
+w|Nikad|Nie
+f|Šećerna vuna izmišljena je prije više od sto godina, a prva se prodavala na sajmovima.|Zuckerwatte wurde vor über hundert Jahren erfunden und zuerst auf Jahrmärkten verkauft.
+q|Gdje se prvo prodavala šećerna vuna?|Wo wurde Zuckerwatte zuerst verkauft?
+a|Na sajmovima|Auf Jahrmärkten
+w|U ljekarni|In der Apotheke
+w|U knjižnici|In der Bücherei
+f|Šećerna vuna je većinom zrak. Jedan veliki oblak napravljen je od samo jedne ili dvije žlice šećera.|Zuckerwatte ist vor allem Luft. Eine große Wolke besteht aus nur ein oder zwei Löffeln Zucker.
+q|Od čega se većinom sastoji šećerna vuna?|Woraus besteht Zuckerwatte vor allem?
+a|Od zraka|Aus Luft
+w|Od vode|Aus Wasser
+w|Od brašna|Aus Mehl
+
+@medenjak|slatko|c|Medenjaci|Lebkuchen|ent=medenjak,medenjak2,medenka
+i|Dom|Zuhause|Medenjak-selo|Lebkuchendorf
+i|Mirisi|Duft|med, cimet, đumbir|Honig, Zimt, Ingwer
+h|Baka Medenka i medenjaci žive u Medenjak-selu.|Oma Medenka und die Lebkuchen wohnen im Lebkuchendorf.
+f|Licitarsko srce s Hrvatskog zagorja tradicionalni je hrvatski suvenir od medenog tijesta, i nalazi se na UNESCO-voj listi baštine.|Das Licitar-Herz aus dem Zagorje ist ein traditionelles kroatisches Andenken aus Honigteig und steht auf der UNESCO-Liste des Kulturerbes.
+q|Kako se zove tradicionalno hrvatsko srce od medenog tijesta?|Wie heißt das traditionelle kroatische Herz aus Honigteig?
+a|Licitarsko srce|Licitar-Herz
+w|Zlatno srce|Goldherz
+w|Ledeno srce|Eisherz
+f|Medenjaci mogu stajati tjednima jer med i začini dugo čuvaju kolač svježim.|Lebkuchen halten wochenlang, weil Honig und Gewürze sie lange frisch halten.
+q|Zašto medenjaci dugo traju?|Warum halten Lebkuchen so lange?
+a|Med i začini ih čuvaju|Honig und Gewürze halten sie frisch
+w|Jer su od plastike|Weil sie aus Plastik sind
+w|Jer se drže u snijegu|Weil man sie im Schnee lagert
+f|U bajci Ivica i Marica vještica živi u kućici od medenjaka i slatkiša.|Im Märchen Hänsel und Gretel wohnt die Hexe in einem Häuschen aus Lebkuchen und Süßigkeiten.
+q|U kojoj bajci postoji kućica od medenjaka?|In welchem Märchen gibt es ein Lebkuchenhaus?
+a|Ivica i Marica|Hänsel und Gretel
+w|Pepeljuga|Aschenputtel
+w|Mala sirena|Die kleine Meerjungfrau
+
+@kokos|zetva|z|Kokoš|Huhn|ent=kokos,kokos2|sci=Gallus gallus domesticus
+i|Dom|Zuhause|kokošinjac na farmi|Hühnerstall auf dem Bauernhof
+i|Hrana|Nahrung|zrnje, crvi, kukci|Körner, Würmer, Insekten
+i|Veličina|Größe|oko 40 cm|etwa 40 cm
+h|Kokoši kokodaču na farmi Jesenske žetve.|Die Hühner gackern auf dem Hof der Herbsternte.
+f|Kokoši su potomci divljih ptica iz šuma Azije, a najbliži divlji rođaci od svih dinosaura su upravo ptice.|Hühner stammen von wilden Vögeln aus den Wäldern Asiens ab, und Vögel sind die nächsten lebenden Verwandten der Dinosaurier.
+q|Koji su danas najbliži rođaci dinosaura?|Wer sind heute die nächsten Verwandten der Dinosaurier?
+a|Ptice|Vögel
+w|Mačke|Katzen
+w|Ribe|Fische
+f|Kokoš ima svoj jezik: različitim kokodakanjem javlja ima li hrane ili opasnosti iz zraka.|Hühner haben eine eigene Sprache: Mit verschiedenen Rufen melden sie Futter oder Gefahr aus der Luft.
+q|Što kokoš javlja različitim kokodakanjem?|Was melden Hühner mit verschiedenen Rufen?
+a|Hranu ili opasnost|Futter oder Gefahr
+w|Koliko je sati|Wie spät es ist
+w|Kakvo će biti vrijeme sutra|Wie das Wetter morgen wird
+f|Pilić već u jajetu piju-piju razgovara s mamom kokoši prije nego što se izlegne.|Ein Küken piepst schon im Ei mit der Hühnermama, bevor es schlüpft.
+q|Kada pilić počinje razgovarati s mamom?|Wann beginnt ein Küken mit der Mama zu sprechen?
+a|Već u jajetu|Schon im Ei
+w|Kad nauči hodati|Wenn es laufen kann
+w|Kad odraste|Wenn es erwachsen ist
+
+@krava|zetva|z|Krava|Kuh|ent=krava,krava2|sci=Bos taurus
+i|Dom|Zuhause|pašnjaci i štale|Weiden und Ställe
+i|Hrana|Nahrung|trava i sijeno|Gras und Heu
+i|Veličina|Größe|oko 600 kg|etwa 600 kg
+h|Pase na livadi Jesenske žetve.|Weidet auf der Wiese der Herbsternte.
+f|Krava ima jedan želudac s četiri dijela. Travu prvo proguta, pa je kasnije vrati u usta i preživa.|Die Kuh hat einen Magen mit vier Teilen. Sie schluckt das Gras zuerst, holt es später wieder ins Maul und kaut es noch einmal.
+q|Što krava radi s travom koju je progutala?|Was macht die Kuh mit dem geschluckten Gras?
+a|Vrati je u usta i preživa|Sie holt es zurück und kaut wieder
+w|Pokloni je teletu|Sie schenkt es dem Kalb
+w|Posadi je|Sie pflanzt es ein
+f|Krava dnevno popije i do sto litara vode, otprilike koliko stane u kadu.|Eine Kuh trinkt am Tag bis zu hundert Liter Wasser, ungefähr so viel, wie in eine Badewanne passt.
+q|Pije li krava malo ili puno vode?|Trinkt eine Kuh wenig oder viel Wasser?
+a|Puno|Viel
+w|Samo kap|Nur einen Tropfen
+w|Uopće ne pije|Gar nichts
+f|Krave imaju najbolje prijateljice i mirnije su kad su uz njih.|Kühe haben beste Freundinnen und sind ruhiger, wenn sie bei ihnen sind.
+q|Kada su krave mirnije?|Wann sind Kühe ruhiger?
+a|Uz najbolju prijateljicu|Bei ihrer besten Freundin
+w|Kad su same|Wenn sie allein sind
+w|Kad pada grad|Wenn es hagelt
+
+@prase|zetva|z|Svinja|Schwein|ent=prase,prase2|sci=Sus scrofa domesticus
+i|Dom|Zuhause|farme i svinjci|Bauernhöfe und Ställe
+i|Hrana|Nahrung|gotovo sve: žir, povrće, zrnje|fast alles: Eicheln, Gemüse, Körner
+i|Veličina|Größe|do 300 kg|bis 300 kg
+h|Valja se u blatu na farmi Jesenske žetve.|Suhlt sich im Schlamm auf dem Hof der Herbsternte.
+f|Svinje se ne mogu znojiti. Valjaju se u blatu da se ohlade i da ih sunce ne opeče.|Schweine können nicht schwitzen. Sie suhlen sich im Schlamm, um sich abzukühlen und vor Sonnenbrand zu schützen.
+q|Zašto se svinje valjaju u blatu?|Warum suhlen sich Schweine im Schlamm?
+a|Da se ohlade|Um sich abzukühlen
+w|Jer su prljave|Weil sie schmutzig sind
+w|Da se sakriju od kokoši|Um sich vor Hühnern zu verstecken
+f|Svinje su jako pametne. Mogu naučiti svoje ime i igrati jednostavne igre.|Schweine sind sehr klug. Sie können ihren Namen lernen und einfache Spiele spielen.
+q|Što svinje mogu naučiti?|Was können Schweine lernen?
+a|Svoje ime i jednostavne igre|Ihren Namen und einfache Spiele
+w|Čitati knjige|Bücher lesen
+w|Voziti traktor|Traktor fahren
+f|Svinjska njuška je toliko dobra da svinje pod zemljom pronađu skupe gljive tartufe.|Die Schweineschnauze ist so gut, dass Schweine unter der Erde teure Trüffelpilze finden.
+q|Što svinje pronalaze njuškom pod zemljom?|Was finden Schweine mit der Schnauze unter der Erde?
+a|Tartufe|Trüffel
+w|Zlato|Gold
+w|Dinosaure|Dinosaurier
+
+@ponij|zetva|z|Ponij|Pony|ent=ponij|sci=Equus ferus caballus
+i|Dom|Zuhause|pašnjaci i staje|Weiden und Ställe
+i|Hrana|Nahrung|trava, sijeno, mrkva|Gras, Heu, Möhren
+i|Veličina|Größe|do 1,48 m u grebenu|bis 1,48 m Widerrist
+h|Ponij Zlatko čeka na farmi Jesenske žetve.|Pony Goldi wartet auf dem Hof der Herbsternte.
+f|Ponij je mali konj. Konj se zove ponij ako je u ramenima niži od otprilike metar i pol.|Ein Pony ist ein kleines Pferd. Ein Pferd heißt Pony, wenn es an der Schulter kleiner als etwa anderthalb Meter ist.
+q|Što je ponij?|Was ist ein Pony?
+a|Mali konj|Ein kleines Pferd
+w|Mladi magarac|Ein junger Esel
+w|Velika koza|Eine große Ziege
+f|Konji mogu spavati stojeći jer im se noge zaključaju i ne padnu.|Pferde können im Stehen schlafen, weil sich ihre Beine feststellen und sie nicht umfallen.
+q|Kako konji mogu spavati?|Wie können Pferde schlafen?
+a|Stojeći|Im Stehen
+w|Samo na drvetu|Nur auf einem Baum
+w|Nikad ne spavaju|Sie schlafen nie
+f|Konjima su oči sa strane glave, pa vide gotovo sve oko sebe, osim točno ispred nosa i iza repa.|Pferde haben die Augen seitlich am Kopf und sehen fast alles um sich, außer direkt vor der Nase und hinter dem Schwanz.
+q|Gdje konj ne vidi dobro?|Wo sieht ein Pferd schlecht?
+a|Točno ispred nosa i iza repa|Direkt vor der Nase und hinter dem Schwanz
+w|Nigdje, vidi sve|Nirgends, es sieht alles
+w|Lijevo|Links
+
+@guska|zetva|z|Divlja guska|Wildgans|ent=guska|sci=Anser anser
+i|Dom|Zuhause|jezera, močvare i polja|Seen, Sümpfe und Felder
+i|Hrana|Nahrung|trava, zrnje, korijenje|Gras, Körner, Wurzeln
+i|Veličina|Größe|krila do 1,8 m|Flügel bis 1,8 m
+h|Divlja guska Siva odmara na polju Jesenske žetve.|Wildgans Grauchen rastet auf dem Feld der Herbsternte.
+f|Divlje guske lete u obliku slova V. Ptica iza leti lakše jer je nosi zrak iza krila one ispred.|Wildgänse fliegen in V-Form. Der Vogel hinten fliegt leichter, weil ihn die Luft hinter den Flügeln des vorderen trägt.
+q|Zašto guske lete u obliku slova V?|Warum fliegen Gänse in V-Form?
+a|Lakše se leti iza druge ptice|Hinter einem anderen Vogel fliegt es sich leichter
+w|Da napišu svoje ime|Um ihren Namen zu schreiben
+w|Jer ne vide naprijed|Weil sie nicht nach vorn sehen
+f|Na čelu jata guske se izmjenjuju, jer je biti prvi najteže.|An der Spitze wechseln sich die Gänse ab, weil es vorne am anstrengendsten ist.
+q|Zašto se guske izmjenjuju na čelu jata?|Warum wechseln sich die Gänse an der Spitze ab?
+a|Prvi se najviše umara|Vorne ist es am anstrengendsten
+w|Da se posvađaju|Um sich zu streiten
+w|Prvi dobije nagradu|Der Erste bekommt einen Preis
+f|Mlade guske slijede prvo biće koje vide kad se izlegu, obično svoju mamu.|Junge Gänse folgen dem ersten Wesen, das sie nach dem Schlüpfen sehen, meistens ihrer Mama.
+q|Koga slijede mlade guske?|Wem folgen junge Gänse?
+a|Prvo biće koje vide|Dem ersten Wesen, das sie sehen
+w|Najglasniju pticu|Dem lautesten Vogel
+w|Mjesec|Dem Mond
+
+@strasilo|zetva|c|Strašilo|Vogelscheuche|ent=strasilo
+i|Posao|Beruf|čuva polje od ptica|bewacht das Feld vor Vögeln
+i|Odjeća|Kleidung|stari šešir i slama|alter Hut und Stroh
+h|Strašilo Slamko stoji na polju Jesenske žetve.|Vogelscheuche Strohi steht auf dem Feld der Herbsternte.
+f|Ljudi rade strašila već tisućama godina, još od starog Egipta, da ptice ne pojedu sjeme.|Menschen bauen schon seit Tausenden Jahren Vogelscheuchen, seit dem alten Ägypten, damit Vögel die Saat nicht fressen.
+q|Čemu služi strašilo?|Wozu dient eine Vogelscheuche?
+a|Da ptice ne pojedu sjeme|Damit Vögel die Saat nicht fressen
+w|Da plaši djecu|Um Kinder zu erschrecken
+w|Da drži kišobran|Um einen Schirm zu halten
+f|Ptice su pametne: kad strašilo dugo stoji na istom mjestu, shvate da se ne miče i vrate se.|Vögel sind klug: Steht die Vogelscheuche lange an derselben Stelle, merken sie, dass sie sich nicht bewegt, und kommen zurück.
+q|Što ptice shvate ako strašilo nikad ne mijenja mjesto?|Was merken Vögel, wenn die Vogelscheuche nie den Platz wechselt?
+a|Da se ne miče|Dass sie sich nicht bewegt
+w|Da je gladno|Dass sie Hunger hat
+w|Da spava|Dass sie schläft
+f|U knjizi Čarobnjak iz Oza strašilo želi dobiti mozak, a na kraju se pokaže da je cijelo vrijeme bilo pametno.|Im Buch Der Zauberer von Oz wünscht sich die Vogelscheuche ein Gehirn, und am Ende zeigt sich, dass sie die ganze Zeit klug war.
+q|Što strašilo želi u knjizi Čarobnjak iz Oza?|Was wünscht sich die Vogelscheuche im Zauberer von Oz?
+a|Mozak|Ein Gehirn
+w|Krila|Flügel
+w|Novi šešir|Einen neuen Hut
+
+@farmerica|zetva|l|Farmeri|Bauern|ent=farmerica|em=👩‍🌾|bg=#c8782a
+i|Posao|Beruf|uzgoj hrane i briga o životinjama|Essen anbauen und Tiere pflegen
+i|Jesen|Herbst|vrijeme berbe|Erntezeit
+h|Farmerica Jesenka čeka te na farmi Jesenske žetve.|Bäuerin Herbstine wartet auf dem Hof der Herbsternte.
+f|Kukuruz potječe iz Amerike. Prije više tisuća godina ljudi su ga uzgojili iz divlje trave s malim klipićima.|Mais kommt aus Amerika. Vor Tausenden Jahren haben die Menschen ihn aus einem wilden Gras mit kleinen Kolben gezüchtet.
+q|Odakle potječe kukuruz?|Woher kommt der Mais?
+a|Iz Amerike|Aus Amerika
+w|S Antarktike|Aus der Antarktis
+w|S Mjeseca|Vom Mond
+f|Bundeva je zapravo voće, jer ima sjemenke unutra, kao i rajčica i krastavac.|Der Kürbis ist eigentlich eine Frucht, weil er Samen innen hat, genau wie Tomate und Gurke.
+q|Zašto je bundeva zapravo voće?|Warum ist der Kürbis eigentlich eine Frucht?
+a|Ima sjemenke unutra|Er hat Samen innen
+w|Jer je okrugla|Weil er rund ist
+w|Jer je narančasta|Weil er orange ist
+f|Farmeri mijenjaju što sade na istom polju iz godine u godinu, da zemlja ostane zdrava.|Bauern wechseln jedes Jahr, was sie auf einem Feld anbauen, damit der Boden gesund bleibt.
+q|Zašto farmeri svake godine mijenjaju što sade?|Warum wechseln Bauern jedes Jahr, was sie anbauen?
+a|Da zemlja ostane zdrava|Damit der Boden gesund bleibt
+w|Da se ne dosađuju|Damit ihnen nicht langweilig wird
+w|Jer to traže krave|Weil die Kühe es wollen
+
+@w_vrt|vrt|m|Divovski vrt|Riesengarten|enter=vrt|em=🐞|bg=#3fa86a
+h|Otvara se portal u Cvjetnoj dolini.|Das Portal ist im Blumental.
+f|Na svijetu ima više vrsta kukaca nego svih drugih životinja zajedno.|Es gibt auf der Welt mehr Insektenarten als alle anderen Tierarten zusammen.
+q|Kojih životinja ima najviše vrsta?|Von welchen Tieren gibt es die meisten Arten?
+a|Kukaca|Insekten
+w|Riba|Fische
+w|Slonova|Elefanten
+f|Kap rose ujutro nastaje kad se topli vlažni zrak preko noći ohladi na hladnoj travi.|Tautropfen entstehen morgens, wenn sich warme, feuchte Luft über Nacht am kalten Gras abkühlt.
+q|Kako nastaje rosa?|Wie entsteht Tau?
+a|Vlažni zrak se ohladi na travi|Feuchte Luft kühlt am Gras ab
+w|Puževi je ostave|Schnecken hinterlassen ihn
+w|Padne s Mjeseca|Er fällt vom Mond
+f|Suncokret dok je mlad okreće cvijet za Suncem cijeli dan, od istoka prema zapadu.|Eine junge Sonnenblume dreht ihre Blüte den ganzen Tag mit der Sonne, von Osten nach Westen.
+q|Što radi mladi suncokret tijekom dana?|Was macht eine junge Sonnenblume tagsüber?
+a|Okreće se za Suncem|Sie dreht sich mit der Sonne
+w|Spava|Sie schläft
+w|Pjeva|Sie singt
+
+@w_vila|vila|m|Vilinska šuma|Feenwald|enter=vila|em=🧚|bg=#8a5ad8
+h|Otvara se portal u Cvjetnoj dolini.|Das Portal ist im Blumental.
+f|Neke gljive u šumi svijetle u mraku slabim zelenim svjetlom.|Manche Pilze im Wald leuchten im Dunkeln mit schwachem grünem Licht.
+q|Što neke gljive mogu u mraku?|Was können manche Pilze im Dunkeln?
+a|Svijetliti zeleno|Grün leuchten
+w|Pjevati|Singen
+w|Hodati|Laufen
+f|Stabla su u šumi povezana podzemnim nitima gljiva i preko njih dijele vodu i hranu.|Bäume im Wald sind unter der Erde durch Pilzfäden verbunden und teilen darüber Wasser und Nährstoffe.
+q|Kako stabla u šumi dijele hranu?|Wie teilen Bäume im Wald Nährstoffe?
+a|Preko niti gljiva pod zemljom|Über Pilzfäden unter der Erde
+w|Dodaju je granama|Sie reichen sie mit den Ästen
+w|Nikako, svako stablo je samo|Gar nicht, jeder Baum ist allein
+f|Hrast može živjeti i više od tisuću godina.|Eine Eiche kann über tausend Jahre alt werden.
+q|Koliko dugo može živjeti hrast?|Wie alt kann eine Eiche werden?
+a|Više od tisuću godina|Über tausend Jahre
+w|Jednu godinu|Ein Jahr
+w|Deset dana|Zehn Tage
+
+@w_slatko|slatko|m|Slatkišna zemlja|Süßigkeitenland|enter=slatko|em=🍭|bg=#ff7ab0
+h|Otvara se portal u Cvjetnoj dolini.|Das Portal ist im Blumental.
+f|Čokolada se radi od zrna kakaovca, ploda stabla koje raste u toplim tropskim krajevima.|Schokolade macht man aus Kakaobohnen, den Früchten eines Baumes, der in warmen Tropenländern wächst.
+q|Od čega se radi čokolada?|Woraus macht man Schokolade?
+a|Od zrna kakaovca|Aus Kakaobohnen
+w|Od smeđih jabuka|Aus braunen Äpfeln
+w|Od kave|Aus Kaffee
+f|Stari Maje i Azteci pili su kakao kao gorki napitak, bez šećera, a zrna su koristili i kao novac.|Die alten Maya und Azteken tranken Kakao als bitteres Getränk ohne Zucker und benutzten die Bohnen auch als Geld.
+q|Za što su Azteci koristili zrna kakaovca?|Wofür benutzten die Azteken Kakaobohnen?
+a|Kao novac|Als Geld
+w|Kao loptice|Als Bälle
+w|Kao gumbe|Als Knöpfe
+f|Šećer se dobiva iz šećerne trske ili iz šećerne repe, koja raste i u Hrvatskoj.|Zucker gewinnt man aus Zuckerrohr oder aus Zuckerrüben, die auch in Kroatien wachsen.
+q|Iz čega se dobiva šećer?|Woraus gewinnt man Zucker?
+a|Iz šećerne trske ili repe|Aus Zuckerrohr oder Zuckerrüben
+w|Iz morske soli|Aus Meersalz
+w|Iz oblaka|Aus Wolken
+
+@w_zetva|zetva|m|Jesenska žetva|Herbsternte|enter=zetva|em=🌾|bg=#d8a03a
+h|Otvara se portal u Cvjetnoj dolini.|Das Portal ist im Blumental.
+f|Lišće u jesen požuti i pocrveni jer stablo prestane raditi zelenu tvar klorofil, pa se vide druge boje koje su bile skrivene.|Im Herbst werden die Blätter gelb und rot, weil der Baum kein grünes Chlorophyll mehr macht, und andere Farben sichtbar werden.
+q|Zašto lišće u jesen mijenja boju?|Warum ändern Blätter im Herbst ihre Farbe?
+a|Nestane zelenog klorofila|Das grüne Chlorophyll verschwindet
+w|Netko ga oboji|Jemand malt sie an
+w|Od hladnoće se zacrveni|Es wird vor Kälte rot
+f|Kruh se radi od brašna, a brašno od samljevenih zrna pšenice.|Brot macht man aus Mehl, und Mehl aus gemahlenen Weizenkörnern.
+q|Od čega je brašno?|Woraus ist Mehl?
+a|Od samljevenih zrna pšenice|Aus gemahlenen Weizenkörnern
+w|Od pijeska|Aus Sand
+w|Od snijega|Aus Schnee
+f|Jabuka pluta u vodi jer je oko četvrtine jabuke zrak.|Ein Apfel schwimmt im Wasser, weil etwa ein Viertel des Apfels Luft ist.
+q|Zašto jabuka pluta u vodi?|Warum schwimmt ein Apfel im Wasser?
+a|Puna je zraka|Er ist voller Luft
+w|Ima malu jedrilicu|Er hat ein kleines Segel
+w|Jer je okrugla|Weil er rund ist

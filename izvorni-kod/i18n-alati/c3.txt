@@ -1,0 +1,775 @@
+2128|trava i sijeno
+2129|oko 1 m
+2130|Ovčja vuna stalno raste, zato se domaće ovce šišaju otprilike jednom godišnje
+2131|Koliko se često domaće ovce obično šišaju
+2132|Otprilike jednom godišnje
+2133|Nikad
+2134|Ovce imaju odlično pamćenje. Mogu zapamtiti pedesetak lica drugih ovaca i ljudi, čak i godinama
+2135|Što ovce mogu dugo pamtiti
+2136|Lica ovaca i ljudi
+2137|Pjesme ptica
+2138|Brojeve do sto
+2139|Ovca ima zjenice u obliku vodoravnog pravokutnika, pa vidi gotovo sve oko sebe dok pase
+2140|Kakve oblike zjenica ima ovca
+2141|Vodoravni pravokutnik
+2142|Okrugle kao lopta
+2143|Oblik zvijezde
+2144|Morska kornjača
+2145|topla mora
+2146|morska trava, meduze
+2147|do 1 m i više
+2148|Morska kornjača liježe jaja u pijesak na plaži, a mali kornjačići sami otpužu do mora
+2149|Gdje morska kornjača liježe jaja
+2150|U pijesak na plaži
+2151|Na dnu mora
+2152|U gnijezdo na drvetu
+2153|Za razliku od kopnenih kornjača, morske kornjače ne mogu uvući glavu u oklop
+2154|Što morska kornjača ne može
+2155|Uvući glavu u oklop
+2156|Plivati
+2157|Disati zrak
+2158|Neke morske kornjače preplivaju tisuće kilometara i vrate se baš na plažu na kojoj su se izlegle
+2159|Kamo se mnoge morske kornjače vraćaju nesti jaja
+2160|Na plažu gdje su se izlegle
+2161|Na Sjeverni pol
+2162|U najbližu rijeku
+2163|kuće, vrtovi, sela
+2164|meso i riba
+2165|oko 45 cm i rep
+2166|Zna gdje je vjetar raznio zlatnike
+2167|Mačka može okretati svako uho posebno, pa čuje odakle dolazi i najtiši zvuk
+2168|Kako mačka otkriva odakle dolazi zvuk
+2169|Okreće svako uho posebno
+2170|Zatvori oči
+2171|Lupa repom
+2172|Mačji brkovi su osjetljivi kao prsti. Pomažu mački osjetiti hoće li proći kroz uski prolaz
+2173|Čemu mački služe brkovi
+2174|Osjećaju uske prolaze
+2175|Za češljanje krzna
+2176|Pomažu joj plivati
+2177|Mačke puno spavaju, često između 12 i 16 sati na dan
+2178|Koliko sati na dan mačka često spava
+2179|Nikad ne spava
+2180|Papiga
+2181|tropske šume
+2182|voće, orašasti plodovi
+2183|od 10 cm do 1 m
+2184|Pamti rečenice iz tvojih knjiga
+2185|Neke papige mogu naučiti stotine riječi i oponašati zvukove poput zvona ili zvižduka
+2186|Što neke papige mogu naučiti
+2187|Stotine riječi
+2188|Čitati knjige
+2189|Pisati slova
+2190|Papiga ima dva prsta naprijed i dva straga, pa hranu drži nogom kao rukom
+2191|Kako papiga drži hranu
+2192|Nogom, kao rukom
+2193|Samo krilima
+2194|Repom
+2195|Velike papige žive jako dugo, neke i više od 50 godina
+2196|Koliko dugo mogu živjeti velike papige
+2197|Više od 50 godina
+2198|Samo godinu dana
+2199|Tjedan dana
+2200|šume i stari tornjevi
+2201|miševi i kukci
+2202|od 15 do 70 cm
+2203|Čuva knjižnicu i zna mnogo tajni
+2204|Sova može okrenuti glavu za oko tri četvrtine kruga, pa vidi iza sebe bez okretanja tijela
+2205|Koliko sova može okrenuti glavu
+2206|Oko tri četvrtine kruga
+2207|Samo malo lijevo
+2208|Ne može je okrenuti
+2209|Sovine oči se ne mogu micati u očnim dupljama. Zato sova okreće cijelu glavu
+2210|Zašto sova okreće cijelu glavu
+2211|Oči joj se ne miču
+2212|Da bolje čuje
+2213|Jer je znatiželjna
+2214|Rubovi sovinog perja su mekani kao češalj, pa sova leti gotovo bešumno
+2215|Zašto sova leti gotovo bešumno
+2216|Ima mekane rubove perja
+2217|Ne maše krilima
+2218|Leti samo po danu
+2219|Pingvin
+2220|hladna južna mora
+2221|ribe i rakovi
+2222|Živi na snježnom otočiću
+2223|Pingvini ne mogu letjeti, ali u vodi krilima veslaju toliko brzo da izgleda kao da lete
+2224|Kako pingvin koristi krila
+2225|Za plivanje pod vodom
+2226|Za letenje
+2227|Za kopanje snijega
+2228|Pingvini žive na južnoj polovici Zemlje. Na Sjevernom polu nema pingvina
+2229|Gdje žive pingvini
+2230|Na južnoj polovici Zemlje
+2231|Na Sjevernom polu
+2232|U pustinji
+2233|Crna leđa i bijeli trbuh skrivaju pingvina u moru: odozgo izgleda kao tamna dubina, a odozdo kao svijetlo nebo
+2234|Čemu pingvinu služi crno-bijelo perje
+2235|Skriva ga u moru
+2236|Da bude lijep na zabavi
+2237|Da ga sunce ne vidi
+2238|Žaba
+2239|ribnjaci i bare
+2240|od 1 do 30 cm
+2241|Žaba počinje život kao punoglavac koji ima rep i diše škrgama, kao riba
+2242|Kako se zove mlada žaba koja živi u vodi
+2243|Punoglavac
+2244|Žabić
+2245|Ribica
+2246|Mnoge žabe ne piju vodu ustima, nego je upijaju kroz kožu
+2247|Kako mnoge žabe piju vodu
+2248|Kroz kožu
+2249|Kroz nos
+2250|Uopće ne piju
+2251|Neke žabe mogu skočiti i dvadeset puta dalje od duljine svog tijela
+2252|Koliko daleko mogu skočiti neke žabe
+2253|Dvadeset puta dalje od svog tijela
+2254|Samo pola svog tijela
+2255|Ne mogu skakati
+2256|Deva
+2257|trnovito bilje, trava
+2258|oko 2 m visoka
+2259|Živi na pješčanom otočiću
+2260|U devinoj grbi nije voda, nego mast. Deva od nje dobiva snagu kad dugo nema hrane
+2261|Što je u devinoj grbi
+2262|Mast
+2263|Žedna deva može popiti više od 100 litara vode za desetak minuta
+2264|Koliko vode žedna deva može brzo popiti
+2265|Više od 100 litara
+2266|Jednu čašu
+2267|Jednu kap
+2268|Deva ima dva reda dugih trepavica koje joj čuvaju oči od pijeska
+2269|Što devi čuva oči od pijeska
+2270|Dva reda trepavica
+2271|Sunčane naočale
+2272|Velike uši
+2273|Dupin
+2274|mora i oceani
+2275|ribe i lignje
+2276|Dozovi ga u moru kad postanete prijatelji
+2277|Dupin je sisavac, a ne riba. Zrak udiše kroz otvor na vrhu glave
+2278|Kroz što dupin udiše zrak
+2279|Kroz otvor na vrhu glave
+2280|Kroz škrge
+2281|Kroz rep
+2282|Dupini spavaju tako da odmara jedna polovica mozga, a druga pazi da dupin diše i ne zaspi pod vodom
+2283|Kako dupini spavaju
+2284|Odmara pola mozga
+2285|Na plaži
+2286|Uopće ne spavaju
+2287|Svaki dupin ima svoj poseban zvižduk, kao ime, i njime ga zovu prijatelji
+2288|Kako se dupini međusobno dozivaju
+2289|Svaki ima svoj zvižduk
+2290|Mašu perajama
+2291|Pišu po pijesku
+2292|Crvena panda
+2293|planinske šume Azije
+2294|najviše bambus
+2295|oko 60 cm i rep
+2296|Crvena panda najviše jede bambus, ali voli i voće, žirove i jaja
+2297|Što crvena panda najviše jede
+2298|Bambus
+2299|Mrkvu
+2300|Kad je hladno, crvena panda se omota svojim dugim čupavim repom kao dekicom
+2301|Čime se crvena panda grije kad je hladno
+2302|Svojim čupavim repom
+2303|Lišćem
+2304|Snijegom
+2305|Crvenu pandu znanstvenici su opisali i nazvali pandom prije velike crno-bijele pande
+2306|Koja je panda prva dobila ime panda
+2307|Velika panda
+2308|Obje istog dana
+2309|Konj
+2310|livade i farme
+2311|trava, sijeno, zob
+2312|Galopira brže od vjetra
+2313|Konj može drijemati stojeći jer mu posebni zglobovi u nogama drže tijelo bez napora
+2314|Kako konj može drijemati
+2315|Stojeći
+2316|Na glavi
+2317|Samo u vodi
+2318|Konj ima najveće oči od svih sisavaca koji žive na kopnu
+2319|Po čemu su posebne konjske oči
+2320|Najveće su među kopnenim sisavcima
+2321|Svijetle u mraku
+2322|Imaju tri boje
+2323|Mladi konj, ždrijebe, može stajati i hodati već nekoliko sati nakon rođenja
+2324|Kada ždrijebe prohoda
+2325|Nekoliko sati nakon rođenja
+2326|Nakon godinu dana
+2327|Nakon pet godina
+2328|Izleže se iz jajeta kad pročitaš dovoljno stranica
+2329|Priče o zmajevima postoje u gotovo svim dijelovima svijeta, od Europe do Kine
+2330|Gdje sve postoje priče o zmajevima
+2331|U gotovo cijelom svijetu
+2332|Samo u Hrvatskoj
+2333|Nigdje
+2334|U kineskim pričama zmajevi su dobri. Donose sreću, kišu i plodnu godinu
+2335|Što zmajevi donose u kineskim pričama
+2336|Sreću i kišu
+2337|Snijeg i led
+2338|Samo strah
+2339|Zmaj Iskra izlegao se iz jajeta tek kad je Rida skupila dovoljno pročitanih stranica
+2340|Što je trebalo da se Iskra izleže iz jajeta
+2341|Pročitane stranice
+2342|Sto zlatnika
+2343|Jedna mrkva
+2344|Kapibara
+2345|rijeke Južne Amerike
+2346|trava i vodeno bilje
+2347|Čeka te u Čarobnoj trgovini
+2348|Kapibara je najveći glodavac na svijetu, rođak zamorčića
+2349|Po čemu je kapibara posebna
+2350|Najveći je glodavac
+2351|Najbrži je trkač
+2352|Najmanji je sisavac
+2353|Kapibara odlično pliva i ima male kožice između prstiju
+2354|Što kapibari pomaže plivati
+2355|Kožice između prstiju
+2356|Krila
+2357|Dugi rep
+2358|Kad se uplaši, kapibara može ostati pod vodom oko pet minuta
+2359|Koliko kapibara može ostati pod vodom
+2360|Oko pet minuta
+2361|Cijeli dan
+2362|Ni sekunde
+2363|Robo-pas
+2364|Riječ robot prvi put je upotrijebljena 1920. godine u drami češkog pisca Karela Čapeka
+2365|Odakle dolazi riječ robot
+2366|Iz drame Karela Čapeka
+2367|Iz jedne pjesme
+2368|Iz kuharice
+2369|Pravi roboti-psi danas postoje i mogu hodati po stepenicama i neravnom tlu
+2370|Što mogu pravi roboti-psi
+2371|Hodati po stepenicama
+2372|Letjeti do Mjeseca
+2373|Kuhati juhu
+2374|Bip kaže da mu krumpir puni baterije, iako svi znamo da roboti trebaju struju
+2375|Što Bip tvrdi da mu puni baterije
+2376|Mjesečina
+2377|Feniks
+2378|Najrjeđa ptica Čarobne trgovine
+2379|U starim grčkim pričama feniks na kraju života izgori i ponovno se rodi iz pepela
+2380|Iz čega se feniks ponovno rađa
+2381|Iz pepela
+2382|Iz jajeta u gnijezdu
+2383|Iz oblaka
+2384|Zbog te priče feniks je znak nade i novog početka
+2385|Čega je feniks znak
+2386|Nade i novog početka
+2387|Zime
+2388|Tuge
+2389|Feniks Plamko nikad ne peče, nego samo grije
+2390|Što radi Plamkova vatra
+2391|Samo grije
+2392|Sve zapali
+2393|Ledi vodu
+2394|Knjižnica
+2395|Jedna od najstarijih poznatih knjižnica, kralja Asurbanipala, imala je knjige od glinenih pločica
+2396|Od čega su bile knjige u jednoj od najstarijih knjižnica
+2397|Od glinenih pločica
+2398|Od lišća
+2399|Od stakla
+2400|U knjižnici su knjige složene po temama i slovima, pa se svaka brzo nađe
+2401|Zašto su knjige u knjižnici složene po redu
+2402|Da se brzo nađu
+2403|Da lijepo izgledaju
+2404|Da ih nitko ne dira
+2405|Svaka pročitana stranica u Otoku priča daje Ridi zlatnike i puni tvoju zbirku
+2406|Što Ridi donosi svaka pročitana stranica
+2407|Zlatnike
+2408|Kišu
+2409|Najviše stablo na svijetu je sekvoja nazvana Hyperion. Visoka je oko 116 metara, više od zgrade od 30 katova
+2410|Koliko je visoko najviše stablo na svijetu
+2411|Oko 116 metara
+2412|Oko 10 metara
+2413|Oko 2 kilometra
+2414|Stabla kroz lišće ispuštaju kisik koji mi udišemo
+2415|Što stabla ispuštaju kroz lišće
+2416|Kisik
+2417|Dim
+2418|Med
+2419|Po krugovima, godovima, na prerezanom deblu možeš izbrojiti koliko je stablo bilo staro
+2420|Kako možeš saznati koliko je stablo staro
+2421|Izbrojiš godove
+2422|Izmjeriš lišće
+2423|Pitaš pticu
+2424|Svjetionik noću pokazuje brodovima gdje su obala i stijene, da se ne nasuču
+2425|Čemu služi svjetionik
+2426|Čuva brodove od stijena
+2427|Grije more
+2428|Lovi ribu
+2429|Svaki svjetionik bljeska svojim ritmom, pa ga mornari prepoznaju i u mraku
+2430|Kako mornari prepoznaju svjetionik u mraku
+2431|Po ritmu bljeskanja
+2432|Po zvuku zvona
+2433|Po mirisu
+2434|Herkulov toranj u Španjolskoj star je gotovo 2000 godina i najstariji je svjetionik koji još radi
+2435|Koliko je star najstariji svjetionik koji još radi
+2436|Gotovo 2000 godina
+2437|Milijun godina
+2438|Laguna je plitko more koje je od otvorenog mora odvojeno pijeskom, stijenama ili koraljima
+2439|Što je laguna
+2440|Plitko more odvojeno od otvorenog mora
+2441|Planinski vrh
+2442|Duboka špilja
+2443|Slap nastaje kad rijeka teče preko ruba stijene i pada dolje
+2444|Kako nastaje slap
+2445|Rijeka pada preko ruba stijene
+2446|Kiša pada s oblaka
+2447|More se zaledi
+2448|Najviši slap na svijetu je Anđeoski slap u Venezueli, visok gotovo 1000 metara
+2449|Kako se zove najviši slap na svijetu
+2450|Anđeoski slap
+2451|Plitvički slap
+2452|Ledeni slap
+2453|Oblaci
+2454|Oblaci su napravljeni od sićušnih kapljica vode ili kristalića leda koji lebde u zraku
+2455|Od čega su napravljeni oblaci
+2456|Od sićušnih kapljica vode
+2457|Od vate
+2458|Od dima
+2459|Jedan veliki bijeli oblak može biti težak kao stotinu slonova, ali lebdi jer su kapljice jako sitne i raširene
+2460|Koliko može biti težak veliki oblak
+2461|Kao stotinu slonova
+2462|Kao jedno pero
+2463|Kao jedna jabuka
+2464|Kad se kapljice u oblaku spoje i postanu preteške, padaju na zemlju kao kiša
+2465|Kada iz oblaka pada kiša
+2466|Kad kapljice postanu preteške
+2467|Kad oblak zijevne
+2468|Kad zapuše sjever
+2469|Duga nastaje kad sunčeva svjetlost prolazi kroz kapljice kiše i rastavi se na boje
+2470|Kako nastaje duga
+2471|Svjetlost se u kapljicama rastavi na boje
+2472|Netko je oboji
+2473|Iz cvijeća
+2474|Dugu vidiš samo kad ti je sunce iza leđa, a kiša ispred tebe
+2475|Gdje mora biti sunce da vidiš dugu
+2476|Iza tvojih leđa
+2477|Točno ispred tebe
+2478|Ispod zemlje
+2479|Boje duge uvijek idu istim redom: crvena, narančasta, žuta, zelena, plava, modra i ljubičasta
+2480|Koja je boja uvijek na vanjskom rubu duge
+2481|Crvena
+2482|Zelena
+2483|Ljubičasta
+2484|Vjetar je zrak koji se kreće. Topao zrak se diže, a hladan dolazi na njegovo mjesto
+2485|Što je vjetar
+2486|Zrak koji se kreće
+2487|Dah oblaka
+2488|Para iz mora
+2489|Ptice poput orlova jedre na toplim strujama zraka koje se dižu, a da gotovo ne mašu krilima
+2490|Kako se orlovi dižu visoko bez mahanja
+2491|Jedre na toplim strujama
+2492|Skaču s drveta
+2493|Puše im vjetar u leđa
+2494|Na Jadranu puše bura, jak i hladan vjetar koji dolazi s planina prema moru
+2495|Kako se zove jak hladan vjetar na Jadranu
+2496|Bura
+2497|Monsun
+2498|Tajfun
+2499|Dvorac duge čuva škrinju koja se otvara tek kad skupiš svih 10 zvjezdanih kamenčića
+2500|Koliko kamenčića treba za vrata Dvorca duge
+2501|Deset
+2502|Tri
+2503|Sto
+2504|U Svijetu oblaka zračne struje nose Ridu gore do najviših otoka
+2505|Što Ridu nosi do najviših otoka u oblacima
+2506|Zračne struje
+2507|Ljestve
+2508|Pravi dvorci gradili su se na brdima i stijenama, da se izdaleka vidi tko dolazi
+2509|Zašto su se pravi dvorci gradili na brdima
+2510|Da se vidi tko dolazi
+2511|Da budu bliže suncu
+2512|Jer je ondje toplije
+2513|Carski pingvin
+2514|Antarktika
+2515|Vladar Ledenog kraljevstva
+2516|Carski pingvin je najveći pingvin na svijetu, visok otprilike kao dijete od šest godina
+2517|Koji je pingvin najveći na svijetu
+2518|Mali plavi pingvin
+2519|Pingvin s Plitvica
+2520|Tata carski pingvin cijelu zimu drži jaje na nogama, pod toplim naborom trbuha
+2521|Tko kod carskih pingvina grije jaje
+2522|Tata, na nogama
+2523|Nitko, jaje je u snijegu
+2524|Galeb
+2525|Kad zapuše ledeni vjetar, carski pingvini se zbiju u veliku skupinu i redom se mijenjaju u sredini
+2526|Kako se carski pingvini griju za hladnog vjetra
+2527|Zbiju se u skupinu
+2528|Ulaze u iglu
+2529|Lete na jug
+2530|Polarni zec
+2531|daleki sjever
+2532|mahovina, lišajevi, grančice
+2533|oko 60 cm
+2534|Skakuće po snježnim livadama
+2535|Polarni zec zimi je bijel kao snijeg, a ljeti mu krzno posmeđi, pa se uvijek dobro skriva
+2536|Zašto polarni zec mijenja boju krzna
+2537|Da se skriva
+2538|Jer mu je dosadno
+2539|Zbog kiše
+2540|Polarni zec ima kraće uši od drugih zečeva, pa kroz njih gubi manje topline
+2541|Zašto polarni zec ima kratke uši
+2542|Da gubi manje topline
+2543|Da stane u rupu
+2544|Široke dlakave stražnje noge rade kao krplje i ne propadaju u snijeg
+2545|Što polarnom zecu pomaže hodati po snijegu
+2546|Široke dlakave noge
+2547|Skije
+2548|Vunasti mamut
+2549|Doba
+2550|ledeno doba
+2551|trava i grmlje
+2552|oko 3 m visok
+2553|Mammuthus primigenius
+2554|Mali mamut traži prijatelja u snijegu
+2555|Vunasti mamuti živjeli su u ledeno doba i imali gusto krzno koje ih je grijalo
+2556|Što je grijalo vunaste mamute
+2557|Gusto krzno
+2558|Topli kaput
+2559|Mamutove kljove bile su dugačke i do četiri metra, a služile su za čišćenje snijega i borbu
+2560|Koliko su mogle biti duge mamutove kljove
+2561|Do četiri metra
+2562|Deset centimetara
+2563|Kao olovka
+2564|Posljednji mamuti živjeli su na jednom hladnom otoku sve do vremena kad su se u Egiptu već gradile piramide
+2565|Kada su živjeli posljednji mamuti
+2566|Dok su se gradile piramide
+2567|Prošle godine
+2568|Prije dinosaura
+2569|Irvas
+2570|hladni sjever
+2571|lišajevi i mahovina
+2572|Lebdi iznad snijega pod zvijezdama
+2573|Kod irvasa rogove imaju i mužjaci i ženke, a svake godine im narastu novi
+2574|Tko kod irvasa ima rogove
+2575|I mužjaci i ženke
+2576|Samo mladunci
+2577|Nitko
+2578|Irvasi zimi kopitima razgrću snijeg i ispod njega nalaze lišajeve
+2579|Kako irvasi zimi nalaze hranu
+2580|Razgrću snijeg kopitima
+2581|Love ribu
+2582|Jedu snijeg
+2583|Neki irvasi svake godine prijeđu tisuće kilometara u velikim krdima
+2584|Kako neki irvasi putuju
+2585|U velikim krdima, tisuće kilometara
+2586|Sami, po deset metara
+2587|Uopće ne putuju
+2588|Polarni medvjed
+2589|Arktik, oko Sjevernog pola
+2590|Medvjedić koji obožava klizati
+2591|Ispod bijelog krzna polarni medvjed ima crnu kožu koja upija toplinu sunca
+2592|Koje je boje koža polarnog medvjeda
+2593|Crne
+2594|Bijele
+2595|Ružičaste
+2596|Polarni medvjed odlično pliva i može plivati satima u ledenom moru
+2597|Što polarni medvjed odlično radi
+2598|Pliva
+2599|Penje se po palmama
+2600|Leti
+2601|Polarni medvjedi žive na Arktiku, oko Sjevernog pola, gdje nema pingvina
+2602|Gdje žive polarni medvjedi
+2603|Oko Sjevernog pola
+2604|Oko Južnog pola
+2605|Polarna svjetlost nastaje kad čestice sa Sunca udaraju u zrak visoko iznad Zemlje i on zasvijetli
+2606|Kako nastaje polarna svjetlost
+2607|Čestice sa Sunca udaraju u zrak
+2608|Netko upali lampe
+2609|Mjesec se odražava u snijegu
+2610|Najčešće je vidiš blizu Sjevernog i Južnog pola, za vedrih zimskih noći
+2611|Gdje se polarna svjetlost najčešće vidi
+2612|Blizu polova
+2613|Na ekvatoru
+2614|Najčešća boja polarne svjetlosti je zelena, a ponekad zasvijetli i ljubičasto i crveno
+2615|Koja je najčešća boja polarne svjetlosti
+2616|Smeđa
+2617|Crna
+2618|Snježna pahulja
+2619|Svaka snježna pahulja ima šest krakova jer se tako slažu sitne čestice leda
+2620|Koliko krakova ima snježna pahulja
+2621|Šest
+2622|Pahulje nastaju u oblacima kad se vodena para zaledi oko sićušne čestice prašine
+2623|Gdje nastaju snježne pahulje
+2624|U oblacima
+2625|U zemlji
+2626|U moru
+2627|Snijeg izgleda bijel jer mnogo sitnih kristalića leda odbija svjetlost na sve strane
+2628|Zašto snijeg izgleda bijel
+2629|Kristalići odbijaju svjetlost
+2630|Obojen je kredom
+2631|Zbog Mjeseca
+2632|Gejzir
+2633|Gejzir je izvor koji povremeno izbaci vruću vodu i paru visoko u zrak
+2634|Što izbacuje gejzir
+2635|Vruću vodu i paru
+2636|Kamenje
+2637|Voda u gejziru je vruća jer je duboko pod zemljom zagrije užareno kamenje
+2638|Zašto je voda u gejziru vruća
+2639|Zagrije je kamenje pod zemljom
+2640|Netko je kuha
+2641|Zbog sunca
+2642|Riječ gejzir dolazi od Geysira, poznatog izvora na Islandu
+2643|Odakle dolazi riječ gejzir
+2644|S Islanda
+2645|Iz Afrike
+2646|S Mjeseca
+2647|Vrata Ledene palače otvore se kad skupiš svih 10 snježnih kristala
+2648|Što otvara vrata Ledene palače
+2649|10 snježnih kristala
+2650|Ključ od zlata
+2651|Pjesma pingvina
+2652|U nekim hladnim zemljama svake zime grade pravi hotel od leda i snijega u kojem se može prespavati
+2653|Od čega je napravljen pravi ledeni hotel
+2654|Od leda i snijega
+2655|Od šećera
+2656|Iglu se gradi od snježnih blokova, a unutra je puno toplije nego vani na vjetru
+2657|Kako je u igluu
+2658|Toplije nego vani
+2659|Hladnije nego vani
+2660|Mokro kao u moru
+2661|obale i morsko dno
+2662|alge, sitne životinjice
+2663|od 1 cm do 4 m raspona nogu
+2664|Hoda bočno po pijesku
+2665|Mnogi rakovi hodaju bočno jer im se noge tako najlakše savijaju
+2666|Kako hoda mnogo rakova
+2667|Bočno
+2668|Unatrag na glavi
+2669|Skačući
+2670|Rak raste tako da odbaci stari oklop, a novi mekani oklop se zatim stvrdne
+2671|Što rak radi kad naraste
+2672|Odbaci stari oklop
+2673|Skupi se
+2674|Prestane jesti
+2675|Japanski rak pauk ima noge raširene skoro četiri metra, više od automobila
+2676|Koliko su raširene noge japanskog raka pauka
+2677|Skoro četiri metra
+2678|Kao zrno graška
+2679|Morski konjic
+2680|morske livade i koralji
+2681|sitni račići
+2682|od 2 do 35 cm
+2683|Mjehurko se skriva u morskoj travi
+2684|Kod morskih konjica mladunce u trbušnoj vrećici nosi tata, a ne mama
+2685|Tko kod morskih konjica nosi mladunce
+2686|Tata
+2687|Mama
+2688|Morski konjic repom se uhvati za morsku travu da ga struja ne odnese
+2689|Čemu morskom konjicu služi rep
+2690|Hvata se za travu
+2691|Za plivanje brzo kao strijela
+2692|Za kopanje
+2693|Morski konjic je riba, iako izgleda kao mali konj
+2694|Što je morski konjic
+2695|Manta
+2696|do 7 m raspona
+2697|Zvjezdica pleše pod morem
+2698|Manta je najveća raža. Peraje joj mogu biti raširene i sedam metara
+2699|Koliko mogu biti raširene peraje mante
+2700|Do sedam metara
+2701|Pola metra
+2702|Dva centimetra
+2703|Iako je ogromna, manta jede sićušni plankton koji procjeđuje iz vode
+2704|Što jede ogromna manta
+2705|Sićušni plankton
+2706|Velike kitove
+2707|Mante ponekad iskaču iz mora i pljusnu natrag u vodu
+2708|Što mante ponekad rade
+2709|Iskaču iz mora
+2710|Penju se na stijene
+2711|Grade gnijezda
+2712|stijene na morskom dnu
+2713|rakovi i školjke
+2714|od 2 cm do 4 m
+2715|Osmica se krije u pećinici
+2716|Hobotnica ima tri srca i plavu krv
+2717|Koliko srca ima hobotnica
+2718|Jedno
+2719|Osam
+2720|Hobotnica može u trenu promijeniti boju kože i stopiti se s kamenjem
+2721|Kako se hobotnica skriva
+2722|Mijenja boju kože
+2723|Zakopa se u led
+2724|Leti iz mora
+2725|Hobotnica je jako pametna. Može otvoriti staklenku i pamtiti put kroz labirint
+2726|Što pametna hobotnica može naučiti
+2727|Otvoriti staklenku
+2728|Čitati novine
+2729|Pjevati
+2730|Grbavi kit
+2731|svi oceani
+2732|kril i sitne ribe
+2733|oko 15 m
+2734|Pjeva u dubini Podvodnog grada
+2735|Mužjaci grbavog kita pjevaju dugačke pjesme koje se pod vodom čuju kilometrima daleko
+2736|Što grbavi kitovi rade pod vodom
+2737|Pjevaju duge pjesme
+2738|Grade kuće
+2739|Spavaju na dnu
+2740|Kit je sisavac, pa mora izroniti da udahne zrak kroz nosnice na vrhu glave
+2741|Zašto kit izranja
+2742|Da udahne zrak
+2743|Da se ugrije
+2744|Da vidi oblake
+2745|Plavi kit je najveća životinja koja je ikad živjela, veća i od najvećih dinosaura
+2746|Koja je najveća životinja koja je ikad živjela
+2747|Plavi kit
+2748|Tiranosaur
+2749|Slon
+2750|Biser nastaje kad u školjku uđe zrnce, a ona ga sloj po sloj obloži sjajnom tvari
+2751|Kako nastaje biser
+2752|Školjka obloži zrnce slojevima
+2753|Pada s neba
+2754|Iskopa se u rudniku
+2755|Za lijepi biser školjci treba nekoliko godina
+2756|Koliko školjci treba za lijepi biser
+2757|Nekoliko godina
+2758|Jedan dan
+2759|Jedna minuta
+2760|Sjaj bisera zove se sedef. Od sedefa su nekad bila i dugmad na odjeći
+2761|Kako se zove sjajna tvar od koje je biser
+2762|Sedef
+2763|Vosak
+2764|Koralji izgledaju kao biljke ili kamenje, ali su zapravo sitne životinje
+2765|Što su zapravo koralji
+2766|Sitne životinje
+2767|Biljke
+2768|Veliki koraljni greben u Australiji toliko je velik da se vidi iz svemira
+2769|Što se vidi iz svemira
+2770|Veliki koraljni greben
+2771|Jedna školjka
+2772|Na koraljnim grebenima živi oko četvrtina svih vrsta morskih životinja
+2773|Koliko vrsta morskih životinja živi na grebenima
+2774|Oko četvrtina
+2775|Samo jedna
+2776|Nijedna
+2777|Meduza
+2778|plankton i sitne ribe
+2779|od 1 mm do 2 m
+2780|Svijetli u dubokom jarku
+2781|Meduza nema mozak, srce ni kosti, a tijelo joj je uglavnom od vode
+2782|Što meduza nema
+2783|Mozak, srce ni kosti
+2784|Tijelo
+2785|Boju
+2786|Neke meduze u mraku dubokog mora same svijetle
+2787|Što rade neke meduze u dubini
+2788|Svijetle
+2789|Pjevaju
+2790|Kopaju tunele
+2791|Meduze žive na Zemlji već stotinama milijuna godina, dulje od dinosaura
+2792|Koliko dugo meduze žive na Zemlji
+2793|Dulje od dinosaura
+2794|Deset godina
+2795|Od prošlog ljeta
+2796|Vrata Bisernog hrama otvore se kad skupiš svih 10 svjetlećih bisera
+2797|Što otvara Biserni hram
+2798|10 svjetlećih bisera
+2799|Pjesma kita
+2800|Ljudi istražuju duboko more u malim podmornicama koje izdrže strašan pritisak vode
+2801|Čime ljudi istražuju duboko more
+2802|Malim podmornicama
+2803|Balonima
+2804|Biciklima
+2805|Što je more dublje, to je tamnije, jer sunčeva svjetlost ne dopire duboko
+2806|Zašto je duboko more tamno
+2807|Svjetlost ne dopire duboko
+2808|Voda je crna
+2809|Ribe gase svjetlo
+2810|Triceratops
+2811|prije 68 do 66 milijuna godina
+2812|oko 9 m
+2813|Stari mudrac kraj kampa
+2814|Triceratops znači lice s tri roga. Imao je dva duga roga iznad očiju i jedan kratki na nosu
+2815|Što znači ime triceratops
+2816|Lice s tri roga
+2817|Brzi gušter
+2818|Leteća glava
+2819|Veliki koštani ovratnik oko glave štitio mu je vrat, a možda je služio i da se pokaže drugima
+2820|Čemu je triceratopsu služio koštani ovratnik
+2821|Štitio mu je vrat
+2822|Triceratops je bio biljožder i kljunom kao u papige trgao je tvrde biljke
+2823|Što je jeo triceratops
+2824|Druge dinosaure
+2825|Brahiosaur
+2826|Brachiosaurus
+2827|prije oko 150 milijuna godina
+2828|lišće s krošnji
+2829|oko 25 m
+2830|Pase lišće s najviših krošnji
+2831|Brahiosaur je dugim vratom dosezao lišće visoko kao kuća s četiri kata
+2832|Čemu je brahiosauru služio dugi vrat
+2833|Dosezao je visoko lišće
+2834|Plivao je njime
+2835|Kopao je rupe
+2836|Prednje noge bile su mu duže od stražnjih, pa su mu leđa bila nagnuta kao tobogan
+2837|Po čemu su posebne brahiosaurove noge
+2838|Prednje su duže od stražnjih
+2839|Imao je šest nogu
+2840|Nije imao noge
+2841|Odrasli brahiosaur bio je težak kao desetak slonova
+2842|Koliko je bio težak odrasli brahiosaur
+2843|Kao desetak slonova
+2844|Kao jedna mačka
+2845|Kao bicikl
+2846|Tyrannosaurus rex
+2847|oko 12 m
+2848|Ričko voli zvjezdasto voće
+2849|Tiranosaur je imao najjači ugriz od svih kopnenih životinja koje su ikad živjele
+2850|Po čemu je tiranosaur poznat
+2851|Najjači ugriz na kopnu
+2852|Najduži vrat
+2853|Šarena krila
+2854|Njegove prednje ruke bile su kratke, ali jako snažne, a imale su samo dva prsta
+2855|Koliko prstiju je imao tiranosaur na rukama
+2856|Nijedan
+2857|Zubi tiranosaura bili su veliki kao banane
+2858|Koliko su bili veliki zubi tiranosaura
+2859|Kao banane
+2860|Kao zrno riže
+2861|Kao lubenice
+2862|Pteranodon
+2863|prije oko 85 milijuna godina
+2864|krila oko 6 m
+2865|Krilko se boji visine
+2866|Pteranodon nije bio dinosaur, nego leteći gmaz pterosaur, njihov rođak
+2867|Je li pteranodon bio dinosaur
+2868|Ne, bio je leteći gmaz
+2869|Da, najveći
+2870|Bio je ptica
+2871|Krila su mu bila od kože razapete između tijela i jako dugog četvrtog prsta
+2872|Od čega su bila krila pteranodona
+2873|Od kože
+2874|Od perja
+2875|Pteranodon je letio nad morem i lovio ribu, a zubi mu nisu trebali jer ju je gutao cijelu
+2876|Što je pteranodon lovio
+2877|Mrkve
+2878|Slonove
+2879|Stegosaur
+2880|Stegosaurus
+2881|niske biljke
+2882|Ima ploče na leđima
+2883|Stegosaur je na leđima imao velike koštane ploče, a na repu četiri oštra šiljka
+2884|Što je stegosaur imao na repu
+2885|Četiri šiljka
+2886|Pero
+2887|Zvono
+2888|Mozak stegosaura bio je malen, otprilike kao šljiva
+2889|Koliko je bio velik mozak stegosaura
+2890|Kao šljiva
+2891|Kao lubenica
+2892|Kao kuća
+2893|Stegosaur je živio puno prije tiranosaura. Između njih je prošlo više od 80 milijuna godina
+2894|Je li stegosaur sreo tiranosaura
+2895|Ne, živjeli su u različito doba
+2896|Da, bili su prijatelji
+2897|Da, svaki dan
+2898|Kompsognat
+2899|Compsognathus
+2900|gušteri i kukci
+2901|oko 1 m s repom
+2902|Male brze dinosauriće ima posvuda kraj kampa

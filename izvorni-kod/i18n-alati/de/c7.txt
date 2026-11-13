@@ -1,0 +1,403 @@
+4900|Die junge Sonnenblume dreht ihren Kopf zur Sonne. Eine einzige Sonnenblumenblüte hat bis zu tausend Kerne
+4901|In einem Bienenstock leben bis zu fünfzigtausend Bienen. Die Waben bauen sie aus Wachs, und jede Zelle hat sechs Seiten
+4902|Die Schnecke trägt ihr Haus ein Leben lang, und es wächst mit ihr. Wenn es gefährlich wird, zieht sie sich ganz hinein
+4903|Ameisen können fünfzigmal mehr tragen, als sie selbst wiegen. Wenn du das könntest, würdest du ein Auto hochheben
+4904|In Pfützen leben winzige Lebewesen, die man nur mit der Lupe sieht. Ein Wassertropfen ist für sie ein ganzes Schwimmbad
+4905|Pflanzen trinken mit ihren Wurzeln. Am besten gießt man sie morgens oder abends, wenn die Sonne nicht brennt
+4906|Glockenblumen heißen so, weil ihre Blüte wie eine kleine Glocke aussieht. Hummeln kriechen hinein, um Nektar zu holen
+4907|Aus einem kleinen Samenkorn kann eine große Pflanze wachsen. Das Samenkorn braucht Erde, Wasser und Sonne
+4908|Tau entsteht nachts, wenn die Luft abkühlt und sich die Feuchtigkeit aus der Luft in Tröpfchen auf den Blättern sammelt
+4909|Ein Marienkäfer frisst bis zu fünfzig Blattläuse am Tag, deshalb mögen Gärtner ihn sehr
+4910|Langsam, langsam... wohin hast du es so eilig
+4911|Mein altes Haus ist im Osten des Gartens. Jetzt habe ich ein neues, größeres
+4912|Mjam, mjam, ein Blatt! Wenn ich groß bin, werde ich ein Schmetterling
+4913|Ich flattere von Blüte zu Blüte
+4914|Die Glockenblumen klingen, wenn du auf die Platte darunter trittst
+4915|Hast du den großen Tautropfen gesehen? Er funkelt wie ein Diamant
+4916|Točkica ist meine Cousine
+4917|Zählst du meine Punkte? Ich habe sieben
+4918|Stör mich nicht, ich trage ein Blatt
+4919|Links, rechts, links, rechts
+4920|Die Kristalltür bewacht die Rosenknospe. Sammle alle 10 Sonnentropfen
+4921|Die Rose ist aufgeblüht
+4922|Die Marienkäferfüchsin und die Blütenblätter gehören jetzt dir. Točkica sagt, du bist die mutigste kleine Füchsin im Garten
+4923|Feenfüchsin
+4924|Fliederfarbenes Fell, das wie Feenstaub funkelt. Wo sie entlanggeht, leuchtet der Wald
+4925|Feenstaub
+4926|Hinter Rida bleibt bunter, funkelnder Staub, wie hinter einer Fee
+4927|Einhorn Zvjezdan
+4928|Ein weißes Einhorn mit goldenem Horn und einer Mähne in Regenbogenfarben. Wenn es galoppiert, bleibt ein Regenbogen hinter ihm
+4929|Bringt Sternblumen und Goldmünzen aus dem Wald
+4930|Regenbogengalopp
+4931|Zvjezdan saust durch den Wald und springt zweimal hintereinander, und hinter euch bleibt ein Regenbogen
+4932|Zvjezdan trägt dich! Spring zweimal hintereinander
+4933|Schmetterling Duga
+4934|Ein riesiger Schmetterling mit bunten Flügeln. Er fliegt leise wie ein Flüstern und verirrt sich nie
+4935|Bringt Nektar und bunte Federn von den Blumen
+4936|Schmetterlingsflug
+4937|Duga trägt dich hoch über die Baumkronen! Springen ist hoch, Tauchen ist runter
+4938|Duga fliegt! Springen ist hoch, Tauchen ist runter
+4939|Sternblume
+4940|Nektartropfen
+4941|Fläschchen Feenstaub
+4942|Schatz der Feenkönigin
+4943|Baum aller Bäume
+4944|Im Häuschen der Fee Iskrica im Feendorf. Hilf Iskrica, die Staubfläschchen zu finden
+4945|Feendorf
+4946|Im Feenhäuschen oben in der alten Eiche. Geh in den Stamm und steig die Wendeltreppe hinauf
+4947|Truhe in der Eiche
+4948|Alte Eiche
+4949|Oben auf der Steinsäule im Osten. Sprungpilze schleudern dich immer höher
+4950|Truhe auf der Säule
+4951|Sprungpilze
+4952|Auf dem hohen Felsen im Südosten. Zu Fuß kommt man nicht hin: Stell dich in den Feenkreis am Bach
+4953|Truhe auf dem Felsen
+4954|Feenkreise
+4955|In der Höhle hinter dem Wasserfall im Westen. Geh durchs Wasser
+4956|Wasserfall
+4957|Am Grund des Mondteichs, beim Amethyst. Tauch
+4958|Mondteich
+4959|Unter der Trollbrücke am Bach. Troll Brundo schläft, aber es stört ihn nicht, wenn du leise vorbeigehst
+4960|Trollbrücke
+4961|Im Pilz in der Mitte des Kreises der singenden Pilze. Tritt auf die Platten in der Reihenfolge der Steintafel
+4962|Die Pilze haben ein Feenlied gesungen! Der mittlere Pilz hat sich geöffnet
+4963|Hoppla, falscher Ton. Schau dir die Steintafel an, von oben nach unten, und fang von vorn an
+4964|Singende Pilze
+4965|Unter einem roten X bei der alten Weide vergraben. Grab
+4966|Du gräbst und gräbst... und da ist er! Ein Feenkristall zwischen den Wurzeln
+4967|Alte Weide
+4968|Im Feenpavillon beim Portal. Er öffnet sich, wenn du den Feenstaubpfad schaffst
+4969|Feenstaubpfad
+4970|Du hast den ganzen Pfad geschafft! Der Feenpavillon beim Portal hat sich geöffnet
+4971|Die Feen aus der Eiche schenken dir Laub und Bretter für ein Baumhaus
+4972|Die Pilzsammler haben hier Amethyste versteckt
+4973|Auf dem Felsen, zu dem nur ein Feenkreis führt, ist der Schatz besonders
+4974|Der Schatz der Feenkönigin! Er funkelt in allen Farben
+4975|Fee Lucija
+4976|Fee Iskrica
+4977|Troll Brundo
+4982|Häschen Vilenjak
+4983|Häsin Mjesečica
+4986|Einhornstute Bijela
+4987|Guten Abend, kleine Füchsin. Ich bin Zvjezdan. Ohne Sternblumen verliert meine Mähne ihre Farben. Bringst du mir vier Blumen? Sie leuchten gelb, deshalb findest du sie in der Dämmerung leicht
+4988|Schau, meine Mähne leuchtet wieder in allen Regenbogenfarben! Jetzt sind wir Freunde. Steig auf, wir galoppieren durch den Wald
+4989|Einhörner gibt es nur in Geschichten, aber Narwale im Meer haben ein echtes langes Horn. Das ist eigentlich ein Zahn
+4990|Psst, hier oben! Ich bin Duga. Meine Flügel sind müde, und der Nektar ist in Blüten im ganzen Wald. Bringst du mir drei Tropfen? Dann führe ich dich über die Baumkronen
+4991|Mmm, wie süß! Jetzt habe ich Kraft für einen langen Flug. Kommst du mit
+4992|Schmetterlinge schmecken mit den Füßen! Wenn sie auf einer Blüte landen, wissen sie sofort, ob der Nektar lecker ist
+4993|Oje, oje! Ich bin die Fee Iskrica. Ich habe Feenstaub für den Tanz vorbereitet, und der Wind hat fünf Fläschchen durch den Wald geweht! Ohne Staub können Feen nicht fliegen. Hilfst du mir
+4994|Alle fünf Fläschchen! Jetzt können alle Feen zum Tanz. Geh in mein Häuschen, ich habe dir etwas hingelegt, das funkelt
+4995|Die Feen fliegen wieder, danke
+4996|Die Fläschchen funkeln rosa im Wald
+4997|Boing! Sprungpilze schleudern dich hoch. Spring von Pilz zu Pilz
+4998|Ein Feenkreis! Bleib in der Mitte, dann tragen dich die Feen hinüber
+4999|Ein Blütenwirbel im Stamm des Baums aller Bäume! Stell dich hinein, und er trägt dich hinauf zum Feenpalast
+5000|Pssst... Troll Brundo schläft. Leise
+5001|Die Tore des Feenpalasts sind offen! Der Blütenwirbel im Baum aller Bäume trägt dich hinauf. Die Königin wartet auf dich
+5002|Willkommen im Feenwald! Ich bin die Fee Lucija. Hier ist immer Dämmerung, und die Pilze leuchten. Zehn Feenkristalle sind im Wald verstreut, und ohne sie bleiben die Tore des Palasts in der Krone des Baums aller Bäume verschlossen. Findest du sie
+5003|Feenkristalle
+5004|Im Wald gibt es auch Freunde, die Hilfe brauchen
+5005|Ein Wald in ewiger Dämmerung: leuchtende Pilze, Feenhäuschen in Baumstämmen, ein Einhorn, Sprungpilze, Feenkreise und ein Palast in der Krone des Baums aller Bäume
+5006|Feenkreise
+5007|Sprungpilze
+5008|Blütenwirbel
+5009|Feenkristall
+5010|Feenkristalle
+5011|Alle Feenkristalle
+5012|Alle 10 Feenkristalle! Die Tore des Feenpalasts in der Krone des Baums aller Bäume haben sich geöffnet
+5013|Der erste Feenkristall! Der Kompass oben zeigt den nächsten
+5014|Feenwald! Feenkristalle
+5015|Die Fee Lucija wartet beim Portal auf dich
+5016|Eichen können tausend Jahre alt werden. In einer alten Eiche leben mehrere hundert Arten von Insekten, Vögeln und Pilzen
+5017|Pilze sind keine Pflanzen. Der größte Teil des Pilzes lebt unter der Erde als Netz aus dünnen Fäden, und was wir sehen, ist nur seine Frucht
+5018|Ein Feenkreis ist ein Ring aus Pilzen, der auf einer Wiese wächst. Er entsteht, weil der Pilz unter der Erde in alle Richtungen gleich wächst
+5019|Hinter manchen Wasserfällen verstecken sich Höhlen. Das Wasser höhlt Tausende Jahre lang den weicheren Fels hinter dem härteren aus, so entsteht ein Raum
+5020|Amethyst ist ein lila Kristall. Früher glaubten die Menschen, er bringt ruhige und schöne Träume
+5021|Trolle sind Wesen aus nordischen Märchen. In den Geschichten fürchten sie die Sonne und schlafen tagsüber unter Brücken und in Höhlen
+5022|Manche Pilze auf der Welt leuchten im Dunkeln mit grünlichem Licht. Das nennt man Biolumineszenz
+5023|Schmetterlingsflügel sind mit winzigen Schuppen bedeckt, wie mit Staub. Dadurch haben die Flügel so schöne Farben
+5024|Glühwürmchen und manche Pilze leuchten ohne Wärme. Das ist kaltes Licht, man kann sich daran nicht verbrennen
+5025|Die Wurzeln eines Baumes können breiter sein als seine Krone. Über ihre Wurzeln tauschen Bäume im Wald sogar Nahrung aus
+5027|Mmm... noch fünf Minuten, Mama... zzz
+5028|Huu! In der Dämmerung sehe ich am besten
+5029|Der Feenkreis am Bach führt auf den hohen Felsen. Stell dich in die Mitte
+5030|Hihi, fang mich, wenn du kannst
+5031|Wenn wir den Staub gesammelt haben, gehen wir tanzen
+5032|Ich mag die leuchtenden Pilze, sie sind unsere Lampen
+5033|Zvjezdan ist mein Bruder. Er gibt ein bisschen an, hihi
+5034|Sprungpilze sind das beste Spiel im Wald
+5035|Der Wald ist still in der Dämmerung. Hör, wie die Pilze singen
+5036|Die Kristalltür des Feenpalasts ist geschlossen. Sammle alle 10 Feenkristalle
+5037|Der Feenpalast ist offen
+5038|Die Feenfüchsin und der Feenstaub gehören jetzt dir. Die Fee Lucija sagt, die Feen werden Lieder über dich singen
+5039|Rosa-weißes Fell wie Zuckerwatte, mit bunten Streuseln. Es duftet nach Erdbeeren
+5040|Bunte Streusel
+5041|Hinter Rida fallen bunte Zuckerstreusel, wie von einer Torte
+5042|Gummibär Gumko
+5043|Ein roter Gummibär, der beim Gehen wackelt. Er ist durchsichtig, glitzert in der Sonne und springt wie ein Ball
+5044|Bringt Erdbeeren und Goldmünzen aus dem Süßigkeitenland
+5045|Gummisprung
+5046|Gumko springt wie ein Ball, und zwar zweimal hintereinander! Er saust schneller als alle anderen
+5047|Gumko trägt dich! Spring zweimal hintereinander
+5048|Schäfchen Vunica
+5049|Ein rosa Schäfchen aus Zuckerwatte. Es ist so leicht, dass es schwebt wie ein Wölkchen
+5050|Bringt Zuckerwatte und Goldmünzen von den Wolken
+5051|Wölkchenflug
+5052|Vunica schwebt mit dir über das ganze Süßigkeitenland! Springen ist hoch, Tauchen ist runter
+5053|Vunica fliegt! Springen ist hoch, Tauchen ist runter
+5054|Erdbeere
+5055|Zuckerwatte
+5056|Bonbon
+5057|In der Höhle hinter dem Schokoladenwasserfall im Westen. Schwimm durch den Wasserfall
+5058|Schokoladenwasserfall
+5059|Schatz des Bonbonschlosses
+5060|Bonbonschloss
+5061|Oben auf der Riesentorte, zwischen den Kerzen. Die Popcornmaschine neben der Torte schießt dich hinauf
+5062|PUFF! Die Popcornmaschine hat dich direkt auf die Torte geschossen
+5063|Truhe auf der Torte
+5064|Riesentorte
+5065|Oben auf dem Eiscremeberg, bei der Kirsche. Steig den Waffelweg um den Berg hinauf
+5066|Eiscremeberg
+5067|Truhe unter dem Berg
+5068|Auf einer Zuckerwattewolke über dem Bonbonschloss. Spring über die rosa Wölkchen, eins nach dem anderen
+5069|Truhe auf der Wolke
+5070|Zuckerwattewolken
+5071|Auf dem fliegenden Donut über dem Sprudelgeysir. Stell dich in die Blasen und lass dich hochheben
+5072|Sprudelgeysir
+5073|Im Häuschen von Oma Medenka im Lebkuchendorf. Oma braucht Hilfe
+5074|Lebkuchendorf
+5075|Im lila Geleebonbon mitten zwischen den Geleetrommeln. Tritt auf die Trommeln in der Reihenfolge der Schokoladentafel
+5076|Die Geleetrommeln haben ein süßes Lied gespielt! Das Bonbon in der Mitte hat sich geöffnet
+5077|Bumm, falscher Ton! Schau dir die Schokoladentafel an, von oben nach unten, und fang von vorn an
+5078|Geleetrommeln
+5079|Am Ende der Kandishöhle in der Nordklippe
+5080|Kandishöhle
+5081|Unter einem roten X am Zuckerstrand vergraben. Grab
+5082|Du gräbst im Zucker... und da ist es! Ein Zauberbonbon
+5083|Zuckerstrand
+5084|Im großen Geschenk beim Portal. Es öffnet sich, wenn du den Lutscherpfad schaffst
+5085|Lutscherpfad
+5086|Du hast den ganzen Lutscherpfad geschafft! Das große Geschenk beim Portal hat sich geöffnet
+5087|Auf der Torte steht eine Truhe voller bunter Wolle für deine Konditoreihäuser
+5088|Die Eismacher haben hier Vanille und Waffeln aufbewahrt
+5089|Sprungwolken! Stell sie auf die Insel und spring bis zum Himmel
+5090|Der Schatz des Bonbonschlosses! Ein Haufen bunter Blöcke und Edelsteine
+5091|Lebkuchen Mrvica
+5092|Oma Medenka
+5097|Gummi Zelenka
+5098|Gummi Limunko
+5099|Gummi Borovnica
+5100|Häschen Karamelko
+5101|Hallo! Ich bin Gumko, der Gummibär. Am liebsten esse ich Erdbeeren, und der Wind hat die Erdbeeren aus meinem Körbchen geweht. Bringst du mir vier? Sie sind rot, man sieht sie leicht
+5102|Mjam, mjam! Die süßesten Erdbeeren der Welt! Jetzt sind wir Freunde. Steig auf, wir springen wie Bälle
+5103|Die Erdbeere ist das einzige Obst, das seine Samen außen hat. Auf einer Erdbeere sind etwa zweihundert Samen
+5104|Mäh! Ich bin Vunica. Wenn mir die Zuckerwatte ausgeht, kann ich nicht schweben. Im Norden stehen drei Zuckerwattestäbchen. Bringst du sie mir
+5105|Mäh-hä! Ich bin wieder weich und leicht. Willst du mit mir über das Süßigkeitenland schweben
+5106|Zuckerwatte entsteht, wenn Zucker schmilzt und sich so schnell dreht, dass er zu dünnen Fäden wird, dünner als ein Haar
+5107|Oje, Schätzchen! Ich bin Oma Medenka. Ich habe Kuchen für ein großes Fest gebacken, und die Bonbons zum Verzieren sind durchs ganze Dorf gerollt. Fünf fehlen. Hilfst du mir
+5108|Alle fünf Bonbons! Die Kuchen werden die schönsten der Welt. Geh in mein Häuschen, ich habe dir etwas Besonderes hingelegt
+5109|Die Kuchen sind fertig, danke, Schätzchen
+5110|Die Bonbons sind blau mit gelber Hülle. Such sie im Dorf und drumherum
+5111|Der Sprudelgeysir! Stell dich in die Blasen, und sie heben dich bis zum fliegenden Donut
+5112|Die rosa Wölkchen sind Sprungwolken! Spring von einer zur anderen bis zur großen Wolke
+5113|Die Popcornmaschine! Stell dich auf die gelbe Platte davor
+5114|Die Kristalltür des Bonbonschlosses ist offen! Lauf über die Lutscherbrücke, der Schatz wartet im Schlosshof auf dich
+5115|Willkommen im Süßigkeitenland! Ich bin Lebkuchen Mrvica. Hier ist alles süß: Der Fluss ist aus Schokolade, die Bäume aus Lutschern und die Wolken aus Zuckerwatte. Zehn Zauberbonbons sind im Land verstreut, und ohne sie öffnen sich die Tore des Bonbonschlosses nicht. Findest du sie
+5116|Zauberbonbons
+5117|Im Land gibt es auch Freunde, die Hilfe brauchen
+5118|Ein Land aus Süßigkeiten: Schokoladenfluss und Wasserfall, Bonbonschloss, Riesentorte, Eiscremeberg, Zuckerwattewolken, Sprudelgeysir und Lebkuchendorf
+5119|Schokoladenfluss
+5120|Sprungwolken
+5121|Sprudelgeysir
+5122|Zauberbonbon
+5123|Zauberbonbons
+5124|Alle Zauberbonbons
+5125|Alle 10 Zauberbonbons! Die Kristalltür des Bonbonschlosses hat sich geöffnet
+5126|Das erste Zauberbonbon! Der Kompass oben zeigt das nächste
+5127|Süßigkeitenland! Zauberbonbons
+5128|Lebkuchen Mrvica wartet beim Portal auf dich
+5129|Schokolade wird aus Kakaobohnen gemacht. Der Kakaobaum wächst in warmen Wäldern, und die Bohnen stecken in großen Schoten
+5130|Die größte Torte der Welt war so schwer wie zehn Elefanten! Konditoren haben sie für ein großes Fest gebacken
+5131|Die Eistüte wurde zufällig erfunden: Einem Verkäufer gingen die Schälchen aus, und sein Nachbar rollte eine Waffel zu einer Tüte
+5132|Echte Wolken bestehen aus winzigen Wassertröpfchen. Eine gewöhnliche Wolke wiegt so viel wie hundert Elefanten, aber sie schwebt, weil die Tröpfchen verteilt sind
+5133|Die Bläschen in Sprudel sind das Gas Kohlendioxid. Wenn du die Flasche öffnest, entweicht das Gas, deshalb zischt der Saft
+5134|Lebkuchen werden aus Honig und Gewürzen wie Zimt und Ingwer gemacht. Das Licitar-Herz mit roter Glasur ist ein kroatischer Lebkuchen
+5135|Wackelpudding wackelt, weil in ihm ein Netz aus winzigen Fäden ist, das das Wasser hält, wie ein Schwamm
+5136|Kandiszucker wächst wie ein Kristall: Man stellt ein Stäbchen in heißes Zuckerwasser, und der Zucker klebt langsam daran fest
+5137|Zucker gewinnt man aus Zuckerrohr oder aus Zuckerrüben. In Deutschland wird Zucker aus Rüben gemacht
+5138|Lutscher werden aus geschmolzenem Zucker gemacht, der abkühlt und hart wird. Die ersten Lutscher waren am Stiel, damit sie nicht an den Fingern kleben
+5139|Gebäck wird gebacken, und Bonbons werden gesammelt
+5140|Iss mich bitte nicht! Hihi, war nur Spaß
+5141|Pass auf, dass du nicht in die Schokolade trittst, alles klebt
+5142|Auf der Torte gibt es eine Popcornmaschine, probier sie aus
+5143|Boing, boing! Wir Gummibärchen lieben das Springen
+5144|Ich bin Zitronengeschmack, der sauerste in der Familie
+5145|Heidelbeere ist die feinste, das weiß doch jeder
+5146|Mäh! Die Wölkchen sind Sprungwolken, probier es
+5147|Wenn wir Zuckerwatte essen, schweben wir wie Ballons
+5148|Karamell klebt mir am Schnurrbart
+5149|Die Kristalltür des Bonbonschlosses ist geschlossen. Sammle alle 10 Zauberbonbons
+5150|Das Bonbonschloss ist offen
+5151|Die Bonbonfüchsin und die Bunten Streusel gehören jetzt dir. Lebkuchen Mrvica sagt, du bist die süßeste Forscherin
+5152|Herbstfüchsin
+5153|Ein Fell in den Farben des Herbstlaubs, von Gold bis Rot. Wenn sie rennt, tanzen Blättchen um sie herum
+5154|Herbstblättchen
+5155|Hinter Rida fallen orange, rote und gelbe Blättchen
+5156|Pony Zlatko
+5157|Ein goldenes Pony mit weißer Mähne und rotem Sattel. Es ist das schnellste auf dem ganzen Hof und liebt Karotten
+5158|Bringt Karotten und Goldmünzen vom Feld
+5159|Galopp übers Feld
+5160|Zlatko galoppiert schneller als der Wind und springt über Zäune
+5161|Zlatko trägt dich! Galoppier übers Feld
+5162|Wildgans Siva
+5163|Eine graue Wildgans, die jeden Herbst nach Süden fliegt. Diesmal hat sie auf dem Hof eine Pause gemacht
+5164|Bringt Federn und Goldmünzen vom Teich
+5165|Flug mit der Gans
+5166|Siva trägt dich hoch über die goldenen Felder! Springen ist hoch, Tauchen ist runter
+5167|Siva fliegt! Springen ist hoch, Tauchen ist runter
+5168|Gänsefeder
+5169|Maiskolben
+5170|Im Stübchen oben in der Windmühle. Geh hinein und steig die Wendeltreppe um die Welle hinauf
+5171|Genau in der Mitte des Maislabyrinths im Nordwesten. Gib in den Sackgassen nicht auf
+5172|Maislabyrinth
+5173|Im Häuschen aus einem Riesenkürbis. Die Vogelscheuche Slamko bewacht die Tür
+5174|Kürbishaus
+5175|Auf der Plattform in der Krone des riesigen Apfelbaums. Steig die Treppe aus Heuballen hinauf
+5176|Truhe in der Baumkrone
+5177|Obstgarten
+5178|Auf dem First des roten Stalls. Die Wippe vor dem Stall schleudert dich direkt hinauf
+5179|HOPP! Ein Heuballen ist auf die Wippe gefallen und hat dich aufs Stalldach geschleudert
+5180|Roter Stall
+5181|Im Korb des Ballons, der über dem Feld schwebt. Spring in den Blätterwirbel und lass dich hochheben
+5182|Schatz der goldenen Kornkammer
+5183|Goldene Kornkammer
+5184|Am Grund des Bachs, hinter dem Mühlrad der Wassermühle im Osten. Tauch
+5185|Wassermühle
+5186|In der Holzkiste zwischen den Obstkörben. Tritt auf die Platten in der Reihenfolge der Obsttafel
+5187|Das Obst ist richtig sortiert! Die Kiste in der Mitte hat sich geöffnet
+5188|Hoppla, falsches Obst. Schau dir die Holztafel an, von oben nach unten, und fang von vorn an
+5189|Obstkörbe
+5190|Unter einem roten X im Kartoffelfeld vergraben. Grab
+5191|Du gräbst und gräbst... Kartoffel, Kartoffel... und ein goldenes Äpfelchen
+5192|Kartoffelfeld
+5193|Im Laubhaufen bei der Kornkammer. Er öffnet sich, wenn du den Herbstlaubpfad schaffst
+5194|Herbstlaubpfad
+5195|Du hast den ganzen Laubpfad geschafft! Der Laubhaufen bei der Kornkammer ist auseinandergeflogen
+5196|Im Herzen des Labyrinths: Heu und Maisblätter für dein eigenes Labyrinth
+5197|Herbstlaub aus der Baumkrone! Pflanz den Herbst auf deiner Insel
+5198|Der Schatz der goldenen Kornkammer! Der ganze Herbst in einer Truhe
+5199|Bäuerin Jesenka
+5200|Vogelscheuche Slamko
+5212|Igelchen Jabučić
+5213|Eichhörnchen Lješnjakica
+5214|Häschen Mrkvić
+5215|Iiiha! Ich bin Zlatko. Der Herbst ist Karottenzeit, und ich habe sie beim Galoppieren über den ganzen Hof verstreut. Bringst du mir vier? Sie sind orange, man sieht sie von weitem
+5216|Mjam, knack, knack! Die süßesten Karotten! Jetzt sind wir Freunde. Steig in den Sattel, wir galoppieren übers Feld
+5217|Pferde schlafen auch im Stehen! Ihre Beine verriegeln sich, deshalb fallen sie nicht um, wenn sie dösen
+5218|Ga-ga! Ich bin Siva. Ich fliege nach Süden, aber der Wind hat mir drei Federn weggeweht. Ohne sie kann ich nicht weiter. Hilfst du mir, sie zu finden
+5219|Ga-ga-ga! Meine Flügel sind wieder ganz. Bevor ich nach Süden fliege, willst du mit mir über den Hof fliegen
+5220|Wildgänse fliegen in Form eines V nach Süden. So brauchen sie weniger Kraft, weil jede im Windschatten der vorderen fliegt
+5221|Guten Tag, kleine Füchsin! Ich bin die Vogelscheuche Slamko. Die Krähen haben mir fünf Maiskolben gestohlen und über den Hof verstreut, sogar ins Labyrinth! Bringst du sie mir? Dann öffne ich dir das Kürbishaus
+5222|Alle fünf Kolben! Jetzt habe ich genug für den Winter. Das Kürbishaus ist offen, geh ruhig hinein
+5223|Die Krähen haben wieder Angst vor mir. Danke
+5224|Die Kolben sind gelb. Zwei sind im Maislabyrinth, in den Ecken
+5225|Ein Herbstlaubwirbel! Stell dich in die Mitte, und er trägt dich hinauf zum Ballon
+5226|Eine Wippe! Stell dich auf das untere Ende des Bretts
+5227|Das Maislabyrinth! Tipp: Bleib an einer Wand, dann verläufst du dich nicht
+5228|Die Kristalltür der goldenen Kornkammer ist offen! Die Kornkammer steht gleich nördlich vom Portal, und drinnen wartet der Ernteschatz auf dich
+5229|Willkommen auf dem Hof der Herbsternte! Ich bin die Bäuerin Jesenka. Zehn goldene Äpfelchen sind im Tal verstreut, und ohne sie öffnet sich die goldene Kornkammer nicht. Hilfst du mir bei der Ernte
+5230|goldene Äpfelchen
+5231|Auf dem Hof gibt es auch Freunde, die Hilfe brauchen
+5232|Ein goldenes Tal im Herbst: Windmühle, Maislabyrinth, Kürbishaus, ein Obstgarten mit Riesenapfel, ein roter Stall mit Wippe, ein Ballon über dem Feld und eine Wassermühle
+5233|Maislabyrinth
+5234|Windmühle
+5235|Goldenes Äpfelchen
+5236|Goldene Äpfelchen
+5237|Alle goldenen Äpfelchen
+5238|Alle 10 goldenen Äpfelchen! Die Kristalltür der goldenen Kornkammer hat sich geöffnet
+5239|Das erste goldene Äpfelchen! Der Kompass oben zeigt das nächste
+5240|Herbsternte! Goldene Äpfelchen
+5241|Die Bäuerin Jesenka wartet beim Portal auf dich
+5242|Windmühlen haben früher Getreide zu Mehl gemahlen. Der Wind dreht die Flügel, und die Flügel drehen einen riesigen Stein, der das Korn mahlt
+5243|Die größten Maislabyrinthe der Welt sind größer als zwanzig Fußballfelder! Wenn der Mais geerntet ist, verschwindet das Labyrinth
+5244|Der größte Kürbis der Welt war schwerer als ein kleines Auto. Der Kürbis ist eigentlich eine Frucht, eine Verwandte der Gurke und der Wassermelone
+5245|Auf der Welt gibt es mehr als siebentausend Apfelsorten. Wenn du jeden Tag eine andere essen würdest, bräuchtest du fast zwanzig Jahre, um alle zu probieren
+5246|Der Herbst ist Erntezeit: Man erntet Äpfel, Birnen, Pflaumen, Trauben und Nüsse. Die Menschen lagern das Obst für den Winter im Keller
+5247|Laub verfärbt sich im Herbst, weil der Baum aufhört, den grünen Stoff zu bilden. Dann sieht man Gelb und Orange, die die ganze Zeit im Blatt versteckt waren
+5248|Ein Huhn legt etwa jeden Tag ein Ei. Eine Kuh gibt am Tag so viel Milch, dass sie jede Woche eine volle Badewanne füllen würde
+5249|Ein Heißluftballon fliegt, weil warme Luft leichter ist als kalte. Die ersten Passagiere im Ballon waren ein Schaf, eine Ente und ein Hahn
+5250|Eine Wassermühle macht dasselbe wie eine Windmühle, nur wird sie vom Wasser angetrieben. An vielen Flüssen gibt es heute noch alte Wassermühlen
+5251|Kartoffeln wachsen unter der Erde. Aus einer gepflanzten Kartoffel wächst eine ganze Familie von zehn und mehr neuen Kartoffeln
+5252|Buuuh! Hihi, ich erschrecke nur Krähen, keine Füchsinnen
+5253|Gack! Ich habe ein Ei gelegt
+5254|Gack-gack-gack, wer hat meine Körner gefressen
+5255|Muuuh! Herbstgras ist am süßesten
+5256|Oink-oink! Schlamm ist das beste Bad der Welt
+5257|Mäh! Meine Wolle ist für den Winter gewachsen
+5258|Quak! Das Wasser im Teich ist richtig erfrischend
+5259|Ich sammle Äpfel für den Winter. Ich trage sie auf meinen Stacheln
+5260|Ich habe Haselnüsse versteckt, ich weiß nur nicht mehr wo
+5261|Gibt es noch eine Karotte? Ich frage für einen Freund
+5262|Die Kristalltür der goldenen Kornkammer ist geschlossen. Sammle alle 10 goldenen Äpfelchen
+5263|Die goldene Kornkammer ist offen
+5264|Die Herbstfüchsin und die Herbstblättchen gehören jetzt dir. Die Bäuerin Jesenka sagt, du bist die beste Erntehelferin
+5265|Das Fell funkelt wie Amethyst, und der Schwanz leuchtet türkis wie ein Kristall aus der Tiefe
+5266|Kristallsplitter
+5267|Hinter Rida bleiben winzige Kristallsplitter, die türkis und lila leuchten
+5268|Maulwurf Kopka
+5269|Ein Maulwurf mit einer Grubenlampe auf dem Kopf. Unter der Erde verirrt er sich nie und kennt jede Abkürzung
+5270|Bringt Kristalle und Goldmünzen aus der Tiefe
+5271|Maulwurfsprint
+5272|Kopka saust wie ein Pfeil durch die Höhlen und springt über Steine
+5273|Kopka trägt dich! Spring zweimal hintereinander
+5274|Fledermaus Noćko
+5275|Eine kleine Flughund-Fledermaus. Sie sieht mit den Ohren: Sie ruft und hört, wie ihre Stimme von den Wänden zurückkommt
+5276|Bringt Feigen und Goldmünzen aus dem Obstgarten über dem Berg
+5277|Flug durch die Höhlen
+5278|Noćko trägt dich durch die Dunkelheit und stößt nie an eine Wand! Springen ist hoch, Tauchen ist runter
+5279|Noćko fliegt! Springen ist hoch, Tauchen ist runter
+5280|Leuchtpilzchen
+5281|Feige
+5282|Grubenlaterne
+5283|Oben auf dem Kristallturm mitten in der Großen Halle. Steig die Treppe um den Turm hinauf
+5284|Auf dem schwebenden Kristallsims in der Großen Halle. Warme Luft aus dem glühenden Spalt hebt dich hinauf
+5285|Große Kristallhalle
+5286|Am Grund des Unterirdischen Sees, beim leuchtenden Kristall. Tauch
+5287|Unterirdischer See
+5288|Auf einem hohen Sims im Bergwerk. Setz dich an der Station in den Grubenwagen und fahr hinauf
+5289|In der Hütte des Zwergs Kremenko im Bergwerk. Hilf ihm, die Laternen zu finden
+5290|Unter einem roten X im Kies des Bergwerks vergraben. Grab
+5291|Du gräbst durch den Kies... und da ist er! Ein Kristall aus der Tiefe
+5292|Bergmannstruhe
+5293|Altes Bergwerk
+5294|Auf dem Felsen am Ende der Pilzhöhle. Spring über die Pilzhüte über den Abgrund
+5295|Pilzhöhle
+5296|Auf dem Schädel eines riesigen Fossils in der Fossilienhalle. Kletter über die Wirbelsäule vom Schwanz zum Kopf
+5297|Fossilienhalle
+5298|In der riesigen Geode in der Großen Halle. Kristallglöckchen öffnen ihren Spalt
+5299|Die Kristallglöckchen haben ein Zauberlied geläutet! Der Spalt in der Geode hat sich geöffnet
+5300|Falscher Ton! Schau dir die Steintafel an, von oben nach unten, und fang von vorn an
+5301|Riesengeode
+5302|Im Kristallkäfig am Eingang der Großen Halle. Er öffnet sich, wenn du durch alle Kristallringe fliegst
+5303|Kristallringe
+5304|Du bist durch alle Kristallringe geflogen! Der Kristallkäfig am Eingang hat sich geöffnet
+5305|Schatz aus dem Herzen des Berges
+5306|Herz des Berges
+5307|Die Bergleute haben hier Golderz und Bretter für Stützbalken aufbewahrt
+5308|Der Paläontologe hat Quarz und dunklen Stein dagelassen. Bau dein eigenes Museum
+5309|Der Schatz aus dem Herzen des Berges! Kristalle, die selbst in der tiefsten Dunkelheit leuchten
+5310|Zwerg Kremenko
+5311|Zwerg Grumenko
+5312|Fischchen Bjelka
+5313|Fischchen Ružica
+5314|Fischchen Stoljetnica
+5315|Maulwurf Rovka
+5316|Maulwurf Njuška
+5317|Fledermaus Uško
+5318|Fledermaus Kriško
+5319|Schnupper, schnupper! Ich bin Kopka. Die Lampe an meinem Helm ist ausgegangen, und Leuchtpilzchen geben ihr Licht. Bringst du mir vier? Sie leuchten türkis, deshalb sieht man sie im Dunkeln leicht
+5320|Schau, die Lampe leuchtet wieder! Jetzt sind wir Freunde. Steig auf, ich zeige dir alle Abkürzungen in den Höhlen
+5321|Maulwürfe sehen fast nichts, aber sie haben einen unglaublichen Geruchs- und Tastsinn. An einem Tag graben sie einen Tunnel, so lang wie zwanzig Busse
+5322|Psst, hier oben! Ich bin Noćko, eine Flughund-Fledermaus. Ich habe Feigen aus dem Garten über dem Berg gebracht, aber im Dunkeln fallen lassen. Hilfst du mir, drei zu finden
+5323|Mmm, süße Feigen! Danke! Willst du mit mir durch die Höhlen fliegen? Keine Angst, ich stoße nie an eine Wand
+5324|Fledermäuse sehen mit den Ohren: Sie geben einen leisen Laut ab und hören auf das Echo. So wissen sie in völliger Dunkelheit, wo jede Wand und jedes Insekt ist

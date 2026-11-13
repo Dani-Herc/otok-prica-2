@@ -1,0 +1,381 @@
+5325|Hej, mala istraživačice! Ja sam patuljak Grumenko. Moji rudarski fenjeri su se otkotrljali po svim dvoranama i sad je rudnik mračan. Doneseš mi svih pet? Onda ti otvaram kolibu
+5326|Svih pet fenjera! Rudnik opet svijetli. Uđi u moju kolibu, čeka te nešto što sam iskopao baš za tebe
+5327|Rudnik svijetli, hvala ti
+5328|Fenjeri svijetle žuto. Ima ih u svim dvoranama
+5329|Stigla si na vrh rudnika! Za povratak samo skoči dolje na skelu
+5330|Vožnja rudničkim kolicima! Drži se
+5331|Užareni procjep! Topli zrak diže sve gore. Stani u sredinu
+5332|Klobuci gljiva vode preko provalije. Skači pažljivo! Ako padneš, kamene stube su uz južni rub provalije
+5333|Golemi fosil! Popni se na rep i hodaj po kralježnici do glave
+5334|Stanica rudničkih kolica. Stani u kolica i krećeš
+5335|Kristalna vrata u srcu planine su otvorena! Ulaz je u Velikoj dvorani, ispod kristalnog tornja
+5336|Dobro došla u Kristalne dubine! Ja sam patuljak Kremenko. Ovdje pod planinom ima deset kristala iz dubina. Kad ih skupiš, otvorit će se kristalna vrata u srcu planine. Ne boj se mraka, kristali svijetle
+5337|kristala iz dubina
+5338|U špiljama ima i prijatelja kojima treba pomoć
+5339|Ispod planine: Velika kristalna dvorana sa svjetlarnikom, podzemno jezero pod svjetlećim crvićima, stari rudnik s kolicima, gljivarska špilja, golemi fosil i geoda
+5340|rudnička kolica
+5341|svjetleći crvići
+5342|golemi fosil
+5343|Kristal iz dubina
+5344|Kristali iz dubina
+5345|Svi kristali iz dubina
+5346|Svih 10 kristala iz dubina! Kristalna vrata u srcu planine su se otvorila
+5347|Prvi kristal iz dubina! Kompas na vrhu pokazuje najbliži
+5348|Kristalne dubine! Kristali iz dubina
+5349|Patuljak Kremenko te čeka kod portala
+5350|Kristali rastu jako polako, sloj po sloj. Najveći kristali na svijetu, u jednoj špilji u Meksiku, dugi su kao autobus
+5351|Duboko pod zemljom stijene su vruće. Što dublje kopaš, to je toplije, a u samom središtu Zemlje vruće je kao na površini Sunca
+5352|U špiljama Hrvatske živi čovječja ribica. Slijepa je, ružičasta, može živjeti sto godina i deset godina izdržati bez hrane
+5353|Nekad su u rudnicima radili i poniji koji su vukli kolica. Danas kolica vuku male lokomotive
+5354|Geoda izvana izgleda kao običan kamen, a iznutra je šupljina puna kristala. Nastaje kad voda stotinama godina kaplje u šupljinu stijene
+5355|Rudari su nekad u rudnike nosili kanarince. Ptičica bi upozorila rudare ako bi zrak postao loš
+5356|Dijamant je najtvrđi prirodni kamen. Napravljen je od istog ugljika kao olovka, samo pod golemim pritiskom duboko u zemlji
+5357|Neke gljive u špiljama svijetle u mraku. To svjetlo zove se bioluminiscencija, kao kod krijesnica
+5358|Fosili su ostaci životinja koje su živjele prije milijuna godina. Kosti su se polako pretvorile u kamen
+5359|Siga koja visi sa stropa zove se stalaktit, a ona koja raste s poda stalagmit. Narastu samo oko centimetar u sto godina
+5360|Kremenko je moj brat. On priča, a ja kopam
+5361|Ribica te gleda, iako nema očiju. Osjeti te po vodi
+5362|Njuš-njuš! Ovdje negdje ima gljivica
+5363|Ciii! Ti si lisica, čujem te po jeci
+5364|Danju spavamo naglavačke, a noću letimo van po voće
+5365|Kristalna vrata u srcu planine su zatvorena. Skupi svih 10 kristala iz dubina
+5366|Srce planine je otvoreno
+5367|Kristalna lisica i Kristalne krhotine sad su tvoji. Patuljak Kremenko kaže da si prava istraživačica dubina
+5368|Zmajska lisica
+5369|Crveno-zlatne ljuske, mala krila na leđima i rep koji tinja kao žeravica
+5370|Zmajeve iskre
+5371|Iza Ride frcaju tople iskre i sitni plamičci, kao da je upravo kihnuo zmajić
+5372|Zmajić Iskrica
+5373|Mali crveni zmaj koji se tek izlegao. Kad kihne, iz nosa mu frcnu iskrice
+5374|Iz gnijezda donosi zlatnike i tople kamenčiće
+5375|Zmajev let
+5376|Iskrica raširi krila i letite iznad oblaka! Skok je gore, Roni je dolje
+5377|Iskrica leti! Skok je gore, Roni je dolje
+5378|Kozorog Rogo
+5379|Planinski kozorog koji skače po stijenama kao da su stube. Nikad se ne boji visine
+5380|S planinskih livada donosi cvijeće i zlatnike
+5381|Kozorogov skok
+5382|Rogo skače visoko i daleko, i to dvaput zaredom
+5383|Rogo te nosi! Skoči dvaput zaredom
+5384|Zmajeva žeravica
+5385|Runolist
+5386|Na vrhu Orlove igle, visoke stijene istočno od portala. Do nje vozi žičara sa stanice kraj portala
+5387|U zlatno-crvenom kavezu kraj portala. Otvara se kad proletiš kroz sve zmajeve prstenove na mostu
+5388|Zmajevi prstenovi
+5389|Proletjela si kroz sve zmajeve prstenove! Kavez kraj portala se otvorio
+5390|Vrh dobrodošlice
+5391|s nest, the horn pillar, the hoard, Plamenko
+5392|Na vrhu Zmajevog roga, kamenog stupa kraj gnijezda. Skači po crvenim kamenčićima oko njega
+5393|Zakopan u zmajevoj hrpi zlata, pod crvenim X-om. Kopaj
+5394|Kopaš kroz hrpu zlatnika... i eno ga! Zmajev kamen
+5395|U pagodi zmajara Plamenka u gnijezdu. Vrati mu izgubljena zmajeva jaja
+5396|Zmajeva riznica
+5397|Zmajevo gnijezdo
+5398|U špilji iza slapa na Vrhu slapova. Prođi ravno kroz vodu
+5399|Vrh slapova
+5400|U pagodi na Vrhu zvona. Zazvoni zvona pravim redom
+5401|Zvona su zazvonila zmajevu pjesmu! Vrata pagode su se otvorila
+5402|Krivo zvono! Pogledaj drveni stup s kockicama, odozgo prema dolje, i kreni ispočetka
+5403|ŠUŠ! Zmajev katapult te bacio sve do lebdećeg otočića
+5404|Vrh zvona
+5405|Na lebdećem otočiću između Gnijezda i Vulkana. Do njega te baci zmajev katapult na Vrhu zvona
+5406|Katapult te vratio u Zmajevo gnijezdo
+5407|Na samom vrhu Ledenog vrha. Penji se po snježnoj stazi oko stijene
+5408|Ledeni vrh
+5409|Na lebdećoj stijeni iznad vulkana. Topli zrak iz kratera nosi te gore
+5410|Vulkanska škrinja
+5411|Iza slapa netko je sakrio biserje i mahovinu za vrt
+5412|Vulkanski kamen i žar koji tinja. Sagradi kamin
+5413|Zmajeva riznica! Zlato, rubin-crveni kamen i fenjeri iz zmajeve pagode
+5414|Zmajarka Iskra
+5415|Zmajar Plamenko
+5416|Zmajica Ruža
+5417|Zmajić Mahić
+5418|Zmajić Ljubić
+5419|Zmajić Travko
+5420|Jak Čupko
+5421|Jakica Runa
+5422|Kozorog Kamenko
+5423|Koza Stijenka
+5424|Orao Krešimir
+5425|Orlica Vida
+5426|Orlić Brzić
+5427|Hep-ćih! Oprosti, kihnuo sam. Ja sam Iskrica. Zmajići moraju jesti tople žeravice da im se vatra u trbuhu ne ugasi. Doneseš mi četiri? Narančasto svijetle, pa ih je lako naći
+5428|Mmm, toplo! Vatra mi opet gori u trbuhu. Sad mogu letjeti! Hoćeš sa mnom iznad oblaka
+5429|Zmajevi postoje samo u pričama, ali na otoku Komodu živi pravi gušter zvan komodski zmaj. Dug je kao krevet i najveći je gušter na svijetu
+5430|Meee! Ja sam Rogo. Volim runolist, bijeli planinski cvijet sa zvjezdastim laticama. Raste samo visoko u planinama. Doneseš mi tri
+5431|Najljepši runolist na svim vrhovima! Penji se, skakat ćemo po stijenama
+5432|Kozorozi imaju posebna kopita s mekim jastučićima koji se drže stijene kao gumene čizmice. Zato se penju po strmim liticama bez straha
+5433|Oh, dobro da si tu! Ja sam zmajar Plamenko. Vjetar je otpuhao pet zmajevih jaja iz gnijezda, a Zmajica Ruža spava i ništa ne zna. Pronađeš ih prije nego se probudi? Jaja su na svim vrhovima
+5434|Svih pet jaja je natrag u gnijezdu! Ruža će biti presretna. Uđi u moju pagodu, čeka te dar
+5435|Jaja su na sigurnom, hvala ti
+5436|Zmajeva jaja su crvena sa zlatnim prugama. Ima ih na svim vrhovima
+5437|Stigla si na Orlovu iglu! Za povratak opet stani u kabinu
+5438|Žičara kreće! Uživaj u pogledu
+5439|Uh! Mali zmaj te uhvatio u oblacima i vratio na stijenu
+5440|Stanica žičare! Stani u crvenu kabinu i vozi se do Orlove igle
+5441|Psst! Zmajica Ruža spava u gnijezdu. Hodaj tiho
+5442|Vulkan je topao, ali ne peče. Stani u sredinu kratera i topli zrak će te dići
+5443|Zmajev katapult! Stani na zlatnu ploču
+5444|Iza slapa nešto svjetluca. Prođi kroz vodu
+5445|Zmajeva riznica je otvorena! Nalazi se u Zmajevom gnijezdu, iza mame zmajice
+5446|Dobro došla na Zmajeve vrhove! Ja sam zmajarka Iskra. Zmajevi su sakrili deset zmajevih kamena po vrhovima. Kad ih skupiš, otvorit će se zmajeva riznica. Mostovi su čvrsti, a ako padneš u oblake, zmajić te uhvati
+5447|zmajevih kamena
+5448|Na vrhovima ima i prijatelja kojima treba pomoć
+5449|Vrhovi iznad mora oblaka spojeni visećim mostovima: zmajevo gnijezdo, slap kroz koji se prolazi, pagoda sa zvonima, ledeni vrh, vulkan, žičara i zmajev katapult
+5450|viseći mostovi
+5451|žičara
+5452|zmajev katapult
+5453|Zmajev kamen
+5454|Zmajevi kamenovi
+5455|Svi zmajevi kamenovi
+5456|Svih 10 zmajevih kamena! Zmajeva riznica u gnijezdu se otvorila
+5457|Prvi zmajev kamen! Kompas na vrhu pokazuje najbliži
+5458|Zmajevi vrhovi! Zmajevi kamenovi
+5459|Zmajarka Iskra te čeka kod portala
+5460|Najduža žičara na svijetu vozi preko sedam kilometara. Kabine ponekad visoko nad dolinom voze ljude do sela u planinama
+5461|Orlovi lete visoko bez mahanja krilima. Koriste tople zračne struje koje se dižu od zemlje, baš kao ti iznad vulkana
+5462|Kad se planine dižu, stijene se lome i ostaju visoki kameni stupovi. Neki stoje usamljeni stotinama godina
+5463|Zlato ne hrđa i ne tamni, pa izgleda isto i nakon tisuću godina. Zato su ga ljudi oduvijek smatrali blagom
+5464|Najveće jaje na svijetu snese noj. Teško je kao dvadeset kokošjih jaja, a ljuska mu je tvrda kao porculan
+5465|Najviši slap na svijetu, Anđeoski slap, pada skoro kilometar u dubinu. Voda se raspe u maglu prije nego stigne do dna
+5466|Pagode su tornjevi s mnogo krovova jedan iznad drugog. Na rubovima krovova često vise mala zvonca koja zvone na vjetru
+5467|Oblaci su napravljeni od sitnih kapljica vode. Jedan obični oblak može biti težak kao sto slonova, a ipak lebdi
+5468|Najviša planina na svijetu je Mount Everest. Na vrhu je tako hladno i zrak tako rijedak da planinari nose bocu s kisikom
+5469|Vulkan je planina kroz koju iz dubine Zemlje izlazi užarena lava. U Hrvatskoj nema aktivnih vulkana, ali Italija ih ima nekoliko
+5470|Zzzz... hrrr... zzzz
+5471|Ruža se nasmiješi u snu i ispusti mali oblačić dima
+5472|Hep-ćih! Pazi, iskrice
+5473|Kad narastem, letjet ću do Mjeseca
+5474|Muuu. Hladno mi nije, imam najtopliji kaput na planini
+5475|Meee! Pogledaj kako skačem
+5476|Orao te gleda oštrim pogledom. Vidi miša s visine od kilometra
+5477|Kristalna vrata zmajeve riznice su zatvorena. Skupi svih 10 zmajevih kamena
+5478|Zmajeva riznica je otvorena
+5479|Blago zmajevih vrhova
+5480|Zmajska lisica i Zmajeve iskre sad su tvoji. Zmajica Ruža se probudila i kaže da si prava prijateljica zmajeva
+5481|Pustinjska lisica
+5482|Svijetlo pješčano krzno i ogromne uši kao u feneka, s narančastim šalom karavane
+5483|Pješčani vrtlog
+5484|Iza Ride se diže zlatni pijesak i vrti se kao mali pustinjski vjetar
+5485|uniform float uKjRed
+5486|Fenek Uško
+5487|Najmanja lisica na svijetu, s ušima većim od glave. Čuje i kukca kako hoda po pijesku
+5488|Iz pustinje donosi datulje i zlatnike
+5489|Fenekov sprint
+5490|Uško juri po pijesku brže od vjetra i skače preko dina
+5491|Uško te nosi! Skoči dvaput zaredom
+5492|Kamila Grbica
+5493|Mirna kamila s dvije grbe. Danima hoda pustinjom i nikad ne žuri, ali kad potrči, nitko je ne stigne
+5494|S karavanom donosi zlatnike i tkanine
+5495|Jahanje kamile
+5496|Grbica te nosi visoko iznad pijeska. Odozgo se vidi cijela pustinja
+5497|Jašeš Grbicu! Odozgo se sve vidi
+5498|Datulja
+5499|Kaktusov cvijet
+5500|Vrč za vodu
+5501|Na vrhu Kamenog luka iznad kanjona. Popni se na vidikovac kod portala i hodaj po rubu kanjona
+5502|Kameni luk
+5503|Na kraju uske Svjetlosne pukotine, istočno od kanjona kod hrama. Uđi u procjep u stijeni
+5504|Svjetlosna pukotina
+5505|U skrivenoj sobi Hrama u stijeni. Hijeroglifi na podu otvaraju vrata
+5506|Hijeroglifi su zasjali i kamena vrata su se odmaknula! Skrivena soba hrama je otvorena
+5507|Krivi znak! Pogledaj znakove na stražnjem zidu, odozgo prema dolje, i kreni ispočetka
+5508|Blago faraonskog hrama
+5509|Hram u stijeni
+5510|U kući u stijeni, visoko na zapadnom zidu kanjona. Topli zrak s dna kanjona te diže do police
+5511|Škrinja drevnih graditelja
+5512|Kuće u stijeni
+5513|U šatoru karavanke Zare u oazi. Pomozi joj naći izgubljene vrčeve
+5514|Na dnu starog bunara u oazi, u skrivenoj podzemnoj cisterni. Zaroni u bunar
+5515|Oaza
+5516|Na vrhu Velike dine na jugoistoku pustinje. Penji se po pijesku sve do vrha
+5517|Na vrhu Pješčanog stupa u dinama. Do njega te baci vrući izvor
+5518|ŠŠŠŠ! Vrući izvor te izbacio sve do vrha Pješčanog stupa
+5519|Zakopan u dinama pod crvenim X-om. Kopaj
+5520|Kopaš kroz vrući pijesak... i eno ga! Izgubljeno blago karavane
+5521|Zlatne dine
+5522|U zlatnom kavezu ispred Hrama u stijeni. Otvara se kad protrčiš kroz sve prstenove u kanjonu
+5523|Prstenovi kanjona
+5524|Protrčala si kroz sve prstenove kanjona! Zlatni kavez ispred hrama se otvorio
+5525|Drevni graditelji ostavili su zemljane cigle. Sagradi kuću u stijeni
+5526|Blago faraonskog hrama! Zlato i ukrasni pješčenjak za tvoju piramidu
+5527|Arheologinja Nada
+5528|Karavanka Zara
+5529|Kamila Sahara
+5530|Kamila Dina
+5531|Surikata Stražar
+5532|Surikata Mrvica
+5533|Surikata Brko
+5534|Surikata Pjega
+5535|Gušter Sunčko
+5536|Gušterica Brza
+5537|Gušter Pjesko
+5538|Fenek Pustinjko
+5539|Fenekica Uška
+5540|Psst! Čuješ li me? Ja sam Uško, fenek. Moje uši čuju sve, ali moj trbuščić kruli. Palme u oazi su ispustile datulje. Doneseš mi četiri
+5541|Njam, slatke datulje! Hvala ti! Hoćeš juriti sa mnom po dinama? Nitko nije brži od feneka
+5542|Fenek ima najveće uši u odnosu na tijelo od svih lisica. Kroz uši izbacuje toplinu, pa mu nije vruće ni u pustinji
+5543|Mmmm. Polako, polako. Ja sam Grbica. Kaktusi u pustinji cvjetaju samo jednom godišnje, a ja jako volim njihove ružičaste cvjetove. Doneseš mi tri
+5544|Prekrasni cvjetovi! Penji se na moju grbu, pokazat ću ti pustinju odozgo
+5545|Kamila u grbi ne nosi vodu nego mast. Zato može danima hodati bez hrane, a kad pije, popije cijelu kadu vode odjednom
+5546|Dobro došla u oazu, putnice! Ja sam Zara i vodim karavanu. Pješčana oluja raznijela je naših pet vrčeva za vodu po cijelom kanjonu. Bez njih ne možemo dalje. Pomogneš nam
+5547|Svih pet vrčeva! Karavana može nastaviti put. Uđi u moj šator, ostavila sam ti nešto posebno
+5548|Vrčevi su puni, hvala ti
+5549|Vrčevi su od crvene gline s tirkiznim obručem. Ima ih po cijelom kanjonu
+5550|Wiii! Pješčani tobogan te nosi niz dinu
+5551|Pješčani tobogan! Zakorači na pijesak i kliži sve do dina
+5552|Vrući zrak s dna kanjona diže se uz zid! Stani na užareni kamen
+5553|Vrući izvor! Stani u sredinu i čekaj da izbaci
+5554|Svjetlosna pukotina! Uska staza vijuga kroz stijenu, a sunce ulazi odozgo u zrakama
+5555|Vidikovac! Stube oko tornja vode na rub kanjona
+5556|Riznica hrama je otvorena! Hram je isklesan u istočnom zidu kanjona, a riznica je iza kristalnih vrata
+5557|Dobro došla u Pustinjski kanjon! Ja sam arheologinja Nada. Ovdje je skriveno deset drevnih skarabeja. Kad ih skupiš, otvorit će se riznica hrama u stijeni. Ponesi vode, sunce je jako
+5558|skarabeja
+5559|U pustinji ima i prijatelja kojima treba pomoć
+5560|Crveni kanjon s potokom: kameni luk, uska svjetlosna pukotina, kuće u stijeni, hram isklesan u liticu, oaza s palmama i bunarom, zlatne dine s pješčanim toboganom
+5561|hram u stijeni
+5562|pješčani tobogan
+5563|svjetlosna pukotina
+5564|Drevni skarabej
+5565|Drevni skarabeji
+5566|Svi drevni skarabeji
+5567|Svih 10 drevnih skarabeja! Riznica hrama u stijeni se otvorila
+5568|Prvi drevni skarabej! Kompas na vrhu pokazuje najbliži
+5569|Pustinjski kanjon! Drevni skarabeji
+5570|Arheologinja Nada te čeka kod portala
+5571|Kameni lukovi nastaju tisućama godina dok vjetar i voda polako odnose mekši kamen, a tvrđi ostaje stajati kao most
+5572|Uske kanjone kroz koje prolazi sunčeva zraka izdubila je voda od kiše. Kad pada kiša, kroz njih juri bujica, pa se u njih ulazi samo po suhom vremenu
+5573|Stari Egipćani pisali su hijeroglifima, sličicama umjesto slova. Bilo ih je više od tisuću različitih
+5574|Prije više od sedam stotina godina ljudi u Americi gradili su cijela sela u udubinama litica. Penjali su se do njih ljestvama
+5575|Karavane su nizovi kamila koje nose robu preko pustinje. Putovale su mjesecima, od oaze do oaze
+5576|Ispod pustinje često se skriva voda. Oaza nastaje tamo gdje ta podzemna voda izbija na površinu
+5577|Pješčane dine se miču! Vjetar nosi zrnca pijeska preko vrha, pa cijela dina polako putuje pustinjom
+5578|Visoki kameni stupovi u pustinji su ostaci velikih stijena. Sve oko njih vjetar je odnio, a oni stoje kao divovi
+5579|Skarabej je kukac balegar. Stari Egipćani su ga smatrali svetim i od dragog kamena izrađivali su skarabeje za sreću
+5580|Danju je u pustinji jako vruće, a noću može biti hladnije nego u hladnjaku. Zato pustinjske životinje danju spavaju u rupama
+5581|Surikata stoji na stražarskom položaju i pazi da ne dođe orao
+5582|Pssst! Tiho, stražarim
+5583|Gušter se sunča na toplom kamenu. Mašu ti repom
+5584|Mmmm. Kamila polako žvače i gleda te dugim trepavicama
+5585|Fenek okrene velike uši prema tebi. Čuje ti srce kako kuca
+5586|Kristalna vrata riznice hrama su zatvorena. Skupi svih 10 drevnih skarabeja
+5587|Riznica hrama je otvorena
+5588|Blago Pustinjskog kanjona
+5589|Pustinjska lisica i Pješčani vrtlog sad su tvoji. Arheologinja Nada kaže da si najveća istraživačica pustinje
+5590|Lisica astronautkinja
+5591|Bijelo svemirsko odijelo s narančastim prugama, zlatni vizir i mala zastavica na leđima
+5592|Mjesečeva prašina
+5593|Svaki korak diže oblačić srebrne mjesečeve prašine koji polako lebdi, jer na Mjesecu nema vjetra
+5594|Mjesečev zec Skok
+5595|Bijeli zečić s Mjeseca. Stare priče kažu da se na Mjesecu vidi zec, a evo ga stvarno
+5596|S Mjeseca donosi zvjezdane mrkvice i zlatnike
+5597|Mjesečev skok
+5598|Skok te nosi skokovima visokim kao kuća! I to dvaput zaredom
+5599|Skok te nosi! Na Mjesecu skače do neba
+5600|Robot Bip
+5601|Mali robot istraživač s antenom. Kad je sretan, zatreperi plavim i zapiska melodiju
+5602|Iz postaje donosi dijelove i zlatnike
+5603|Robotski mlazni let
+5604|Bip upali male mlaznice i letite iznad kratera! Skok je gore, Roni je dolje
+5605|Bip leti na mlaznice! Skok je gore, Roni je dolje
+5606|Zvjezdana mrkvica
+5607|Robotski vijak
+5608|Solarna ćelija
+5609|U Mjesečevoj postaji. Astronautkinja Vega otvorit će zračnu komoru kad joj vratiš solarne ćelije
+5610|Na vrhu lansirnog tornja kraj rakete. Na Mjesecu skačeš visoko: skači s police na policu
+5611|Blago Zlatne kupole
+5612|Zlatna kupola
+5613|U opservatoriju na visokoj stijeni zapadno od postaje. Vozi se Mjesečevim monorailom
+5614|Opservatorij
+5615|Na vrhu središnje stijene u Velikom krateru. Skači uz strme stijene, gravitacija je mala
+5616|Veliki krater
+5617|Na najvišem lebdećem asteroidu sjeverozapadno od postaje. Skači s kamena na kamen
+5618|ŽUUUM! Elektromagnetski top lansirao te na Zlatni asteroid
+5619|Na Zlatnom asteroidu koji lebdi visoko iznad Kupole. Do njega te lansira elektromagnetski top
+5620|Zakopan pod ledom na dnu Ledenog kratera, gdje sunce nikad ne sja. Kopaj kroz led
+5621|Kopaš kroz zaleđenu vodu... i eno ga! Mjesečev kristal
+5622|Ledeni krater
+5623|Ispod velike radio-antene. Pošalji pravi signal pločama oko nje
+5624|Signal je poslan na Zemlju! Antena je zabljesnula i otvorila se mala vrata ispod nje
+5625|Krivi signal! Pogledaj stup s kockicama, odozgo prema dolje, i kreni ispočetka
+5626|Radio-antena
+5627|U lavinoj cijevi ispod Mjesečeve površine. Skoči kroz okruglu rupu i polako padaj u mrak
+5628|Lavina cijev
+5629|U plavom kavezu istočno od Kupole. Otvara se kad proletiš kroz sve orbitalne prstenove
+5630|Orbitalni prstenovi
+5631|Proletjela si kroz sve orbitalne prstenove! Plavi kavez se otvorio
+5632|Blago Zlatne kupole! Kvarc, staklo i zlato za tvoju svemirsku postaju
+5633|Astronaut Luka
+5634|Astronautkinja Vega
+5635|Robot Čistko
+5636|Robot Kopko
+5637|Robot Antenko
+5638|Zečica Mjesečina
+5639|Zec Krater
+5640|Zečić Prašinko
+5641|Hop! Hop! Ja sam Skok, Mjesečev zec. Na Mjesecu rastu zvjezdane mrkvice, svijetle kao male zvijezde. Ispustio sam ih dok sam skakao. Doneseš mi četiri
+5642|Hrum-hrum, slatko! Sad imam snage za najveće skokove. Penji se, skočit ćemo do zvijezda
+5643|Na Mjesecu je gravitacija šest puta slabija nego na Zemlji. Kad bi ti tamo skočila, skočila bi šest puta više
+5644|Bip-bup! Ja sam robot Bip. Ispali su mi vijci iz mlaznica pa ne mogu letjeti. Bip! Pronađeš mi tri vijka
+5645|Bip-bip-hura! Mlaznice rade! Hoćeš letjeti sa mnom iznad kratera
+5646|Na Mjesecu i Marsu voze roboti istraživači, roveri. Upravljaju se sa Zemlje, a poruka do Marsa putuje i po dvadeset minuta
+5647|Bok, mala astronautkinjo! Ja sam Vega. Meteoriti su razbacali pet solarnih ćelija po Mjesecu, a bez njih postaja nema struje i zračna komora se ne otvara. Doneseš mi ih
+5648|Svih pet ćelija! Postaja opet ima struju. Zračna komora je otvorena, uđi! Unutra te čeka nešto posebno
+5649|Postaja svijetli, hvala ti
+5650|Solarne ćelije su plave pločice koje svjetlucaju. Raspale su se po cijelom Mjesecu
+5651|Stigla si do opservatorija! Za povratak opet uđi u monorail
+5652|Monorail kreće! Drži se
+5653|Na Mjesecu je gravitacija slaba! Skoči i vidi kako visoko letiš
+5654|Stanica monoraila! Uđi u kabinu i vozi se do opservatorija na stijeni
+5655|Lansirni toranj! Police su na svakih nekoliko kockica. Na Mjesecu ih lako doskočiš
+5656|Elektromagnetski top! Stani na svijetlu ploču
+5657|Okrugla rupa vodi u lavinu cijev! Ne boj se, na Mjesecu padaš polako
+5658|Zlatna kupola je otvorena! Nalazi se sjeverno od postaje, između postaje i Velikog kratera
+5659|Dobro došla na Mjesec! Ja sam astronaut Luka. Po Mjesecu je raspršeno deset mjesečevih kristala. Kad ih skupiš, otvorit će se Zlatna kupola. I pazi: ovdje skačeš visoko kao nikad
+5660|mjesečevih kristala
+5661|Na Mjesecu ima i prijatelja kojima treba pomoć
+5662|Raketom na Mjesec! Slaba gravitacija i skokovi do neba, krateri, Mjesečeva postaja sa staklenikom, monorail do opservatorija, lebdeći asteroidi, lavina cijev i Zemlja na crnom nebu
+5663|slaba gravitacija
+5664|lebdeći asteroidi
+5665|Mjesečev kristal
+5666|Mjesečevi kristali
+5667|Svi mjesečevi kristali
+5668|Svih 10 mjesečevih kristala! Zlatna kupola se otvorila
+5669|Prvi mjesečev kristal! Kompas na vrhu pokazuje najbliži
+5670|Mjesečeva postaja! Mjesečevi kristali
+5671|Astronaut Luka te čeka kod portala
+5672|Međunarodna svemirska postaja kruži oko Zemlje i obiđe je šesnaest puta svaki dan. Astronauti tamo vide šesnaest izlazaka sunca dnevno
+5673|Prvi ljudi na Mjesecu bili su Neil Armstrong i Buzz Aldrin, 1969. godine. Njihovi otisci stopala još su tamo, jer na Mjesecu nema vjetra koji bi ih otpuhao
+5674|S Mjeseca se zvijezde vide i danju, jer Mjesec nema zrak koji bi raspršio sunčevu svjetlost. Nebo je uvijek crno
+5675|Krateri nastaju kad u Mjesec udari svemirska stijena, meteorit. Mjesec ih ima stotine tisuća
+5676|Asteroidi su stijene koje kruže oko Sunca. Neki su mali kao kamenčić, a neki veliki kao cijela država
+5677|Na Mjesecu nema zraka, pa nema ni zvuka. Kad bi netko vikao, ne bi ga čula, čak i da stoji tik do tebe
+5678|Na dnu nekih kratera na Mjesecu sunce nikad ne sja. Tamo se skriva led, voda koju bi astronauti jednom mogli piti
+5679|Radio-antene šalju poruke kroz svemir. Signal od Mjeseca do Zemlje putuje malo više od jedne sekunde
+5680|Lavine cijevi su tuneli koje je davno izdubila užarena lava. Znanstvenici misle da bi u njima jednom mogle biti kuće za astronaute
+5681|Mjesec se uvijek okreće Zemlji istom stranom. Zato sa Zemlje nikad ne vidimo drugu stranu Mjeseca
+5682|Bip-bup! Čistim prašinu sa solarnih ploča
+5683|Bip! Sve sustave provjerio sam dvaput
+5684|Hop! Na Mjesecu skačem do oblaka. Ali ovdje nema oblaka
+5685|Pogledaj gore! Ono plavo na nebu je naša Zemlja
+5686|Kristalna vrata Zlatne kupole su zatvorena. Skupi svih 10 mjesečevih kristala
+5687|Zlatna kupola je otvorena
+5688|Blago Mjesečeve postaje
+5689|Lisica astronautkinja i Mjesečeva prašina sad su tvoji. Astronaut Luka kaže da si prava astronautkinja
+5690|Bok! Ovaj otok je od danas tvoj. Zove se Otok priča jer na njemu sve raste od knjiga koje čitaš. Svaki put kad pročitaš nekoliko stranica, pritisni „Čitala sam!“ i gledaj što se događa. Ja ću biti ovdje i čekati tvoje priče
+5691|Dobro došla na otok
+5692|Bok! Ja sam Rida, lisica s ovog otoka. Otok je od danas tvoj, ali je još skoro prazan. Svaka knjiga koju pročitaš ovdje će izgraditi nešto novo: šumu, svjetionik, farmu ili čak zvjezdarnicu
+5693|Kako se zoveš
+5694|Drago mi je
+5695|Vidiš li bocu u moru? Dodirni je
+5696|Dobro jutro
+5697|Preko noći je na otoku izraslo novo cvijeće
+5698|Razina 1
+5699|Čitala sam
+5700|Dnevnik
+5701|Postavi
+5702|Ruši
+5703|Završi
+5704|Ridin ormar
+5705|Tvoj 3D otok. Povuci za okretanje, štipni ili kotačić za zumiranje

@@ -1,0 +1,11 @@
+import {build} from 'esbuild';import fs from 'fs';
+let hits=0;
+const plug={name:'otok',setup(b){b.onLoad({filter:/three\.module\.js$/},async a=>{let s=fs.readFileSync(a.path,'utf8');
+  const R=(x,y)=>{const c=s.split(x).length-1;if(!c)throw new Error('miss '+x);hits+=c;s=s.split(x).join(y);};
+  R("currentRenderTarget === null || currentRenderTarget.isXRRenderTarget === true","currentRenderTarget === null || currentRenderTarget.isXRRenderTarget === true || currentRenderTarget.otokDisplay === true");
+  R("_currentRenderTarget === null || _currentRenderTarget.isXRRenderTarget === true","_currentRenderTarget === null || _currentRenderTarget.isXRRenderTarget === true || _currentRenderTarget.otokDisplay === true");
+  R("( currentRenderTarget === null ) ? renderer.outputColorSpace","( currentRenderTarget === null || currentRenderTarget.otokDisplay === true ) ? renderer.outputColorSpace");
+  R("( _currentRenderTarget === null ) ? _this.outputColorSpace","( _currentRenderTarget === null || _currentRenderTarget.otokDisplay === true ) ? _this.outputColorSpace");
+  return {contents:s,loader:'js'};});}};
+await build({entryPoints:['entry.js'],bundle:true,minify:true,format:'iife',outfile:'three-otok.min.js',plugins:[plug],legalComments:'inline',target:'es2020'});
+console.log('hits',hits,fs.statSync('three-otok.min.js').size);

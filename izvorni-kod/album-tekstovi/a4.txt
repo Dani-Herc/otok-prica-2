@@ -1,0 +1,441 @@
+@krtica|kristal|z|Krtica|Maulwurf|ent=krtica,krtica2|sci=Talpa europaea
+i|Dom|Zuhause|hodnici pod zemljom|Gänge unter der Erde
+i|Hrana|Nahrung|gujavice i ličinke|Regenwürmer und Larven
+i|Veličina|Größe|oko 15 cm|etwa 15 cm
+h|Kopa hodnike u Kristalnim dubinama.|Gräbt Gänge in den Kristalltiefen.
+f|Krtica prednjim šapama kopa kao lopatama i za jednu noć može iskopati hodnik dug kao nogometno igralište.|Der Maulwurf gräbt mit den Vorderpfoten wie mit Schaufeln und schafft in einer Nacht einen Gang, so lang wie ein Fußballfeld.
+q|Koliki hodnik krtica može iskopati za jednu noć?|Wie lang ist der Gang, den ein Maulwurf in einer Nacht gräbt?
+a|Dug kao nogometno igralište|So lang wie ein Fußballfeld
+w|Samo jednu rupicu|Nur ein Löchlein
+w|Do drugog kontinenta|Bis zum anderen Kontinent
+f|Krtica gotovo ništa ne vidi, ali ima izvrstan njuh i osjeti i najmanje podrhtavanje zemlje.|Der Maulwurf sieht fast nichts, aber er riecht hervorragend und spürt das kleinste Zittern im Boden.
+q|Kako krtica pronalazi hranu?|Wie findet der Maulwurf sein Futter?
+a|Njuhom i osjetom podrhtavanja|Mit der Nase und dem Gespür für Zittern
+w|Izvrsnim vidom|Mit sehr guten Augen
+w|Svjetiljkom|Mit einer Lampe
+f|Krtičnjaci, kupice zemlje na livadi, zapravo su zemlja koju je krtica izgurala iz hodnika.|Maulwurfshügel auf der Wiese sind Erde, die der Maulwurf aus seinen Gängen geschoben hat.
+q|Što su krtičnjaci na livadi?|Was sind Maulwurfshügel auf der Wiese?
+a|Zemlja izgurana iz hodnika|Erde, die aus den Gängen geschoben wurde
+w|Krtičine kuće|Häuser der Maulwürfe
+w|Mravinjaci|Ameisenhaufen
+
+@sismis|kristal|z|Šišmiš|Fledermaus|ent=sismis,sismis2|sci=Chiroptera
+i|Dom|Zuhause|špilje, tavani, šuplja stabla|Höhlen, Dachböden, hohle Bäume
+i|Hrana|Nahrung|kukci, a neki voće|Insekten, manche Früchte
+i|Veličina|Größe|od 3 cm do 1,5 m raspona krila|3 cm bis 1,5 m Flügelspannweite
+h|Visi sa stropa Kristalnih dubina.|Hängt von der Decke der Kristalltiefen.
+f|Šišmiš u mraku vidi ušima. Ispušta tihe pištave zvukove i sluša jeku koja se odbije od predmeta.|Die Fledermaus sieht im Dunkeln mit den Ohren. Sie stößt leise Pieptöne aus und hört auf das Echo, das von Dingen zurückkommt.
+q|Kako šišmiš pronalazi put u mraku?|Wie findet die Fledermaus im Dunkeln ihren Weg?
+a|Sluša jeku svojih zvukova|Sie hört auf das Echo ihrer Töne
+w|Ima svjetiljku na glavi|Sie hat eine Stirnlampe
+w|Drži se za zid|Sie hält sich an der Wand fest
+f|Šišmiši su jedini sisavci koji pravo lete. Krila su im koža razapeta između dugih prstiju.|Fledermäuse sind die einzigen Säugetiere, die richtig fliegen. Ihre Flügel sind Haut zwischen langen Fingern.
+q|Od čega su šišmišu krila?|Woraus sind die Flügel der Fledermaus?
+a|Od kože između prstiju|Aus Haut zwischen den Fingern
+w|Od perja|Aus Federn
+w|Od papira|Aus Papier
+f|Jedan mali šišmiš u jednoj noći pojede stotine komaraca.|Eine kleine Fledermaus frisst in einer Nacht Hunderte Mücken.
+q|Koliko komaraca šišmiš pojede u noći?|Wie viele Mücken frisst eine Fledermaus in einer Nacht?
+a|Stotine|Hunderte
+w|Nijednog|Keine
+w|Samo jednog|Nur eine
+
+@ribica|kristal|z|Špiljska riba|Höhlenfisch|ent=ribica,ribica2|sci=Astyanax mexicanus
+i|Dom|Zuhause|podzemna jezera u špiljama|unterirdische Seen in Höhlen
+i|Hrana|Nahrung|sitna bića iz vode|kleine Lebewesen im Wasser
+i|Veličina|Größe|oko 10 cm|etwa 10 cm
+h|Pliva u podzemnom jezeru Kristalnih dubina.|Schwimmt im unterirdischen See der Kristalltiefen.
+f|Neke ribe koje žive u potpunom mraku špilja nemaju oči i nemaju boju, jer im ne trebaju.|Manche Fische, die in völlig dunklen Höhlen leben, haben keine Augen und keine Farbe, weil sie sie nicht brauchen.
+q|Zašto neke špiljske ribe nemaju oči?|Warum haben manche Höhlenfische keine Augen?
+a|U potpunom mraku im ne trebaju|Im völligen Dunkel brauchen sie keine
+w|Izgubile su ih u igri|Sie haben sie beim Spielen verloren
+w|Zatvorile su ih zauvijek|Sie haben sie für immer zugemacht
+f|U hrvatskim špiljama živi čovječja ribica, mala bijela vodozemka bez očiju koja može živjeti i sto godina.|In kroatischen Höhlen lebt der Grottenolm, ein kleiner weißer Lurch ohne Augen, der hundert Jahre alt werden kann.
+q|Koja bijela životinja bez očiju živi u hrvatskim špiljama?|Welches weiße Tier ohne Augen lebt in kroatischen Höhlen?
+a|Čovječja ribica|Der Grottenolm
+w|Polarni medvjed|Der Eisbär
+w|Papiga|Der Papagei
+f|Špiljske ribe osjete pokrete vode bočnom prugom na tijelu, pa ne udaraju u stijene.|Höhlenfische spüren Wasserbewegungen mit einer Seitenlinie am Körper und stoßen deshalb nicht an Felsen.
+q|Kako špiljska riba izbjegava stijene u mraku?|Wie weicht der Höhlenfisch im Dunkeln den Felsen aus?
+a|Osjeti pokrete vode|Er spürt Wasserbewegungen
+w|Svijetli kao lampa|Er leuchtet wie eine Lampe
+w|Pjeva da čuje jeku|Er singt, um das Echo zu hören
+
+@patuljak|kristal|c|Patuljci rudari|Zwerge|ent=patuljak
+i|Dom|Zuhause|rudnici duboko u planini|Bergwerke tief im Berg
+i|Alat|Werkzeug|kramp i fenjer|Spitzhacke und Laterne
+h|Patuljci Kremenko i Grumenko kopaju u Kristalnim dubinama.|Die Zwerge Feuerstein und Klümpi graben in den Kristalltiefen.
+f|Pravi rudari nekad su u rudnike nosili kanarince. Ako je zrak postao loš, ptičica bi prva zašutjela i rudari bi brzo izašli.|Echte Bergleute nahmen früher Kanarienvögel mit ins Bergwerk. Wurde die Luft schlecht, verstummte zuerst der Vogel, und die Bergleute gingen schnell hinaus.
+q|Zašto su rudari nosili kanarince u rudnik?|Warum nahmen Bergleute Kanarienvögel mit ins Bergwerk?
+a|Da ih upozore na loš zrak|Um vor schlechter Luft zu warnen
+w|Da im pjevaju za ručak|Damit sie beim Mittagessen singen
+w|Da kopaju umjesto njih|Damit sie für sie graben
+f|U bajci Snjeguljica i sedam patuljaka patuljci svaki dan idu kopati dragulje u rudnik.|Im Märchen Schneewittchen und die sieben Zwerge gehen die Zwerge jeden Tag ins Bergwerk, um Edelsteine zu graben.
+q|Koliko je patuljaka u bajci o Snjeguljici?|Wie viele Zwerge gibt es im Märchen Schneewittchen?
+a|Sedam|Sieben
+w|Tri|Drei
+w|Dvanaest|Zwölf
+f|Dijamant je najtvrđi prirodni materijal. Može izgrebati sve drugo, a izgrebati ga može samo drugi dijamant.|Der Diamant ist das härteste natürliche Material. Er kann alles zerkratzen, und nur ein anderer Diamant kann ihn zerkratzen.
+q|Što može izgrebati dijamant?|Was kann einen Diamanten zerkratzen?
+a|Samo drugi dijamant|Nur ein anderer Diamant
+w|Nokat|Ein Fingernagel
+w|Papir|Papier
+
+@zmajic|zmajevi|c|Zmajevi|Drachen|ent=zmajic,zmajic_z,zmajic_p
+i|Dom|Zuhause|Zmajevi vrhovi|Drachengipfel
+i|Hrana|Nahrung|u priči: plamene bobice|in der Geschichte: Flammenbeeren
+h|Zmajići lete oko Zmajevih vrhova.|Kleine Drachen fliegen um die Drachengipfel.
+f|U europskim pričama zmajevi često čuvaju blago, a u kineskim su pametna i dobra bića koja donose kišu i sreću.|In europäischen Geschichten bewachen Drachen oft Schätze, in chinesischen sind sie kluge, gute Wesen, die Regen und Glück bringen.
+q|Kakvi su zmajevi u kineskim pričama?|Wie sind Drachen in chinesischen Geschichten?
+a|Dobri, donose kišu i sreću|Gut, sie bringen Regen und Glück
+w|Uvijek zli|Immer böse
+w|Sitni kao mravi|Winzig wie Ameisen
+f|Komodski varan najveći je pravi gušter na svijetu. Ljudi ga zovu komodski zmaj, a dug je do tri metra.|Der Komodowaran ist die größte echte Echse der Welt. Man nennt ihn Komodo-Drache, und er wird bis zu drei Meter lang.
+q|Koji se pravi gušter zove i zmaj?|Welche echte Echse nennt man auch Drache?
+a|Komodski varan|Der Komodowaran
+w|Mala gušterica|Die kleine Eidechse
+w|Žaba|Der Frosch
+f|U hrvatskim legendama spominje se zmaj kojeg je svladao vitez, kao u priči o svetom Jurju.|In kroatischen Legenden kommt ein Drache vor, den ein Ritter besiegt, wie in der Geschichte vom heiligen Georg.
+q|Koji vitez u legendi svlada zmaja?|Welcher Ritter besiegt in der Legende einen Drachen?
+a|Sveti Juraj|Der heilige Georg
+w|Mali princ|Der kleine Prinz
+w|Robin Hood|Robin Hood
+
+@zmajari|zmajevi|l|Zmajari|Drachenreiter|ent=zmajarka,plamenko,zmajica|em=🐉|bg=#d84a3a
+i|Posao|Beruf|briga o zmajevima i jahanje|Drachen pflegen und reiten
+i|Dom|Zuhause|Zmajevi vrhovi|Drachengipfel
+h|Zmajarka Iskra i zmajar Plamenko žive na Zmajevim vrhovima.|Drachenreiterin Funke und Drachenreiter Flammi leben auf den Drachengipfeln.
+f|Ljudi su stoljećima sanjali o letenju. Braća Wright prvi su poletjela avionom s motorom 1903. godine.|Menschen träumten jahrhundertelang vom Fliegen. Die Brüder Wright flogen 1903 als Erste mit einem Motorflugzeug.
+q|Tko je prvi poletio avionom s motorom?|Wer flog als Erster mit einem Motorflugzeug?
+a|Braća Wright|Die Brüder Wright
+w|Gusari|Piraten
+w|Patuljci|Zwerge
+f|Hrvat Faust Vrančić prije više od 400 godina nacrtao je padobran i, prema pričama, s njim skočio s tornja.|Der Kroate Faust Vrančić zeichnete vor über 400 Jahren einen Fallschirm und sprang der Erzählung nach damit von einem Turm.
+q|Što je nacrtao Faust Vrančić?|Was zeichnete Faust Vrančić?
+a|Padobran|Einen Fallschirm
+w|Bicikl|Ein Fahrrad
+w|Raketu|Eine Rakete
+f|Zmajevi od papira izmišljeni su u Kini prije više od dvije tisuće godina.|Papierdrachen wurden vor über zweitausend Jahren in China erfunden.
+q|Gdje su izmišljeni papirnati zmajevi?|Wo wurden Papierdrachen erfunden?
+a|U Kini|In China
+w|Na Islandu|In Island
+w|U Peruu|In Peru
+
+@kozorog|zmajevi|z|Kozorog|Steinbock|ent=kozorog,kozorog2|sci=Capra ibex
+i|Dom|Zuhause|strme stijene visokih planina|steile Felsen im Hochgebirge
+i|Hrana|Nahrung|trava, mahovina, lišće|Gras, Moos, Blätter
+i|Veličina|Größe|rogovi do 1 m|Hörner bis 1 m
+h|Penje se po liticama Zmajevih vrhova.|Klettert an den Felsen der Drachengipfel.
+f|Kozorog se penje i po gotovo okomitim stijenama. Papci su mu mekani u sredini i drže se kao gumeni potplati.|Der Steinbock klettert sogar fast senkrechte Felsen hinauf. Seine Hufe sind in der Mitte weich und haften wie Gummisohlen.
+q|Zašto se kozorog može penjati po strmim stijenama?|Warum kann der Steinbock steile Felsen hinaufklettern?
+a|Papci se drže kao gumeni potplati|Die Hufe haften wie Gummisohlen
+w|Ima ljepilo na nogama|Er hat Kleber an den Beinen
+w|Leti|Er fliegt
+f|Po prstenovima na rogovima može se vidjeti koliko je kozorog star, kao godovi na stablu.|An den Ringen der Hörner sieht man, wie alt der Steinbock ist, wie bei den Jahresringen eines Baumes.
+q|Kako se vidi koliko je kozorog star?|Woran sieht man, wie alt ein Steinbock ist?
+a|Po prstenovima na rogovima|An den Ringen der Hörner
+w|Po boji očiju|An der Augenfarbe
+w|Po duljini repa|An der Schwanzlänge
+f|Kozorozi ližu stijene da dobiju sol i minerale koji im trebaju.|Steinböcke lecken an Felsen, um Salz und Mineralien zu bekommen, die sie brauchen.
+q|Zašto kozorozi ližu stijene?|Warum lecken Steinböcke an Felsen?
+a|Da dobiju sol i minerale|Um Salz und Mineralien zu bekommen
+w|Da ih očiste|Um sie zu putzen
+w|Jer su slatke|Weil sie süß sind
+
+@jak|zmajevi|z|Jak|Yak|ent=jak|sci=Bos mutus
+i|Dom|Zuhause|visoravni Himalaje i Tibeta|Hochebenen des Himalaya und Tibets
+i|Hrana|Nahrung|trava, mahovina, lišajevi|Gras, Moos, Flechten
+i|Veličina|Größe|do 2 m u ramenima|bis 2 m Schulterhöhe
+h|Pase na visokoj livadi Zmajevih vrhova.|Grast auf der Hochwiese der Drachengipfel.
+f|Jak ima tako gusto i dugo krzno da mu ni velika hladnoća planina ništa ne može. Ljeti mu je čak prevruće.|Der Yak hat so dichtes, langes Fell, dass ihm die große Kälte in den Bergen nichts ausmacht. Im Sommer ist ihm sogar zu warm.
+q|Što jaka štiti od hladnoće?|Was schützt den Yak vor Kälte?
+a|Gusto i dugo krzno|Dichtes, langes Fell
+w|Šal i kapa|Schal und Mütze
+w|Vatra|Ein Feuer
+f|Jak živi i na više od pet tisuća metara, gdje je zrak tako rijedak da se ljudi brzo zadišu.|Der Yak lebt sogar über fünftausend Metern, wo die Luft so dünn ist, dass Menschen schnell außer Atem kommen.
+q|Na kojoj visini može živjeti jak?|In welcher Höhe kann ein Yak leben?
+a|Više od pet tisuća metara|Über fünftausend Meter
+w|Samo uz more|Nur am Meer
+w|Pod zemljom|Unter der Erde
+f|Ljudi u planinama Tibeta od jakova dobivaju mlijeko, vunu i nose s njima teret.|Die Menschen in den Bergen Tibets bekommen von Yaks Milch und Wolle und lassen sie Lasten tragen.
+q|Što ljudi u Tibetu dobivaju od jakova?|Was bekommen die Menschen in Tibet von den Yaks?
+a|Mlijeko, vunu i pomoć s teretom|Milch, Wolle und Hilfe beim Tragen
+w|Med|Honig
+w|Jaja|Eier
+
+@orao|zmajevi|z|Orao|Adler|ent=orao|sci=Aquila chrysaetos
+i|Dom|Zuhause|visoke planine i litice|Hochgebirge und Felswände
+i|Hrana|Nahrung|zečevi, svizci, ribe|Hasen, Murmeltiere, Fische
+i|Veličina|Größe|krila do 2,3 m|Flügel bis 2,3 m
+h|Kruži iznad Zmajevih vrhova.|Kreist über den Drachengipfeln.
+f|Orao vidi oko četiri puta oštrije od čovjeka. Zeca može vidjeti s udaljenosti od nekoliko kilometara.|Ein Adler sieht etwa viermal schärfer als ein Mensch. Einen Hasen kann er aus mehreren Kilometern sehen.
+q|Koliko oštro vidi orao?|Wie scharf sieht ein Adler?
+a|Oko četiri puta oštrije od čovjeka|Etwa viermal schärfer als ein Mensch
+w|Slabije od krtice|Schlechter als ein Maulwurf
+w|Vidi samo noću|Er sieht nur nachts
+f|Orao gotovo ne maše krilima. Kruži na stupovima toplog zraka koji ga nose prema gore.|Der Adler schlägt kaum mit den Flügeln. Er kreist in Säulen warmer Luft, die ihn nach oben tragen.
+q|Kako orao leti tako visoko bez mahanja?|Wie fliegt der Adler so hoch ohne Flügelschlag?
+a|Nosi ga topli zrak prema gore|Warme Luft trägt ihn nach oben
+w|Ima mali motor|Er hat einen kleinen Motor
+w|Drži se za oblak|Er hält sich an einer Wolke fest
+f|Orlovo gnijezdo na litici može biti veće od kreveta, jer ga par svake godine dograđuje.|Ein Adlerhorst an einer Felswand kann größer als ein Bett sein, weil das Paar ihn jedes Jahr ausbaut.
+q|Zašto orlovo gnijezdo postane tako veliko?|Warum wird ein Adlerhorst so groß?
+a|Svake godine ga dograđuju|Er wird jedes Jahr ausgebaut
+w|Netko ga napuše|Jemand bläst ihn auf
+w|Raste kao stablo|Er wächst wie ein Baum
+
+@fenek|kanjon|z|Fenek|Wüstenfuchs|ent=fenek,fenek2|sci=Vulpes zerda
+i|Dom|Zuhause|pješčane pustinje Sjeverne Afrike|Sandwüsten Nordafrikas
+i|Hrana|Nahrung|kukci, sjemenke, korijenje|Insekten, Samen, Wurzeln
+i|Veličina|Größe|najmanja lisica, oko 1,5 kg|kleinster Fuchs, etwa 1,5 kg
+h|Krije se u sjeni Pustinjskog kanjona.|Versteckt sich im Schatten der Wüstenschlucht.
+f|Fenek ima ogromne uši. Kroz njih ispušta toplinu i čuje kukce kako se miču ispod pijeska.|Der Wüstenfuchs hat riesige Ohren. Darüber gibt er Wärme ab und hört Insekten, die sich unter dem Sand bewegen.
+q|Čemu feneku služe velike uši?|Wozu hat der Wüstenfuchs große Ohren?
+a|Za hlađenje i slušanje plijena|Zum Kühlen und um Beute zu hören
+w|Za letenje|Zum Fliegen
+w|Da nosi stvari|Um Dinge zu tragen
+f|Fenek ima dlakave tabane, pa ga vrući pijesak ne peče i ne propada u njega.|Der Wüstenfuchs hat behaarte Fußsohlen, so verbrennt er sich nicht am heißen Sand und sinkt nicht ein.
+q|Zašto fenek ima dlakave tabane?|Warum hat der Wüstenfuchs behaarte Fußsohlen?
+a|Da ga vrući pijesak ne peče|Damit der heiße Sand nicht brennt
+w|Da bude mekši za maženje|Damit er weicher zum Kuscheln ist
+w|Da se lakše sakrije|Damit er sich besser versteckt
+f|Fenek može dugo bez pijenja vode jer većinu vode dobiva iz hrane.|Der Wüstenfuchs kann lange ohne Trinken auskommen, weil er das meiste Wasser aus dem Futter bekommt.
+q|Odakle fenek dobiva većinu vode?|Woher bekommt der Wüstenfuchs das meiste Wasser?
+a|Iz hrane|Aus dem Futter
+w|Iz oaze svaki sat|Jede Stunde aus der Oase
+w|Iz oblaka|Aus den Wolken
+
+@kamila|kanjon|z|Kamila|Kamel|ent=kamila,kamila2|sci=Camelus dromedarius
+i|Dom|Zuhause|pustinje Afrike i Azije|Wüsten Afrikas und Asiens
+i|Hrana|Nahrung|trava, trnovito grmlje|Gras, dorniges Gestrüpp
+i|Veličina|Größe|do 2 m u ramenima|bis 2 m Schulterhöhe
+h|Kamila Grbica čeka u oazi Pustinjskog kanjona.|Kamel Höckerchen wartet in der Oase der Wüstenschlucht.
+f|Kamila s jednom grbom zove se deva, a s dvije grbe dvogrba deva. U grbi nije voda, nego masnoća za teška vremena.|Ein Kamel mit einem Höcker heißt Dromedar, mit zwei Höckern Trampeltier. Im Höcker ist kein Wasser, sondern Fett für schwere Zeiten.
+q|Što se nalazi u kamilinoj grbi?|Was ist im Höcker des Kamels?
+a|Masnoća|Fett
+w|Voda|Wasser
+w|Pijesak|Sand
+f|Kamila ima dva reda dugih trepavica i može zatvoriti nosnice da joj pijesak ne uđe u nos.|Das Kamel hat zwei Reihen langer Wimpern und kann die Nasenlöcher verschließen, damit kein Sand hineinkommt.
+q|Kako se kamila štiti od pijeska?|Wie schützt sich das Kamel vor Sand?
+a|Duge trepavice i zatvorene nosnice|Lange Wimpern und verschließbare Nasenlöcher
+w|Nosi naočale|Es trägt eine Brille
+w|Zakopa glavu|Es vergräbt den Kopf
+f|Žedna kamila može za nekoliko minuta popiti više od sto litara vode.|Ein durstiges Kamel kann in wenigen Minuten über hundert Liter Wasser trinken.
+q|Koliko vode žedna kamila može brzo popiti?|Wie viel Wasser kann ein durstiges Kamel schnell trinken?
+a|Više od sto litara|Über hundert Liter
+w|Jednu čašu|Ein Glas
+w|Nimalo|Gar nichts
+
+@surikata|kanjon|z|Surikata|Erdmännchen|ent=surikata|sci=Suricata suricatta
+i|Dom|Zuhause|pustinje južne Afrike|Wüsten im südlichen Afrika
+i|Hrana|Nahrung|kukci, škorpioni, gušteri|Insekten, Skorpione, Echsen
+i|Veličina|Größe|oko 30 cm|etwa 30 cm
+h|Stražari na stijeni u Pustinjskom kanjonu.|Hält Wache auf einem Felsen in der Wüstenschlucht.
+f|Dok ostale surikate traže hranu, jedna stoji na stražnjim nogama i pazi. Kad vidi opasnost, zazviždi upozorenje.|Während die anderen Erdmännchen Futter suchen, steht eines auf den Hinterbeinen Wache. Sieht es Gefahr, pfeift es eine Warnung.
+q|Što radi surikata stražar?|Was macht das Wächter-Erdmännchen?
+a|Pazi i upozori druge|Es passt auf und warnt die anderen
+w|Spava|Es schläft
+w|Kuha ručak|Es kocht Mittagessen
+f|Tamni krugovi oko očiju surikati rade kao sunčane naočale i smanjuju bljesak sunca.|Die dunklen Ringe um die Augen wirken beim Erdmännchen wie eine Sonnenbrille gegen die grelle Sonne.
+q|Čemu služe tamni krugovi oko surikatinih očiju?|Wozu dienen die dunklen Ringe um die Augen des Erdmännchens?
+a|Kao sunčane naočale|Wie eine Sonnenbrille
+w|Da izgleda tužno|Um traurig auszusehen
+w|Da bolje vidi noću|Um nachts besser zu sehen
+f|Surikate žive u velikim obiteljima i zajedno čuvaju mlade, čak i tuđe.|Erdmännchen leben in großen Familien und passen gemeinsam auf die Jungen auf, sogar auf fremde.
+q|Kako surikate brinu o mladima?|Wie kümmern sich Erdmännchen um die Jungen?
+a|Zajedno, cijela obitelj|Gemeinsam, die ganze Familie
+w|Ostave ih same|Sie lassen sie allein
+w|Daju ih ptici|Sie geben sie einem Vogel
+
+@guster|kanjon|z|Gušter|Echse|ent=guster|sci=Lacertilia
+i|Dom|Zuhause|tople stijene i pijesak|warme Felsen und Sand
+i|Hrana|Nahrung|kukci|Insekten
+i|Veličina|Größe|od 2 cm do 3 m|von 2 cm bis 3 m
+h|Sunča se na stijenama Pustinjskog kanjona.|Sonnt sich auf den Felsen der Wüstenschlucht.
+f|Gušter se sunča jer ne može sam zagrijati tijelo. Kad mu je prevruće, sakrije se u sjenu.|Die Echse sonnt sich, weil sie ihren Körper nicht selbst wärmen kann. Wird es zu heiß, geht sie in den Schatten.
+q|Zašto se gušter sunča?|Warum sonnt sich eine Echse?
+a|Ne može sam zagrijati tijelo|Sie kann sich nicht selbst wärmen
+w|Da pocrni|Um braun zu werden
+w|Jer mu je dosadno|Weil ihr langweilig ist
+f|Kad ga netko uhvati za rep, gušter ga može otpustiti i pobjeći. Rep kasnije ponovno naraste.|Wenn jemand die Echse am Schwanz packt, kann sie ihn abwerfen und fliehen. Der Schwanz wächst später nach.
+q|Što gušter napravi kad ga uhvate za rep?|Was macht die Echse, wenn man sie am Schwanz packt?
+a|Otpusti rep i pobjegne|Sie wirft ihn ab und flieht
+w|Zapjeva|Sie singt
+w|Pretvori se u kamen|Sie wird zu Stein
+f|Neki gušteri lizanjem jezika njuše zrak. Jezikom skupe mirise i tako znaju što je oko njih.|Manche Echsen riechen mit der Zunge. Sie sammeln damit Düfte aus der Luft und wissen so, was um sie herum ist.
+q|Čime neki gušteri njuše?|Womit riechen manche Echsen?
+a|Jezikom|Mit der Zunge
+w|Repom|Mit dem Schwanz
+w|Nogama|Mit den Füßen
+
+@karavanka|kanjon|l|Karavane|Karawanen|ent=karavanka|em=🐪|bg=#d8903a
+i|Posao|Beruf|putovanje pustinjom s robom|mit Waren durch die Wüste reisen
+i|Pomoćnici|Helfer|kamile|Kamele
+h|Karavanka Zara vodi karavanu kroz Pustinjski kanjon.|Karawanenführerin Zara führt die Karawane durch die Wüstenschlucht.
+f|Karavane su nekad prenosile sol, svilu i začine kroz pustinju. Sol je ponegdje vrijedila kao zlato.|Karawanen trugen früher Salz, Seide und Gewürze durch die Wüste. Salz war manchmal so wertvoll wie Gold.
+q|Što je u pustinji ponekad vrijedilo kao zlato?|Was war in der Wüste manchmal so wertvoll wie Gold?
+a|Sol|Salz
+w|Pijesak|Sand
+w|Kamenčići|Kieselsteine
+f|Putnici u pustinji često su putovali noću, kad je hladnije, i snalazili se po zvijezdama.|Reisende in der Wüste zogen oft nachts, wenn es kühler ist, und fanden den Weg mit den Sternen.
+q|Zašto su karavane često putovale noću?|Warum zogen Karawanen oft nachts?
+a|Jer je hladnije|Weil es kühler ist
+w|Jer su se bojale sunca|Weil sie Angst vor der Sonne hatten
+w|Jer kamile ne vide danju|Weil Kamele tagsüber nicht sehen
+f|Oaza je mjesto u pustinji gdje voda izlazi iz zemlje, pa tamo rastu palme i ljudi mogu odmoriti.|Eine Oase ist ein Ort in der Wüste, wo Wasser aus dem Boden kommt, dort wachsen Palmen und Menschen können rasten.
+q|Što je oaza?|Was ist eine Oase?
+a|Mjesto s vodom u pustinji|Ein Ort mit Wasser in der Wüste
+w|Planina od pijeska|Ein Berg aus Sand
+w|Pustinjska trgovina|Ein Wüstenladen
+
+@arheologinja|kanjon|l|Arheolozi|Archäologen|ent=arheologinja|em=🏺|bg=#a8783a
+i|Posao|Beruf|istraživanje tragova iz prošlosti|Spuren der Vergangenheit erforschen
+i|Alat|Werkzeug|lopatica, kist, bilježnica|Kelle, Pinsel, Notizbuch
+h|Arheologinja Nada istražuje Pustinjski kanjon.|Archäologin Nada erforscht die Wüstenschlucht.
+f|Arheolozi kopaju jako polako i čiste nalaze kistom, da ništa ne slome.|Archäologen graben ganz langsam und säubern Funde mit einem Pinsel, damit nichts kaputtgeht.
+q|Čime arheolozi čiste nalaze?|Womit säubern Archäologen ihre Funde?
+a|Kistom|Mit einem Pinsel
+w|Bagerom|Mit einem Bagger
+w|Vodom iz vatrogasnog crijeva|Mit dem Feuerwehrschlauch
+f|U Egiptu je pronađena grobnica faraona Tutankamona, puna blaga, skrivena više od tri tisuće godina.|In Ägypten wurde das Grab des Pharaos Tutanchamun gefunden, voller Schätze und über dreitausend Jahre versteckt.
+q|Čija je grobnica puna blaga pronađena u Egiptu?|Wessen Grab voller Schätze wurde in Ägypten gefunden?
+a|Faraona Tutankamona|Des Pharaos Tutanchamun
+w|Kapetana Kuke|Von Kapitän Hook
+w|Djeda Mraza|Vom Weihnachtsmann
+f|Pustinja dobro čuva stare stvari jer je suha, pa drvo i tkanina ne trunu.|Die Wüste bewahrt alte Dinge gut, weil sie trocken ist und Holz und Stoff nicht verrotten.
+q|Zašto pustinja dobro čuva stare stvari?|Warum bewahrt die Wüste alte Dinge so gut?
+a|Jer je suha|Weil sie trocken ist
+w|Jer je vruća kao pećnica|Weil sie heiß wie ein Ofen ist
+w|Jer je puna leda|Weil sie voller Eis ist
+
+@mjzec|mjesec|c|Mjesečev zec|Mondhase|ent=mjzec,mjzec2
+i|Dom|Zuhause|Mjesečeva postaja i stare priče|Mondstation und alte Geschichten
+i|Skok|Sprung|na Mjesecu šest puta viši|auf dem Mond sechsmal höher
+h|Skakuće po Mjesečevoj postaji.|Hüpft über die Mondstation.
+f|U Kini, Japanu i Koreji ljudi u tamnim mrljama na Mjesecu vide zeca, a ne lice.|In China, Japan und Korea sehen die Menschen in den dunklen Flecken des Mondes einen Hasen und kein Gesicht.
+q|Što ljudi u Japanu vide u mrljama na Mjesecu?|Was sehen die Menschen in Japan in den Mondflecken?
+a|Zeca|Einen Hasen
+w|Lisicu|Einen Fuchs
+w|Brod|Ein Schiff
+f|Na Mjesecu je sila teža šest puta slabija nego na Zemlji, pa bi tamo skočio šest puta više.|Auf dem Mond ist die Schwerkraft sechsmal schwächer als auf der Erde, du würdest dort sechsmal höher springen.
+q|Koliko bi više skočio na Mjesecu?|Wie viel höher würdest du auf dem Mond springen?
+a|Oko šest puta više|Etwa sechsmal höher
+w|Isto kao na Zemlji|Genauso hoch wie auf der Erde
+w|Ne bi mogao skočiti|Gar nicht
+f|Kineska letjelica koja je istraživala Mjesec dobila je ime Yutu, što znači Žad zec, po zecu iz legende.|Ein chinesisches Mondfahrzeug hieß Yutu, das bedeutet Jadehase, nach dem Hasen aus der Legende.
+q|Kako se zvalo kinesko vozilo na Mjesecu?|Wie hieß das chinesische Mondfahrzeug?
+a|Yutu, Žad zec|Yutu, Jadehase
+w|Mjesečar|Mondläufer
+w|Brzi puž|Schnelle Schnecke
+
+@robot|mjesec|c|Roboti|Roboter|ent=robot,robot2
+i|Dom|Zuhause|Mjesečeva postaja|Mondstation
+i|Posao|Beruf|pomažu astronautima|helfen den Astronauten
+h|Robot Bip pomaže na Mjesečevoj postaji.|Roboter Bip hilft auf der Mondstation.
+f|Riječ robot izmislio je češki pisac Karel Čapek prije oko sto godina. Dolazi od riječi koja znači težak rad.|Das Wort Roboter erfand der tschechische Schriftsteller Karel Čapek vor etwa hundert Jahren. Es kommt von einem Wort für schwere Arbeit.
+q|Odakle dolazi riječ robot?|Woher kommt das Wort Roboter?
+a|Od češke riječi za težak rad|Von einem tschechischen Wort für schwere Arbeit
+w|Od imena psa|Von einem Hundenamen
+w|Od zvuka bip-bup|Vom Geräusch Piep-Bup
+f|Na Mjesecu su vozila i robotska vozila s kotačima koja su s njega slala slike na Zemlju.|Auf dem Mond fuhren auch Roboterfahrzeuge mit Rädern, die Bilder zur Erde schickten.
+q|Što su robotska vozila slala s Mjeseca?|Was schickten Roboterfahrzeuge vom Mond?
+a|Slike na Zemlju|Bilder zur Erde
+w|Mjesečevu prašinu poštom|Mondstaub per Post
+w|Pisma djeci|Briefe an Kinder
+f|Na Marsu vozi robot Perseverance. Sa sobom je imao i mali helikopter koji je prvi poletio na drugom planetu.|Auf dem Mars fährt der Roboter Perseverance. Er hatte einen kleinen Hubschrauber dabei, der als Erster auf einem anderen Planeten flog.
+q|Što je robot Perseverance imao sa sobom na Marsu?|Was hatte der Roboter Perseverance auf dem Mars dabei?
+a|Mali helikopter|Einen kleinen Hubschrauber
+w|Psa|Einen Hund
+w|Bicikl|Ein Fahrrad
+
+@astronautkinja|mjesec|l|Astronauti|Astronauten|ent=astronautkinja|em=👩‍🚀|bg=#3a4ab8
+i|Posao|Beruf|letovi u svemir|Flüge ins Weltall
+i|Odjeća|Kleidung|svemirsko odijelo|Raumanzug
+h|Astronaut Luka i astronautkinja Vega rade na Mjesečevoj postaji.|Astronaut Luka und Astronautin Vega arbeiten auf der Mondstation.
+f|Prvi ljudi na Mjesecu bili su Neil Armstrong i Buzz Aldrin, 1969. godine.|Die ersten Menschen auf dem Mond waren Neil Armstrong und Buzz Aldrin im Jahr 1969.
+q|Tko je prvi hodao po Mjesecu?|Wer lief als Erster auf dem Mond?
+a|Neil Armstrong|Neil Armstrong
+w|Kapetan Kliješto|Kapitän Zwicki
+w|Pipi Duga Čarapa|Pippi Langstrumpf
+f|Na Mjesecu nema vjetra ni kiše, pa tragovi astronauta stoje i danas, nakon više od pedeset godina.|Auf dem Mond gibt es keinen Wind und keinen Regen, darum sind die Fußspuren der Astronauten nach über fünfzig Jahren noch da.
+q|Zašto se tragovi astronauta na Mjesecu još vide?|Warum sieht man die Fußspuren der Astronauten auf dem Mond noch?
+a|Nema vjetra ni kiše|Es gibt keinen Wind und keinen Regen
+w|Netko ih čisti|Jemand putzt sie
+w|Zalijepljeni su|Sie sind festgeklebt
+f|U svemirskoj postaji astronauti lebde, pa spavaju u vrećama privezanima za zid.|In der Raumstation schweben die Astronauten, darum schlafen sie in Schlafsäcken, die an der Wand festgemacht sind.
+q|Kako astronauti spavaju u svemirskoj postaji?|Wie schlafen Astronauten in der Raumstation?
+a|U vrećama privezanima za zid|In Schlafsäcken an der Wand
+w|U viseću mrežu na krovu|In einer Hängematte auf dem Dach
+w|Ne spavaju nikad|Sie schlafen nie
+
+@w_kristal|kristal|p|Kristalne dubine|Kristalltiefen|enter=kristal|em=💎|bg=#7a5ad8
+h|Otvara se portal u Gorskom kraju.|Das Portal ist im Bergland.
+f|Kapljice vode koje stotinama godina kaplju sa stropa špilje ostavljaju malo kamena i tako rastu sige.|Wassertropfen, die Hunderte Jahre von der Höhlendecke tropfen, hinterlassen ein bisschen Stein, so wachsen Tropfsteine.
+q|Kako nastaju sige u špilji?|Wie entstehen Tropfsteine in einer Höhle?
+a|Kapljice vode ostavljaju kamen|Wassertropfen hinterlassen Stein
+w|Netko ih zalijepi|Jemand klebt sie an
+w|Izrastu iz sjemenke|Sie wachsen aus Samen
+f|Hrvatska ima tisuće špilja i jama. Najdublja je Lukina jama na Velebitu, duboka više od 1400 metara.|Kroatien hat Tausende Höhlen und Schächte. Der tiefste ist die Lukina jama im Velebit-Gebirge, über 1400 Meter tief.
+q|Gdje je najdublja jama u Hrvatskoj?|Wo ist der tiefste Schacht Kroatiens?
+a|Na Velebitu|Im Velebit-Gebirge
+w|U Zagrebu|In Zagreb
+w|Na otoku Krku pod morem|Unter dem Meer bei Krk
+f|Najveći kristali na svijetu, u jednoj špilji u Meksiku, dugi su više od deset metara.|Die größten Kristalle der Welt, in einer Höhle in Mexiko, sind über zehn Meter lang.
+q|Koliko su dugi najveći kristali na svijetu?|Wie lang sind die größten Kristalle der Welt?
+a|Više od deset metara|Über zehn Meter
+w|Kao zrno riže|Wie ein Reiskorn
+w|Kao olovka|Wie ein Bleistift
+
+@w_zmajevi|zmajevi|p|Zmajevi vrhovi|Drachengipfel|enter=zmajevi|em=🐉|bg=#c84a3a
+h|Otvara se portal u Gorskom kraju.|Das Portal ist im Bergland.
+f|Najviša planina na svijetu je Mount Everest, visok gotovo devet kilometara.|Der höchste Berg der Welt ist der Mount Everest, fast neun Kilometer hoch.
+q|Koja je najviša planina na svijetu?|Welcher ist der höchste Berg der Welt?
+a|Mount Everest|Der Mount Everest
+w|Učka|Die Učka
+w|Kilimandžaro|Der Kilimandscharo
+f|Što se više penješ, to je hladnije. Zato su vrhovi visokih planina bijeli od snijega i ljeti.|Je höher man steigt, desto kälter wird es. Darum sind hohe Berggipfel auch im Sommer weiß vor Schnee.
+q|Zašto su visoki vrhovi i ljeti pod snijegom?|Warum liegt auf hohen Gipfeln auch im Sommer Schnee?
+a|Što je više, to je hladnije|Je höher, desto kälter
+w|Netko ih okreči|Jemand streicht sie weiß an
+w|Snijeg pada samo gore|Schnee fällt nur dort oben
+f|Najviši vrh Hrvatske je Dinara, visok 1831 metar.|Der höchste Gipfel Kroatiens ist die Dinara, 1831 Meter hoch.
+q|Koji je najviši vrh Hrvatske?|Welcher ist der höchste Gipfel Kroatiens?
+a|Dinara|Die Dinara
+w|Sljeme|Das Sljeme
+w|Biokovo|Das Biokovo
+
+@w_kanjon|kanjon|p|Pustinjski kanjon|Wüstenschlucht|enter=kanjon|em=🏜️|bg=#d8703a
+h|Otvara se portal u Gorskom kraju.|Das Portal ist im Bergland.
+f|Kanjon izdubi rijeka koja milijunima godina teče i polako odnosi kamen.|Eine Schlucht gräbt ein Fluss, der Millionen Jahre fließt und langsam Stein abträgt.
+q|Tko izdubi kanjon?|Wer gräbt eine Schlucht?
+a|Rijeka kroz milijune godina|Ein Fluss in Millionen Jahren
+w|Divovi s lopatama|Riesen mit Schaufeln
+w|Krtice|Maulwürfe
+f|Sahara je najveća vruća pustinja na svijetu, velika gotovo kao cijela Europa.|Die Sahara ist die größte heiße Wüste der Welt, fast so groß wie ganz Europa.
+q|Koja je najveća vruća pustinja na svijetu?|Welche ist die größte heiße Wüste der Welt?
+a|Sahara|Die Sahara
+w|Pustinja Gobi u snijegu|Die Gobi im Schnee
+w|Pijesak u parku|Der Sand im Park
+f|U pustinji je danju vruće, ali noću može biti jako hladno, jer nema oblaka koji čuvaju toplinu.|In der Wüste ist es tagsüber heiß, aber nachts kann es sehr kalt werden, weil keine Wolken die Wärme halten.
+q|Kakve su noći u pustinji?|Wie sind die Nächte in der Wüste?
+a|Mogu biti jako hladne|Sie können sehr kalt sein
+w|Još vruće nego dan|Noch heißer als der Tag
+w|Uvijek kišne|Immer regnerisch
+
+@w_mjesec|mjesec|p|Mjesec|Mond|enter=mjesec|em=🌙|bg=#4a5a8a
+h|Otvara se portal u Gorskom kraju.|Das Portal ist im Bergland.
+f|Mjesec nema svoje svjetlo. Sjaji jer odbija svjetlost Sunca, kao veliko ogledalo.|Der Mond hat kein eigenes Licht. Er leuchtet, weil er das Sonnenlicht zurückwirft, wie ein großer Spiegel.
+q|Zašto Mjesec sjaji?|Warum leuchtet der Mond?
+a|Odbija svjetlost Sunca|Er wirft das Sonnenlicht zurück
+w|Ima lampe unutra|Er hat Lampen innen
+w|Gori kao vatra|Er brennt wie Feuer
+f|Krateri na Mjesecu nastali su kad su u njega udarali kameni meteori.|Die Krater auf dem Mond entstanden, als Gesteinsbrocken aus dem All einschlugen.
+q|Kako su nastali krateri na Mjesecu?|Wie entstanden die Krater auf dem Mond?
+a|Udarali su meteori|Meteoriten schlugen ein
+w|Iskopali su ih zečevi|Hasen haben sie gegraben
+w|To su tragovi raketa|Es sind Raketenspuren
+f|Mjesec je od Zemlje udaljen oko 384 tisuće kilometara. Raketa do njega leti oko tri dana.|Der Mond ist etwa 384 Tausend Kilometer von der Erde entfernt. Eine Rakete braucht etwa drei Tage dorthin.
+q|Koliko raketa leti do Mjeseca?|Wie lange fliegt eine Rakete zum Mond?
+a|Oko tri dana|Etwa drei Tage
+w|Pet minuta|Fünf Minuten
+w|Sto godina|Hundert Jahre

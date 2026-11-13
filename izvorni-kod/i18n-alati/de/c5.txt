@@ -1,0 +1,651 @@
+3735|Für einen Sticker verbinde alles ohne Fehler
+3736|Sticker
+3737|Sticker verteilen die Tiere mit dem Fragezeichen über dem Kopf. 3 Sticker: silberne Seite und Lupe. Alle 5: goldene Seite
+3738|Meine Beobachtungen
+3739|Beobachte es aus der Nähe
+3740|Die Tageszeit wechselst du mit dem Sonnenknopf. Alle 4 Beobachtungen bringen 50 Goldmünzen und eine Lupe
+3742|Dein Titel
+3743|Sticker und Beobachtungen
+3744|nächster Titel bei
+3745|Schule
+3746|Eine Backsteinschule mit Glockenturm und Fahne
+3747|Schulglocke
+3748|Löse so viele Aufgaben wie möglich, bevor es klingelt
+3749|Weisheit: Die Eule bekommt 8 Sekunden mehr
+3750|Bäckerei
+3751|Eine weiße Bäckerei mit Markise und Schornstein
+3752|Heiße Brötchen
+3753|Hol die Brötchen genau dann aus dem Ofen, wenn sie golden sind
+3754|Geschickte Pfoten: Für den Panda ist das goldene Feld breiter
+3755|Post
+3756|Eine gelbe Post mit rotem Briefkasten
+3757|Eilpost
+3758|Wirf jeden Brief in den richtigen Briefkasten
+3759|Schnelle Beine: Der Hase hat 9 Sekunden mehr
+3760|Feuerwache
+3761|Ein rotes Haus mit Garage und Turm
+3762|Lösch das Feuer
+3763|Lösch jede Flamme, bevor sie groß wird
+3764|Wassermeister: Beim Pinguin wachsen die Flammen langsamer
+3765|Tierarztpraxis
+3766|Eine weiße Praxis mit rotem Kreuz
+3767|Kleiner Tierarzt
+3768|Finde die Patientenpaare mit möglichst wenigen Zügen
+3769|Leise Pfoten: Die Katze sieht am Anfang kurz alle Karten
+3770|Blumenladen
+3771|Ein gläserner Blumenladen mit rosa Dach
+3772|Strauß auf Bestellung
+3773|Merk dir die Reihenfolge der Blumen und bind den Strauß
+3774|Gärtner: Beim Igel wird die Bestellung langsamer gezeigt, und er hat einen Versuch mehr
+3775|Museum
+3776|Ein weißes Museum mit Säulen
+3777|Was fehlt
+3778|Merk dir die Ausstellungsstücke und finde heraus, welches verschwunden ist
+3779|Scharfes Auge: Die Füchsin sieht die Ausstellungsstücke länger an
+3780|Ausstellungsstücke
+3781|Stadt
+3782|Gebäude aus der Stadt
+3783|jedes hat sein eigenes Spiel
+3784|Spiel
+3785|Für Gold braucht man
+3786|Gepflasterter Weg
+3787|Ein Steinweg von der Bibliothek zum Gebäude
+3788|Straßenlaternen
+3789|Zwei Laternen vor dem Eingang, sie leuchten nachts
+3790|Bank und Blumen
+3791|Eine Bank zum Ausruhen und blühende Büsche
+3792|Weiler
+3793|Dorf
+3794|Örtchen
+3795|Städtchen
+3796|Stadt
+3797|Guten Morgen aus
+3798|Die Bewohner haben dir dagelassen
+3799|Inselentwicklung
+3800|nächste
+3801|bei
+3802|Punkte bringen gelesene Bücher, Gebäude aus der Stadt, Dekorationen und Medaillen aus den Spielen in den Gebäuden. Eine höhere Stufe bringt jeden Tag mehr Goldmünzen
+3803|Du spielst als
+3804|Für Gold komm als
+3805|noch ohne Medaille
+3806|Du hast noch nicht gespielt
+3807|Medaillen
+3808|Das Spiel wird freigeschaltet, wenn du das Buch zu Ende gelesen hast
+3809|Die heutige Belohnung hast du schon. Spiel weiter für einen Rekord
+3810|Das erste Spiel des Tages bringt Goldmünzen
+3811|Umgebung gestalten
+3812|Aufgestellt
+3813|ist aufgestellt
+3814|Das Ergebnis reicht für Gold! Die Goldmedaille kann hier nur gewinnen
+3815|Such sie im Zauberladen
+3816|Zieh dich im Kleiderschrank um
+3817|erste Goldmedaille
+3818|Die heutige Belohnung ist schon verteilt. Der Rekord wird trotzdem gespeichert
+3819|Hoppla! −2 s
+3820|Herausholen
+3821|Drück, wenn der Zeiger im goldenen Feld ist
+3822|Angebrannt! 0
+3823|Geht so. +1
+3824|Schön gebacken! +2
+3825|Perfekt golden! +3
+3826|gelb
+3827|Brief für
+3828|Haus
+3829|Falscher Briefkasten! −3 s
+3830|Tipp die Flamme an, bevor sie groß wird. Drei Fehler, und es ist vorbei
+3831|Finde ein Paar für jeden Patienten. Weniger Züge, mehr Punkte
+3832|Züge
+3833|Schau dir die Bestellung an
+3834|Jetzt du! Bind den Strauß in derselben Reihenfolge
+3835|Der Strauß ist fertig
+3836|Der Kunde ist gegangen
+3837|Falsche Blume! Neue Bestellung
+3838|Merk dir die Ausstellungsstücke
+3839|Was ist verschwunden
+3840|Verschwunden ist
+3841|Hafenstadt
+3842|Kapitänin Rita
+3843|Eine flache Stadt am Meer mit langem Steg und Markt
+3844|Blumental
+3845|Hirtin Runa
+3846|Sanfte Hügel, blühende Kirschbäume und ein Teich mit Seerosen
+3847|Bergland
+3848|Hüterin Hukalica
+3849|Ein Fichtenwald unter einem verschneiten Gipfel mit Aussichtsturm
+3850|Hauptinsel
+3851|Über dem Brunnen auf dem Platz. Steig auf den Rand und spring
+3852|im Wäldchen
+3853|an der Straße
+3854|nahe der Küste
+3855|auf der Wiese
+3856|hinter den Häusern
+3857|auf dem Kap
+3858|auf der anderen Seite des Platzes
+3859|Irgendwo
+3860|Auf der Brücke zur Hauptinsel
+3861|Am Ende des langen Stegs, unter dem rot-weißen Dach
+3862|Langer Steg
+3863|Am Grund des Seerosenteichs. Tauch
+3864|Seerosenteich
+3865|Oben auf dem Aussichtsturm auf dem verschneiten Hügel. Geh hinein und lass dich vom Wind hochheben
+3866|Aussichtsturm
+3867|Truhe am Weg
+3868|Truhe im Gras
+3869|Truhe an der Küste
+3870|Stadttruhe
+3871|Brücke zur Hauptinsel
+3872|Stein für Wege und zwei Laternen
+3873|teilt mit dir
+3874|Bretter und Glas, genau richtig für ein neues Haus
+3875|Ziegel und Dachziegel von der Küste
+3876|Alle zehn Schlüsselchen
+3877|schenkt dir die schönsten Steine
+3878|Wir reisen nach
+3879|Vor dir liegt
+3880|Vor dir liegt die Hauptinsel
+3881|Geh einfach geradeaus weiter
+3882|Die Brücke nach
+3883|öffnet sich auf Stufe
+3884|Du bist jetzt auf Stufe
+3885|ist offen! Ein neuer Stadtteil wartet auf deine Bücher
+3886|geh hinein
+3887|Das Gebäude steht im Stadtteil
+3888|Umgebaut siehst du es, wenn du dorthin gehst
+3889|an der Küste
+3890|neben dem Platz
+3891|hat
+3892|freie Plätze. Das Gebäude wächst dort, während du liest, und von weitem siehst du es auch von hier. Wenn du über die Brücke gehst, kannst du hineingehen
+3893|Hier sind alle Plätze belegt. Wähle eine andere Gegend
+3894|Nächster Stadtteil
+3895|du bist jetzt auf Stufe
+3896|Das Buch ist im Stadtteil gepflanzt
+3897|Geh über die Brücke, um zu sehen, wie es wächst
+3898|Alle Schlüsselchen sind da! Die Stadttruhe auf dem Platz gehört dir. Und vergiss nicht: Hier ist Platz für noch mehr deiner Bücher
+3899|Willkommen in
+3900|Ich bin
+3901|Im Stadtteil sind zehn goldene Schlüsselchen versteckt. Sammle sie, und du öffnest die Stadttruhe. Und jedes neue Buch kann genau hier ein Gebäude bauen
+3902|Schlüsselchen. Der Pfeil oben zeigt das nächste
+3903|Goldenes Schlüsselchen
+3904|Schlüsselchen
+3905|Alle Schlüsselchen
+3906|Alle 10 goldenen Schlüsselchen! Die Stadttruhe auf dem Platz öffnet sich
+3907|Bravo! Der Pfeil oben zeigt den Weg zum nächsten Schlüsselchen
+3908|Die Brücke hinter dir führt zurück zur Hauptinsel
+3909|Die Stadttruhe öffnet sich, wenn du alle 10 goldenen Schlüsselchen gesammelt hast
+3910|feiert
+3911|Geschenk des Stadtteils
+3912|Du hast alle Schlüsselchen gesammelt. Die Bewohner haben deine Tasche mit Schätzen und Bausteinen gefüllt
+3913|Zurück zur Hauptinsel
+3914|Du kannst auch zu Fuß über die Brücke oder übers Meer zurück. Alles, was du hier gebaut hast, bleibt
+3915|Bring mich zur Hauptinsel zurück
+3916|Willkommen zurück auf der Hauptinsel
+3917|Hasen leben auf Wiesen und an Waldrändern. Sie fressen Gras, und wenn sie Gefahr spüren, fliehen sie mit langen Sprüngen
+3918|auf der Weide
+3919|Schafe sind Weidetiere. Den größten Teil des Tages fressen sie Gras und bleiben immer bei der Herde
+3920|unter Bäumen
+3921|Der Igel schläft tagsüber unter Laub und Zweigen, und in der Dämmerung kommt er heraus, um Insekten und Schnecken zu suchen
+3922|in den Baumkronen
+3923|Papageien leben in den Baumkronen. Sie nisten in Baumhöhlen und fressen Früchte und Samen
+3924|auf einem Baum
+3925|Die Eule sitzt tagsüber still auf einem Ast am Stamm. Ihr Gefieder hat die Farbe der Rinde, deshalb ist sie fast unsichtbar
+3926|im seichten Wasser
+3927|Enten leben an ruhigem, flachem Wasser. Futter suchen sie, indem sie den Kopf eintauchen, und ihr Schwanz schaut heraus
+3928|am Strand
+3929|Meeresschildkröten kommen an Sandstrände, um ihre Eier in den warmen Sand zu legen
+3930|zwischen den Häusern
+3931|Katzen leben gern bei Menschen. In Häfen haben sie jahrhundertelang Schiffe und Lagerhäuser vor Mäusen beschützt
+3932|am Wasser
+3933|Frösche leben an Süßwasser. Ihre Haut muss feucht bleiben, und ihre Eier legen sie ins Wasser
+3934|auf dem Schneeinselchen
+3935|Pinguine leben an kalten Meeren. An Land watscheln sie, und unter Wasser schwimmen sie, als würden sie fliegen
+3936|in der Wüste
+3937|Kamele leben in Wüsten. Im Höcker speichern sie Fett, kein Wasser, und sie können tagelang ohne zu trinken laufen
+3956|10 Goldmünzen
+3957|Du hast alle Bewohner kennengelernt
+3958|Du bekommst 100 Goldmünzen, 2 Lupen und ein Spielticket
+3959|Karottensamen
+3960|weiche Wolle
+3961|Waldbeeren
+3962|ein Goldnugget
+3963|zwei Lichter
+3964|eine Perle aus dem seichten Wasser
+3965|einen Meeresstein
+3966|verlorene Goldmünzen
+3967|Seerosen
+3968|Auf dich habe ich gewartet! Hier hast du
+3969|Goldmünzen. Morgen hütet jemand anderes das Geschenk
+3970|Lebensraumführer
+3971|Jedes Tier lebt dort, wo es auch in der Natur leben würde. Geh beim Erkunden zu ihm, um es in den Führer einzutragen
+3972|Hier hast du alle kennengelernt
+3973|Für alle Bewohner: 100 Goldmünzen, 2 Lupen und ein Spielticket
+3974|ist noch nicht auf der Insel angekommen
+3975|Das heutige Geschenk an diesem Ort hast du schon
+3976|Ein Tier hier funkelt heute: Es hat ein Geschenk für dich
+3977|Fortschrittsweg
+3978|öffnet die Brücke zum Stadtteil
+3979|Alle drei Stadtteile sind offen
+3980|öffnet die Welt
+3981|durch das Zauberportal
+3982|Alle Welten hinter dem Portal sind offen
+3983|Leseserie
+3984|Tage
+3985|Mit einer Serie von
+3986|Tagen kommt
+3987|kommt am nächsten Tag, an dem du liest
+3988|Alle Tiere der Insel sind angekommen
+3989|Punkte bringen Bücher, Gebäude aus der Stadt, Dekorationen, Medaillen, Schlüsselchen und der Führer
+3990|Die Insel ist eine echte Stadt
+3991|Die Stufe steigt durch Lesen und Erkunden, und sie öffnet Brücken und Welten. Lesen Tag für Tag bringt Tiere, und gelesene Bücher bauen Gebäude mit Spielen
+3992|Lebensraumführer und Fortschrittsweg
+3993|Bei uns leben
+3994|Tierarten, jede an ihrem Platz
+3995|Finde sie alle
+3996|Matrosenfüchsin
+3997|Blau-weiß wie die Segel im Hafen. Ein Geschenk der Hafenstadt
+3998|Kirschfüchsin
+3999|Rosa wie die Blütenblätter im Blumental
+4000|Bergfüchsin
+4001|Grau wie der Fels unter dem Schnee des Berglands
+4002|Du hast alle Schlüsselchen gesammelt
+4003|gehört jetzt dir und wartet im Zauberladen. Die Bewohner haben dir auch die Tasche mit Schätzen gefüllt
+4004|Wann hast du gelesen
+4005|Do
+4006|Gestern
+4007|Die Seiten werden eingetragen für
+4008|so bleibt deine Leseserie vollständig
+4009|Eingetragen für
+4010|Die Leseserie ist jetzt
+4011|Deine Lesewoche
+4012|Hast du vergessen, einen Tag einzutragen? Tipp ihn an und wähle ein Buch
+4013|Jeder Tag ist eingetragen. Bravo
+4015|Wähle jetzt das Buch, das du damals gelesen hast
+4016|Warmes Brot
+4017|Blumenstrauß
+4018|Heilkräuter
+4019|Heilkräuter
+4020|frischen Fisch
+4021|Frischer Fisch
+4022|Tannenzapfen
+4023|Korb mit Tannenzapfen
+4024|Glas Honig
+4025|Laterne
+4026|Alte Karte
+4027|Bibliothek
+4028|in die Bibliothek
+4029|Brücke zur Hafenstadt
+4030|auf die Brücke zur Hafenstadt
+4031|Brücke zum Blumental
+4032|auf die Brücke zum Blumental
+4033|Brücke zum Bergland
+4034|auf die Brücke zum Bergland
+4035|Markt in der Hafenstadt
+4036|zu Kapitänin Rita auf den Markt
+4037|zu den Fischern auf den Langen Steg
+4038|Platz im Blumental
+4039|zu Hirtin Runa auf den Platz
+4040|Seerosenteich
+4041|zu den Fröschen am Teich
+4042|Platz im Bergland
+4043|zu Hüterin Hukalica auf den Platz
+4044|zum Wächter auf den Aussichtsturm
+4045|Brief für Kapitänin Rita
+4046|Brief für Hüterin Hukalica
+4047|Brief für Hirtin Runa
+4048|Frühstück für die Fischer
+4049|Brot für den Wächter auf dem Aussichtsturm
+4050|Jause für den Brückenwächter
+4051|Strauß für die Bibliothek
+4052|Blumen für den Markt
+4053|Kräuter für Hustentee
+4054|Kräuter für die Schäfchen
+4055|Lesestoff für kleine Leser
+4056|Ein Buch für lange Wachen
+4057|Geschichten für Seeleute
+4058|Fisch zum Mittagessen im Tal
+4059|Fisch für die Hungrigen im Gebirge
+4060|Tannenzapfen für die Sammlung
+4061|Honig für Lebkuchen
+4062|Honig für den Tee in der Bibliothek
+4063|Laterne für die Brücke
+4064|Laterne für die Bergbrücke
+4065|Alte Karte für die Bibliothek
+4066|Karte, gefunden bei der Brücke
+4067|dein
+4068|in deine Schule
+4069|in deine Bäckerei
+4070|in deine Post
+4071|in deine Feuerwache
+4072|in deine Tierarztpraxis
+4073|in deinen Blumenladen
+4074|in dein Museum
+4075|Bring
+4076|Geh über die Brücke zur Hauptinsel
+4077|Geh über
+4078|Geh über die Hauptinsel
+4079|ist bei dir! Bring es
+4080|Alle drei Aufgaben sind erledigt: noch 60 Goldmünzen und eine Lupe
+4081|Danke
+4082|Aufgabe
+4083|Die Bewohner haben heute
+4084|für dich. Such die goldenen Zeichen
+4085|Du trägst
+4086|Aufgaben der Bewohner
+4087|Die Bewohner brauchen jeden Tag Hilfe. Geh beim Erkunden zu einem goldenen Zeichen, um eine Sache zu holen, und bring sie zum grünen Zeichen. Eine Aufgabe auf einer anderen Insel zeigt ein grüner Strahl darüber
+4088|für die heutige Belohnung
+4089|Alles erledigt. Morgen kommen neue Aufgaben
+4090|Alle drei Aufgaben an einem Tag bringen noch 60 Goldmünzen und eine Lupe für die Enzyklopädie. Insgesamt erledigt
+4091|Bring die Sache zurück und wähle eine andere Aufgabe
+4092|Lehrerin Eule
+4093|Das älteste gedruckte kroatische Buch wurde 1483 gedruckt, und zwar in glagolitischer Schrift
+4094|Das deutsche Alphabet hat 26 Buchstaben und dazu Ä, Ö, Ü und ß. Kannst du sie alle auswendig
+4095|Eulen können ihren Kopf um ganze 270 Grad drehen
+4096|Bäcker Panda
+4097|Brot geht auf, weil die Hefe im Teig winzige Gasblasen bildet
+4098|Rote Pandas fressen vor allem Bambus, mögen aber auch süßes Obst
+4099|Der Teig muss im Warmen ruhen. Im Kalten schläft die Hefe
+4100|Postbote Hase
+4101|Die erste Briefmarke der Welt kam 1840 in England heraus
+4102|Früher haben Brieftauben Nachrichten getragen
+4103|Ein Hase kann beim Laufen schneller als 50 Kilometer pro Stunde sein
+4104|Feuerwehrmann Pinguin
+4105|In Deutschland und Österreich erreichst du die Feuerwehr unter 112 oder 122, in ganz Europa alle Notdienste unter 112
+4106|Feuer braucht Luft. Darum löscht man eine kleine Flamme in der Pfanne mit einem Deckel
+4107|Kaiserpinguine wärmen sich, indem sie sich zu einer großen Gruppe zusammendrängen
+4108|Doktorin Katze
+4109|Eine erwachsene Katze hat 30 Zähne und ein erwachsener Hund 42
+4110|Ein gesunder Hund hat eine höhere Temperatur als ein Mensch, etwa 38 und ein halbes Grad
+4111|Katzen verschlafen bis zu 16 Stunden am Tag
+4112|Blumenhändler Igel
+4113|Junge Sonnenblumen drehen ihr Köpfchen tagsüber nach der Sonne
+4114|Bienen sehen Farben, die wir nicht sehen, deshalb sieht eine Blume für sie anders aus
+4115|Ein Igel hat mehr als 5000 Stacheln auf dem Rücken
+4116|Kuratorin Füchsin
+4117|Das Wort Museum kommt von den Musen, den griechischen Schutzgöttinnen der Künste
+4118|In Krapina in Kroatien wurde eine etwa 130 000 Jahre alte Fundstätte von Neandertalern entdeckt
+4119|Eine Füchsin hört eine Maus sogar unter dem Schnee
+4120|Tafel
+4121|Ofen
+4122|Schalter
+4123|Feuerwehrauto
+4124|Untersuchungstisch
+4125|Tisch mit Blumen
+4126|Hauptausstellungsstück
+4128|Reden
+4129|Buch öffnen
+4130|Buch des Gebäudes
+4131|Hinausgehen
+4132|Steig erst ab, dann geh durch die Tür
+4133|wartet auf dich
+4134|Lesesaal des Buches „
+4135|Schön, dich zu sehen
+4136|Hier hast du 10 Goldmünzen für heute
+4137|Das Spiel wartet auf dich
+4138|Wenn du das Buch zu Ende gelesen hast, wartet hier ein Spiel auf dich
+4139|Im Zimmer wird nicht gebaut. Geh hinaus und bau, so viel du willst
+4140|Schnellticket
+4141|Anlegestelle
+4142|Platz
+4143|Teich
+4144|Das Schnellticket kostet
+4145|Goldmünzen. Von einer Anlegestelle ist die Fahrt kostenlos
+4146|Das Schiff hat dich gebracht nach
+4147|Du bist angekommen
+4148|Die Inselkarte funktioniert auf der Geschichteninsel und in den Stadtteilen
+4149|Stufe
+4150|Inselkarte
+4151|Das Schiff bringt dich kostenlos zu jedem Ort, den du schon entdeckt hast
+4152|Goldmünzen. Von einer Anlegestelle ist die Schifffahrt kostenlos
+4153|Öffnet sich auf Stufe
+4154|Geh zuerst über die Brücke, dann kannst du auch mit dem Schiff fahren
+4155|Das rote Dreieck zeigt, wo du gerade bist. Blaue Kreise sind Anlegestellen, gelbe andere Orte
+4156|Schiff: Wohin fährst du
+4157|Das Schiff hat angelegt
+4158|über der Küste
+4159|Möwen leben am Meer. Sie können auch Salzwasser trinken und scheiden das überschüssige Salz durch die Nasenlöcher aus
+4160|am Kiesstrand
+4161|Der Krebs läuft seitwärts, weil sich seine Beine zur Seite beugen. Wenn er wächst, wirft er den alten Panzer ab und bildet einen neuen
+4162|unter den Fichten
+4163|Das Eichhörnchen vergräbt im Herbst Nüsse und Samen. Die, die es vergisst, wachsen manchmal zu neuen Bäumen heran
+4164|im Bergwald
+4165|Hirsch
+4166|Dem Hirsch fällt jedes Jahr das Geweih ab, und ein neues wächst nach. Die Hirschkuh, sein Weibchen, hat kein Geweih
+4167|über den Blumen
+4168|Der Schmetterling schmeckt mit den Füßen. Bevor er Flügel bekommt, lebt er als Raupe und dann als Puppe
+4169|auf einer Blume
+4170|Biene
+4171|Die Biene zeigt anderen Bienen mit einem Tanz, wo Blumen sind. Für einen Löffel Honig muss sie Tausende Blüten besuchen
+4183|Festfüchsin
+4184|Jahrmarkt
+4185|Stände, Wimpel und Ballons
+4186|Konzert
+4187|Tiere musizieren auf einer kleinen Bühne
+4188|Laternenabend
+4189|Laternen schweben über dem Platz
+4190|Rot und golden wie die Wimpel auf dem Platz. Ein Geschenk für drei Feste
+4191|Feste
+4192|bis Sonntagabend
+4193|Die Belohnung hast du schon
+4194|Sammle acht Festballons auf dem Platz
+4195|Nächstes Fest
+4196|Beginnt
+4197|am Freitag
+4198|auf dem Platz
+4199|Die Belohnung hast du schon, aber die Musik spielt weiter
+4200|Sammle alle acht Festballons
+4201|Drittes Fest: Die Festfüchsin gehört dir
+4202|Alle acht Ballons
+4203|bringt dir 60 Goldmünzen und ein Spielticket
+4204|bis zur Festfüchsin
+4205|Festballon
+4206|von 8! +5 Goldmünzen
+4207|Das Fest ist im Gange
+4208|Feste auf dem Platz
+4209|Gefeierte Feste
+4210|Das dritte bringt das Aussehen Festfüchsin
+4211|Postkarten
+4212|Normal
+4213|Warm
+4214|Alter Film
+4215|Schwarz-Weiß
+4216|Zauberwelt
+4217|Zieh mit dem Finger oder der Maus, um die Ansicht zu drehen, und drück dann den runden Knopf
+4218|Das Album ist voll
+4219|Auf diesem Gerät ist kein Platz mehr für Bilder. Lösch eine alte Postkarte
+4220|Die Postkarte ist im Tagebuch
+4221|Die erste von diesem Ort: +15 Goldmünzen
+4222|Die Kamera klemmt. Versuch es noch einmal
+4223|Hier sind die Postkarten, die du selbst aufgenommen hast. Die Kamera funktioniert auf der Insel und beim Erkunden
+4224|Kamera einschalten
+4225|Tipp eine Postkarte an, um sie zu vergrößern, zu speichern oder zu löschen
+4226|Noch keine Postkarten. Such dir eine schöne Aussicht und mach die erste
+4227|Postkarte
+4228|Bild speichern
+4229|Zurück ins Tagebuch
+4230|Wenn das Bild mit dem Knopf nicht gespeichert wird, halte den Finger darauf oder klick mit der rechten Maustaste
+4231|Wirklich löschen
+4232|Kamera
+4233|Wer bin ich? Komm zu Fuß, dann erfährst du es
+4234|Von oben kannst du mich nicht kennenlernen. Drück auf Erkunden und komm zu mir
+4235|Psst! Wir lernen uns kennen, wenn du mit Rida zu mir kommst
+4236|Dieses Tier hast du noch nicht kennengelernt. Drück auf Erkunden und geh zu ihm
+4237|Komm näher, damit wir uns kennenlernen
+4238|Werkzeuge und Zauber
+4239|Bausteine in der Hand
+4242|Zauber und Werkzeuge bekommst du in der Werkstatt und im Zauberladen
+4243|Unten ist deine Leiste. Tipp den kleinen Zauberstab darauf an, dann öffnen sich Werkzeuge und Zauber
+4244|Unten ist deine Leiste. Die Tasten 1 bis 9 wählen den Platz, und die Taste Q wechselt zwischen Bausteinen und Zaubern
+4247|Mehr davon
+4249|Brücke weit weg
+4254|Aufgabe der Bewohner
+4255|Lieferung
+4256|Heimweg
+4258|Portalplatz
+4259|Piratenbucht
+4260|Tropische Inselchen, ein Piratendorf mit Wirtshaus, das Schiff Schwarze Möwe, ein Wrack, eine Lagune mit Korallen und Kanonen, die dich übers Meer schießen
+4261|Leuchtturminsel
+4262|Eine felsige Insel in der Dämmerung: ein hoher Leuchtturm, der erloschen ist, Robben auf den Felsen und Gezeitentümpel voller Krebse
+4263|Kanalstadt
+4264|Eine bunte Stadt auf dem Wasser: Gondeln, hundert Brückchen, ein Karneval mit Masken und Plätze voller Tauben
+4265|Leuchtende Bucht
+4266|Ein nächtlicher Strand, an dem das Meer blau leuchtet, kleine Schildkröten schlüpfen und Glühwürmchen über den Dünen tanzen
+4267|Riesengarten
+4268|Rida ist winzig wie ein Marienkäfer! Grashalme hoch wie Bäume, Tautropfen groß wie Bälle, ein Bienenstock und ein Schneckenhaus
+4269|Feenwald
+4270|Ein Wald in ewiger Dämmerung: leuchtende Pilze, Feenhäuschen in Baumstämmen, ein Einhorn und Blumenkreise
+4271|Süßigkeitenland
+4272|Ein Schokoladenfluss, Lutscher statt Bäumen, Lebkuchenhäuschen und Wolken aus Zuckerwatte
+4273|Herbsternte
+4274|Ein goldenes Tal im Herbst: ein Maislabyrinth, eine Windmühle, Kürbisse so groß wie Häuser und ein Obstgarten voller Äpfel
+4275|Kristalltiefen
+4276|Unter dem Berg: Höhlen voller Kristalle, ein unterirdischer See, Grubenwagen und Würmchen, die im Dunkeln leuchten
+4277|Drachengipfel
+4278|Berge, die in den Wolken schweben, Hängebrücken, Wasserfälle und Nester kleiner Drachen
+4279|Wüstencanyon
+4280|Ein roter Canyon, eine Oase mit Palmen, ein alter Tempel im Felsen und Dünen zum Rutschen
+4281|Mondstation
+4282|Mit der Rakete zum Mond! Hier springst du so hoch wie noch nie. Krater, eine Raumstation und die Erde am Himmel
+4283|Alles gefunden ✓
+4284|Diese Welt bauen wir noch. Sie öffnet sich bald
+4285|Portalplatz
+4286|Zurück nach
+4287|Alles, was du gesammelt hast, bleibt dir, und hierher kommst du durch das Portal auf dem Portalplatz zurück
+4288|Bring mich zurück nach
+4289|Banane
+4290|Edelstein
+4291|Paket
+4292|Tipp es an und reite! Es wartet auch auf der Hauptinsel auf dich, bei der Brücke nach
+4293|Hier ist etwas! Bleib stehen, dann gräbt Rida
+4294|Rennen
+4295|Flieg durch alle
+4296|Ringe in
+4297|Sekunden
+4298|Bravo! Du warst rechtzeitig da
+4299|Die Zeit ist um! Geh zurück zum leuchtenden Kreis am Start und versuch es noch einmal
+4300|Richtig! Etwas hat sich geöffnet
+4301|Hoppla, falsche Reihenfolge. Fang von vorn an
+4302|Portalplatz! Vier Portale führen in vier neue Welten. Geh durch ein Portal und schau, wohin es führt
+4304|Piratenfüchsin
+4305|Rostorange, mit dunklen Stiefeln und rotem Kopftuch. Hinter ihr funkeln goldene Dukaten
+4306|Goldene Dukaten
+4307|Hinter Rida rollen und funkeln goldene Dukaten
+4308|Äffchen Koko
+4309|Ein frecher kleiner Affe aus dem Piratendorf. Er hüpft über die Palmen und klaut der Köchin Mica Bananen
+4310|Bringt Kokosnüsse und Goldmünzen von den Palmen
+4311|Affensprünge
+4312|Koko springt doppelt: Spring, und spring in der Luft noch einmal
+4313|Koko trägt dich! Spring zweimal hintereinander für einen Affensprung
+4314|Tukan Kljunko
+4315|Ein bunter Tukan vom Atoll. Sein Schnabel ist groß wie eine Banane und leicht wie eine Feder
+4316|Bringt Muscheln und Perlen aus dem Meer
+4317|Tukanflug
+4318|Kljunko breitet die Flügel aus, und ihr fliegt über das Meer! Springen ist hoch, Tauchen ist runter
+4319|Kljunko fliegt! Springen ist hoch, Tauchen ist runter
+4320|Dukat
+4321|Bim-bam-bum-bom! Die Glocken haben in der richtigen Reihenfolge geläutet, und die Tür des kleinen Turms hat sich geöffnet
+4322|Hoppla, die Glocken haben nicht in der richtigen Reihenfolge geläutet. Schau dir die Wimpel an der Mauer an und fang von vorn an
+4323|Im kleinen Turm in der Festung. Läute die Glocken in der Reihenfolge, die die Wimpel an der Mauer zeigen
+4324|BUMM! Die Kanone hat dich zum hohen Felsen geschossen
+4325|Schatzkammer der Festung
+4326|Alte Festung
+4327|Auf dem Dach des Wirtshauses Zum Anker. Kletter seitlich über die Fässer hinauf
+4328|Wirtshaus Zum Anker
+4329|Truhe in der Piratenhütte
+4330|Piratendorf
+4331|Piratensteg
+4332|In der Höhle auf der Totenkopfinsel. Geh durch den Mund hinein, zwischen den Zähnen
+4333|Schatz im Totenkopf
+4334|Totenkopfinsel
+4335|Im Unterdeck des Wracks auf der Sandbank. Geh durch das Loch im Deck hinein
+4336|Truhe aus dem Wrack
+4337|Wrack
+4338|Am Grund der Lagune im Atoll, zwischen den Korallen. Tauch
+4339|Unter dem großen roten X auf dem Atoll vergraben. Stell dich auf das X und grab
+4340|Du gräbst und gräbst... und da ist es! Etwas Goldenes funkelt im Sand
+4341|Truhe auf dem Atoll
+4342|Atoll
+4343|Oben auf dem hohen Felsen im Nordwesten. Die Kanone der Festung bringt dich hin
+4344|BUMM! Zurück zum Piratendorf
+4345|Hoher Felsen
+4346|Oben auf dem Ausguck an der Anlegestelle. Kletter über die Fässer hinauf
+4347|BUMM! Die Kanone bringt dich zum Wrack auf der Sandbank
+4348|In der Kiste am Ende des Piratenrennens. Das Rennen beginnt am goldenen Kreis im Norden der Anlegestelle
+4349|Piratenrennen
+4350|Bravo, du warst rechtzeitig da! Die Kiste am Ziel hat sich geöffnet
+4352|Im Krähennest am Mast der Schwarzen Möwe. Stell dich neben den Mast, und der Wind hebt dich hoch
+4353|Piratenbretter und Fässer. Bau dir deinen eigenen Steg
+4354|Gold von der Totenkopfinsel! Die Piraten haben es genau hier versteckt
+4355|Aus dem Wrack: Bretter, Glas und eine Perle aus einer Muschel
+4356|Korallen und Perlen vom Atoll
+4357|Die Kapitänstruhe vom Schiff Schwarze Möwe! Segeltuch und ein bisschen Gold
+4358|Ein echter Piratenschatz! Die Schatzkammer der Festung gehört dir
+4359|Schiff Schwarze Möwe
+4360|Kapitän Kliješto
+4361|Die alte Morska
+4362|Matrose Brko
+4363|Köchin Mica
+4364|Pirat Ribica
+4365|Kapitänin Perla
+4373|Banane für Koko
+4374|Hi-hi! Ich bin Koko! Die Köchin Mica hat Bananen auf den Kisten im Dorf versteckt. Bringst du mir vier? Dann springen wir zusammen über die Palmen
+4375|Mjam, mjam, Bananen! Du bist der beste Freund der Welt! Steig auf, wir springen doppelt
+4376|Affen schwingen sich durch die Äste und halten sich mit den Händen fest, manche auch mit dem Schwanz, als hätten sie eine fünfte Hand
+4377|Muschel für Kljunko
+4378|Kre-kre! Ich bin Kljunko. Ich baue ein Nest aus den schönsten Muscheln, aber eine Welle hat sie auf vier Inseln verstreut: die Anlegestelle, die Sandbank mit dem Wrack, die Totenkopfinsel und den Oststrand. Bringst du sie mir
+4379|Was für wunderschöne Muscheln! Das Nest ist fertig. Danke! Willst du mit mir über das Meer fliegen
+4380|Der Tukanschnabel sieht schwer aus, ist aber leicht wie ein Schwamm, weil er innen voller Luft ist
+4381|Die alte Festung! Hinter dem goldenen Gitter ist die Schatzkammer. Die Wimpel an der Mauer zeigen, in welcher Reihenfolge man die Glocken läuten muss
+4382|Die Totenkopfinsel! Der Mund ist der Eingang zur Höhle
+4383|Das Schiff Schwarze Möwe! Am vorderen Mast weht ein Wind, der dich bis zum Krähennest hebt
+4384|Das Atoll! Drinnen ist eine seichte Lagune mit Korallen, und auf der Ostdüne ist etwas unter einem X vergraben
+4385|Das goldene Gitter der Schatzkammer ist offen! Die Festung steht auf dem Hügel über dem Dorf. Der Schatz gehört dir, Matrosin
+4386|Alle zehn Dukaten! Das Gitter öffnet sich
+4387|Ahoi, kleine Füchsin! Ich bin Kapitän Kliješto. Ein Sturm hat zehn goldene Dukaten aus der Schatzkammer der alten Festung über die ganze Bucht verstreut. Finde sie, und das goldene Gitter der Schatzkammer öffnet sich! Über die Brücke liegt die Totenkopfinsel mit dem Dorf, dem Schiff und der Festung, und auf dem Meer sind das Wrack, das Atoll und der hohe Felsen. Die goldenen Platten bei den Kanonen schießen dich übers Meer
+4388|Dukaten
+4389|Tipp
+4390|Und in der Bucht gibt es auch Freunde, die Hilfe brauchen
+4391|vergrabener Schatz
+4392|Golddukat
+4393|Dukaten
+4394|Alle Dukaten
+4395|Alle 10 goldenen Dukaten! Das goldene Gitter in der Schatzkammer der Festung öffnet sich
+4396|Der erste Dukat! Der Kompass oben zeigt den Weg zum nächsten
+4397|Piratenbucht! Dukaten
+4398|Kapitän Kliješto wartet an der Anlegestelle auf dich
+4399|Von oben sieht man viel weiter. Deshalb standen Seeleute auf hohen Ausgucken und Masten, mit einem Fernrohr in der Hand
+4400|Auf langen Fahrten aßen Seeleute Zwieback, zweimal gebackenes Brot. Er war so hart, dass er monatelang nicht verdarb
+4401|Die Piratenflagge mit dem Totenkopf heißt Jolly Roger. Piraten hissten sie, damit andere Schiffe sie von weitem erkannten
+4402|Der Platz für den Ausguck oben am Mast heißt Krähennest. Von dort sieht man ein Schiff auf hoher See bis zu zwanzig Kilometer weit
+4403|Auf dem Meeresgrund liegen Tausende alter Wracks. Taucher erforschen sie, weil sie zeigen, wie Menschen früher Schiffe gebaut haben und gesegelt sind
+4404|Korallenriffe werden von winzigen Tierchen gebaut, die Korallen heißen. Riffe wachsen so langsam, dass große Riffe Tausende Jahre alt sind
+4405|Hohe Felsen mitten im Meer nennt man Klippen. Die Wellen schlagen jahrhundertelang dagegen und formen sie langsam, Steinchen für Steinchen
+4406|Piraten haben ihre Schätze nur sehr selten vergraben. Aber Geschichten über Karten mit einem großen X sind so schön, dass wir sie heute noch erzählen
+4407|Auf Schiffen maß man die Zeit mit einer Glocke. Jede halbe Stunde schlug ein Matrose an die Glocke, so wussten alle, wann Wachwechsel war
+4408|Papageien können älter als fünfzig Jahre werden, und manche lernen Dutzende Wörter sprechen
+4409|Das ist die Schwarze Möwe, das schnellste Schiff in der Bucht! Klettere an Deck
+4410|Am vorderen Mast weht immer Wind. Fang ihn ein, dann trägt er dich hinauf ins Krähennest
+4411|In der Kapitänskajüte am Heck steht eine Truhe. Aber leise, die Kapitänin schläft
+4412|Willkommen im Wirtshaus Zum Anker! Heute koche ich Kokossuppe
+4413|Dieser freche Koko klaut mir ständig Bananen
+4414|Man sagt, vom Dach des Wirtshauses sieht man das ganze Dorf. Kletter über die Fässer hinauf
+4415|Arr! Ich bin der kleinste Pirat in der Bucht, aber der lauteste
+4416|Hast du die Kanonen ausprobiert? BUMM, und du fliegst übers Meer
+4417|Diese Festung hütet die Schatzkammer schon seit hundert Jahren
+4418|Die Glocken läuten nur dann in der richtigen Reihenfolge, wenn du auf die Wimpel an der Westmauer achtest: blau, rot, weiß, gelb
+4419|Ich schwimme schon seit zweihundert Jahren durch dieses Meer, Schätzchen
+4420|Meeresschildkröten kehren immer an den Strand zurück, an dem sie geschlüpft sind. Wunderbar, nicht wahr
+4421|Auf dem Atoll gibt es eine Lagune. Tauch, und du siehst Korallen in allen Farben
+4422|Dukaten! Dukaten! Kra
+4423|Kapitän Kliješto! Kapitän Kliješto
+4424|Ahoi, Matrosin! Ahoi
+4425|Klick-klack! Ich laufe seitwärts, und du
+4426|Pass auf, tritt mir nicht auf die Scheren
+4427|Der Sand ist warm, genau wie ich es mag
+4428|Kri-kri! Das ist mein Stein
+4429|Ich habe aus der Luft etwas Goldenes auf dem Atoll gesehen
+4430|Iii-iii! Fang mich, wenn du kannst
+4431|Das goldene Gitter hütet die Schatzkammer. Sammle alle 10 goldenen Dukaten
+4432|Die Bucht feiert
+4433|Schatz der Festung
+4434|Die Piratenfüchsin und die Spur Goldene Dukaten gehören jetzt dir. Und der Kapitän sagt, du bist die beste Matrosin in der Bucht
+4435|Füchsin im Regenmantel
+4436|Ein gelber Regenmantel und blaue Stiefel. Nicht einmal ein Sturm kann sie aufhalten

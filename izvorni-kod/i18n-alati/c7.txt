@@ -1,0 +1,425 @@
+4900|Suncokret okreće glavu prema suncu dok je mlad. Jedan cvijet suncokreta ima i tisuću sjemenki
+4901|U jednoj košnici živi i pedeset tisuća pčela. Saće grade od voska, a svaka stanica ima šest stranica
+4902|Puž nosi kućicu cijeli život i ona raste zajedno s njim. Kad je opasno, puž se sav uvuče unutra
+4903|Mravi mogu nositi i pedeset puta više od svoje težine. Kad bi ti to mogla, podigla bi auto
+4904|U lokvama žive sitna bića koja se vide samo povećalom. Jedna kap vode za njih je cijeli bazen
+4905|Biljke piju vodu korijenjem. Najbolje ih je zalijevati ujutro ili navečer, kad sunce ne prži
+4906|Zvončići se tako zovu jer im cvijet izgleda kao malo zvono. Bumbari se uvuku unutra po nektar
+4907|Iz jedne male sjemenke može izrasti velika biljka. Sjemenci treba zemlja, voda i sunce
+4908|Rosa nastaje noću kad se zrak ohladi, pa se vlaga iz zraka skupi u kapljice na lišću
+4909|Bubamara pojede i pedeset lisnih uši na dan, pa je vrtlari jako vole
+4910|Polako, polako... kamo se žuriš
+4911|Moja stara kućica je na istoku vrta. Sad imam novu, veću
+4912|Njam, njam, list! Kad narastem, bit ću leptir
+4913|Lepršam od cvijeta do cvijeta
+4914|Zvončići sviraju kad staneš na ploču ispod njih
+4915|Jesi li vidjela onu veliku kap rose? Svjetluca kao dijamant
+4916|Točkica je moja sestrična
+4917|Brojiš li moje točkice? Imam ih sedam
+4918|Ne smetaj, nosim list
+4919|Lijevo, desno, lijevo, desno
+4920|Kristalna vrata čuvaju ružin pupoljak. Skupi svih 10 sunčanih kapi
+4921|Ruža je procvala
+4922|Lisica bubamara i Latice sad su tvoji. Točkica kaže da si najhrabrija mala lisica u vrtu
+4923|Vilinska lisica
+4924|Lila krzno koje svjetluca kao vilinska prašina. Gdje prođe, šuma zasvijetli
+4925|Vilinska prašina
+4926|Iza Ride ostaje šarena svjetlucava prašina, kao iza vile
+4927|Jednorog Zvjezdan
+4928|Bijeli jednorog sa zlatnim rogom i grivom u bojama duge. Kad galopira, iza njega ostaje duga
+4929|Iz šume donosi zvjezdano cvijeće i zlatnike
+4930|Dugin galop
+4931|Zvjezdan juri kroz šumu i skače dvaput zaredom, a iza vas ostaje duga
+4932|Zvjezdan te nosi! Skoči dvaput zaredom
+4933|Leptir Duga
+4934|Golemi leptir šarenih krila. Leti tiho kao šapat i nikad ne zaluta
+4935|S cvijeća donosi nektar i šarena pera
+4936|Let na leptiru
+4937|Duga te nosi visoko iznad krošanja! Skok je gore, Roni je dolje
+4938|Duga leti! Skok je gore, Roni je dolje
+4939|Zvjezdani cvijet
+4940|Kap nektara
+4941|Bočica vilinske prašine
+4942|Blago vilinske kraljice
+4943|Stablo svih stabala
+4944|U kućici vile Iskrice u vilinskom selu. Pomozi Iskrici pronaći bočice prašine
+4945|Vilinsko selo
+4946|U vilinskoj kućici na vrhu starog hrasta. Uđi u deblo i penji se zavojitim stubama
+4947|Škrinja na hrastu
+4948|Stari hrast
+4949|Na vrhu kamenog stupa na istoku. Skočne gljive te bacaju sve više
+4950|Škrinja na stupu
+4951|Skočne gljive
+4952|Na visokoj stijeni na jugoistoku. Do nje se ne može pješice: stani u vilinski krug kraj potoka
+4953|Škrinja na stijeni
+4954|Vilinski krugovi
+4955|U špilji iza slapa na zapadu. Prođi kroz vodu
+4956|Slap
+4957|Na dnu Mjesečevog jezerca, kod ametista. Zaroni
+4958|Mjesečevo jezerce
+4959|Ispod trolova mosta na potoku. Trol Brundo spava, ali ne smeta mu kad tiho prođeš
+4960|Trolov most
+4961|U gljivi usred kruga pjevajućih gljiva. Stani na ploče redom kao na kamenoj ploči
+4962|Gljive su zapjevale vilinsku pjesmu! Srednja gljiva se otvorila
+4963|Ups, kriva nota. Pogledaj kamenu ploču, odozgo prema dolje, i kreni ispočetka
+4964|Pjevajuće gljive
+4965|Zakopano pod crvenim X-om kraj stare vrbe. Kopaj
+4966|Kopaš, kopaš... i eno ga! Vilinski kristal među korijenjem
+4967|Stara vrba
+4968|U vilinskom paviljonu kraj portala. Otvara se kad prođeš stazu vilinske prašine
+4969|Staza vilinske prašine
+4970|Prošla si cijelu stazu! Vilinski paviljon kraj portala se otvorio
+4971|Vile iz hrasta daruju ti lišće i daske za kućicu na drvetu
+4972|Gljivari su ovdje sakrili ametiste
+4973|Na stijeni do koje vodi samo vilinski krug, blago je posebno
+4974|Blago vilinske kraljice! Svjetluca svim bojama
+4975|Vila Lucija
+4976|Vila Iskrica
+4977|Trol Brundo
+4978|Rosica
+4979|Zvončica
+4980|Lila
+4981|Treptalica
+4982|Zeko Vilenjak
+4983|Zečica Mjesečica
+4984|Jelenko
+4985|Košutica
+4986|Jednorožica Bijela
+4987|Dobra večer, mala lisice. Ja sam Zvjezdan. Bez zvjezdanog cvijeća moja griva gubi boje. Doneseš mi četiri cvijeta? Svijetle žuto, pa ih lako nađeš u sumraku
+4988|Gledaj, griva mi opet sja svim bojama duge! Sad smo prijatelji. Popni se, galopirat ćemo kroz šumu
+4989|Jednorozi postoje samo u pričama, ali narvali u moru imaju pravi dugi rog. To je zapravo zub
+4990|Psst, ovdje gore! Ja sam Duga. Krila su mi umorna, a nektar je u cvjetovima po cijeloj šumi. Doneseš mi tri kapi? Onda te vodim iznad krošanja
+4991|Mmm, kako slatko! Sad imam snage za dugi let. Hoćeš sa mnom
+4992|Leptiri okus osjete nogama! Kad slete na cvijet, odmah znaju je li nektar ukusan
+4993|Joj, joj! Ja sam vila Iskrica. Spremala sam vilinsku prašinu za ples, a vjetar mi je raznio pet bočica po šumi! Bez prašine vile ne mogu letjeti. Pomogneš mi
+4994|Svih pet bočica! Sad sve vile mogu na ples. Uđi u moju kućicu, ostavila sam ti nešto što svjetluca
+4995|Vile opet lete, hvala ti
+4996|Bočice svjetlucaju ružičasto po šumi
+4997|Boing! Skočne gljive te bacaju visoko. Skači s gljive na gljivu
+4998|Vilinski krug! Ostani u sredini i vile će te prenijeti
+4999|Vrtlog latica u deblu Stabla svih stabala! Stani unutra i nosi te gore do vilinske palače
+5000|Pssst... Trol Brundo spava. Tiho
+5001|Vrata vilinske palače su otvorena! Vrtlog latica u Stablu svih stabala odnijet će te gore. Kraljica te čeka
+5002|Dobro došla u Vilinsku šumu! Ja sam vila Lucija. Ovdje je uvijek sumrak, a gljive svijetle. Deset vilinskih kristala rasulo se po šumi, a bez njih vrata palače u krošnji Stabla svih stabala ostaju zatvorena. Pronađeš ih
+5003|vilinskih kristala
+5004|U šumi ima i prijatelja kojima treba pomoć
+5005|Šuma u vječnom sumraku: svjetleće gljive, vilinske kućice u deblima, jednorog, skočne gljive, vilinski krugovi i palača u krošnji Stabla svih stabala
+5006|vilinski krugovi
+5007|skočne gljive
+5008|vrtlog latica
+5009|Vilinski kristal
+5010|Vilinski kristali
+5011|Svi vilinski kristali
+5012|Svih 10 vilinskih kristala! Vrata vilinske palače u krošnji Stabla svih stabala su se otvorila
+5013|Prvi vilinski kristal! Kompas na vrhu pokazuje najbliži
+5014|Vilinska šuma! Vilinski kristali
+5015|Vila Lucija te čeka kod portala
+5016|Hrastovi mogu živjeti i tisuću godina. U jednom starom hrastu živi više stotina vrsta kukaca, ptica i gljiva
+5017|Gljive nisu biljke. Najveći dio gljive živi pod zemljom kao mreža tankih niti, a ono što vidimo samo je njezin plod
+5018|Vilinski krug je prsten gljiva koji izraste na livadi. Nastaje jer gljiva pod zemljom raste na sve strane jednako
+5019|Iza nekih slapova kriju se špilje. Voda tisućama godina dubi mekšu stijenu iza tvrđe, pa nastane prostor
+5020|Ametist je ljubičasti kristal. Ljudi su nekad mislili da donosi mirne i lijepe snove
+5021|Trolovi su bića iz sjevernih bajki. U pričama se boje sunca, pa danju spavaju ispod mostova i u špiljama
+5022|Neke gljive na svijetu svijetle u mraku zelenkastim svjetlom. To se zove bioluminiscencija
+5023|Krila leptira prekrivena su sićušnim ljuskicama, kao prašinom. Zbog njih krila imaju tako lijepe boje
+5024|Krijesnice i neke gljive svijetle bez topline. To je hladno svjetlo, pa se ne mogu opeći
+5025|Korijenje stabla zna biti šire od same krošnje. Preko korijenja stabla u šumi čak razmjenjuju hranu
+5026|Hrrrr... zzzz... hrrrr
+5027|Mmm... još pet minuta, mama... zzz
+5028|Huu! U sumraku vidim najbolje
+5029|Vilinski krug kraj potoka vodi na visoku stijenu. Stani u sredinu
+5030|Hihi, uhvati me ako možeš
+5031|Kad skupimo prašinu, idemo na ples
+5032|Volim svjetleće gljive, one su naše svjetiljke
+5033|Zvjezdan je moj brat. On je malo hvalisav, hihi
+5034|Skočne gljive su najbolja igra u šumi
+5035|Šuma je mirna u sumraku. Slušaj kako pjevaju gljive
+5036|Kristalna vrata vilinske palače su zatvorena. Skupi svih 10 vilinskih kristala
+5037|Vilinska palača je otvorena
+5038|Vilinska lisica i Vilinska prašina sad su tvoji. Vila Lucija kaže da će vile o tebi pjevati pjesme
+5039|Ružičasto-bijelo krzno kao šećerna vuna, sa šarenim mrvicama. Miriše na jagode
+5040|Šarene mrvice
+5041|Iza Ride padaju šarene šećerne mrvice, kao s torte
+5042|Gumeni medo Gumko
+5043|Crveni gumeni medvjedić koji se klima kad hoda. Prozirni je i svjetluca na suncu, a skače kao lopta
+5044|Iz Slatkišne zemlje donosi jagode i zlatnike
+5045|Gumeni skok
+5046|Gumko odskače kao lopta, i to dvaput zaredom! Juri brže od svih
+5047|Gumko te nosi! Skoči dvaput zaredom
+5048|Ovčica Vunica
+5049|Ružičasta ovčica od šećerne vune. Toliko je lagana da lebdi kao oblačić
+5050|S oblaka donosi šećernu vunu i zlatnike
+5051|Let na oblačiću
+5052|Vunica lebdi s tobom iznad cijele Slatkišne zemlje! Skok je gore, Roni je dolje
+5053|Vunica leti! Skok je gore, Roni je dolje
+5054|Jagoda
+5055|Šećerna vuna
+5056|Bombon
+5057|U špilji iza čokoladnog slapa na zapadu. Proplivaj kroz slap
+5058|Čokoladni slap
+5059|Blago bombonskog dvorca
+5060|Bombonski dvorac
+5061|Na vrhu goleme torte, među svjećicama. Stroj za kokice kraj torte te ispali gore
+5062|PUF! Stroj za kokice te ispalio ravno na tortu
+5063|Škrinja na torti
+5064|Golema torta
+5065|Na vrhu Sladoledne planine, kraj trešnje. Penji se vafl-stazom oko planine
+5066|Sladoledna planina
+5067|Škrinja pod planinom
+5068|Na oblaku od šećerne vune iznad bombonskog dvorca. Skači po ružičastim oblačićima, jedan po jedan
+5069|Škrinja na oblaku
+5070|Oblaci od šećerne vune
+5071|Na letećoj krafni iznad gaziranog gejzira. Stani u mjehuriće i pusti da te dignu
+5072|Gazirani gejzir
+5073|U kućici bake Medenke u medenjak-selu. Baki treba pomoć
+5074|Medenjak-selo
+5075|U ljubičastom žele-bombonu usred žele-bubnjeva. Stani na bubnjeve redom kao na čokoladnoj ploči
+5076|Žele-bubnjevi su odsvirali slatku pjesmu! Bombon u sredini se otvorio
+5077|Bum, kriva nota! Pogledaj čokoladnu ploču, odozgo prema dolje, i kreni ispočetka
+5078|Žele-bubnjevi
+5079|Na kraju Špilje kamenih bombona u sjevernoj litici
+5080|Špilja kamenih bombona
+5081|Zakopano pod crvenim X-om na šećernoj plaži. Kopaj
+5082|Kopaš po šećeru... i eno ga! Čarobni bombon
+5083|Šećerna plaža
+5084|U velikom poklonu kraj portala. Otvara se kad prođeš lizalica-stazu
+5085|Lizalica-staza
+5086|Prošla si cijelu lizalica-stazu! Veliki poklon kraj portala se otvorio
+5087|Na torti je škrinja puna šarene vune za tvoje slastičarske kuće
+5088|Sladoledari su ovdje spremili vaniliju i vafle
+5089|Skočni oblaci! Stavi ih na otok i skači do neba
+5090|Blago bombonskog dvorca! Hrpa šarenih kocki i dragulja
+5091|Medenjak Mrvica
+5092|Baka Medenka
+5093|Medenko
+5094|Cimetko
+5095|Mrvičica
+5096|Đumbirko
+5097|Gumica Zelenka
+5098|Gumko Limunko
+5099|Gumica Borovnica
+5100|Zeko Karamelko
+5101|Bok! Ja sam Gumko, gumeni medo. Najdraže mi je jesti jagode, a vjetar je raznio jagode iz moje košarice. Doneseš mi četiri? Crvene su, pa se lako vide
+5102|Njam, njam! Najslađe jagode na svijetu! Sad smo prijatelji. Penji se, skakat ćemo kao lopte
+5103|Jagoda je jedino voće koje ima sjemenke izvana. Na jednoj jagodi ima oko dvjesto sjemenki
+5104|Bee! Ja sam Vunica. Kad mi nestane šećerne vune, ne mogu lebdjeti. Na sjeveru su tri štapića šećerne vune. Doneseš mi ih
+5105|Bee-hee! Opet sam mekana i lagana. Hoćeš lebdjeti sa mnom iznad Slatkišne zemlje
+5106|Šećerna vuna nastaje kad se šećer rastopi i vrti tako brzo da se pretvori u tanke niti, tanje od kose
+5107|Joj, dušo! Ja sam baka Medenka. Pekla sam kolače za veliku proslavu, a bomboni za ukras su mi se otkotrljali po cijelom selu. Pet ih nedostaje. Pomogneš mi
+5108|Svih pet bombona! Kolači će biti najljepši na svijetu. Uđi u moju kućicu, ostavila sam ti nešto posebno
+5109|Kolači su gotovi, hvala ti, dušo
+5110|Bomboni su plavi sa žutim omotom. Traži ih po selu i oko njega
+5111|Gazirani gejzir! Stani u mjehuriće i dignut će te do leteće krafne
+5112|Ružičasti oblačići su skočni! Skači s jednog na drugi sve do velikog oblaka
+5113|Stroj za kokice! Stani na žutu ploču ispred njega
+5114|Kristalna vrata bombonskog dvorca su otvorena! Trči preko mosta od lizalica, blago te čeka u dvorištu dvorca
+5115|Dobro došla u Slatkišnu zemlju! Ja sam Medenjak Mrvica. Ovdje je sve slatko: rijeka je od čokolade, drveće od lizalica, a oblaci od šećerne vune. Deset čarobnih bombona rasulo se po zemlji, a bez njih se vrata bombonskog dvorca ne otvaraju. Pronađeš ih
+5116|čarobnih bombona
+5117|U zemlji ima i prijatelja kojima treba pomoć
+5118|Zemlja od slatkiša: čokoladna rijeka i slap, bombonski dvorac, golema torta, sladoledna planina, oblaci od šećerne vune, gazirani gejzir i medenjak-selo
+5119|čokoladna rijeka
+5120|skočni oblaci
+5121|gazirani gejzir
+5122|Čarobni bombon
+5123|Čarobni bomboni
+5124|Svi čarobni bomboni
+5125|Svih 10 čarobnih bombona! Kristalna vrata bombonskog dvorca su se otvorila
+5126|Prvi čarobni bombon! Kompas na vrhu pokazuje najbliži
+5127|Slatkišna zemlja! Čarobni bomboni
+5128|Medenjak Mrvica te čeka kod portala
+5129|Čokolada se radi od zrna kakaovca. Kakaovac raste na drvetu u toplim šumama, a zrna su mu u velikim mahunama
+5130|Najveća torta na svijetu bila je teška kao deset slonova! Napravili su je slastičari za veliku proslavu
+5131|Kornet za sladoled izmišljen je slučajno: prodavaču su ponestale zdjelice, pa je susjed smotao vafl u tuljac
+5132|Pravi oblaci su od sićušnih kapljica vode. Jedan običan oblak težak je koliko stotinu slonova, ali lebdi jer su kapljice raspršene
+5133|Mjehurići u gaziranom soku su plin ugljikov dioksid. Kad otvoriš bocu, plin izlazi i zato sok šumi
+5134|Medenjaci se rade od meda i začina poput cimeta i đumbira. Licitarsko srce s crvenom glazurom je hrvatski medenjak
+5135|Žele se trese jer je u njemu mreža sitnih niti koja drži vodu, kao spužva
+5136|Kameni bombon raste kao kristal: u vrućoj šećernoj vodi ostavi se štapić i šećer se na njega polako lijepi
+5137|Šećer se dobiva iz šećerne trske ili iz šećerne repe. U Hrvatskoj se šećer radi od repe
+5138|Lizalice se rade od rastopljenog šećera koji se ohladi i stvrdne. Prve lizalice bile su na štapiću da se ne lijepe za prste
+5139|Pecivo se peče, a bomboni se skupljaju
+5140|Ne jedi me, molim te! Hihi, šalim se
+5141|Pazi da ne staneš u čokoladu, sva se slijepi
+5142|Na torti je stroj za kokice, isprobaj ga
+5143|Boing, boing! Mi gumeni medvjedići obožavamo skakati
+5144|Ja sam limunov okus, najkiseliji u obitelji
+5145|Borovnica je najfinija, to svi znaju
+5146|Bee! Oblačići su skočni, probaj
+5147|Kad pojedemo šećernu vunu, lebdimo kao baloni
+5148|Karamela mi se zalijepila za brkove
+5149|Kristalna vrata bombonskog dvorca su zatvorena. Skupi svih 10 čarobnih bombona
+5150|Bombonski dvorac je otvoren
+5151|Bombon lisica i Šarene mrvice sad su tvoji. Medenjak Mrvica kaže da si najslađa istraživačica
+5152|Jesenska lisica
+5153|Krzno boje jesenskog lišća, od zlatne do crvene. Kad potrči, oko nje zaplešu listići
+5154|Jesenski listići
+5155|Iza Ride padaju narančasti, crveni i žuti listići
+5156|Ponij Zlatko
+5157|Zlatni ponij s bijelom grivom i crvenim sedlom. Najbrži je na cijelom imanju i voli mrkve
+5158|S polja donosi mrkve i zlatnike
+5159|Galop preko polja
+5160|Zlatko galopira brže od vjetra i preskače ograde
+5161|Zlatko te nosi! Galopiraj preko polja
+5162|Divlja guska Siva
+5163|Siva divlja guska koja svake jeseni leti na jug. Ovaj put je zastala na imanju da se odmori
+5164|S ribnjaka donosi perca i zlatnike
+5165|Let s guskom
+5166|Siva te nosi visoko iznad zlatnih polja! Skok je gore, Roni je dolje
+5167|Siva leti! Skok je gore, Roni je dolje
+5168|Gusje pero
+5169|Klip kukuruza
+5170|U sobici na vrhu vjetrenjače. Uđi unutra i penji se zavojitim stubama oko osovine
+5171|U samom središtu kukuruznog labirinta na sjeverozapadu. Ne odustaj u slijepim ulicama
+5172|Kukuruzni labirint
+5173|U kućici od goleme bundeve. Strašilo Slamko čuva vrata
+5174|Bundeva-kuća
+5175|Na platformi u krošnji golemog stabla jabuke. Penji se po stubama od bala sijena
+5176|Škrinja u krošnji
+5177|Voćnjak
+5178|Na sljemenu krova crvene štale. Klackalica ispred štale baca te ravno gore
+5179|HOP! Bala sijena pala je na klackalicu i odbacila te na krov štale
+5180|Crvena štala
+5181|U košari balona koji lebdi nad poljem. Uskoči u vrtlog lišća i pusti da te digne
+5182|Blago zlatne žitnice
+5183|Zlatna žitnica
+5184|Na dnu potoka, iza mlinskog kola vodenice na istoku. Zaroni
+5185|Vodenica
+5186|U drvenom sanduku među košarama voća. Stani na ploče redom kao na ploči s voćem
+5187|Voće je posloženo kako treba! Sanduk u sredini se otvorio
+5188|Ups, krivo voće. Pogledaj drvenu ploču, odozgo prema dolje, i kreni ispočetka
+5189|Košare voća
+5190|Zakopano pod crvenim X-om u polju krumpira. Kopaj
+5191|Kopaš, kopaš... krumpir, krumpir... i zlatna jabučica
+5192|Polje krumpira
+5193|U hrpi lišća kraj žitnice. Otvara se kad prođeš stazu jesenskog lišća
+5194|Staza jesenskog lišća
+5195|Prošla si cijelu stazu lišća! Hrpa lišća kraj žitnice se rasula
+5196|U srcu labirinta: sijeno i kukuruzno lišće za tvoj vlastiti labirint
+5197|Jesensko lišće iz krošnje! Posadi jesen na svom otoku
+5198|Blago zlatne žitnice! Cijela jesen u jednoj škrinji
+5199|Farmerica Jesenka
+5200|Strašilo Slamko
+5201|Pirgica
+5202|Šarenka
+5203|Kokodaka
+5204|Milka
+5205|Rumenka
+5206|Blatko
+5207|Rozi
+5208|Njuškica
+5209|Bijelka
+5210|Kovrčica
+5211|Patkica
+5212|Ježić Jabučić
+5213|Vjeverica Lješnjakica
+5214|Zeko Mrkvić
+5215|Iiiha! Ja sam Zlatko. Jesen je vrijeme mrkvi, a ja sam ih rasuo po cijelom imanju dok sam galopirao. Doneseš mi četiri? Narančaste su, vidi ih se izdaleka
+5216|Njam, hrsk, hrsk! Najslađe mrkve! Sad smo prijatelji. Popni se u sedlo, galopirat ćemo preko polja
+5217|Konji spavaju i stojeći! Noge im se zaključaju pa ne padnu ni kad drijemaju
+5218|Ga-ga! Ja sam Siva. Letim na jug, ali vjetar mi je otpuhao tri pera. Bez njih ne mogu dalje. Pomogneš mi ih naći
+5219|Ga-ga-ga! Krila su opet cijela. Prije nego odletim na jug, hoćeš letjeti sa mnom iznad imanja
+5220|Divlje guske lete na jug u obliku slova V. Tako manje troše snage, jer svaka leti u zavjetrini one ispred sebe
+5221|Dobar dan, mala lisice! Ja sam strašilo Slamko. Vrane su mi ukrale pet klipova kukuruza i razbacale ih po imanju, čak i u labirint! Doneseš mi ih? Onda ti otvaram bundeva-kuću
+5222|Svih pet klipova! Sad imam dovoljno za zimu. Bundeva-kuća je otvorena, uđi slobodno
+5223|Vrane me se opet boje. Hvala ti
+5224|Klipovi su žuti. Dva su u kukuruznom labirintu, u kutovima
+5225|Vrtlog jesenskog lišća! Stani u sredinu i nosit će te gore do balona
+5226|Klackalica! Stani na niži kraj daske
+5227|Kukuruzni labirint! Savjet: drži se jednog zida i nećeš se izgubiti
+5228|Kristalna vrata zlatne žitnice su otvorena! Žitnica je odmah sjeverno od portala, a unutra te čeka žetveno blago
+5229|Dobro došla na imanje u Jesenskoj žetvi! Ja sam farmerica Jesenka. Deset zlatnih jabučica rasulo se po dolini, a bez njih se zlatna žitnica ne otvara. Pomogneš mi u žetvi
+5230|zlatnih jabučica
+5231|Na imanju ima i prijatelja kojima treba pomoć
+5232|Zlatna dolina u jesen: vjetrenjača, kukuruzni labirint, bundeva-kuća, voćnjak s golemom jabukom, crvena štala s klackalicom, balon nad poljem i vodenica
+5233|kukuruzni labirint
+5234|vjetrenjača
+5235|Zlatna jabučica
+5236|Zlatne jabučice
+5237|Sve zlatne jabučice
+5238|Svih 10 zlatnih jabučica! Kristalna vrata zlatne žitnice su se otvorila
+5239|Prva zlatna jabučica! Kompas na vrhu pokazuje najbližu
+5240|Jesenska žetva! Zlatne jabučice
+5241|Farmerica Jesenka te čeka kod portala
+5242|Vjetrenjače su nekad mljele žito u brašno. Vjetar okreće krila, a krila okreću golemi kamen koji melje zrno
+5243|Najveći kukuruzni labirinti na svijetu veći su od dvadeset nogometnih igrališta! Kad se kukuruz požanje, labirint nestane
+5244|Najveća bundeva na svijetu bila je teža od malog automobila. Bundeva je zapravo voće, rođakinja krastavca i lubenice
+5245|Na svijetu postoji više od sedam tisuća vrsta jabuka. Kad bi svaki dan jela drugu, trebalo bi ti skoro dvadeset godina da probaš sve
+5246|Jesen je vrijeme berbe: beru se jabuke, kruške, šljive, grožđe i orasi. Ljudi voće spremaju u podrume za zimu
+5247|Lišće u jesen mijenja boju jer stablo prestaje raditi zelenu tvar. Tada se vide žuta i narančasta boja koje su cijelo vrijeme bile skrivene u listu
+5248|Kokoš snese otprilike jedno jaje svaki dan. Krava daje toliko mlijeka dnevno da bi napunila punu kadu za kupanje svaki tjedan
+5249|Balon na vrući zrak leti jer je topli zrak lakši od hladnog. Prvi putnici u balonu bili su ovca, patka i pijetao
+5250|Vodenica radi isto što i vjetrenjača, samo je pokreće voda. Na rijekama u Hrvatskoj i danas ima starih vodenica
+5251|Krumpir raste pod zemljom. Iz jednog posađenog krumpira izraste cijela obitelj od deset i više novih krumpira
+5252|Buuu! Hihi, plašim samo vrane, ne lisice
+5253|Kokodak! Snijela sam jaje
+5254|Kokoda-kodak, tko mi je pojeo zrnje
+5255|Muuu! Jesenska trava je najslađa
+5256|Rok-rok! Blato je najbolja kupka na svijetu
+5257|Beee! Vuna mi je narasla za zimu
+5258|Kvak! Voda u ribnjaku je baš osvježavajuća
+5259|Skupljam jabuke za zimu. Nosim ih na bodljama
+5260|Sakrila sam lješnjake, samo se ne sjećam gdje
+5261|Ima li još koja mrkva? Pitam za prijatelja
+5262|Kristalna vrata zlatne žitnice su zatvorena. Skupi svih 10 zlatnih jabučica
+5263|Zlatna žitnica je otvorena
+5264|Jesenska lisica i Jesenski listići sad su tvoji. Farmerica Jesenka kaže da si najbolja pomoćnica u žetvi
+5265|Krzno svjetluca kao ametist, a rep svijetli tirkizno poput kristala iz dubina
+5266|Kristalne krhotine
+5267|Iza Ride ostaju sitne krhotine kristala koje svijetle tirkizno i ljubičasto
+5268|Krtica Kopka
+5269|Krtica s rudarskom svjetiljkom na glavi. Pod zemljom nikad ne zaluta i zna svaki prečac
+5270|Iz dubina donosi kristale i zlatnike
+5271|Krtičin juriš
+5272|Kopka juri kroz špilje kao strijela i skače preko kamenja
+5273|Kopka te nosi! Skoči dvaput zaredom
+5274|Šišmiš Noćko
+5275|Mali šišmiš voćar. Vidi ušima: vikne, pa sluša kako mu se glas odbija od zidova
+5276|Iz voćnjaka iznad planine donosi smokve i zlatnike
+5277|Let kroz špilje
+5278|Noćko te nosi kroz mrak i nikad ne udari u zid! Skok je gore, Roni je dolje
+5279|Noćko leti! Skok je gore, Roni je dolje
+5280|Svjetleća gljivica
+5281|Smokva
+5282|Rudarski fenjer
+5283|Na vrhu Kristalnog tornja usred Velike dvorane. Penji se po stubama oko tornja
+5284|Na lebdećoj kristalnoj polici u Velikoj dvorani. Topli zrak iz užarenog procjepa te diže gore
+5285|Velika kristalna dvorana
+5286|Na dnu Podzemnog jezera, kraj svjetlećeg kristala. Zaroni
+5287|Podzemno jezero
+5288|Na visokoj polici u rudniku. Sjedni u rudnička kolica na stanici i vozi se gore
+5289|U kolibi patuljka Kremenka u rudniku. Pomozi mu pronaći fenjere
+5290|Zakopan pod crvenim X-om u šljunku rudnika. Kopaj
+5291|Kopaš kroz šljunak... i eno ga! Kristal iz dubina
+5292|Rudarska škrinja
+5293|Stari rudnik
+5294|Na stijeni na kraju Gljivarske špilje. Skači po klobucima gljiva preko provalije
+5295|Gljivarska špilja
+5296|Na lubanji golemog fosila u Dvorani fosila. Penji se po kralježnici od repa do glave
+5297|Dvorana fosila
+5298|Unutar goleme geode u Velikoj dvorani. Kristalni zvončići otvaraju njezinu pukotinu
+5299|Kristalni zvončići zazvonili su čarobnu pjesmu! Pukotina u geodi se otvorila
+5300|Kriva nota! Pogledaj kamenu ploču, odozgo prema dolje, i kreni ispočetka
+5301|Golema geoda
+5302|U kristalnom kavezu na ulazu u Veliku dvoranu. Otvara se kad proletiš kroz sve kristalne prstenove
+5303|Kristalni prstenovi
+5304|Proletjela si kroz sve kristalne prstenove! Kristalni kavez na ulazu se otvorio
+5305|Blago iz srca planine
+5306|Srce planine
+5307|Rudari su ovdje spremili zlatnu rudu i daske za podupirače
+5308|Paleontolog je ostavio kvarc i tamni kamen. Sagradi svoj muzej
+5309|Blago iz srca planine! Kristali koji svijetle i u najdubljem mraku
+5310|Patuljak Kremenko
+5311|Patuljak Grumenko
+5312|Ribica Bjelka
+5313|Ribica Ružica
+5314|Ribica Stoljetnica
+5315|Krtica Rovka
+5316|Krtica Njuška
+5317|Šišmiš Uško
+5318|Šišmiš Kriško
+5319|Njuš, njuš! Ja sam Kopka. Svjetiljka na mojoj kacigi se ugasila, a svjetleće gljivice daju joj svjetlo. Doneseš mi četiri? Svijetle tirkizno, pa ih je lako vidjeti u mraku
+5320|Gledaj, svjetiljka opet svijetli! Sad smo prijatelji. Penji se, pokazat ću ti sve prečace u špiljama
+5321|Krtice gotovo ne vide, ali imaju nevjerojatan njuh i opip. U jednom danu iskopaju tunel dug kao dvadeset autobusa
+5322|Psst, ovdje gore! Ja sam Noćko, šišmiš voćar. Donio sam smokve iz vrta iznad planine, ali sam ih ispustio u mraku. Pomogneš mi naći tri
+5323|Mmm, slatke smokve! Hvala ti! Hoćeš letjeti sa mnom kroz špilje? Ne boj se, ja nikad ne udarim u zid
+5324|Šišmiši vide ušima: puste tihi zvuk i slušaju jeku. Tako u potpunom mraku znaju gdje je svaki zid i svaki kukac

@@ -1,0 +1,13 @@
+5706|Do sljedeće razine
+5707|Karte za igre
+5708|Promijeni doba dana
+5709|Pogled na cijeli otok
+5710|Okreni lijevo
+5711|Okreni desno
+5712|Približi
+5713|Udalji
+5714|Lijevo
+5715|Desno
+5716|Zrak
+5717|Snaga za plivanje
+5718|Skoči

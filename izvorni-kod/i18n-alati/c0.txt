@@ -1,0 +1,893 @@
+0|use strict
+1|3D grafika se nije učitala. Provjeri internet i otvori ponovno
+2|Fantastika
+3|Začarana šuma
+4|Zmajevi, čarolije i tajni svjetovi
+5|Misterij
+6|Svjetionik u magli
+7|Zagonetke, detektivi i tajne
+8|Avantura
+9|Piratska utvrda
+10|Putovanja, blago i hrabri junaci
+11|Životinje i priroda
+12|Sunčana farma
+13|Ljubimci, šume i divlje životinje
+14|Znanost i svemir
+15|Zvjezdarnica
+16|Planeti, izumi i zanimljivosti
+17|Priče iz života
+18|Kućica s vrtom
+19|Prijatelji, škola i obitelj
+20|Zec Skok
+21|Voli mrkve i kratke priče
+22|Patka Kvaki
+23|Pliva oko otoka i pjeva malo krivo
+24|Jež Bodlja
+25|Bodljikav izvana, mekan iznutra
+26|Ovca Vunica
+27|Spava na sijenu i sanja oblake
+28|Kornjača Polka
+29|Polako, ali uvijek dođe do kraja knjige
+30|Mačka Mrvica
+31|Lovi stranice koje nosi vjetar
+32|Papiga Rio
+33|Ponavlja najljepše rečenice iz knjiga
+34|Sova Mudrica
+35|Čuvarica knjižnice. Dolazi samo najupornijim čitačima
+36|Tko ti je zasad najdraži lik i zašto
+37|Što se dogodilo u dijelu koji si danas pročitala
+38|Da možeš ući u ovu knjigu, gdje bi se htjela naći
+39|Što misliš, što će se dogoditi dalje
+40|Je li te danas nešto iznenadilo u priči
+41|Koju bi rečenicu iz današnjeg čitanja voljela zapamtiti
+42|Da si ti glavni lik, bi li postupila isto? Zašto
+43|Koji bi lik iz knjige bio dobar prijatelj meni, Ridi
+44|Kako bi nacrtala mjesto u kojem se priča sada odvija
+45|Koji lik ti se ne sviđa i zašto
+46|Svaka knjiga koju pročitaš ovdje sagradi nešto novo
+47|Volim kad mi pričaš o knjigama
+48|Pogledaj more. Ponekad dopluta boca s porukom
+49|Jesi li vidjela dupine? Ponekad skaču kod obale
+50|Na planini je izvor. Potok teče sve do slapa na litici
+51|Noću lampioni najljepše svijetle. Probaj gumb s mjesecom
+52|Ako čitaš svaki dan, na otok dolaze novi posjetitelji
+53|Kockice za gradnju čuvaš u torbi. Svakih 10 pročitanih stranica donosi nove, a svaka pročitana knjiga otkriva nove vrste
+54|Vidiš li balon? Kažu da u njemu leti netko tko voli bajke
+55|Po otoku je skriveno blago. Pritisni Istraži i potraži ga sa mnom
+56|Na otočićima u moru svjetluca posebno blago. Do njih mogu otplivati
+57|U planini je špilja puna kristala. Ulaz je zatrpan šljunkom, ali to se lako iskopa
+58|Pod morem je koraljni greben i potonuli brod. S ronilačkom maskom mogu dugo roniti
+59|Daleko u moru je šest otoka. Za njih treba čamac iz radionice
+60|Kramp kopa kamen, lopata zemlju, a sjekira drvo. Bolji alat, brže kopanje
+61|Na molu se može loviti riba. Noću grizu i neke posebne
+62|Svakih 10 pročitanih stranica donosi kartu za igre i nove kockice
+63|Mala čitateljica
+64|Istraživačica
+65|Graditeljica priča
+66|Lovkinja na stranice
+67|Čuvarica knjiga
+68|Majstorica otoka
+69|Glavno spremanje nije bilo ispravno, pa je napredak vraćen iz zadnje dnevne sigurnosne kopije
+70|Pažnja: napredak se trenutno ne može spremiti u preglednik! U Kutku za roditelje spremi napredak u datoteku
+71|Trava
+72|Zemlja
+73|Pijesak
+74|Kamen
+75|Deblo
+76|Daske
+77|Lišće
+78|Cigla
+79|Staklo
+80|Snijeg
+81|Lampion
+82|Zlatni blok
+83|Kristal mašte
+84|Crvena boja
+85|Bijela žbuka
+86|Čarobno lišće
+87|Klobuk gljive
+88|Sijeno
+89|Crijep
+90|Knjižna polica
+91|Kaldrma
+92|Svjetlo
+93|Jesensko lišće
+94|Cvijet trešnje
+95|Zemljana staza
+96|Mahovina
+97|Šljunak
+98|Smrekove grane
+99|Voda
+100|Pješčenjak
+101|Kaktus
+102|Led
+103|Čarobna zemlja
+104|Stapka gljive
+105|Ametist
+106|Ruda ugljena
+107|Bakrena ruda
+108|Željezna ruda
+109|Zlatna ruda
+110|Dijamantna ruda
+111|Smaragdna ruda
+112|Glina
+113|Plavi koralj
+114|Ružičasti koralj
+115|Žuti koralj
+116|Crveni koralj
+117|Ljubičasti koralj
+118|Prizmarin
+119|Prizmarinske cigle
+120|Tamni kamen
+121|Radni stol
+122|Bačva
+123|Bundeva
+124|Lubenica
+125|Oranica
+126|Kamene cigle
+127|Smrekovo deblo
+128|Brezovo deblo
+129|Brezovo lišće
+130|Tamne daske
+131|Smrekove daske
+132|Brezove daske
+133|Kvarc
+134|Ukrasni pješčenjak
+135|Tamne cigle
+136|Zemljane cigle
+137|Crvena vuna
+138|Bijela vuna
+139|Žuta vuna
+140|Svjetloplava vuna
+141|Svijetlozelena vuna
+142|Narančasta vuna
+143|Ružičasta vuna
+144|Ljubičasta vuna
+145|Plava vuna
+146|Zelena vuna
+147|Tirkizna vuna
+148|Smeđa vuna
+149|Stalak za knjigu
+150|Puna polica
+151|Oblak
+152|Skočni oblak
+153|Plavi led
+154|Ledeni tobogan
+155|Užarena stijena
+156|Blato
+157|Lopoč
+158|Jantar
+159|Pustinjski otok
+160|Otok trešanja
+161|Snježni otok
+162|Gljivin otok
+163|Kristalni otok
+164|Otok ruševina
+165|Vrh planine
+166|Škrinja iz dubine špilje
+167|Kristalna škrinja
+168|Špilja
+169|Škrinja s potonulog broda
+170|Potonuli brod
+171|Škrinja iz pustinjskog hrama
+172|Škrinja iz iglua
+173|Škrinja ispod gljiva
+174|Škrinja u paviljonu
+175|Škrinja u geodi
+176|Škrinja na vrhu kule
+177|Škrinja iz kućice na drvetu
+178|Šuma divova
+179|Škrinja iza slapa
+180|Skrivena laguna
+181|Škrinja svjetioničara
+182|Svjetionik
+183|Nebeska škrinja
+184|Nebeski otoci
+185|Jesi li vidjela dugu na vrhu planine? Kažu da se po njoj može hodati sve do oblaka
+186|U Šumi divova netko je sagradio kućicu na drvetu. Stepenice se vrte oko debla
+187|Čula sam da se iza slapa u lagunu skriva nešto sjajno. Treba samo biti hrabar i proći kroz vodu
+188|Noću svjetionik obasjava more. Svjetioničar je na vrhu ostavio škrinju
+189|Na nebeskim otocima rastu ljubičasta stabla, a voda pada ravno u more
+190|Pročitaj prvu knjigu do kraja
+191|Pročitaj
+192|knjige
+193|knjiga
+194|do kraja
+195|Štapić
+196|Ugljen
+197|Bakar
+198|Željezo
+199|Zlatni grumen
+200|Dijamant
+201|Smaragd
+202|Biser
+203|Sjeme mrkve
+204|Sjeme krumpira
+205|Sjeme cikle
+206|Sadnica bobica
+207|Sjeme bundeve
+208|Sjeme lubenice
+209|Čarobno sjeme
+210|Mrkva
+211|Krumpir
+212|Cikla
+213|Bobice
+214|Svjetlocvijet
+215|Riba
+216|Kramp
+217|Kopa kamen i rude
+218|Lopata
+219|Kopa zemlju, pijesak i snijeg
+220|Sjekira
+221|Siječe drvo
+222|Šapa
+223|Drveni
+224|Kameni
+225|Željezni
+226|Dijamantni
+227|Ronilačka maska
+228|Rida može dugo roniti i vidi jasno pod morem
+229|Čamac
+230|Plovi do dalekih otoka bez umaranja
+231|Ručna lampa
+232|Rida nosi svjetlo u mračnim špiljama
+233|trava zemlja pijesak sljunak snijeg glina staza micelij oranica mahovina
+234|staklo lampion svjetlo
+235|oblak skocni
+236|pled tobogan
+237|Štapići
+238|Postavi ga bilo gdje. Uz njega se mogu napraviti alati i posebne stvari
+239|Drveni kramp
+240|Drvena lopata
+241|Drvena sjekira
+242|Kameni kramp
+243|Kamena lopata
+244|Kamena sjekira
+245|Željezni kramp
+246|Željezna lopata
+247|Željezna sjekira
+248|Dijamantni kramp
+249|Dijamantna lopata
+250|Dijamantna sjekira
+251|Duboko u planini netko je sakrio blago rudara
+252|Kristali u ovoj dvorani rastu tisućama godina
+253|Kapetanova škrinja! Bila je na dnu mora ne znam koliko godina
+254|U srcu pustinjskog hrama čeka zlato sunca
+255|Netko je ovdje prezimio i ostavio darove
+256|Gljive su čuvale ovu škrinju kao kišobrani
+257|Uz ribnjak je ostavljena škrinja puna proljeća
+258|Šuplji kamen pun kristala
+259|S vrha stare kule vidi se cijelo more
+260|Netko je u krošnji diva imao svoju malu knjižnicu. Sad je tvoja
+261|Iza zavjese od vode krila se škrinja. Malo tko zna za ovo mjesto
+262|Svjetioničar je čuvao brodove, a ostavio je i blago za hrabre penjače
+263|Iznad oblaka, na kraju duge, čekalo je najveće blago otoka
+264|Ovaj preglednik ne može prikazati 3D grafiku
+265|YXZ
+266|Pročitano
+267|večer
+268|noć
+269|Doba dana: pravo vrijeme
+270|Doba dana
+271|Nebo prati pravo vrijeme
+272|dan zaredom
+273|dana zaredom
+274|Čitateljica
+275|Razina
+276|Escape
+277|stranica
+278|od
+279|Što si čitala
+280|Odaberi knjigu i upiši do koje si stranice stigla
+281|Dodaj knjigu koju sada čitaš. Na otoku će odmah niknuti temelji njezine građevine
+282|Svih
+283|mjesta na otoku je zauzeto. Sva su mjesta puna
+284|Nova knjiga
+285|Naslov
+286|Koliko knjiga ima stranica
+287|Kakva je to knjiga? Od toga ovisi što će izrasti na otoku
+288|još jedna
+289|Posadi knjigu
+290|Upiši naslov knjige
+291|Odaberi kakva je knjiga
+292|Na otoku više nema mjesta
+293|Ovdje će niknuti
+294|Što više čitaš, to više raste
+295|Do kraja
+296|Gradi
+297|quick button
+298|Upiši stranicu veću od
+299|Nova razina
+300|Već
+301|dana zaredom. Svjetlo na knjižnici sjaji jače
+302|Tvoj odgovor
+303|Pošalji Ridi
+304|Možda drugi put
+305|Hvala! Spremila sam to u tvoj dnevnik
+306|Knjiga pročitana
+307|Knjiški dar za alate
+308|sada stoji na otoku kao
+309|Koliko zvjezdica daješ knjizi
+310|Kome bi je preporučila i zašto
+311|Spremi
+312|Kome bi preporučila ovu knjigu
+313|Nove kockice
+314|Pročitana knjiga otkrila je nove kockice za gradnju. U torbi te čeka po 10 komada
+315|Super
+316|Bok! Ja sam
+317|Na otok je stigao novi posjetitelj
+318|Knjige
+319|Odgovori
+320|Posjetitelji
+321|Još nema knjiga. Pritisni „Čitala sam!“ i dodaj prvu
+322|Ukupno
+323|pročitanih stranica
+324|knjiga do kraja
+325|dana čitanja
+326|Ovdje se skupljaju tvoji odgovori na Ridina pitanja
+327|Dolazi kad čitaš
+328|zaredom
+329|Dolazi uskoro
+330|Svaki novi dan na otok može doći netko novi
+331|Moj dnevnik
+332|Poruka u boci
+333|Spremi pismo
+334|Kutak za roditelje
+335|Uđi
+336|Nije točno
+337|Enter
+338|Tvoja Rida
+339|Ime djeteta
+340|Pošaljite poruku u boci
+341|Potpis
+342|Spremi i pošalji
+343|Poslane poruke
+344|pročitane
+345|pročitanih knjiga
+346|Igre
+347|Sigurnosna kopija napretka
+348|Spremite napredak u datoteku na računalo. Iz nje ga uvijek možete vratiti, i na drugom uređaju
+349|Preglednik trenutno ne sprema napredak, zato ga sada spremite u datoteku
+350|Spremi u datoteku
+351|Kopiraj kao tekst
+352|Vrati iz datoteke
+353|Vrati iz kopiranog teksta
+354|Provjeri tekst
+355|Obriši sav napredak: upišite OBRIŠI
+356|Obriši
+357|Netko tko te voli
+358|Poruka je poslana. Boca pluta prema otoku
+359|Spremljeno
+360|OBRIŠI
+361|Za brisanje upišite OBRIŠI
+362|Napredak je spremljen u datoteku
+363|Spremanje je otkazano
+364|Spremanje datoteke ovdje ne radi. Koristite Kopiraj kao tekst
+365|Datoteka
+366|se sprema. Ako se ništa ne dogodi, koristite Kopiraj kao tekst
+367|Spremanje datoteke nije uspjelo. Koristite Kopiraj kao tekst
+368|Napredak je kopiran. Zalijepite ga u bilješke ili e-poštu i spremite
+369|Datoteku nije moguće pročitati
+370|To nije ispravna datoteka napretka Otoka priča
+371|Pronađeni napredak
+372|bez imena
+373|zlatnika
+374|spremljeno
+375|Trenutni napredak
+376|Da, vrati ovaj napredak
+377|Učitavam
+378|u torbi
+379|zaključano
+380|Zaključano
+381|Ruši: dodirni kockicu i vrati je u torbu
+382|Dodirni otok da postaviš kockicu iz torbe. Povuci za pomicanje pogleda, a dva prsta ili desna tipka miša okreću
+383|Bok
+384|pročitano
+385|Ej, tu stojim ja
+386|U torbi više nema kockica „
+387|“. Svakih 10 pročitanih stranica donosi nove, a što srušiš vraća se u torbu
+388|treba
+389|ili bolji
+390|kramp. Napravi ga u radionici
+391|Knjižnica je čarobna i ne može se srušiti
+392|Ovo tlo čuva mjesto za građevine iz tvojih knjiga
+393|Ovo je sagradila tvoja knjiga i ne može se srušiti
+394|Pritisni veliki gumb „Čitala sam!“ i dodaj knjigu koju čitaš. Ja ću paziti na gradilište
+395|Danas još nismo čitale. Koliko stranica „
+396|“ ćeš pročitati
+397|dana zaredom! Vidiš kako svjetlo na knjižnici sjaji
+398|Jedva čekam vidjeti kako će izgledati
+399|kad je dovršiš
+400|SSAO off
+401|Obično
+402|Neobično
+403|Rijetko
+404|Epsko
+405|Legendarno
+406|Blago s plaže
+407|Bijela školjka
+408|Ružičasta školjka
+409|Morska zvijezda
+410|Puževa kućica
+411|Zlatna školjka
+412|Šumsko blago
+413|Žir
+414|Jesenski list
+415|Crvena gljiva
+416|Plavo pero
+417|Djetelina s četiri lista
+418|Krilce vile
+419|Blago s planine
+420|Kremen
+421|Snježni kristal
+422|Fosil puža
+423|Zmajevo jaje
+424|Srdela
+425|Ušata
+426|Bukva
+427|Cipal
+428|Orada
+429|Lubin
+430|Rak
+431|Hobotnica
+432|Zubatac
+433|Jastog
+434|Mjesečeva riba
+435|Svjetleća lignja
+436|Zlatna ribica
+437|Cvjetni vijenac
+438|Čarobnjačka kapa
+439|Detektivski šešir
+440|Piratski šešir
+441|Kapa s propelerom
+442|Zlatna kruna
+443|Svemirska kaciga
+444|Pročitaj 10 stranica
+445|Pročitaj 25 stranica
+446|Odgovori Ridi na pitanje o knjizi
+447|Pronađi 3 blaga na otoku
+448|Ulovi 2 ribe na molu
+449|Skupi 15 zvjezdica u letu balonom
+450|Postavi 8 kockica u gradnji
+451|Iskopaj 12 kockica s Ridom
+452|Napravi nešto u radionici
+453|Posadi 3 sjemenke s Ridom
+454|Uberi 4 ploda u vrtu
+455|Nahrani 2 životinje
+456|Prodaj svraki Sjajki 5 stvari
+457|za igre
+458|Još
+459|do nove karte i kockica
+460|U torbu za gradnju
+461|Vrt je dozrio
+462|biljka je spremna
+463|biljke su spremne
+464|za berbu
+465|Tvoj vrt je narastao za
+466|Čitanje je otkrilo nova blaga na otoku
+467|Pritisni Istraži i potraži ih s Ridom
+468|Zadatak izvršen
+469|Otvori škrinju u Zadacima
+470|Nemaš karata za igre. Pročitaj 10 stranica i dobit ćeš novu
+471|To blago je na otočiću! Pritisni Istraži i otplivaj do njega s Ridom
+472|Blago skuplja Rida! Pritisni Istraži i dotrči do onoga što svjetluca
+473|i 8 dasaka
+474|Novo u zbirci
+475|Zbirka „
+476|“ je potpuna! Nagrada te čeka u Igre → Zbirka
+477|Mol se još gradi
+478|Dodirni gumb i baci udicu
+479|Ribolov
+480|Bacanja
+481|Baci udicu
+482|Završi ribolov
+483|Čekaj…
+484|Povuci
+485|Drži za namatanje
+486|Nova bacanja! Baci udicu
+487|Nešto malo
+488|Dobro se bori
+489|Ovo je jaka riba
+490|Ogromna je
+491|Svjetluca… nevjerojatno
+492|Strpljivo… čekaj da zagrize
+493|Grize! Dodirni brzo
+494|Pobjegla je… Sljedeći put brže
+495|Riba se otrgnula! Drži zelenu zonu ispod žute crte
+496|Baci ponovno
+497|Bacanja su potrošena
+498|Ispunila ti je želju
+499|Nova vrsta
+500|Novi rekord
+501|Dalje
+502|gpop card r
+503|Danas si ulovila
+504|Sve su u tvojoj zbirci
+505|Skupljaj zvijezde! Ružičaste vrijede 5
+506|5 Ružičasta zvijezda
+507|Niz ×
+508|gpop card
+509|Let je gotov
+510|Rekord
+511|Još jedan let
+512|Natrag na otok
+513|Što ćemo danas obući
+514|Nosi ga
+515|Tvoj je
+516|Skini
+517|Stavi
+518|Kupi za
+519|Treba još
+520|Obožavam ga! Hvala ti
+521|Zbirka
+522|Zadaci
+523|za igre. Svakih 10 pročitanih stranica donosi novu, a jednu dobiješ svaki dan
+524|Vrsta u zbirci
+525|Nastavi
+526|Igraj
+527|Let balonom
+528|zvjezdica
+529|Tržnica i ormar
+530|Svraka Sjajka kupuje plodove iz vrta i blago, a prodaje sjeme, vunu, kostime i kartu blaga. Tu su i tvoji prijatelji životinje
+531|Kostima
+532|Otvori
+533|Na otoku je sada skriveno
+534|Pritisni Istraži i dotrči s Ridom do onoga što svjetluca
+535|Danas si pronašla sva blaga. Novo stiže sutra i kad čitaš
+536|Preuzmi nagradu
+537|Potpuna
+538|Nagrada: 150 zlatnika i 2 karte
+539|Ribe
+540|Samo noću
+541|Tri nova zadatka svaki dan. Za svaki izvršeni otvori škrinju
+542|nagrada
+543|i 1 karta
+544|Gotovo
+545|Zadaci dana
+546|Moja zbirka
+547|Igraonica
+548|Povuci prstom za pomicanje. Dva prsta: zum i okretanje. Dvaput dodirni mjesto da mu se približiš
+549|Lijeva tipka: pomicanje. Desna tipka: okretanje. Kotačić: zum prema pokazivaču. Dvoklik: približi se
+550|Lijevim krugom vodiš Ridu, povlačenjem prsta okrećeš pogled, a žutim gumbom skačeš
+551|W A S D ili strelice vode Ridu, razmaknica skače, a povlačenjem miša okrećeš pogled
+552|Rida sama skače na jednu kockicu
+553|Uz knjižnicu je radni stol. Otvori torbu, napravi drveni kramp i idemo kopati
+554|Strelica gore pokazuje put do najbližeg blaga
+555|Danas je sve blago pronađeno. Istraži špilju, more i daleke otoke
+556|Blago
+557|Sve blago je pronađeno
+558|Priđi bliže
+559|Priđi bliže škrinji
+560|Predaleko! Priđi bliže
+561|Drži prst na kockici i Rida će je iskopati. Za gradnju odaberi kockicu dolje
+562|Tu stoji Rida! Odaberi malo dalje
+563|Rida je sjela u čamac! Sad može ploviti do dalekih otoka
+564|Rida mora na zrak
+565|Rida mora na zrak! S ronilačkom maskom može roniti puno dulje
+566|Rida se umara! Vrati se na kopno
+567|Za daleke otoke napravi čamac u radionici
+568|Uf, Rida se umorila. Vratila se na obalu
+569|Uf, Rida se umorila od plivanja i vratila na obalu. Za daleka mora napravi čamac
+570|Dolje
+571|Roni
+572|Gore
+573|Skok
+574|Ovo je dno svijeta. Dublje se ne može
+575|Ovo je dio stare građevine. Neka ostane cijela da je svi mogu istraživati
+576|Na ovome stoji škrinja
+577|Ugljen! Od njega nastaju staklo, lampioni i cigle
+578|Bakar! Treba za ronilačku masku
+579|Željezo! Od njega su jaki alati i ručna lampa
+580|Zlatni grumen! Šest grumena daje zlatni blok
+581|DIJAMANT! Najtvrđi kamen na svijetu
+582|Smaragd! Rijedak zeleni dragulj
+583|U torbi više nema
+584|Još ih ima na tržnici i u vrtu
+585|Iskopaj ili napravi još
+586|Dodirni zemlju, travu ili oranicu i Rida će posaditi sjeme
+587|Ova škrinja je prazna. Sve blago iz nje već je tvoje
+588|Otvorene škrinje
+589|Ostale se kriju u špilji, pod morem i na dalekim otocima
+590|Otkrila si novo mjesto
+591|Ovo se radi uz radni stol. Jedan stoji kod knjižnice, a možeš i sagraditi svoj
+592|Nedostaje još materijala
+593|Napravila si
+594|Čamac je u torbi. Kad Rida zapliva u duboko more, sama sjedne u njega
+595|Uz masku Rida dugo roni. Pod morem je koraljni greben i potonuli brod
+596|Rida će u mraku sama upaliti lampu
+597|Kockice
+598|Radionica
+599|Vrt
+600|Alati i blago
+601|Karta
+602|Dodirni kockicu da je staviš u ruku. Kopanjem i u radionici dobivaš nove
+603|Torba je prazna. Iskopaj nešto
+604|Materijali
+605|Radni stol je blizu. Možeš raditi sve
+606|Bez radnog stola rade se samo jednostavne stvari. Jedan stoji kod knjižnice
+607|Osnovno
+608|Alati
+609|Oprema za avanture
+610|Za gradnju
+611|Već imaš
+612|Uz stol
+613|Napravi
+614|Nemaš
+615|Oprema
+616|Napravi u radionici
+617|Istraživanje
+618|Otkrivena mjesta
+619|Iskopano kockica
+620|Narančasta strelica je Rida, ružičaste točke su blago, a žute neotvorene škrinje. Upitnici su mjesta koja još nisi otkrila
+621|Torba
+622|bagGrid .slot
+623|Ridin vrt
+624|Nemaš više
+625|se sadi u zemlju, travu ili oranicu
+626|Iznad mora biti slobodno mjesto
+627|Pod vodom ništa ne raste
+628|Posađeno! Biljka raste i sama, a svaka pročitana stranica pomaže joj da dozrije
+629|još raste
+630|Biljke rastu i same do pola puta. Do kraja ih dovede
+631|čitanje
+632|svaka pročitana stranica je jedan korak za svaku biljku u vrtu
+633|Vrt je prazan. Pokreni
+634|Istraži
+635|uzmi sjeme u šapu i dodirni zemlju ili travu
+636|U vrtu raste
+637|Zrelo! Uberi
+638|Uberi sve zrelo
+639|Sjeme
+640|Uzmi u šapu
+641|Sadi se u istraživanju
+642|Nemaš sjemena. Kupi ga kod svrake Sjajke na tržnici ili uberi zrele biljke
+643|Ubrano
+644|Plodove možeš prodati na tržnici ili njima nahraniti životinje
+645|Ukupno ubrano
+646|Stranica za vrt
+647|Pokreni Istraži i Rida će posaditi sjeme gdje dodirneš zemlju
+648|Dodirni zemlju, travu ili oranicu i Rida će posaditi
+649|Tržnica
+650|Svaki dan donese malo sjemena
+651|Roni po jezeru i nađe bisere ili ribu
+652|Kvaki voli vodu pa ostaje na jezeru
+653|U grmlju nađe bobice
+654|Daje mekanu bijelu vunu
+655|Donosi blago s grebena
+656|Nađe zlatnike koje je vjetar raznio
+657|S dalekih otoka donosi sjajno kamenje
+658|Šapne gdje se krije neotvorena škrinja
+659|Mudrica čuva knjižnicu i ne napušta je
+660|Pingvin Pipo
+661|Klizi po ledu i skuplja sjajne stvari
+662|Nađe biser ili donese led i snijeg
+663|Žaba Kvakica
+664|Pjeva uz ribnjak kad padne mrak
+665|Ponekad nađe čarobno sjeme
+666|Deva Dina
+667|Zna sve putove kroz pijesak
+668|Iz pustinje donosi zlatne grumene
+669|volim mrkvu
+670|tražim biser
+671|ti je sada najbolji prijatelj! Svaki dan ima dar za tebe
+672|a može i pratiti Ridu u istraživanju
+673|Sova ti je na karti označila škrinju
+674|Sve škrinje su otvorene. Sova ti daje čarobno sjeme
+675|Novi prijatelj
+676|Voli
+677|Ovo je za tebe
+678|Njam! To mi je najdraža hrana
+679|Njam, hvala
+680|Prijateljstvo
+681|Najviše volim
+682|Potraži u vrtu ili na tržnici
+683|Sutra imam novi dar za tebe
+684|Hvala za hranu! Vidimo se sutra
+685|Svraka Sjajka
+686|Dobro došla na tržnicu! Kupujem sve što sja i sve što raste
+687|Ooo, sjajno! Što mi danas donosiš
+688|Svraka Sjajka na usluzi! Imam sjeme, vunu i jednu tajnu kartu
+689|Plodovi iz tvog vrta su najslađi na cijelom otoku
+690|Dodirni me
+691|Sjajkina karta blaga
+692|Označi najbližu neotvorenu škrinju na karti i iznad nje upali stup svjetla
+693|Prodaj
+694|Kupi
+695|Prijatelji
+696|Ormar
+697|Danas posebno tražim
+698|Za njih plaćam dvostruko
+699|Imaš
+700|za komad
+701|Prodaj 1
+702|Sve
+703|Još nemaš ništa što Sjajka kupuje. Ona voli plodove iz vrta, ribu, rude, bisere, kristale i koralje
+704|Sjeme, vuna u svim bojama i jedna tajanstvena karta. Što ti treba
+705|Dozrije za
+706|Životinje na otoku obožavaju hranu iz tvog vrta. Nahrani ih svaki dan i postat ćete prijatelji
+707|Dolazi kad pročitaš
+708|Živi na jednom od dalekih otoka. Pronađi ga u istraživanju
+709|Najdraže
+710|Dar
+711|Danas je već jelo ✓
+712|Nahrani
+713|Nemaš hrane
+714|Nahrani na otoku
+715|Prati Ridu
+716|Povedi
+717|Za tebe imam šešire, šalove i plašteve. Neke možeš kupiti, a neke otključava samo prava avantura
+718|Neki se kupuju zlatnicima, a neki se otključavaju čitanjem, istraživanjem i radom u vrtu
+719|Isprobaj u ormaru
+720|Tvoj je ✓
+721|Otključano
+722|zlatnika. Čitanjem i prodajom zaradiš nove
+723|Sve škrinje su već otvorene
+724|Sjajka je na karti označila škrinju crvenim X, a iznad nje sja stup svjetla
+725|Njam! Najdraža hrana
+726|će pratiti Ridu kad istražuješ
+727|Slamnati šešir
+728|Uberi 10 plodova
+729|Rudarska kaciga
+730|Iskopaj 150 kockica
+731|Ima svjetiljku: svijetli u špilji
+732|Kapetanska kapa
+733|Otvori škrinju na potopljenom brodu
+734|Crveni šal
+735|Leptir-mašna
+736|Istraživačka marama
+737|Otkrij 6 mjesta na karti
+738|Biserni medaljon
+739|Otvori 5 škrinja
+740|Ruksak istraživača
+741|Plašt čitača
+742|Pročitaj 3 knjige do kraja
+743|Krila leptira
+744|Pročitaj ukupno 1000 stranica
+745|Zvjezdani plašt
+746|Glava
+747|Vrat
+748|Leđa
+749|Nosi
+750|Otključala si ga
+751|Kako ga dobiti
+752|Uzmi
+753|Glavni lik
+754|Prijatelj
+755|Zločesti
+756|Smiješni
+757|Mudri
+758|Tajanstveni
+759|Novi dnevnik čitanja! Već imaš
+760|značku
+761|značke
+762|znački
+763|Pogledaj u Dnevniku
+764|Prva knjiga
+765|Pročitaj jednu knjigu do kraja
+766|Knjiški moljac
+767|Pročitaj 5 knjiga do kraja
+768|Gospodarica knjiga
+769|Pročitaj 10 knjiga do kraja
+770|Sto stranica
+771|Pročitaj ukupno 100 stranica
+772|Petsto stranica
+773|Pročitaj ukupno 500 stranica
+774|Tisuću stranica
+775|Tri tisuće stranica
+776|Pročitaj ukupno 3000 stranica
+777|Tri dana zaredom
+778|Čitaj 3 dana zaredom
+779|Tjedan čitanja
+780|Čitaj 7 dana zaredom
+781|Dva tjedna
+782|Čitaj 14 dana zaredom
+783|Mjesec čitanja
+784|Čitaj 30 dana zaredom
+785|Putnica kroz žanrove
+786|Čitaj knjige 3 različite vrste
+787|Svi svjetovi
+788|Čitaj knjige svih vrsta
+789|Lovica citata
+790|Zapiši 5 omiljenih rečenica
+791|Poznavateljica likova
+792|Upiši 5 likova iz knjiga
+793|Ilustratorica
+794|Nacrtaj naslovnicu za knjigu
+795|Kritičarka
+796|Ocijeni 3 pročitane knjige
+797|Mislilica
+798|Odgovori na 10 Ridinih pitanja
+799|Rješavateljica zagonetki
+800|Riješi 10 zagonetki
+801|Čuvarica priča
+802|Vrati svih 7 stranica Velikoj knjizi
+803|Značka
+804|20 zlatnika
+805|Velika knjiga
+806|Kalendar
+807|Značke
+808|Bilješke
+809|Stranica
+810|rečenica
+811|rečenice
+812|Još nema knjiga. Pritisni „Čitala sam!” i dodaj prvu
+813|Dodirni knjigu da otvoriš njezinu stranicu u dnevniku: likovi, omiljene rečenice, tvoje misli i naslovnica koju sama nacrtaš
+814|Za svaku novu značku dobivaš 20 zlatnika
+815|Osvojeno
+816|Omiljene rečenice
+817|Odgovori na Ridina pitanja
+818|siječanj
+819|veljača
+820|ožujak
+821|siječnja
+822|veljače
+823|ožujka
+824|čitala si
+825|niz sada
+826|najduži niz
+827|str. u 7 dana
+828|dana ovaj mjesec
+829|Po
+830|Ut
+831|Sr
+832|Če
+833|Pe
+834|Su
+835|Ne
+836|malo
+837|puno stranica
+838|Zadnjih 14 dana
+839|Graf se puni kako upisuješ pročitane stranice
+840|Moje vrste knjiga
+841|‹ Svi dnevnici
+842|Počela
+843|Čitanja
+844|Prosjek
+845|Tvoja ocjena
+846|zvjezdica"
+847|Upiši stranice
+848|Pokaži na otoku
+849|Likovi
+850|Tko se sve pojavljuje u knjizi? Upiši likove da ih ne zaboraviš
+851|Dodaj lik
+852|Ime
+853|Kakav je to lik
+854|Spremi lik
+855|Kad ti se neka rečenica jako svidi, zapiši je ovdje
+856|Zapiši rečenicu
+857|Rečenica iz knjige
+858|Spremi rečenicu
+859|Moje misli
+860|Knjiga je označena na karti u torbi
+861|roles button
+862|‹ Natrag na knjigu
+863|Naslovnica
+864|Nacrtaj naslovnicu za „
+865|”. Pojavit će se u dnevniku i na natpisu iznad knjige na otoku
+866|Kist
+867|Kanta
+868|Gumica
+869|Vrati
+870|Očisti
+871|Spremi naslovnicu
+872|Naslovnica je spremljena. Pogledaj natpis iznad knjige na otoku
+873|Otok od riječi
+874|Prva stranica zapela je u Ridinom vrtu, uz strašilo s bundevom
+875|Na stranici je zagonetka. Riješi je i stranica je tvoja
+876|Na početku nije bilo ničega osim mora i jedne tihe misli: što kad bi netko ispričao priču? Iz te misli izronio je otok, malen kao zrno graška. Prva riječ koju je netko pročitao naglas pala je na pijesak i iz nje je niknula trava. Druga je postala drvo. Treća je postala sunce koje je grijalo i travu i drvo. Tako je otok naučio svoje najvažnije pravilo: sve što se pročita, ovdje raste
+877|Lisica koja je skupljala riječi
+878|Vjetar je drugu stranicu odnio do tržnice svrake Sjajke
+879|Sjajka je stranicu sakrila među svoje sjajne stvari i sve ih promiješala. Pronađi sve parove
+880|Prva stanovnica otoka bila je mala lisica s repom boje jeseni. Zvali su je Rida. Rida nije znala čitati, ali je voljela slušati. Svake večeri sjedila je uz more i čekala da joj vjetar donese neku riječ iz dalekih knjiga. Riječi su dolazile rijetko, kao kapi kiše usred ljeta, a Rida ih je spremala u svoju torbu kao najveće blago. Najdraža joj je bila riječ „zajedno”
+881|Kristali koji pamte
+882|Treća je pala u kristalnu dvoranu duboko u planini. Uđi u špilju kroz rudarska vrata i prati svjetlucanje
+883|Kristali čuvaju stranicu. Poslušaj njihovu melodiju i ponovi je
+884|Jednog dana Rida je u srcu planine pronašla dvoranu punu kristala. Svaki je kristal pjevao drugim glasom, a kad bi ih dotaknula redom, zvučali su kao rečenica. „Kristali pamte priče”, šapnula je sova Mudrica, koja je ondje sjedila otkad zna za sebe. „Ali samo dok ih netko čita. Priča koju nitko ne čita polako utihne, kao kristal koji nitko ne dira.”
+885|Brod pun pisaca
+886|Četvrta je potonula do starog broda na dnu mora. Roni! Ronilačka maska iz radionice pomaže dulje ostati pod vodom
+887|More je natopilo stranicu i slika na njoj raspala se na komadiće. Složi je ponovno
+888|Mudrica je Ridi ispričala o Velikoj knjizi. U njoj je zapisana cijela priča otoka: svako drvo, svaki kamen i svaka zvijezda. Knjigu je davno donio brod pun pisaca, ali oluja ga je potopila nadomak obale. Pisci su doplivali do plaže, a knjiga je doplutala za njima. Iz zahvalnosti su joj sagradili dom: knjižnicu s tornjem i svjetlom koje se nikad ne gasi
+889|Gosti iz pročitanih priča
+890|Peta se skriva kod pustinjskog hrama na Pustinjskom otoku. Do njega ćeš brodom
+891|Na zidu hrama urezana je tajna riječ. Odgonetni znakove pomoću ključa
+892|Velika knjiga imala je čudnu moć. Svaki put kad bi netko, bilo gdje na svijetu, pročitao knjigu do kraja, u njoj bi se pojavila nova stranica. I sa svakom novom stranicom na otok bi stigao novi gost. Tako su došli pingvin s ledenog brijega, deva iz zlatne pustinje i žaba iz cvjetnog vrta. Svatko od njih stigao je iz neke pročitane priče, i svatko je donio svoj komadić svijeta

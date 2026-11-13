@@ -1,0 +1,879 @@
+1|Die 3D-Grafik wurde nicht geladen. Prüfe das Internet und öffne das Spiel erneut
+2|Fantasy
+3|Zauberwald
+4|Drachen, Zauber und geheime Welten
+5|Rätsel
+6|Leuchtturm im Nebel
+7|Rätsel, Detektive und Geheimnisse
+8|Abenteuer
+9|Piratenfestung
+10|Reisen, Schätze und mutige Helden
+11|Tiere und Natur
+12|Sonnige Farm
+13|Haustiere, Wälder und wilde Tiere
+14|Wissenschaft und Weltall
+15|Sternwarte
+16|Planeten, Erfindungen und Wissenswertes
+17|Geschichten aus dem Leben
+18|Häuschen mit Garten
+19|Freunde, Schule und Familie
+20|Hase Skok
+21|Liebt Karotten und kurze Geschichten
+22|Ente Kvaki
+23|Schwimmt um die Insel und singt ein bisschen schief
+24|Igel Bodlja
+25|Außen stachelig, innen weich
+26|Schaf Vunica
+27|Schläft im Heu und träumt von Wolken
+28|Schildkröte Polka
+29|Langsam, aber sie kommt immer bis zum Ende des Buches
+30|Katze Mrvica
+31|Fängt Seiten, die der Wind herträgt
+32|Papagei Rio
+33|Wiederholt die schönsten Sätze aus Büchern
+34|Eule Mudrica
+35|Hüterin der Bibliothek. Sie kommt nur zu den fleißigsten Leserinnen
+36|Wer ist bisher deine Lieblingsfigur und warum
+37|Was ist in dem Teil passiert, den du heute gelesen hast
+38|Wenn du in dieses Buch hineinspringen könntest, wo wärst du am liebsten
+39|Was glaubst du, was als Nächstes passiert
+40|Hat dich heute etwas in der Geschichte überrascht
+41|Welchen Satz aus deinem heutigen Lesen möchtest du dir merken
+42|Wenn du die Hauptfigur wärst, hättest du genauso gehandelt? Warum
+43|Welche Figur aus dem Buch wäre eine gute Freundin für mich, Rida
+44|Wie würdest du den Ort malen, an dem die Geschichte gerade spielt
+45|Welche Figur magst du nicht und warum
+46|Jedes Buch, das du liest, baut hier etwas Neues
+47|Ich mag es, wenn du mir von Büchern erzählst
+48|Schau aufs Meer. Manchmal treibt eine Flaschenpost heran
+49|Hast du die Delfine gesehen? Manchmal springen sie an der Küste
+50|Auf dem Berg ist eine Quelle. Der Bach fließt bis zum Wasserfall an der Klippe
+51|Nachts leuchten die Laternen am schönsten. Probier den Knopf mit dem Mond
+52|Wenn du jeden Tag liest, kommen neue Besucher auf die Insel
+53|Bausteine bewahrst du in der Tasche auf. Alle 10 gelesenen Seiten bringen neue, und jedes fertige Buch zeigt neue Arten
+54|Siehst du den Ballon? Man sagt, darin fliegt jemand, der Märchen liebt
+55|Auf der Insel ist ein Schatz versteckt. Drück auf Erkunden und such ihn mit mir
+56|Auf den Inselchen im Meer funkelt ein besonderer Schatz. Ich kann zu ihnen schwimmen
+57|Im Berg ist eine Höhle voller Kristalle. Der Eingang ist mit Kies verschüttet, aber den gräbt man leicht frei
+58|Unter dem Meer gibt es ein Korallenriff und ein gesunkenes Schiff. Mit der Taucherbrille kann ich lange tauchen
+59|Weit draußen im Meer liegen sechs Inseln. Dafür braucht man ein Boot aus der Werkstatt
+60|Die Spitzhacke gräbt Stein, die Schaufel Erde und die Axt Holz. Besseres Werkzeug, schnelleres Graben
+61|Am Steg kann man angeln. Nachts beißen auch ein paar besondere Fische
+62|Alle 10 gelesenen Seiten bringen ein Spielticket und neue Bausteine
+63|Kleine Leserin
+64|Entdeckerin
+65|Geschichtenbauerin
+66|Seitenjägerin
+67|Bücherhüterin
+68|Inselmeisterin
+69|Der Hauptspeicher war fehlerhaft, deshalb wurde der Fortschritt aus der letzten täglichen Sicherung wiederhergestellt
+70|Achtung: Der Fortschritt kann gerade nicht im Browser gespeichert werden! Speichere ihn in der Elternecke in eine Datei
+71|Gras
+72|Erde
+73|Sand
+74|Stein
+75|Baumstamm
+76|Bretter
+77|Laub
+78|Ziegel
+79|Glas
+80|Schnee
+81|Laterne
+82|Goldblock
+83|Fantasiekristall
+84|Rote Farbe
+85|Weißer Putz
+86|Zauberlaub
+87|Pilzhut
+88|Heu
+89|Dachziegel
+90|Bücherregal
+91|Kopfsteinpflaster
+92|Licht
+93|Herbstlaub
+94|Kirschblüte
+95|Erdweg
+96|Moos
+97|Kies
+98|Fichtenzweige
+99|Wasser
+100|Sandstein
+101|Kaktus
+102|Eis
+103|Zaubererde
+104|Pilzstiel
+105|Amethyst
+106|Kohleerz
+107|Kupfererz
+108|Eisenerz
+109|Golderz
+110|Diamanterz
+111|Smaragderz
+112|Ton
+113|Blaue Koralle
+114|Rosa Koralle
+115|Gelbe Koralle
+116|Rote Koralle
+117|Lila Koralle
+118|Prismarin
+119|Prismarinziegel
+120|Dunkler Stein
+121|Werkbank
+122|Fass
+123|Kürbis
+124|Wassermelone
+125|Ackerboden
+126|Steinziegel
+127|Fichtenstamm
+128|Birkenstamm
+129|Birkenlaub
+130|Dunkle Bretter
+131|Fichtenbretter
+132|Birkenbretter
+133|Quarz
+134|Verzierter Sandstein
+135|Dunkle Ziegel
+136|Lehmziegel
+137|Rote Wolle
+138|Weiße Wolle
+139|Gelbe Wolle
+140|Hellblaue Wolle
+141|Hellgrüne Wolle
+142|Orange Wolle
+143|Rosa Wolle
+144|Lila Wolle
+145|Blaue Wolle
+146|Grüne Wolle
+147|Türkise Wolle
+148|Braune Wolle
+149|Buchständer
+150|Volles Regal
+151|Wolke
+152|Sprungwolke
+153|Blaues Eis
+154|Eisrutsche
+155|Glühender Fels
+156|Schlamm
+157|Seerose
+158|Bernstein
+159|Wüsteninsel
+160|Kirscheninsel
+161|Schneeinsel
+162|Pilzinsel
+163|Kristallinsel
+164|Ruineninsel
+165|Berggipfel
+166|Truhe aus der Tiefe der Höhle
+167|Kristalltruhe
+168|Höhle
+169|Truhe vom gesunkenen Schiff
+170|Gesunkenes Schiff
+171|Truhe aus dem Wüstentempel
+172|Truhe aus dem Iglu
+173|Truhe unter den Pilzen
+174|Truhe im Pavillon
+175|Truhe in der Geode
+176|Truhe oben auf dem Turm
+177|Truhe aus dem Baumhaus
+178|Riesenwald
+179|Truhe hinter dem Wasserfall
+180|Versteckte Lagune
+181|Truhe des Leuchtturmwärters
+182|Leuchtturm
+183|Himmelstruhe
+184|Himmelsinseln
+185|Hast du den Regenbogen oben auf dem Berg gesehen? Man sagt, man kann auf ihm bis zu den Wolken laufen
+186|Im Riesenwald hat jemand ein Baumhaus gebaut. Die Treppe windet sich um den Stamm
+187|Ich habe gehört, dass sich hinter dem Wasserfall in der Lagune etwas Glänzendes versteckt. Man muss nur mutig sein und durchs Wasser gehen
+188|Nachts beleuchtet der Leuchtturm das Meer. Der Leuchtturmwärter hat oben eine Truhe gelassen
+189|Auf den Himmelsinseln wachsen lila Bäume, und das Wasser fällt direkt ins Meer
+190|Lies dein erstes Buch zu Ende
+191|Lies
+192|Bücher
+193|Bücher
+194|zu Ende
+195|Stöckchen
+196|Kohle
+197|Kupfer
+198|Eisen
+199|Goldnugget
+200|Diamant
+201|Smaragd
+202|Perle
+203|Karottensamen
+204|Kartoffelsamen
+205|Rübensamen
+206|Beerensetzling
+207|Kürbissamen
+208|Melonensamen
+209|Zaubersamen
+210|Karotte
+211|Kartoffel
+212|Rote Bete
+213|Beeren
+214|Leuchtblume
+215|Fisch
+216|Spitzhacke
+217|Gräbt Stein und Erze
+218|Schaufel
+219|Gräbt Erde, Sand und Schnee
+220|Axt
+221|Fällt Holz
+222|Pfote
+223|Holz-
+224|Stein-
+225|Eisen-
+226|Diamant-
+227|Taucherbrille
+228|Rida kann lange tauchen und sieht unter Wasser klar
+229|Boot
+230|Fährt ohne Ermüdung zu fernen Inseln
+231|Handlampe
+232|Rida trägt Licht in dunkle Höhlen
+237|Stöckchen
+238|Stell sie überall hin. An ihr kann man Werkzeuge und besondere Dinge herstellen
+239|Holzspitzhacke
+240|Holzschaufel
+241|Holzaxt
+242|Steinspitzhacke
+243|Steinschaufel
+244|Steinaxt
+245|Eisenspitzhacke
+246|Eisenschaufel
+247|Eisenaxt
+248|Diamantspitzhacke
+249|Diamantschaufel
+250|Diamantaxt
+251|Tief im Berg hat jemand den Schatz der Bergleute versteckt
+252|Die Kristalle in dieser Halle wachsen seit Tausenden von Jahren
+253|Die Truhe des Kapitäns! Sie lag wer weiß wie viele Jahre auf dem Meeresgrund
+254|Im Herzen des Wüstentempels wartet das Gold der Sonne
+255|Hier hat jemand überwintert und Geschenke dagelassen
+256|Die Pilze haben diese Truhe wie Regenschirme beschützt
+257|Am Teich steht eine Truhe voller Frühling
+258|Ein hohler Stein voller Kristalle
+259|Von der Spitze des alten Turms sieht man das ganze Meer
+260|Jemand hatte in der Krone des Riesen seine kleine Bibliothek. Jetzt gehört sie dir
+261|Hinter dem Vorhang aus Wasser war eine Truhe versteckt. Nur wenige kennen diesen Ort
+262|Der Leuchtturmwärter hat die Schiffe beschützt und auch einen Schatz für mutige Kletterer hinterlassen
+263|Über den Wolken, am Ende des Regenbogens, wartete der größte Schatz der Insel
+264|Dieser Browser kann keine 3D-Grafik anzeigen
+266|Gelesen
+267|Abend
+268|Nacht
+269|Tageszeit: echte Zeit
+270|Tageszeit
+271|Der Himmel folgt der echten Zeit
+272|Tag in Folge
+273|Tage in Folge
+274|Leserin
+275|Stufe
+277|Seite
+278|von
+279|Was hast du gelesen
+280|Wähle ein Buch und trag ein, bis zu welcher Seite du gekommen bist
+281|Füge das Buch hinzu, das du gerade liest. Auf der Insel wächst sofort das Fundament seines Gebäudes
+282|Alle
+283|Plätze auf der Insel sind belegt. Alle Plätze sind voll
+284|Neues Buch
+285|Titel
+286|Wie viele Seiten hat das Buch
+287|Was für ein Buch ist das? Davon hängt ab, was auf der Insel wächst
+288|noch eins
+289|Buch pflanzen
+290|Trag den Buchtitel ein
+291|Wähle, was für ein Buch es ist
+292|Auf der Insel ist kein Platz mehr
+293|Hier wird wachsen
+294|Je mehr du liest, desto mehr wächst es
+295|Bis zum Ende
+296|Bauen
+298|Trag eine Seite ein, die größer ist als
+299|Neue Stufe
+300|Schon
+301|Tage in Folge. Das Licht an der Bibliothek leuchtet heller
+302|Deine Antwort
+303|An Rida schicken
+304|Vielleicht ein andermal
+305|Danke! Ich habe es in dein Tagebuch geschrieben
+306|Buch gelesen
+307|Buchgeschenk für Werkzeug
+308|steht jetzt auf der Insel als
+309|Wie viele Sterne gibst du dem Buch
+310|Wem würdest du es empfehlen und warum
+311|Speichern
+312|Wem würdest du dieses Buch empfehlen
+313|Neue Bausteine
+314|Das gelesene Buch hat neue Bausteine zum Bauen freigeschaltet. In der Tasche warten je 10 Stück auf dich
+315|Super
+316|Hallo! Ich bin
+317|Ein neuer Besucher ist auf der Insel angekommen
+318|Bücher
+319|Antworten
+320|Besucher
+321|Noch keine Bücher. Drück auf „Ich habe gelesen!“ und füge das erste hinzu
+322|Insgesamt
+323|gelesene Seiten
+324|Bücher zu Ende
+325|Lesetage
+326|Hier sammeln sich deine Antworten auf Ridas Fragen
+327|Kommt, wenn du liest
+328|in Folge
+329|Kommt bald
+330|An jedem neuen Tag kann jemand Neues auf die Insel kommen
+331|Mein Tagebuch
+332|Flaschenpost
+333|Brief speichern
+334|Elternecke
+335|Eintreten
+336|Nicht richtig
+338|Deine Rida
+339|Name des Kindes
+340|Schicken Sie eine Flaschenpost
+341|Unterschrift
+342|Speichern und senden
+343|Gesendete Nachrichten
+344|gelesen
+345|gelesene Bücher
+346|Spiele
+347|Sicherungskopie des Fortschritts
+348|Speichern Sie den Fortschritt in eine Datei auf dem Computer. Daraus können Sie ihn jederzeit wiederherstellen, auch auf einem anderen Gerät
+349|Der Browser speichert den Fortschritt gerade nicht, speichern Sie ihn deshalb jetzt in eine Datei
+350|In Datei speichern
+351|Als Text kopieren
+352|Aus Datei wiederherstellen
+353|Aus kopiertem Text wiederherstellen
+354|Text prüfen
+355|Gesamten Fortschritt löschen: LÖSCHEN eingeben
+356|Löschen
+357|Jemand, der dich lieb hat
+358|Die Nachricht ist verschickt. Die Flasche treibt zur Insel
+359|Gespeichert
+360|LÖSCHEN
+361|Zum Löschen LÖSCHEN eingeben
+362|Der Fortschritt wurde in eine Datei gespeichert
+363|Speichern abgebrochen
+364|Das Speichern als Datei funktioniert hier nicht. Nutzen Sie Als Text kopieren
+365|Datei
+366|wird gespeichert. Wenn nichts passiert, nutzen Sie Als Text kopieren
+367|Das Speichern der Datei hat nicht geklappt. Nutzen Sie Als Text kopieren
+368|Der Fortschritt wurde kopiert. Fügen Sie ihn in Notizen oder eine E-Mail ein und speichern Sie ihn
+369|Die Datei kann nicht gelesen werden
+370|Das ist keine gültige Fortschrittsdatei der Geschichteninsel
+371|Gefundener Fortschritt
+372|ohne Namen
+373|Goldmünzen
+374|gespeichert
+375|Aktueller Fortschritt
+376|Ja, diesen Fortschritt wiederherstellen
+377|Wird geladen
+378|in der Tasche
+379|gesperrt
+380|Gesperrt
+381|Abbauen: Tipp einen Baustein an und leg ihn zurück in die Tasche
+382|Tipp die Insel an, um einen Baustein aus der Tasche zu setzen. Ziehen verschiebt die Ansicht, zwei Finger oder die rechte Maustaste drehen
+383|Hallo
+384|gelesen
+385|He, hier stehe ich
+386|In der Tasche sind keine Bausteine „
+387|“ mehr. Alle 10 gelesenen Seiten bringen neue, und was du abbaust, kommt zurück in die Tasche
+388|braucht
+389|oder besser
+390|Spitzhacke. Stell sie in der Werkstatt her
+391|Die Bibliothek ist magisch und kann nicht abgebaut werden
+392|Dieser Boden hält den Platz für Gebäude aus deinen Büchern frei
+393|Das hat dein Buch gebaut, es kann nicht abgebaut werden
+394|Drück den großen Knopf „Ich habe gelesen!“ und füge das Buch hinzu, das du liest. Ich passe auf die Baustelle auf
+395|Heute haben wir noch nicht gelesen. Wie viele Seiten von „
+396|“ wirst du lesen
+397|Tage in Folge! Siehst du, wie das Licht an der Bibliothek leuchtet
+398|Ich kann es kaum erwarten zu sehen, wie es aussieht
+399|wenn du es fertig hast
+401|Gewöhnlich
+402|Ungewöhnlich
+403|Selten
+404|Episch
+405|Legendär
+406|Strandschätze
+407|Weiße Muschel
+408|Rosa Muschel
+409|Seestern
+410|Schneckenhaus
+411|Goldene Muschel
+412|Waldschätze
+413|Eichel
+414|Herbstblatt
+415|Roter Pilz
+416|Blaue Feder
+417|Vierblättriges Kleeblatt
+418|Feenflügel
+419|Bergschätze
+420|Feuerstein
+421|Schneekristall
+422|Schneckenfossil
+423|Drachenei
+424|Sardine
+425|Brandbrasse
+426|Gelbstriemen
+427|Meeräsche
+428|Goldbrasse
+429|Wolfsbarsch
+430|Krebs
+431|Krake
+432|Zahnbrasse
+433|Hummer
+434|Mondfisch
+435|Leuchtkalmar
+436|Goldfisch
+437|Blumenkranz
+438|Zauberhut
+439|Detektivhut
+440|Piratenhut
+441|Propellermütze
+442|Goldene Krone
+443|Raumhelm
+444|Lies 10 Seiten
+445|Lies 25 Seiten
+446|Beantworte Ridas Frage zum Buch
+447|Finde 3 Schätze auf der Insel
+448|Fang 2 Fische am Steg
+449|Sammle 15 Sterne beim Ballonflug
+450|Setz 8 Bausteine beim Bauen
+451|Grab 12 Bausteine mit Rida ab
+452|Stell etwas in der Werkstatt her
+453|Pflanze 3 Samen mit Rida
+454|Ernte 4 Früchte im Garten
+455|Füttere 2 Tiere
+456|Verkauf der Elster Sjajka 5 Dinge
+457|für Spiele
+458|Noch
+459|bis zum nächsten Ticket und neuen Bausteinen
+460|In die Bautasche
+461|Der Garten ist reif
+462|Pflanze ist bereit
+463|Pflanzen sind bereit
+464|zur Ernte
+465|Dein Garten ist gewachsen um
+466|Das Lesen hat neue Schätze auf der Insel freigelegt
+467|Drück auf Erkunden und such sie mit Rida
+468|Aufgabe erledigt
+469|Öffne die Truhe bei den Aufgaben
+470|Du hast keine Spieltickets. Lies 10 Seiten und du bekommst ein neues
+471|Dieser Schatz liegt auf dem Inselchen! Drück auf Erkunden und schwimm mit Rida hin
+472|Schätze sammelt Rida! Drück auf Erkunden und lauf zu dem, was funkelt
+473|und 8 Bretter
+474|Neu in der Sammlung
+475|Die Sammlung „
+476|“ ist vollständig! Die Belohnung wartet unter Spiele → Sammlung
+477|Der Steg wird noch gebaut
+478|Tipp den Knopf an und wirf die Angel aus
+479|Angeln
+480|Würfe
+481|Angel auswerfen
+482|Angeln beenden
+483|Warte…
+484|Ziehen
+485|Halten zum Aufrollen
+486|Neue Würfe! Wirf die Angel aus
+487|Etwas Kleines
+488|Wehrt sich gut
+489|Das ist ein starker Fisch
+490|Er ist riesig
+491|Er funkelt… unglaublich
+492|Geduld… warte, bis er anbeißt
+493|Er beißt! Schnell antippen
+494|Er ist entwischt… Nächstes Mal schneller
+495|Der Fisch hat sich losgerissen! Halte die grüne Zone unter dem gelben Strich
+496|Nochmal auswerfen
+497|Die Würfe sind aufgebraucht
+498|Er hat dir einen Wunsch erfüllt
+499|Neue Art
+500|Neuer Rekord
+501|Weiter
+503|Heute hast du gefangen
+504|Alle sind in deiner Sammlung
+505|Sammle Sterne! Rosa Sterne zählen 5
+506|5 Rosa Stern
+507|Serie ×
+509|Der Flug ist vorbei
+510|Rekord
+511|Noch ein Flug
+512|Zurück auf die Insel
+513|Was ziehen wir heute an
+514|Trägt ihn
+515|Gehört dir
+516|Ausziehen
+517|Anziehen
+518|Kaufen für
+519|Es fehlen noch
+520|Ich liebe ihn! Danke
+521|Sammlung
+522|Aufgaben
+523|für Spiele. Alle 10 gelesenen Seiten bringen ein neues, und eins bekommst du jeden Tag
+524|Arten in der Sammlung
+525|Weiter
+526|Spielen
+527|Ballonflug
+528|Sterne
+529|Markt und Kleiderschrank
+530|Die Elster Sjajka kauft Früchte aus dem Garten und Schätze und verkauft Samen, Wolle, Kostüme und eine Schatzkarte. Hier sind auch deine Tierfreunde
+531|Kostüme
+532|Öffnen
+533|Auf der Insel ist jetzt versteckt
+534|Drück auf Erkunden und lauf mit Rida zu dem, was funkelt
+535|Heute hast du alle Schätze gefunden. Neue kommen morgen und wenn du liest
+536|Belohnung abholen
+537|Vollständig
+538|Belohnung: 150 Goldmünzen und 2 Tickets
+539|Fische
+540|Nur nachts
+541|Jeden Tag drei neue Aufgaben. Für jede erledigte öffnest du eine Truhe
+542|Belohnung
+543|und 1 Ticket
+544|Fertig
+545|Aufgaben des Tages
+546|Meine Sammlung
+547|Spielhaus
+548|Zieh mit dem Finger zum Verschieben. Zwei Finger: zoomen und drehen. Doppelt antippen, um näher heranzugehen
+549|Linke Taste: verschieben. Rechte Taste: drehen. Mausrad: zum Zeiger zoomen. Doppelklick: näher heran
+550|Mit dem linken Kreis steuerst du Rida, mit dem Finger drehst du die Ansicht, und mit dem gelben Knopf springst du
+551|W A S D oder die Pfeiltasten steuern Rida, die Leertaste springt, und mit der Maus drehst du die Ansicht
+552|Rida springt von selbst auf einen Block
+553|Neben der Bibliothek steht eine Werkbank. Öffne die Tasche, stell eine Holzspitzhacke her und los geht's zum Graben
+554|Der Pfeil oben zeigt den Weg zum nächsten Schatz
+555|Heute sind alle Schätze gefunden. Erkunde die Höhle, das Meer und die fernen Inseln
+556|Schatz
+557|Alle Schätze sind gefunden
+558|Komm näher
+559|Geh näher an die Truhe
+560|Zu weit weg! Komm näher
+561|Halte den Finger auf einem Block und Rida gräbt ihn ab. Zum Bauen wähle unten einen Baustein
+562|Hier steht Rida! Wähle etwas weiter weg
+563|Rida sitzt im Boot! Jetzt kann sie zu fernen Inseln fahren
+564|Rida muss Luft holen
+565|Rida muss Luft holen! Mit der Taucherbrille kann sie viel länger tauchen
+566|Rida wird müde! Zurück an Land
+567|Für ferne Inseln bau ein Boot in der Werkstatt
+568|Puh, Rida ist müde. Sie ist zum Ufer zurückgekehrt
+569|Puh, Rida ist vom Schwimmen müde und zum Ufer zurückgekehrt. Für ferne Meere bau ein Boot
+570|Runter
+571|Tauchen
+572|Hoch
+573|Sprung
+574|Das ist der Boden der Welt. Tiefer geht es nicht
+575|Das ist ein Teil eines alten Bauwerks. Lass es ganz, damit alle es erkunden können
+576|Darauf steht eine Truhe
+577|Kohle! Daraus entstehen Glas, Laternen und Ziegel
+578|Kupfer! Das braucht man für die Taucherbrille
+579|Eisen! Daraus sind starke Werkzeuge und die Handlampe
+580|Goldnugget! Sechs Nuggets ergeben einen Goldblock
+581|DIAMANT! Der härteste Stein der Welt
+582|Smaragd! Ein seltener grüner Edelstein
+583|In der Tasche ist nichts mehr von
+584|Es gibt noch welche auf dem Markt und im Garten
+585|Grab oder stell noch welche her
+586|Tipp Erde, Gras oder Ackerboden an und Rida pflanzt den Samen
+587|Diese Truhe ist leer. Der ganze Schatz daraus gehört schon dir
+588|Geöffnete Truhen
+589|Die anderen verstecken sich in der Höhle, unter dem Meer und auf fernen Inseln
+590|Du hast einen neuen Ort entdeckt
+591|Das wird an der Werkbank hergestellt. Eine steht bei der Bibliothek, du kannst aber auch deine eigene bauen
+592|Es fehlt noch Material
+593|Du hast hergestellt
+594|Das Boot ist in der Tasche. Wenn Rida ins tiefe Meer schwimmt, setzt sie sich von selbst hinein
+595|Mit der Brille taucht Rida lange. Unter dem Meer gibt es ein Korallenriff und ein gesunkenes Schiff
+596|Im Dunkeln schaltet Rida die Lampe von selbst ein
+597|Bausteine
+598|Werkstatt
+599|Garten
+600|Werkzeug und Schätze
+601|Karte
+602|Tipp einen Baustein an, um ihn in die Hand zu nehmen. Durch Graben und in der Werkstatt bekommst du neue
+603|Die Tasche ist leer. Grab etwas ab
+604|Materialien
+605|Die Werkbank ist nah. Du kannst alles herstellen
+606|Ohne Werkbank gehen nur einfache Dinge. Eine steht bei der Bibliothek
+607|Grundlagen
+608|Werkzeuge
+609|Abenteuerausrüstung
+610|Zum Bauen
+611|Hast du schon
+612|An der Werkbank
+613|Herstellen
+614|Fehlt
+615|Ausrüstung
+616|In der Werkstatt herstellen
+617|Erkunden
+618|Entdeckte Orte
+619|Abgebaute Blöcke
+620|Der orange Pfeil ist Rida, rosa Punkte sind Schätze und gelbe sind ungeöffnete Truhen. Fragezeichen sind Orte, die du noch nicht entdeckt hast
+621|Tasche
+623|Ridas Garten
+624|Du hast keine mehr
+625|wird in Erde, Gras oder Ackerboden gepflanzt
+626|Darüber muss Platz frei sein
+627|Unter Wasser wächst nichts
+628|Gepflanzt! Die Pflanze wächst von allein, und jede gelesene Seite hilft ihr beim Reifen
+629|wächst noch
+630|Pflanzen wachsen von allein bis zur Hälfte. Ganz reif macht sie
+631|das Lesen
+632|jede gelesene Seite ist ein Schritt für jede Pflanze im Garten
+633|Der Garten ist leer. Starte
+634|Erkunden
+635|nimm Samen in die Pfote und tipp Erde oder Gras an
+636|Im Garten wächst
+637|Reif! Ernten
+638|Alles Reife ernten
+639|Samen
+640|In die Pfote nehmen
+641|Wird beim Erkunden gepflanzt
+642|Du hast keine Samen. Kauf welche bei der Elster Sjajka auf dem Markt oder ernte reife Pflanzen
+643|Geerntet
+644|Früchte kannst du auf dem Markt verkaufen oder damit Tiere füttern
+645|Insgesamt geerntet
+646|Seite für den Garten
+647|Starte Erkunden und Rida pflanzt Samen, wo du die Erde antippst
+648|Tipp Erde, Gras oder Ackerboden an und Rida pflanzt
+649|Markt
+650|Bringt jeden Tag ein paar Samen
+651|Taucht im See und findet Perlen oder Fische
+652|Kvaki liebt Wasser und bleibt am See
+653|Findet Beeren im Gebüsch
+654|Gibt weiche weiße Wolle
+655|Bringt Schätze vom Riff
+656|Findet Goldmünzen, die der Wind verweht hat
+657|Bringt glänzende Steine von fernen Inseln
+658|Flüstert, wo sich eine ungeöffnete Truhe versteckt
+659|Mudrica hütet die Bibliothek und verlässt sie nicht
+660|Pinguin Pipo
+661|Rutscht übers Eis und sammelt glänzende Dinge
+662|Findet eine Perle oder bringt Eis und Schnee
+663|Frosch Kvakica
+664|Singt am Teich, wenn es dunkel wird
+665|Findet manchmal Zaubersamen
+666|Kamel Dina
+667|Kennt alle Wege durch den Sand
+668|Bringt Goldnuggets aus der Wüste
+669|ich mag Karotten
+670|ich suche eine Perle
+671|ist jetzt dein bester Freund! Jeden Tag gibt es ein Geschenk für dich
+672|und kann Rida auch beim Erkunden begleiten
+673|Die Eule hat dir eine Truhe auf der Karte markiert
+674|Alle Truhen sind geöffnet. Die Eule schenkt dir Zaubersamen
+675|Neuer Freund
+676|Mag
+677|Das ist für dich
+678|Mjam! Das ist mein Lieblingsessen
+679|Mjam, danke
+680|Freundschaft
+681|Am liebsten mag ich
+682|Such im Garten oder auf dem Markt
+683|Morgen habe ich ein neues Geschenk für dich
+684|Danke fürs Essen! Bis morgen
+685|Elster Sjajka
+686|Willkommen auf dem Markt! Ich kaufe alles, was glänzt, und alles, was wächst
+687|Ooh, toll! Was bringst du mir heute
+688|Elster Sjajka zu Diensten! Ich habe Samen, Wolle und eine geheime Karte
+689|Die Früchte aus deinem Garten sind die süßesten der ganzen Insel
+690|Tipp mich an
+691|Sjajkas Schatzkarte
+692|Markiert die nächste ungeöffnete Truhe auf der Karte und lässt darüber eine Lichtsäule leuchten
+693|Verkaufen
+694|Kaufen
+695|Freunde
+696|Kleiderschrank
+697|Heute suche ich besonders
+698|Dafür zahle ich das Doppelte
+699|Du hast
+700|pro Stück
+701|1 verkaufen
+702|Alle
+703|Du hast noch nichts, was Sjajka kauft. Sie mag Früchte aus dem Garten, Fische, Erze, Perlen, Kristalle und Korallen
+704|Samen, Wolle in allen Farben und eine geheimnisvolle Karte. Was brauchst du
+705|Reift in
+706|Die Tiere auf der Insel lieben das Essen aus deinem Garten. Füttere sie jeden Tag und ihr werdet Freunde
+707|Kommt, wenn du gelesen hast
+708|Lebt auf einer der fernen Inseln. Finde es beim Erkunden
+709|Am liebsten
+710|Geschenk
+711|Hat heute schon gegessen ✓
+712|Füttern
+713|Du hast kein Futter
+714|Auf der Insel füttern
+715|Begleitet Rida
+716|Mitnehmen
+717|Für dich habe ich Hüte, Schals und Umhänge. Manche kannst du kaufen, manche schaltet nur ein echtes Abenteuer frei
+718|Manche kauft man mit Goldmünzen, manche werden durch Lesen, Erkunden und Gartenarbeit freigeschaltet
+719|Im Kleiderschrank anprobieren
+720|Gehört dir ✓
+721|Freigeschaltet
+722|Goldmünzen. Durch Lesen und Verkaufen verdienst du neue
+723|Alle Truhen sind schon geöffnet
+724|Sjajka hat eine Truhe mit einem roten X auf der Karte markiert, und darüber leuchtet eine Lichtsäule
+725|Mjam! Lieblingsessen
+726|begleitet Rida, wenn du erkundest
+727|Strohhut
+728|Ernte 10 Früchte
+729|Bergmannshelm
+730|Grab 150 Blöcke ab
+731|Hat eine Lampe: leuchtet in der Höhle
+732|Kapitänsmütze
+733|Öffne die Truhe auf dem gesunkenen Schiff
+734|Roter Schal
+735|Fliege
+736|Entdeckertuch
+737|Entdecke 6 Orte auf der Karte
+738|Perlenmedaillon
+739|Öffne 5 Truhen
+740|Entdeckerrucksack
+741|Umhang der Leserin
+742|Lies 3 Bücher zu Ende
+743|Schmetterlingsflügel
+744|Lies insgesamt 1000 Seiten
+745|Sternenumhang
+746|Kopf
+747|Hals
+748|Rücken
+749|Tragen
+750|Du hast ihn freigeschaltet
+751|So bekommst du ihn
+752|Nehmen
+753|Hauptfigur
+754|Freund
+755|Bösewicht
+756|Lustig
+757|Weise
+758|Geheimnisvoll
+759|Neues Lesetagebuch! Du hast schon
+760|Abzeichen
+761|Abzeichen
+762|Abzeichen
+763|Schau ins Tagebuch
+764|Erstes Buch
+765|Lies ein Buch zu Ende
+766|Bücherwurm
+767|Lies 5 Bücher zu Ende
+768|Herrin der Bücher
+769|Lies 10 Bücher zu Ende
+770|Hundert Seiten
+771|Lies insgesamt 100 Seiten
+772|Fünfhundert Seiten
+773|Lies insgesamt 500 Seiten
+774|Tausend Seiten
+775|Dreitausend Seiten
+776|Lies insgesamt 3000 Seiten
+777|Drei Tage in Folge
+778|Lies 3 Tage in Folge
+779|Lesewoche
+780|Lies 7 Tage in Folge
+781|Zwei Wochen
+782|Lies 14 Tage in Folge
+783|Lesemonat
+784|Lies 30 Tage in Folge
+785|Reisende durch die Genres
+786|Lies Bücher aus 3 verschiedenen Arten
+787|Alle Welten
+788|Lies Bücher aller Arten
+789|Zitatjägerin
+790|Schreib 5 Lieblingssätze auf
+791|Figurenkennerin
+792|Trag 5 Figuren aus Büchern ein
+793|Illustratorin
+794|Mal ein Titelbild für ein Buch
+795|Kritikerin
+796|Bewerte 3 gelesene Bücher
+797|Denkerin
+798|Beantworte 10 Fragen von Rida
+799|Rätsellöserin
+800|Löse 10 Rätsel
+801|Hüterin der Geschichten
+802|Bring alle 7 Seiten zum Großen Buch zurück
+803|Abzeichen
+804|20 Goldmünzen
+805|Großes Buch
+806|Kalender
+807|Abzeichen
+808|Notizen
+809|Seite
+810|Satz
+811|Sätze
+812|Noch keine Bücher. Drück auf „Ich habe gelesen!” und füge das erste hinzu
+813|Tipp ein Buch an, um seine Seite im Tagebuch zu öffnen: Figuren, Lieblingssätze, deine Gedanken und ein Titelbild, das du selbst malst
+814|Für jedes neue Abzeichen bekommst du 20 Goldmünzen
+815|Gewonnen
+816|Lieblingssätze
+817|Antworten auf Ridas Fragen
+818|Januar
+819|Februar
+820|März
+821|Januar
+822|Februar
+823|März
+824|du hast gelesen
+825|Serie jetzt
+826|längste Serie
+827|S. in 7 Tagen
+828|Tage diesen Monat
+829|Mo
+830|Di
+831|Mi
+832|Do
+833|Fr
+834|Sa
+835|So
+836|wenig
+837|viele Seiten
+838|Letzte 14 Tage
+839|Die Grafik füllt sich, wenn du gelesene Seiten einträgst
+840|Meine Buchgenres
+841|‹ Alle Tagebücher
+842|Begonnen
+843|Lesungen
+844|Durchschnitt
+845|Deine Bewertung
+846|Sterne"
+847|Seiten eintragen
+848|Auf der Insel zeigen
+849|Figuren
+850|Wer kommt alles im Buch vor? Trag die Figuren ein, damit du sie nicht vergisst
+851|Figur hinzufügen
+852|Name
+853|Was für eine Figur ist das
+854|Figur speichern
+855|Wenn dir ein Satz sehr gefällt, schreib ihn hier auf
+856|Satz aufschreiben
+857|Satz aus dem Buch
+858|Satz speichern
+859|Meine Gedanken
+860|Das Buch ist auf der Karte in der Tasche markiert
+862|‹ Zurück zum Buch
+863|Titelbild
+864|Mal ein Titelbild für „
+865|”. Es erscheint im Tagebuch und auf dem Schild über dem Buch auf der Insel
+866|Pinsel
+867|Eimer
+868|Radiergummi
+869|Rückgängig
+870|Leeren
+871|Titelbild speichern
+872|Das Titelbild ist gespeichert. Schau dir das Schild über dem Buch auf der Insel an
+873|Eine Insel aus Wörtern
+874|Die erste Seite hängt in Ridas Garten fest, bei der Vogelscheuche mit dem Kürbis
+875|Auf der Seite steht ein Rätsel. Löse es, und die Seite gehört dir
+876|Am Anfang gab es nichts außer dem Meer und einem stillen Gedanken: Was wäre, wenn jemand eine Geschichte erzählen würde? Aus diesem Gedanken tauchte eine Insel auf, klein wie eine Erbse. Das erste Wort, das jemand laut vorlas, fiel in den Sand, und daraus spross Gras. Das zweite wurde ein Baum. Das dritte wurde eine Sonne, die das Gras und den Baum wärmte. So lernte die Insel ihre wichtigste Regel: Alles, was gelesen wird, wächst hier
+877|Die Füchsin, die Wörter sammelte
+878|Der Wind hat die zweite Seite bis zum Markt der Elster Sjajka getragen
+879|Sjajka hat die Seite zwischen ihren glänzenden Sachen versteckt und alles durcheinandergebracht. Finde alle Paare
+880|Die erste Bewohnerin der Insel war eine kleine Füchsin mit einem Schwanz in Herbstfarben. Man nannte sie Rida. Rida konnte nicht lesen, aber sie hörte gern zu. Jeden Abend saß sie am Meer und wartete darauf, dass der Wind ihr ein Wort aus fernen Büchern brachte. Die Wörter kamen selten, wie Regentropfen mitten im Sommer, und Rida bewahrte sie in ihrer Tasche auf wie den größten Schatz. Ihr Lieblingswort war „zusammen”
+881|Kristalle, die sich erinnern
+882|Die dritte fiel in die Kristallhalle tief im Berg. Geh durch die Bergmannstür in die Höhle und folge dem Funkeln
+883|Die Kristalle bewachen die Seite. Hör dir ihre Melodie an und spiel sie nach
+884|Eines Tages fand Rida im Herzen des Berges eine Halle voller Kristalle. Jeder Kristall sang mit einer anderen Stimme, und wenn sie sie der Reihe nach berührte, klangen sie wie ein Satz. „Kristalle erinnern sich an Geschichten”, flüsterte die Eule Mudrica, die dort saß, seit sie denken konnte. „Aber nur, solange jemand sie liest. Eine Geschichte, die niemand liest, verstummt langsam, wie ein Kristall, den niemand berührt.”
+885|Ein Schiff voller Schriftsteller
+886|Die vierte ist zum alten Schiff auf dem Meeresgrund gesunken. Tauch! Die Taucherbrille aus der Werkstatt hilft dir, länger unter Wasser zu bleiben
+887|Das Meer hat die Seite durchnässt, und das Bild darauf ist in Stücke zerfallen. Setz es wieder zusammen
+888|Mudrica erzählte Rida vom Großen Buch. Darin ist die ganze Geschichte der Insel aufgeschrieben: jeder Baum, jeder Stein und jeder Stern. Das Buch brachte vor langer Zeit ein Schiff voller Schriftsteller, aber ein Sturm ließ es kurz vor der Küste sinken. Die Schriftsteller schwammen zum Strand, und das Buch trieb ihnen hinterher. Aus Dankbarkeit bauten sie ihm ein Zuhause: eine Bibliothek mit einem Turm und einem Licht, das nie erlischt
+889|Gäste aus gelesenen Geschichten
+890|Die fünfte versteckt sich beim Wüstentempel auf der Wüsteninsel. Dorthin kommst du mit dem Boot
+891|In die Tempelwand ist ein geheimes Wort geritzt. Entschlüssle die Zeichen mit dem Schlüssel
+892|Das Große Buch hatte eine seltsame Kraft. Jedes Mal, wenn irgendwo auf der Welt jemand ein Buch zu Ende las, erschien darin eine neue Seite. Und mit jeder neuen Seite kam ein neuer Gast auf die Insel. So kamen der Pinguin vom Eisberg, das Kamel aus der goldenen Wüste und der Frosch aus dem Blumengarten. Jeder von ihnen kam aus einer gelesenen Geschichte, und jeder brachte ein Stück seiner Welt mit

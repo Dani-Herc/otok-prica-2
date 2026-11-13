@@ -1,0 +1,424 @@
+4437|Leuchtturmstrahlen
+4438|Hinter Rida flimmern warme Lichtstrahlen wie von der Spitze eines Leuchtturms
+4439|Robbe Pega
+4440|Eine runde graue Robbe mit Tupfen. An Land hüpft sie auf dem Bauch, und im Meer ist sie schnell wie ein Pfeil
+4441|Bringt Fisch und Perlen aus dem Meer
+4442|Robbenschwimmen
+4443|Pega schwimmt durch die Wellen und taucht unter. An Land hüpft sie langsamer, aber sehr fröhlich
+4444|Pega trägt dich! Im Meer ist sie am schnellsten, und sie kann auch tauchen
+4445|Papageitaucher Klempo
+4446|Ein kleiner Papageitaucher mit buntem Schnabel. Wegen des Schnabels nennt man ihn Meeresclown
+4447|Bringt Federn und Fischchen von den Klippen
+4448|Papageitaucherflug
+4449|Klempo schlägt schnell mit den Flügeln, und ihr fliegt dicht über den Wellen! Springen ist hoch, Tauchen ist runter
+4450|Klempo fliegt! Springen ist hoch, Tauchen ist runter
+4451|Schwimmer
+4452|Auf dem Balkon des Leuchtturms. Steig die Wendeltreppe bis ganz nach oben
+4453|Truhe neben der großen Lampe
+4454|Truhe des Leuchtturmwärters
+4455|Fischertruhe
+4456|Fischerdorf
+4457|Die Signallichter leuchten in der richtigen Reihenfolge! Das Häuschen am Ende des Stegs hat sich geöffnet
+4458|Hoppla, falsches Licht. Schau dir die Wimpel am Mast an, von oben nach unten, und fang von vorn an
+4459|Im Häuschen am Ende des Stegs. Schalte die Signallichter in der Reihenfolge der Wimpel am Mast ein
+4460|In Nelas Fischerhäuschen. Hilf Nela, die Schwimmer einzusammeln
+4461|Fischerhafen
+4462|Über dem größten Gezeitentümpel an der Ostküste
+4463|Gezeitentümpel
+4464|In der Meereshöhle unter dem Westfelsen. Schwimm durch die Öffnung im Meer hinein
+4465|Oben auf dem Westfelsen. Das Blasloch aus der Höhle bringt dich hinauf
+4466|Truhe in der Meereshöhle
+4467|Meereshöhle
+4468|Auf dem höchsten Robbenfelsen im Nordwesten
+4469|Truhe auf dem Robbenfelsen
+4470|Robbenfelsen
+4471|Oben auf dem Möweninselchen. Sprungsteine tragen dich hinauf
+4472|Möwentruhe
+4473|Möweninselchen
+4474|Auf der Glockenboje weit im Osten. Schwimm oder rudere hin
+4475|Glockenboje
+4476|Auf dem Floß südlich des Hafens. Es öffnet sich, wenn du die Regatta gewinnst! Der Start ist am Ende des Stegs
+4477|Regatta
+4478|Sieg in der Regatta! Das Floß südlich des Hafens hat sich geöffnet
+4479|Weißer Stein und blaues Tuch, wie die Häuser im Fischerdorf
+4480|Der Leuchtturmwärter schenkt dir rot-weiße Blöcke. Bau deinen eigenen Leuchtturm
+4481|Perlen aus der Meereshöhle
+4482|Die Robben haben hier Kies und eine Perle aufbewahrt
+4483|Die Möwen schenken dir Heu für Nester und ein Goldnugget
+4484|Der Leuchtturm leuchtet wieder! Das ist der Schatz des Leuchtturmwärters
+4485|Opa Lovro
+4486|Fischerin Nela
+4487|Fischer Jakov
+4488|Kätzchen Luka
+4489|Schäfchen Bijela
+4503|Fischchen für Pega
+4504|Arf, arf! Ich bin Pega. Ich habe Hunger, und die Fischchen haben sich in den Gezeitentümpeln an der Ostküste versteckt. Bringst du mir drei? Dann gehen wir zusammen schwimmen
+4505|Arf! Die leckersten Fischchen! Jetzt sind wir Freundinnen. Spring auf meinen Rücken, ab in die Wellen
+4506|Junge Robben haben ein weißes, weiches Fell, das sie in der Kälte wärmt
+4507|Moos für das Nest
+4508|Piep-piep! Ich bin Klempo. Ich baue ein Nest und brauche weiches Moos. Es wächst beim Leuchtturm, oben auf dem Westfelsen, auf dem Robbenfelsen und beim Hafen. Bringst du mir vier Büschel
+4509|Was für ein weiches Nest! Danke. Willst du mit mir dicht über den Wellen fliegen
+4510|Papageitaucher können zehn kleine Fische auf einmal im Schnabel tragen
+4511|Oje, Kleine! Ich bin Nela. Der Sturm hat fünf Schwimmer von meinem Netz gerissen und über die Bucht verstreut. Findest du sie? Schwimm oder rudere, sie sind rot-weiß und gut zu sehen
+4512|Alle fünf Schwimmer! Danke, das Netz ist wieder ganz. Geh in mein Häuschen, ich habe dir etwas Schönes hingelegt
+4513|Das Netz ist wieder ganz, danke! Im Häuschen wartet ein Geschenk auf dich
+4514|Rot-weiße Schwimmer treiben in der Bucht
+4515|Der Leuchtturm! Drinnen führt eine Wendeltreppe bis zum Balkon. Oben ist die große Lampe, aber sie ist aus
+4516|Gezeitentümpel! Darin leben Krebse und Seesterne, und ein Tümpel versteckt eine Lichtperle
+4517|Die Meereshöhle! Was da oben rauscht, ist ein Blasloch. Stell dich hinein, und die Welle schießt dich auf den Felsen
+4518|Das Möweninselchen! Sprungsteine schleudern dich auf eine höhere Terrasse
+4519|Der Leuchtturm leuchtet wieder! Die Schiffe finden jetzt sicher ihren Weg. Oben im Lampenraum wartet meine Truhe auf dich, du hast sie dir verdient
+4520|Willkommen auf der Leuchtturminsel, Kleine! Ich bin Opa Lovro, der Leuchtturmwärter. Gestern Nacht hat der Sturm meine Lampe gelöscht und zehn Lichtperlen über die Insel und das Meer verstreut. Ohne sie kann der Leuchtturm nicht leuchten, und die Schiffe verirren sich nachts. Hilf mir, sie zu sammeln
+4521|Lichtperlen
+4522|Auf der Insel gibt es auch Freunde, die Hilfe brauchen
+4523|Eine felsige Insel in der Dämmerung: ein hoher, erloschener Leuchtturm, ein Fischerdorf, Gezeitentümpel, eine Meereshöhle mit Blasloch, Robben und eine Regatta in der Bucht
+4524|Signallichter
+4525|Lichtperle
+4526|Lichtperlen
+4527|Alle Lichtperlen
+4528|Alle 10 Lichtperlen! Die große Lampe des Leuchtturms leuchtet wieder, und die Kristallkuppel oben öffnet sich
+4529|Die erste Lichtperle! Der Kompass oben zeigt die nächste
+4530|Leuchtturminsel! Lichtperlen
+4531|Opa Lovro wartet auf dem Platz auf dich
+4532|Das Licht eines Leuchtturms sieht man bis zu dreißig Kilometer weit. Jeder Leuchtturm blinkt auf seine eigene Art, deshalb wissen Seeleute an den Blitzen, welcher es ist
+4533|In Gezeitentümpeln leben Tiere, die Wasser und Sonne aushalten: Krebse, Schnecken, Seeanemonen und Seesterne
+4534|Das Meer schlägt Hunderte Jahre gegen den Felsen und höhlt ihn langsam aus. So entstehen Meereshöhlen
+4535|Ein Blasloch ist ein Loch im Felsen über einer Meereshöhle. Wenn eine Welle in die Höhle schlägt, schießt das Wasser durch das Loch hoch in die Luft, wie wenn ein Wal atmet
+4536|Robben können bis zu einer halben Stunde unter Wasser bleiben. An Land bewegen sie sich hüpfend auf dem Bauch
+4537|Möwen sind sehr schlau. Manche lassen Muscheln auf Steine fallen, damit sie zerbrechen, und fressen dann, was drin ist
+4538|Bojen zeigen Schiffen den Weg. Manche haben eine Glocke, die läutet, wenn die Wellen sie schaukeln, so hört man sie auch im Nebel
+4539|Eine Regatta ist ein Wettrennen von Segelbooten. Manche Regatten auf der Welt gibt es schon seit mehr als hundertfünfzig Jahren
+4540|Schiffe tragen nachts Lichter: rot auf der linken Seite, grün auf der rechten und weiß am Mast. So wissen andere Schiffe, wohin sie fahren
+4541|Fischer binden ihre Netze an Schwimmer, damit sie nicht sinken und man sie auf dem Meer leicht findet
+4542|Heute Abend ist das Meer glatt wie Öl
+4543|Die Signallichter am Steg gehen der Reihe nach an, wie die Wimpel am Mast: von oben nach unten
+4544|Die Regatta startet am Ende des Stegs. Fahr durch alle blauen Ringe auf dem Meer
+4545|Wenn ich groß bin, werde ich Leuchtturmwärter wie Opa Lovro
+4546|Hast du das Blasloch am Westfelsen gesehen? Pschhh
+4548|Ich sonne mich auf dem Felsen, bitte nicht stören
+4549|Im Meer gibt es so viele Fischchen
+4550|Piep! Was für ein schöner Tag zum Fischen
+4551|Mein Schnabel ist der bunteste der Insel
+4552|Kri-kri! Das ist mein Platz
+4553|Ich habe aus der Luft eine Lichtperle gesehen
+4555|Pass auf, im Tümpel sind Seesterne, tritt nicht darauf
+4556|Mäh! Hier oben weht der Wind
+4557|Mmm, salziges Gras ist das beste
+4558|Iii-iii! Lauf mit mir um die Wette
+4559|Die Kristallkuppel hält den Lampenraum verschlossen. Sammle alle 10 Lichtperlen
+4560|Der Leuchtturm leuchtet wieder
+4561|Schatz des Leuchtturmwärters
+4562|Die Füchsin im Regenmantel und die Leuchtturmstrahlen gehören jetzt dir. Opa Lovro sagt, die Schiffe sind heute Nacht dank dir sicher
+4563|Karnevalsfüchsin
+4564|Ein lila-goldenes Karnevalskostüm. Jeder Schritt ist wie ein Tanz
+4565|Konfetti
+4566|Hinter Rida fliegt buntes Karnevalskonfetti
+4567|Taube Gugi
+4568|Eine kluge Taube vom Platz. Sie kennt jedes Dach und jeden Schornstein der Stadt
+4569|Bringt Samen und verlorene Goldmünzen von den Dächern
+4570|Taubenflug
+4571|Gugi trägt dich über Dächer und Kanäle! Springen ist hoch, Tauchen ist runter
+4572|Gugi fliegt! Springen ist hoch, Tauchen ist runter
+4573|Pfau Šarko
+4574|Ein stolzer Pfau aus dem Palastgarten. Wenn er sein Rad schlägt, hält der ganze Platz inne
+4575|Bringt bunte Federn und Beeren aus dem Garten
+4576|Pfauensprung
+4577|Šarko springt hoch und zweimal hintereinander, und sein Schwanz öffnet sich wie ein Fächer
+4578|Šarko trägt dich! Spring zweimal hintereinander für einen Pfauensprung
+4579|Brotkrümel
+4580|Glasperle
+4581|Karnevalsfeder
+4582|Am Grund der alten Zisterne unter dem Brunnen auf dem Platz. Spring in den Brunnen und tauch
+4583|Truhe in der Zisterne
+4584|Oben im Glockenturm auf dem Platz. Die Treppe führt um den Turm herum
+4585|Glockenturm
+4586|Truhe auf dem Platz
+4587|Taubenplatz
+4588|Karnevalsschatzkammer
+4589|Karnevalspalast
+4590|Unter der überdachten Brücke zwischen dem Palast und den Dächern. Schwimm oder rudere durch den Kanal
+4591|Seufzerbrücke
+4592|Genau in der Mitte des Labyrinths im Palastgarten
+4593|Palastgarten
+4594|Der Ofen hat gesungen! Glasmacher Marko öffnet die Vitrine mit dem Glasschatz
+4595|Das Glas ist gesprungen! Schau dir das Buntglasfenster an der Werkstattwand an, von oben nach unten, und fang von vorn an
+4596|In der Glasvitrine in der Glaswerkstatt. Heiz den Ofen in der richtigen Farbreihenfolge an
+4597|Truhe des Glasmachers
+4598|Glaswerkstatt
+4599|Im Schaufenster von Ines' Maskenwerkstatt. Hilf Ines, die Karnevalsfedern einzusammeln
+4600|Maskenwerkstatt
+4601|BUMM! Die Konfettikanone hat dich direkt auf die Spitze der Stadtuhr geschossen
+4602|Karnevalsbühne
+4603|Oben auf der Stadtuhr. Die Konfettikanone auf der Karnevalsbühne bringt dich hin
+4604|Juhuu! Zurück zur Karnevalsbühne
+4605|Stadtuhr
+4606|Auf dem höchsten Dach im Dächerviertel. Spring auf die Sprungwolke und lauf über die Dächer
+4607|Truhe auf dem Dach
+4608|Dächerviertel
+4609|Im Pavillon der Gondolieri beim Portal. Er öffnet sich, wenn du das Gondelrennen gewinnst
+4610|Gondelrennen
+4611|Sieg im Gondelrennen! Der Pavillon der Gondolieri hat sich geöffnet
+4612|Unter einem roten X auf der Sandbank weit draußen in der Lagune vergraben. Grab
+4613|Du gräbst und gräbst... und da ist sie! Eine goldene Maske im Sand
+4614|Truhe auf der Sandbank
+4615|Sandbank
+4616|Stein vom Platz: Bau dir auch deinen eigenen kleinen Platz
+4617|Ein lang verlorener Schatz aus der Zisterne
+4618|Die Truhe des Gärtners: Hecke und Kirschblüten
+4619|Glasmacher Marko schenkt dir Glas für Fenster
+4620|Dachziegel und Ziegel vom höchsten Dach der Stadt
+4621|Sand und eine Perle von der Sandbank in der Lagune
+4622|Die Karnevalsschatzkammer! Der glänzendste Schatz der ganzen Stadt
+4623|Gondoliere Toni
+4624|Maskenmacherin Ines
+4625|Glasmacher Marko
+4626|Kater Brko
+4627|Katze Lili
+4628|Häschen Hop
+4638|Pfauenhenne Lea
+4639|Gru-gru! Ich bin Gugi. Jemand hat auf dem Platz Brotkrümel verstreut, und ich finde sie nicht alle. Bringst du mir vier Häufchen? Dann führe ich dich über die Dächer
+4640|Gru-gru, was für ein Festmahl! Jetzt sind wir Freunde. Steig auf, wir fliegen über die Kanäle
+4641|Tauben finden immer den Weg nach Hause, sogar wenn sie Hunderte Kilometer weit weg sind
+4642|Hm-hm, guten Tag! Ich bin Šarko. Ich sammle alles, was funkelt, und habe vier Glasperlen verloren. Eine ist beim Glasmacher, die anderen sind im Palastgarten. Bringst du sie mir
+4643|Sie sind wunderschön! Schau, wie mein Schwanz glänzt. Willst du mit mir springen
+4644|Nur das Pfauenmännchen hat den langen bunten Schwanz. Wenn es ihn ausbreitet, hat er mehr als hundert Federn mit Augen
+4645|Willkommen, Kleine! Ich bin Ines und mache Karnevalsmasken. Der Wind hat mir fünf bunte Federn durch die ganze Stadt geweht: auf die Brücken, die Plätze und zur Bühne. Bringst du sie mir? Ohne Federn ist eine Maske keine Maske
+4646|Alle fünf Federn! Jetzt ist meine schönste Maske fertig. Schau ins Schaufenster, ich habe dir etwas Besonderes hingelegt
+4647|Die Maske ist fertig, danke! Im Schaufenster wartet ein Geschenk auf dich
+4648|Bunte Federn funkeln in der Stadt
+4649|Der alte Brunnen! Man sagt, unter dem Platz gibt es eine geheime Zisterne. Spring hinein und tauch
+4650|Die Glaswerkstatt! Tritt auf die bunten Platten in der Reihenfolge der Farben im Buntglasfenster
+4651|Sprungwolke! Stoß dich aufs Dach ab und lauf von Dach zu Dach bis zum höchsten
+4652|Ein Heckenlabyrinth! Finde den Weg zur Mitte
+4653|Bravo, Kleine! Die Karnevalsschatzkammer ist offen. Schau dir das Feuerwerk über der Stadt an, das ist für dich
+4654|Ciao, willkommen in der Kanalstadt! Ich bin Toni, der Gondoliere. Heute Abend ist der große Karneval, aber zehn goldene Masken sind in der Stadt verloren gegangen, und ohne sie öffnet sich die Schatzkammer im Palast nicht. Finde sie! Du kannst über die Brückchen laufen oder durch die Kanäle rudern
+4655|goldene Masken
+4656|Hilf auch den Freunden in der Stadt
+4657|Eine bunte Stadt auf dem Wasser zur Karnevalszeit: Gondeln, Brückchen, ein Platz mit Tauben, ein Glockenturm, eine Glaswerkstatt, ein Labyrinth im Palastgarten und eine geheime Zisterne unter dem Brunnen
+4658|Gondelrennen
+4659|Goldene Maske
+4660|Goldene Masken
+4661|Alle goldenen Masken
+4662|Alle 10 goldenen Masken! Die Kristalltür der Schatzkammer im Palast hat sich geöffnet, und über der Stadt beginnt ein Feuerwerk
+4663|Die erste goldene Maske! Der Kompass oben zeigt die nächste
+4664|Kanalstadt! Goldene Masken
+4665|Gondoliere Toni wartet beim Portal auf dich
+4666|Glockentürme wurden hoch gebaut, damit man die Glocken in der ganzen Stadt hört, und von oben konnte man sehen, ob ein Schiff kommt
+4667|Städte im Meer haben keine Trinkwasserquellen, deshalb sammelten die Menschen Regenwasser in großen unterirdischen Zisternen unter den Plätzen
+4668|Glas wird aus Sand gemacht, der in einem sehr heißen Ofen schmilzt. Der Glasmacher bläst es dann durch ein langes Rohr auf, wie einen Ballon
+4669|Beim Karneval tragen die Menschen Masken und Kostüme, so weiß niemand, wer wer ist. Manche Karnevalsmasken werden aus Papier und Kleber gemacht
+4670|Eine Gondel ist ein langes schwarzes Boot. Der Gondoliere rudert sie im Stehen, mit nur einem Ruder, am hinteren Ende des Bootes
+4671|Bevor die Menschen Armbanduhren hatten, schaute die ganze Stadt auf die große Uhr am Turm
+4672|In Städten auf dem Wasser stehen die Häuser dicht an dicht, weil es auf den Inselchen wenig Platz gibt, deshalb wachsen sie in die Höhe
+4673|Heckenlabyrinthe werden schon seit Hunderten Jahren in Gärten gepflanzt. Aus jedem Labyrinth kommst du heraus, wenn du immer mit einer Hand an derselben Wand bleibst
+4674|Eine Stadt auf dem Wasser kann mehr als vierhundert Brücken haben. Viele sind gewölbt, damit Boote darunter durchfahren können
+4675|Eine Sandbank ist eine seichte sandige Stelle im Meer. Bei Ebbe taucht sie aus dem Wasser auf, und bei Flut bedeckt das Meer sie wieder
+4676|Der Ofen muss sehr heiß sein, mehr als tausend Grad
+4677|Schau dir mein Buntglasfenster an der Wand an. Die Farben gehen von oben nach unten
+4678|Miau, die Tauben haben mich wieder ausgetrickst
+4679|Die besten Fische gibt es beim Fischladen, aber psst
+4680|Im Labyrinth habe ich mich dreimal verlaufen. Bleib an einer Wand
+4681|Juhu, Karneval! Ich liebe Konfetti
+4683|Ein Krümel? Hast du einen Krümel
+4684|Gru, vom Dach sieht man die ganze Stadt
+4685|Schau dir meinen Schwanz an! Schön, nicht wahr
+4686|Quak! Das ist mein Kanal
+4687|Quak-quak, pass auf die Gondeln auf
+4688|Šarko ist der schönste Pfau im Garten, aber sag ihm das nicht
+4689|Die Kristalltür bewacht die Schatzkammer des Palasts. Sammle alle 10 goldenen Masken
+4690|Der Karneval kann beginnen
+4691|Die Karnevalsfüchsin und das Konfetti gehören jetzt dir. Toni sagt, das ist der schönste Karneval in der Geschichte der Stadt
+4692|Leuchtfüchsin
+4693|Ihr Fell leuchtet blau wie das Meer in der Leuchtenden Bucht. Nachts siehst du sie von weitem
+4694|Leuchtplankton
+4695|Wo Rida entlanggeht, leuchtet ein blauer Schein wie das Meer in der Bucht
+4696|Rochen Svjetlica
+4697|Ein kleiner Rochen, dessen Flügel nachts blau leuchten. Er gleitet durchs Wasser, als würde er fliegen
+4698|Bringt Perlen und Leuchtmuscheln aus dem Meer
+4699|Funkelschwimmen
+4700|Svjetlica trägt dich durch die Wellen und unter Wasser, und hinter euch bleibt ein blauer Schein
+4701|Svjetlica trägt dich! Im Meer ist sie am schnellsten, und sie kann auch tauchen
+4702|Waschbär Maskić
+4703|Ein neugieriger Waschbär mit einer Maske um die Augen. Nachts erkundet er den Strand und wäscht alles, was er findet
+4704|Bringt Muscheln und verlorene Goldmünzen vom Strand
+4705|Waschbärsprint
+4706|Maskić saust über Sand und Dünen und springt zweimal hintereinander
+4707|Maskić trägt dich! Er saust schnell und springt zweimal hintereinander
+4708|Schildkrötenbaby
+4709|Leuchtmuschel
+4710|Oben auf dem Mondtor, dem Steinbogen am Eingang der Bucht. Die Muschelschleuder am Strand schießt dich hinauf
+4711|Mondtor
+4712|Die Muschel hat sich geschlossen und PLATSCH! Du fliegst zum Mondtor
+4713|Schatz des Mondtempels
+4714|Mondtempel
+4715|Das Teleskop hat sich zum richtigen Sternbild gedreht! Das Schränkchen der Sterneneule hat sich geöffnet
+4716|Hm, das ist nicht das Sternbild. Schau dir die Sternkarte an der Wand an, von oben nach unten, und fang von vorn an
+4717|In der Sternwarte auf dem Westkap. Tritt auf die Platten in der Reihenfolge der Sternkarte
+4718|In der Glühwürmchenhöhle auf dem Ostkap. Der Eingang ist am Strand
+4719|Truhe in der Höhle
+4720|Glühwürmchenhöhle
+4721|Oben auf der Großen Düne. Kletter über den Sand hinauf
+4722|Truhe auf der Düne
+4723|Große Düne
+4724|Am Grund der leuchtenden Bucht, zwischen blauen Korallen. Tauch
+4725|Leuchtende Bucht
+4726|Im Schildkrötenhäuschen. Hilf Oma Mirta, die verlorenen Schildkrötenbabys einzusammeln
+4727|Schildkrötennester
+4728|In einem hohlen Baumstumpf bei den Dünen. Er öffnet sich, wenn du alle Glühwürmchen fängst! Der Start ist bei den Schildkrötennestern
+4729|Glühwürmchentanz
+4730|Du hast alle Glühwürmchen gefangen! Der hohle Baumstumpf bei den Dünen hat sich geöffnet
+4731|Oben auf dem Quallenfelsen. Die Riesenqualle hebt dich mit einem Luftstrom am Felsen hinauf
+4732|Truhe auf dem Felsen
+4733|Quallenfelsen
+4734|Unter einem roten X auf dem Kokosinselchen vergraben. Grab
+4735|Du gräbst und gräbst... und da ist er! Ein Mondstein leuchtet im Sand
+4736|Truhe auf dem Inselchen
+4737|Kokosinselchen
+4738|Auf dem Laternenfloß weit draußen vor der Bucht. Schwimm oder rudere hin
+4739|Truhe auf dem Floß
+4740|Laternenfloß
+4741|Sand von der Großen Düne. Bau eine Sandburg
+4742|Glühwürmchen haben diesen Schatz gehütet
+4743|Die Quallen haben auf dem Felsen Perlen versteckt
+4744|Piraten haben hier vor langer Zeit ein Goldnugget zurückgelassen
+4745|Laternen vom Floß, damit auch deine Insel nachts leuchtet
+4746|Der Schatz des Mondtempels! Er leuchtet wie die Bucht selbst
+4747|Oma Mirta
+4748|Eule Zvjezdana
+4751|Einsiedler
+4756|Hallo! Ich bin Svjetlica. Das Meer hat meine Leuchtmuscheln an den Strand gespült, und ohne sie kann ich nicht einschlafen. Bringst du mir vier? Dann führe ich dich durch die leuchtenden Wellen
+4757|Meine Muscheln! Danke. Jetzt sind wir Freundinnen, spring auf meinen Rücken
+4758|Rochen atmen durch kleine Löcher auf dem Rücken, deshalb können sie eingegraben im Sand liegen
+4759|Muschel für Maskić
+4760|Psst, hallo! Ich bin Maskić. Ich wasche gern Muscheln im Meer, und bei den Schildkrötennestern gibt es die schönsten. Bringst du mir drei? Aber vorsichtig, stör die Schildkrötenbabys nicht
+4761|Oh, wie sie glänzen, wenn ich sie wasche! Willst du mit mir über die Dünen sausen
+4762|Waschbären haben sehr empfindliche Vorderpfoten. Vor dem Fressen halten sie ihr Futter oft ins Wasser und betasten es
+4763|Guten Abend, Schätzchen. Ich bin Oma Mirta. Heute Nacht schlüpfen kleine Schildkröten, und fünf sind in die falsche Richtung gelaufen, zu den Dünen statt zum Meer! Findest du sie und bringst sie zu mir? Dann lassen wir sie zusammen ins Meer
+4764|Alle fünf! Schau, wie sie zum Meer flitzen, tschüss, ihr Kleinen! In meinem Häuschen wartet ein Geschenk auf dich
+4765|Die Schildkrötenbabys sind glücklich im Meer angekommen. Danke
+4766|Schildkrötenbabys funkeln zwischen den Dünen
+4767|Die Riesenmuschel! Stell dich auf die goldene Perle darin, und sie schleudert dich aufs Mondtor
+4768|Die Sternwarte! Die Sternkarte an der Wand zeigt die Reihenfolge der Platten
+4769|Die Glühwürmchenhöhle! Die Decke leuchtet wie der Nachthimmel
+4770|Die Riesenqualle! Stell dich auf das Steinchen unter ihr, auf der Westseite des Felsens, und die Strömung hebt dich nach oben
+4771|Der Mondtempel hat sich geöffnet! So eine Nacht hat diese Bucht seit hundert Jahren nicht erlebt. Geh hinein, Schätzchen, der Schatz gehört dir
+4772|Guten Abend, Schätzchen. Ich bin Oma Mirta und bewache hier die Schildkrötennester. Das ist die Leuchtende Bucht: Nachts leuchtet das Meer blau! Auf dem Hügel steht der Mondtempel, und ihn öffnen zehn Mondsteine, die über die Bucht verstreut sind. Finde sie, und pass dabei auf meine Kleinen auf
+4773|Mondsteine
+4774|Am Strand gibt es auch Freunde, die Hilfe brauchen
+4775|Ein nächtlicher Strand, an dem das Meer blau leuchtet: Schildkrötenbabys schlüpfen, Glühwürmchen tanzen über den Dünen, und Riesenquallen leuchten um den Felsen
+4776|leuchtendes Meer
+4777|Glühwürmchentanz
+4778|Riesenmuschel
+4779|Mondstein
+4780|Mondsteine
+4781|Alle Mondsteine
+4782|Alle 10 Mondsteine! Die Kristalltür des Mondtempels auf dem Hügel hat sich geöffnet
+4783|Der erste Mondstein! Der Kompass oben zeigt den nächsten
+4784|Leuchtende Bucht! Mondsteine
+4785|Oma Mirta wartet bei den Schildkrötennestern auf dich
+4786|Steinbögen im Meer entstehen, wenn Wellen Tausende Jahre lang den Felsen von zwei Seiten aushöhlen, bis sie sich in der Mitte treffen
+4787|Sternbilder sind Gruppen von Sternen, die Menschen zu Bildern verbunden haben. Seeleute haben sich nachts auf dem Meer nach ihnen gerichtet
+4788|Leuchtwürmchen leben an Höhlendecken und leuchten, um winzige Mücken anzulocken. Die Decke sieht dann aus wie ein Sternenhimmel
+4789|Dünen sind Sandhügel, die der Wind baut. Sie wandern langsam, manchmal einige Meter im Jahr
+4790|Das Meer leuchtet wegen winziger Lebewesen, dem Plankton. Wenn etwas sie schaukelt, leuchten sie blau, wie kleine Lämpchen
+4791|Meeresschildkröten schlüpfen nachts und eilen sofort zum Meer. Sie orientieren sich am Mondlicht auf dem Wasser
+4792|Glühwürmchen leuchten mit dem hinteren Teil ihres Körpers. Mit dem Licht rufen sie einander, jede Art in ihrem eigenen Rhythmus
+4793|Quallen haben weder Gehirn noch Herz und leben schon länger auf der Erde als die Dinosaurier. Manche leuchten im Dunkeln
+4794|Eine Kokosnuss kann monatelang auf dem Meer treiben. Wenn die Wellen sie an Land spülen, kann daraus eine neue Palme wachsen
+4795|Fischer zündeten früher nachts Laternen auf ihren Booten an, damit die Fische zum Licht schwammen
+4796|Huu! Siehst du das Sternbild da? Es heißt Großer Bär
+4797|Die Sternkarte an der Wand zeigt, in welcher Reihenfolge du auf die Platten trittst: von oben nach unten
+4798|Klick-klack! Nachts ist der Strand am schönsten
+4799|Pass auf, tritt nicht auf die Schildkrötenbabys
+4800|Zum Meer! Ich muss zum Meer
+4801|Ist das der Mond oder eine große Lampe
+4802|Psst, hast du etwas Glänzendes
+4803|Iii-iii! Man schwimmt durchs Licht
+4804|Die Kristalltür des Mondtempels ist geschlossen. Sammle alle 10 Mondsteine
+4805|Die Bucht leuchtet für dich
+4806|Die Leuchtfüchsin und das Leuchtplankton gehören jetzt dir. Oma Mirta sagt, die Schildkrötenbabys werden sich für immer an deinen Namen erinnern
+4807|Marienkäferfüchsin
+4808|Rot wie ein Marienkäfer, mit schwarzen Punkten. Die Kleinste und Mutigste im Garten
+4809|Blütenblätter
+4810|Hinter Rida fliegen rosa und weiße Blütenblätter
+4811|Bienchen Medica
+4812|Ein fleißiges Bienchen aus dem Riesengarten. Es summt von Blüte zu Blüte und wird nie müde
+4813|Bringt Honig und Blütenstaub von den Blumen
+4814|Bienenflug
+4815|Medica trägt dich von Blüte zu Blüte! Springen ist hoch, Tauchen ist runter
+4816|Medica fliegt! Springen ist hoch, Tauchen ist runter
+4817|Grashüpfer Skokić
+4818|Ein grüner Grashüpfer mit starken Hinterbeinen. Er springt zwanzigmal weiter, als er lang ist
+4819|Bringt Samen und Goldmünzen aus dem Gras
+4820|Grashüpfersprung
+4821|Skokić springt unglaublich hoch, und das zweimal hintereinander
+4822|Skokić trägt dich! Spring, und spring in der Luft noch einmal
+4823|Blütenstaub
+4824|Tautropfen
+4825|Samenkorn
+4826|Oben auf der Riesensonnenblume! Das Löffelkatapult beim Platz schleudert dich hinauf
+4827|Riesensonnenblume
+4828|Der Löffel hat ausgeholt und HOPP! Du fliegst auf die Sonnenblume
+4829|Ganz oben im Bienenstock, zwischen den Waben. Geh durch die Öffnung unten hinein und kletter hinauf
+4830|Honigtruhe
+4831|Bienenstock
+4832|Im alten Schneckenhaus im Osten des Gartens. Der Eingang ist auf der Südseite
+4833|Schneckentruhe
+4834|In der Ameisenvorratskammer tief im Ameisenhaufen. Ameise Mravko öffnet sie, wenn du ihm Samen bringst
+4835|Ameisenhaufen
+4836|Auf einem Seerosenblatt mitten in der großen Pfütze im Westen. Spring von Blatt zu Blatt
+4837|Große Pfütze
+4838|Am Boden der Gießkanne, unter Wasser. Der Sprinkler hebt dich bis zum Rand, dann spring hinein und tauch
+4839|Truhe beim Sprinkler
+4840|Gießkanne
+4841|Unter dem umgedrehten Blumentopf zwischen den Glockenblumen. Läute die Glockenblumen in der Reihenfolge auf der Tafel
+4842|Die Glockenblumen haben ein Lied gespielt! Der Blumentopf hat sich gehoben
+4843|Hoppla, falscher Ton. Schau dir die Farbtafel an, von oben nach unten, und fang von vorn an
+4844|Glockenblumen
+4845|Unter einem roten X im Gemüsebeet vergraben. Grab
+4846|Du gräbst und gräbst... und da ist er! Ein Sonnentropfen zwischen den Wurzeln
+4847|Gemüsebeet
+4848|In einem riesigen Tautropfen oben auf einem großen Blatt. Kletter am Blatt hinauf
+4849|Im Blütenblatthäuschen beim Portal. Es öffnet sich, wenn du das Marienkäferrennen gewinnst
+4850|Marienkäferrennen
+4851|Sieg! Das Blütenblatthäuschen beim Portal hat sich geöffnet
+4852|Schatz der Rosenknospe
+4853|Rosenknospe
+4854|Die Bienen haben dir Waben und etwas Bernstein dagelassen
+4855|Schnecke Polagani sagt: Mein altes Haus gehört jetzt dir
+4856|Eine Truhe aus der Kanne, ein bisschen nass, aber voller Schätze
+4857|Der Schatz der Rosenknospe! Der schönste im ganzen Garten
+4858|Marienkäfer Točkica
+4859|Ameise Mravko
+4860|Schnecke Polagani
+4861|Raupe Gricko
+4862|Schmetterling Šarenka
+4863|Falter Plavko
+4872|Sss-hallo! Ich bin Medica. Ich brauche Blütenstaub für Honig, und der beste ist oben auf den Riesenblumen. Bringst du mir Blütenstaub von vier Blumen? Kletter über die Blättchen um den Stängel
+4873|Sssss, was für ein Blütenstaub! Ich mache den süßesten Honig. Willst du mit mir von Blüte zu Blüte fliegen
+4874|Bienen tanzen, um anderen Bienen zu zeigen, wo Blumen sind. Dieser Tanz heißt Bienentanz
+4875|Hopp-hopp! Ich bin Skokić. Heute Morgen bin ich so viel gesprungen, dass ich Durst habe. Bringst du mir drei Tautropfen? Sie liegen auf den Blättern im Garten
+4876|Hopp! Jetzt habe ich Kraft für den größten Sprung der Welt! Spring auf meinen Rücken
+4877|Grashüpfer hören mit den Beinen! Ihre Ohren sitzen am Bauch oder an den Vorderbeinen
+4878|Halt! Wer da? Ah, eine Freundin. Ich bin Mravko. Der Winter kommt, und unsere Vorratskammer ist leer. Bringst du uns fünf Samenkörner? Der Wind hat sie im ganzen Garten verstreut
+4879|Fünf Samenkörner! Die Vorratskammer ist voll, der ganze Ameisenhaufen dankt dir. Geh hinunter in die Vorratskammer, wir haben dir etwas dagelassen
+4880|Die Vorratskammer ist voll! Danke, Freundin
+4881|Die Samenkörner sind im Garten verstreut
+4882|Ein Riesenlöffel! Stell dich auf den goldenen Punkt, und er schleudert dich auf die Sonnenblume
+4883|Der Sprinkler! Stell dich in den Strahl, und das Wasser hebt dich bis zum Rand der Kanne
+4884|Der Bienenstock! Geh durch die Öffnung hinein und kletter die Wabentreppe hinauf
+4885|Eingang zum Ameisenhaufen! Der Tunnel führt tief unter die Erde
+4886|Die Rosenknospe hat sich geöffnet! Siehst du, wie alles blüht? Geh hinein, der Schatz gehört dir
+4887|Hallo, Kleine! Ich bin der Marienkäfer Točkica. Keine Angst, du hast dich nicht verlaufen, du bist jetzt nur so klein wie wir! Das ist der Riesengarten. Zehn Sonnentropfen sind in den Garten gefallen, und ohne sie kann sich die Rosenknospe nicht öffnen. Hilf uns, sie zu sammeln
+4888|Sonnentropfen
+4889|Im Garten gibt es auch Freunde, die Hilfe brauchen
+4890|Rida ist winzig wie ein Marienkäfer! Grashalme hoch wie Bäume, eine Sonnenblume wie ein Wolkenkratzer, Tautropfen groß wie Häuser, ein Bienenstock, ein Ameisenhaufen und ein Schneckenhaus
+4891|Löffelkatapult
+4892|Glockenblumen
+4893|Sonnentropfen
+4894|Sonnentropfen
+4895|Alle Sonnentropfen
+4896|Alle 10 Sonnentropfen! Die Kristalltür der Rosenknospe hat sich geöffnet
+4897|Der erste Sonnentropfen! Der Kompass oben zeigt den nächsten
+4898|Riesengarten! Sonnentropfen
+4899|Der Marienkäfer Točkica wartet beim Portal auf dich

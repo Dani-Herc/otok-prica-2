@@ -1,0 +1,721 @@
+894|Wind des Vergessens
+895|Die sechste hängt am Iglu auf der Schneeinsel fest
+896|Der Frost hat die Buchstaben auf der Seite vertauscht. Setz sie zum richtigen Wort zusammen
+897|Dann kam der Wind des Vergessens. Er mag keine Geschichten, denn Geschichten bleiben im Gedächtnis, und er möchte, dass alles vergessen wird. Er blies drei Tage und drei Nächte. Er öffnete die Fenster der Bibliothek, riss sieben Seiten aus dem Großen Buch und verstreute sie über Land und Meer. Die Insel begann zu verblassen, und das Licht auf dem Turm flackerte wie eine Kerze im Luftzug
+899|Die Fortsetzung schreibst du
+900|Die letzte ist auf dem alten Turm auf der Ruineninsel
+901|Die letzte Seite! Setz alle Buchstaben der Seiten zu einem Zauberwort zusammen
+902|Es hat Blätter, ist aber keine Pflanze. Es hat einen Rücken, ist aber kein Tier. Was ist das
+903|Buch
+904|Baum
+905|Schildkröte
+906|Grünes Haus, rotes Zimmer, schwarze Bewohner. Was ist das
+907|Apfel
+908|Kirsche
+909|Es fliegt ohne Flügel und weint ohne Augen. Was ist das
+910|Vogel
+911|Schmetterling
+912|Was zerbricht, sobald man es ausspricht
+913|Stille
+914|Ei
+915|Was hat Tasten, öffnet aber keine einzige Tür
+916|Klavier
+917|Schlüssel
+918|Schloss
+919|Was ist voller Löcher und hält trotzdem Wasser
+920|Schwamm
+921|Sieb
+922|Was wächst, wenn man es füttert, und verschwindet, wenn man es mit Wasser begießt
+923|Feuer
+924|Blume
+925|Katze
+926|Was hat einen Hals, aber keinen Kopf
+927|Flasche
+928|Giraffe
+929|Fuchs
+930|Was hat ein Auge und sieht trotzdem nichts
+931|Nadel
+932|Pirat
+933|Eule
+934|Was fließt und hat keine Beine
+935|Fluss
+936|Hase
+937|Was gehört dir, wird aber von anderen öfter benutzt als von dir
+938|Dein Name
+939|Dein Fahrrad
+940|Dein Bleistift
+941|Tagsüber schläft er, nachts fliegt er und hängt kopfüber. Wer ist das
+942|Fledermaus
+943|Mond
+944|Trägt ihr Haus auf dem Rücken und hinterlässt eine silberne Spur. Wer ist das
+945|Schnecke
+946|Hat sechs Seiten, aber keine kannst du lesen. Was ist das
+947|Würfel
+948|Heft
+949|Ball
+950|Was wird umso nasser, je mehr es abtrocknet
+951|Handtuch
+952|Sonne
+953|Wind
+954|Was geht immer nur nach oben und nie nach unten
+955|Dein Alter
+956|Ballon
+957|Was ist schwerer: ein Kilo Federn oder ein Kilo Eisen
+958|Beide sind gleich schwer
+959|Federn
+960|Wie viele Monate im Jahr haben 28 Tage
+961|Alle
+962|Einer
+963|Zwei
+964|Ein Hahn legt ein Ei ganz oben auf dem Dach. Auf welche Seite fällt das Ei
+965|Hähne legen keine Eier
+966|Nach links
+967|Nach rechts
+968|Wenn man ihn braucht, wirft man ihn ins Meer. Wenn man ihn nicht braucht, holt man ihn heraus. Was ist das
+969|Anker
+970|Netz
+971|Angelhaken
+972|Er hat Zähne, beißt aber nicht. Er macht die Haare schön, ist aber kein Friseur. Was ist das
+973|Kamm
+974|Hund
+975|Säge
+976|Was kann man fangen, aber nicht werfen
+977|Eine Erkältung
+978|Einen Ball
+979|Einen Fisch
+980|Er hat einen Hut, aber keinen Kopf. Er hat ein Bein, geht aber nicht. Was ist das
+981|Pilz
+982|Vogelscheuche
+983|Regenschirm
+984|Weißes Feld, schwarze Saat. Wer sie lesen kann, ist klug. Was ist das
+985|Eine Buchseite
+986|Schnee mit Mohn
+987|Ein Schachbrett
+988|Was reist um die ganze Welt und bleibt dabei immer in der Ecke
+989|Briefmarke
+990|Besen
+991|Was ist das: Je mehr davon da ist, desto weniger sieht man
+992|Dunkelheit
+993|Sie hat Hände, aber keine Finger. Sie hat ein Gesicht, aber keinen Mund. Was ist das
+994|Uhr
+995|Puppe
+996|Handschuh
+997|Ich habe keine Flügel und fliege doch von Hand zu Hand. Ich habe keinen Mund und erzähle doch Geschichten. Wer bin ich
+998|Drache
+999|Die geheime Truhe des Großen Buches
+1000|Die Schriftsteller vom gesunkenen Schiff haben das für den hinterlassen, der alle Seiten zurückbringt. Danke, Hüterin der Geschichten
+1001|Zur Seite musst du mit Rida gehen. Drück auf Erkunden
+1002|Hörst du? Aus der Bibliothek ruft uns jemand, und darüber leuchtet ein goldenes Licht. Lass uns nachsehen
+1003|Kapitel
+1004|Verlorene Seiten
+1005|Auf dem Ständer liegt das Große Buch. Darin ist die ganze Geschichte der Insel aufgeschrieben, aber ihm fehlen sieben Seiten
+1006|Der Wind des Vergessens hat sie herausgerissen und über die Insel und das Meer verstreut. Ohne sie vergisst die Insel langsam ihre Geschichte
+1007|Jede Seite wird von einem Rätsel bewacht. Auf jeder Seite leuchtet ein Buchstabe, und wenn du alle sieben hast, entdeckst du das Zauberwort
+1008|Ich helfe! Los geht's
+1009|Folge dem goldenen Licht
+1010|Das Große Buch ist in der Bibliothek. Geh mit Rida hinein
+1011|Alle Seiten sind an ihrem Platz. Danke, Hüterin der Geschichten
+1012|Zurückgebracht
+1013|Seiten. Nächste
+1014|Geschichte lesen
+1015|Rätsel des Tages
+1016|Heute hast du es schon gelöst. Morgen wartet ein neues
+1017|Richtig! +10 Goldmünzen
+1018|Hmm, das ist es nicht. Lies das Rätsel noch einmal
+1019|‹ Zurück
+1020|Weiter ›
+1021|Schließen
+1022|Sie hat keinen Mund und erzählt doch. Sie hat keine Beine und reist von Hand zu Hand. Sie hat einen Rücken und ist kein Tier. Was ist das
+1023|Brief
+1024|Das ist es nicht. Lies das Rätsel noch einmal
+1025|Dreh zwei Karten um
+1026|Alle Paare! Du hast gebraucht
+1027|Züge
+1028|Ein Paar! Noch
+1029|Nochmal anhören
+1030|Hör zu
+1031|Töne
+1032|Du bist dran
+1033|Hoppla! Hör noch einmal zu
+1034|Die Kristalle singen zusammen
+1035|Bravo! Jetzt noch ein Ton
+1036|Tipp ein Teil neben dem freien Feld an, um es zu verschieben. Das Bild ist eine Karte der Insel
+1038|Du hast es zusammengesetzt
+1040|Schlüssel von der Tafel: Jedes Zeichen ist ein Buchstabe
+1041|Auf der Rückseite der Seite leuchtet ein Buchstabe
+1042|25 Goldmünzen
+1043|Das Große Buch ist vollständig
+1044|Nächste Seite
+1045|Alle sieben Seiten sind ins Große Buch zurückgekehrt, und das Licht auf dem Turm strahlt wieder hell
+1046|Im oberen Stock der Bibliothek hat sich eine Geheimtür geöffnet. Steig die Treppe hinter dem Ständer hinauf und such die Truhe
+1047|Geschichtenfeder
+1048|Danke
+1049|Jemand ruft aus der Bibliothek
+1050|In der Bibliothek liegt das Große Buch auf dem Ständer, und über dem Dach leuchtet ein goldenes Licht. Geh mit Rida in die Bibliothek und finde heraus, was passiert ist
+1051|Mit Rida erkunden
+1052|Kapitel lesen
+1053|Noch versteckt
+1054|Das Große Buch ist vollständig zu
+1055|Das Rätsel des Tages wartet jeden Tag beim Großen Buch auf dich
+1056|Die goldene Lichtsäule zeigt, wo die nächste Seite ist, und auf der Karte in der Tasche ist sie mit einem goldenen Stern markiert
+1057|Bring alle Seiten zum Großen Buch zurück
+1058|Der Controller ist verbunden! Drück A zum Starten, und im Spiel halte Start gedrückt für die Hilfe
+1061|Spielen mit dem Controller
+1062|Der rechte Stick dreht die Ansicht
+1063|Springen, im Wasser nach oben schwimmen
+1064|Tauchen und aus dem Boot steigen
+1066|Halten, um den Block vor Rida abzubauen
+1067|Antippen: reden, Truhe, bauen, ernten
+1070|Baustein in der Pfote wählen
+1071|Werkzeug oder Zauber auf der Leiste wählen
+1072|Gewähltes Werkzeug oder Zauber benutzen
+1073|Kamera näher oder weiter
+1074|Tänze und Zauber
+1075|Kurz: zurück zur Insel. Halten: diese Hilfe
+1076|Los geht's
+1077|Goldmünzen
+1078|Tippen für schneller
+1079|Delfin Plavko
+1080|Der schnellste Schwimmer im Meer. Er springt für sein Leben gern über die Wellen
+1081|Bringt Perlen und Korallen aus der Tiefe
+1082|Plavko lebt im Meer
+1083|Roter Panda Mimi
+1084|Liebt Verstecken und schläft in den Baumkronen
+1085|Findet Goldmünzen, die im Gebüsch versteckt sind
+1086|Sternenpferdchen Luna
+1087|Galoppiert so schnell, dass es einen Regenbogen hinter sich lässt
+1088|Bringt Sternenstaub und Zaubersamen
+1089|Drachenkind Iskra
+1090|Ist aus einem Ei geschlüpft, das dein Lesen gewärmt hat
+1091|Bringt Kristalle aus der Höhle
+1092|Karottenrennen
+1093|Sammle alle goldenen Karotten, bevor Skok ins Ziel läuft
+1094|Perlen im Wasser
+1095|Kvaki taucht und zeigt, wo sich unter Wasser Perlen verstecken
+1096|Igelfußball
+1097|Bodlja rollt sich zu einem Ball zusammen. Schieb ihn dreimal ins Tor
+1098|Wolkentrampolin
+1099|Vunica pustet eine Wolke auf. Spring darauf und hol die Sterne vom Himmel
+1100|Reiten unter dem Meer
+1101|Polka trägt dich durchs Meer. Unter Wasser kannst du bleiben, so lange du willst
+1102|Katzennase
+1103|Mrvica erschnuppert vergrabene Schätze. Folge den Pfötchen und grab an der Markierung
+1104|Papageienquiz
+1105|Rio merkt sich Sätze aus deinen Büchern und Geschichten der Insel. Weißt du die Antworten
+1106|Eulenblick
+1107|Mudrica zeigt dir eine Minute lang alle versteckten Schätze um dich herum, sogar durch Wände
+1108|Bauchrutschen
+1109|Pipo bringt dir das Rutschen bei. Sammle alle Fischchen ein, bevor die Zeit abläuft
+1110|Seerosen und Glühwürmchen
+1111|Kvakica zaubert einen Weg aus Seerosen. Spring von Seerose zu Seerose und sammle Glühwürmchen
+1112|Ritt durch die Wüste
+1113|Dina kennt alle Wege. Auf ihr saust Rida über den Sand
+1114|Delfinreiten
+1115|Plavko saust durchs Meer und springt über die Wellen. Drück an der Oberfläche auf Springen
+1116|Verstecken
+1117|Mimi versteckt sich irgendwo in der Nähe. Folge Warm und Kalt und finde sie dreimal
+1118|Regenbogengalopp
+1119|Luna galoppiert schneller als der Wind und kann in der Luft zweimal springen
+1120|Drachenflug
+1121|Iskra breitet die Flügel aus und fliegt mit Rida über die Insel
+1122|Heute seid ihr schon zusammen geritten ✓
+1123|Der erste Ritt heute bringt eine Belohnung und ein Herz
+1124|Zum Reiten müsst ihr Freunde sein: 2 Herzen
+1125|Die heutige Belohnung ist gewonnen ✓ Spielen könnt ihr trotzdem
+1126|Heute wartet eine Belohnung und ein Freundschaftsherz auf dich
+1127|Reiten
+1128|Lass uns spielen
+1129|Mit Rida erkunden und spielen
+1130|Geschenk nehmen
+1131|Lieblingsessen
+1132|Such es im Garten oder auf dem Markt
+1133|Begleitet Rida ✓
+1134|Zum Erkunden mitnehmen
+1135|Beste Freunde
+1136|Bis zur besten Freundschaft
+1137|Freundschaftsgeschenk
+1138|Bravo
+1139|ist dein bester Freund
+1140|von 5 Herzen
+1141|Die heutige Belohnung hast du schon. Morgen wieder
+1142|Spiele mit Freunden spielt man beim Erkunden
+1143|ist nicht in der Nähe
+1144|Sieg
+1145|Puh, die Zeit ist um! Versuch es noch einmal
+1146|Hier ist zu wenig Platz für ein Rennen. Versuch es auf der Wiese
+1147|Auf die Plätze, fertig, los! Wer ist zuerst bei der letzten Karotte
+1148|Skok war zuerst da! Versuch es noch einmal, jetzt kennst du den Weg
+1149|Du bist schneller als der Hase
+1150|Hier ist das Wasser zu flach für Perlen
+1151|Quak! Unter Wasser glänzt etwas. Tauch
+1152|Alle Perlen gehören dir
+1153|Wir brauchen eine flache Wiese für Fußball
+1154|Tore
+1155|Schieb den Igelball ins Tor! Lauf auf ihn zu, dann rollt er weg
+1156|TOOOR! Noch
+1157|Hattrick
+1158|Mäh! Spring auf meine Wolke und hol die Sterne
+1159|Zu den Sternen und zurück
+1160|Mrvica riecht hier nichts. Versuch es im Freien
+1161|Miau! Ich rieche etwas... Folge mir
+1162|Folge Mrvica und grab an der X-Markierung
+1163|Hier! Grab hier
+1164|Vergrabener Schatz
+1165|Rio hat noch keine Fragen. Schreib Lieblingssätze ins Tagebuch
+1166|Frage
+1167|Huhu! Ich sehe
+1168|versteckte Dinge. Folge den Lichtern
+1169|Huu! Es ist schon alles gefunden, bravo
+1170|Eulenaugen
+1171|Wir brauchen mehr Platz zum Rutschen
+1172|Leg dich auf den Bauch und ruuutsch! Juhuu
+1173|Eine echte Rutscherin
+1174|Kvakica braucht Wasser in der Nähe. Geh zu einem See oder ans Meer
+1175|Hier ist nicht genug Wasser für Seerosen
+1176|Quak-quak! Spring von Seerose zu Seerose
+1177|Die Glühwürmchen leuchten für dich
+1178|Gefunden
+1179|Mimi hat sich versteckt! Folge Warm und Kalt
+1180|Heiß! 🔥
+1181|Warm
+1182|Lauwarm
+1183|Kalt ❄
+1184|Du hast mich gefunden! Nochmal
+1185|Meisterin im Verstecken
+1187|“ Aus welchem Buch ist dieser Satz
+1188|In welchem Buch kommt die Figur vor
+1189|Wie heißt
+1190|Kapitel des Großen Buches
+1191|Rio sagt: fast! Probier es noch einmal, die Fragen wechseln
+1192|Richtig
+1193|Richtig! Rio singt vor Freude
+1194|Nein. Die richtige Antwort
+1195|schwimmt nur im Wasser. Geh ins Meer und drück den Knopf Rufen
+1196|oder Y
+1197|Iskra breitet die Flügel aus! Springen ist hoch, Tauchen ist runter
+1198|Du reitest auf
+1199|Plavko
+1200|Polka
+1201|An der Oberfläche drück Springen, um über die Wellen zu springen
+1202|Unter Wasser kannst du bleiben, so lange du willst
+1203|Juhu
+1204|Luna kann in der Luft zweimal springen
+1205|Dina saust über die Insel
+1206|Zum Absteigen: Knopf Absteigen
+1207|Super Ritt
+1208|Reitet noch ein bisschen für die heutige Belohnung
+1209|Absteigen
+1210|Rufen
+1211|schwimmt nicht. Du bist ans Ufer abgestiegen
+1212|Ihr reitet toll! Steig ab, wann du willst, und hol dir die Belohnung
+1213|Mag Fisch
+1214|Kann dich übers Meer tragen
+1215|Plavko ist zu Rida geschwommen! Füttere ihn mit Fisch, dann werdet ihr Freunde. Mit 2 Herzen kannst du auf ihm reiten
+1216|Hallo, Plavko
+1217|Geheimnisvolles Ei
+1218|Das Ei ist warm und bewegt sich leicht. Rida hat es ins Nest bei der Bibliothek gebracht. Es braucht die Wärme von Geschichten: Lies noch
+1219|Seiten, und es schlüpft
+1220|Ich passe darauf auf
+1221|Das Ei wird jedes Mal warm, wenn du liest
+1222|bis zum Schlüpfen. Trag gelesene Seiten mit dem Knopf Ich habe gelesen ein
+1223|In Ordnung
+1224|Geschlüpft
+1225|Leuchtet im Dunkeln
+1226|Fliegt mit Rida
+1227|Dein Lesen hat einen echten kleinen Drachen ausgebrütet! Iskra kann mit Rida über die ganze Insel fliegen
+1228|Hallo, Iskra
+1229|Du brauchst
+1230|Goldmünzen. Verkauf Früchte aus dem Garten oder öffne eine Truhe
+1231|Wartet auf dich neben
+1232|dem Markt
+1233|Juhu
+1234|Sjajkas besondere Freunde
+1235|Ansehen
+1236|Freunde aus der Wildnis
+1237|Springt im offenen Meer. Schwimm oder fahr nahe heran, während er springt
+1238|Ein Ei im Nest bei der Bibliothek. Noch
+1239|Lesen
+1240|In der Kristallhöhle leuchtet etwas Geheimnisvolles
+1241|Freunde von der Insel
+1242|Das Drachenei bewegt sich! Tipp das Nest bei der Bibliothek an
+1243|Waldfüchsin
+1244|Grün wie das Moos im Großen Wald. Hinter ihr fliegen Blättchen
+1245|Polarfüchsin
+1246|Weiß wie der Schnee auf dem Berggipfel
+1247|Silberfüchsin
+1248|Glänzt wie Mondlicht auf dem Meer
+1249|Bonbonfüchsin
+1250|Rosa wie Zuckerwatte auf dem Jahrmarkt
+1251|Nachtfüchsin
+1252|Dunkel wie der Nachthimmel, und ihre Augen leuchten
+1253|Feuerfüchsin
+1254|Aus ihrem Fell sprühen Funken, aber sie brennt niemanden
+1255|Goldfüchsin
+1256|Echt golden, von den Ohrenspitzen bis zum Schwanz
+1257|Kristallfüchsin
+1258|Funkelt wie Kristalle aus einer tiefen Höhle
+1259|Regenbogenfüchsin
+1260|Wechselt langsam alle Farben des Regenbogens
+1261|Galaxiefüchsin
+1262|Trägt Sterne und ferne Galaxien im Fell
+1263|Häsin Skokica
+1264|Klein, aber sie springt wie eine Sprungfeder
+1265|Springt viel höher
+1266|Katze Brzica
+1267|Leise und schnell wie der Wind
+1268|Läuft schneller
+1269|Pinguin Plivko
+1270|An Land watschelt er, im Meer fliegt er
+1271|Schwimmt doppelt so schnell und wird nie müde
+1272|Igel Kotrljko
+1273|Wenn er rennt, rollt er sich zum Ball zusammen und kugelt
+1274|Rollen im Lauf
+1275|Roter Panda Akrobatka
+1276|Die geschickteste Kletterin der Insel
+1277|Doppelsprung
+1278|Eule Lepršica
+1279|Breitet die Flügel aus und gleitet durch die Luft
+1280|Schwebt, wenn du in der Luft Springen hältst
+1281|Blätter im Wind
+1282|Bunte Blättchen wirbeln hinter dir
+1283|Sternchen
+1284|Hinter jedem Schritt glitzert ein Stern
+1285|Seifenblasen
+1286|Seifenblasen schweben zum Himmel
+1287|Herzen
+1288|Wo du auch gehst, bleibt ein bisschen Liebe
+1289|Schneeflocken
+1290|Ein kleiner Winter folgt deinen Schritten
+1291|Musiknoten
+1292|Jeder Schritt spielt eine leise Melodie
+1293|Feuerfunken
+1294|Funken sprühen wie beim Feuerwerk
+1295|Schmetterlinge
+1296|Bunte Schmetterlinge fliegen dir nach
+1297|Regenbogen
+1298|Hinter dir spannt sich ein echter Regenbogen
+1299|Sprungfederpfoten
+1300|Jeder Sprung ist viel höher. Boing
+1301|Feuerwerk
+1302|Schmück den Himmel mit buntem Feuerwerk, wann immer du willst
+1303|Raketenstiefel
+1304|Spring in der Luft noch einmal, mit Flamme
+1305|Schirmgleiter
+1306|Halte in der Luft Springen und schwebe sanft wie eine Pusteblume
+1307|Wasserschuhe
+1308|Lauf übers Meer wie über eine Wiese
+1309|Reisekompass
+1310|Reise sofort an jeden Ort, den du entdeckt hast
+1311|Schwebebrett
+1312|Saus auf einem schwebenden Brett über die Insel und das Meer
+1313|Winken
+1314|Hallo zusammen
+1315|Tanz
+1316|Rida tanzt zur Musik
+1317|Ganz viel Liebe
+1318|Eine Herzwolke für alle Freunde
+1319|Salto
+1320|Sprung mit Rückwärtsdrehung
+1321|Karussell
+1322|Dreh dich, dreh dich, bis zu den Sternen
+1323|Nickerchen
+1324|Eine kleine Pause in der Sonne. Zzz
+1325|Sternensprung
+1326|Ein hoher Sprung, der in Sternen explodiert
+1327|Klassische Rida
+1328|Die orange Füchsin, die alle kennen und lieben
+1329|Füchsin Rida
+1330|Deine treue Freundin von der Insel
+1331|Ohne Spur
+1332|Nur Pfotenabdrücke
+1333|Wasserschwein Bubi
+1334|Das ruhigste Tier der Welt. Alle mögen es, sogar die Vögel, die sich auf seinen Kopf setzen
+1335|Bringt Mandarinen und Goldmünzen, die es im Gras findet
+1336|Robo-Hund Bip
+1337|Ein kleiner Roboterhund mit Antenne. Er sagt, Kartoffeln laden seine Batterien. Piep-piep
+1338|Findet mit seinem Scanner Erze
+1339|Phönix Plamko
+1340|Ein Feuervogel, der nie brennt, nur wärmt. Fliegt schneller als ein Drache
+1341|Bringt Goldnuggets und Zaubersamen
+1342|Mandarinen vom Himmel
+1343|Bubi entspannt in einem warmen Bad, und vom Himmel fallen Mandarinen. Fang sie, bevor sie auf den Boden fallen
+1344|Funkenjagd
+1345|Bip lässt leuchtende Funken los, die im Kreis fliegen. Lauf, spring und fang sie alle
+1346|Phönixflug
+1347|Plamko breitet die Feuerflügel aus und fliegt mit Rida los, hinter euch bleibt eine Funkenspur
+1348|Hier ist nicht genug Platz für Mandarinen. Versuch es auf der Wiese
+1349|Ahh, ein warmes Bad... Und jetzt aufgepasst, vom Himmel fallen Mandarinen
+1350|Alle Mandarinen sind gefangen
+1351|Piep-piep! Meine Funken sind abgehauen! Fang sie
+1352|Piep-piep-hurra
+1353|Plamko breitet die Feuerflügel aus! Springen ist hoch, Tauchen ist runter. Zum Absteigen: Absteigen
+1354|Das Schwebebrett funktioniert beim Erkunden. Drück auf Erkunden
+1355|Komm erst aus dem Wasser, dann stell dich aufs Brett
+1356|Das Brett schwebt! Saus über Gras und Meer. Zum Absteigen: Absteigen
+1357|Getanzt wird beim Erkunden. Drück auf Erkunden
+1358|Steig erst von deinem Freund ab, dann tanz
+1359|Zum Tanzen braucht man festen Boden
+1360|He, hier bin ich
+1361|Hallo an alle
+1362|Ich ruhe mich nur kurz aus
+1363|Aussehen
+1364|Figur
+1365|Spur
+1366|Zauber
+1367|Tier
+1368|Goldregen
+1369|Sternenstaub
+1370|Jeder neue Ort, jeder neue Freund und der erste seltene Schatz bringen eine Entdeckerkiste. An jedem Tag, an dem du liest, wartet eine Leserkiste. Den Laden öffnest du mit dem Sternknopf mit Geschenk
+1371|Neu
+1372|Rida trägt es schon
+1373|Alles findest du im Zauberladen
+1374|Jede Entdeckung füllt deine Sammlung. Sammlung
+1375|Ein Geschenk für dich
+1376|Leserkiste
+1377|Zauberkiste
+1378|Entdeckerkiste
+1379|Neuer Ort
+1380|Erster Diamant
+1381|Erster Smaragd
+1382|Erstes Gold
+1383|Erster Kristall
+1384|Erste Perle
+1385|Erster Zaubersamen
+1386|Du hast heute gelesen! Die Leserkiste wartet im Zauberladen auf dich
+1387|Spuren
+1388|Zauber
+1389|Tänze
+1390|Tiere
+1391|Kisten
+1392|Neue Fellfarbe? Rida verwandelt sich im Handumdrehen
+1393|Trink einen Zaubertrank und spiel als jemand anderes. Jede Figur hat ihre eigene Kraft
+1394|Hinter Ridas Pfoten kann ein Regenbogen, Herzen oder Schmetterlinge bleiben
+1395|Zaubergeräte für echte Entdecker. Du kannst sie jederzeit ein- oder ausschalten
+1396|Tänze und Tricks für jeden Moment. Tanze sie mit der Taste G oder dem Knopf mit der Note
+1397|Drei neue Freunde warten auf ein Zuhause. Jeder hat sein eigenes Spiel
+1398|Die Kisten sind voller Überraschungen. Was du schon hast, bekommst du nie doppelt
+1399|Jeden Tag
+1400|Öffnet sich jeden Tag, wenn du „Ich habe gelesen!“ drückst und Seiten einträgst
+1401|Morgen wieder ✓
+1402|Erst lesen
+1403|Überraschung
+1404|Immer etwas Neues: ein Aussehen, eine Spur, ein Zauber oder ein Tanz, den du noch nicht hast
+1405|Du hast alles
+1406|Entdeckungen
+1407|Du bekommst sie für jeden neuen Ort, jeden neuen Freund und den ersten seltenen Schatz. Bisher
+1408|Wo erkunden
+1409|Tanzen
+1410|Benutzen
+1411|Eingeschaltet ✓
+1412|Ausgeschaltet
+1413|Du spielst ✓
+1414|Du trägst ✓
+1415|Zauberladen
+1416|Das kann man nicht kaufen. Es wartet als Belohnung auf dich
+1417|Gekauft
+1418|Rida hat sofort ihr Fell gewechselt! Die klassische Farbe kannst du jederzeit zurückholen
+1419|Jetzt spielst du als
+1420|Kraft
+1421|Rida holst du im Reiter Figuren zurück
+1422|Lauf ein Stück und schau hinter dich
+1423|Du brauchst noch
+1424|Goldmünzen. Lies, entdecke neue Orte und öffne Truhen
+1425|Wartet auf dich neben der Bibliothek
+1426|Drück auf „Ich habe gelesen!“ und trag ein, wie viel du heute gelesen hast. Dann öffnet sich die Kiste
+1427|Bravo, Leserin
+1428|Kaufen für 150
+1429|Was wohl drin ist
+1430|Der Kompass funktioniert beim Erkunden. Drück auf Erkunden
+1431|Wohin möchtest du reisen? Der Kompass kennt alle Orte, die du entdeckt hast
+1432|Du hast noch keinen Ort entdeckt. Erkunde die Insel
+1433|Der Kompass findet keinen Landeplatz. Versuch einen anderen Ort
+1434|Der Kompass hat dich gebracht nach
+1435|Im Zauberladen warten noch Tänze, Feuerwerk, das Schwebebrett und der Reisekompass
+1436|Der Zauberladen ist geöffnet
+1437|Das Brett kann nicht unter Wasser. Rida ist ins Meer gesprungen
+1438|Geschichtenzauberin
+1439|Bücherkönigin
+1440|Legende der Insel
+1441|Sternenleserin
+1442|Herrscherin der Geschichteninsel
+1443|Langer Atem
+1444|Rida hat unter Wasser halb so viel Luft mehr
+1445|Schnelles Schwimmen
+1446|Rida schwimmt ein Viertel schneller
+1447|Starke Pfoten
+1448|Graben geht viel schneller
+1449|Schnelle Beine
+1450|Rida läuft etwas schneller
+1451|Glücksstern
+1452|In jeder Kiste halb so viele Goldmünzen mehr
+1453|Überraschungskiste
+1454|und noch
+1455|Auf Stufe
+1456|wartet
+1457|Neue Stufen
+1458|Punkte
+1459|Stufenweg
+1460|Punkte bis Stufe
+1461|Punkte vom Lesen
+1462|Punkte vom Erkunden
+1463|Jede gelesene Seite ist 1 Punkt. Neue Orte, neue Freunde, Truhen und Kisten geben weitere Punkte. Auf jeder Stufe wartet eine Belohnung, und manche bringen besondere Kräfte
+1464|So wird gespielt
+1467|Laufen und Kamera
+1468|oder die Pfeiltasten steuern Rida
+1470|ist Rennen. Auf dem Tablet ist links der Stick zum Laufen, und mit dem Finger drehst du die Ansicht. Am Controller: Der linke Stick läuft, der rechte schaut
+1471|Leertaste
+1472|Knopf Springen oder
+1473|am Controller. Je länger du hältst, desto höher springt Rida
+1474|Besondere Sprünge
+1475|Doppelsprung: Mit den Raketenstiefeln oder als Roter Panda springen und in der Luft noch einmal Springen drücken. Schweben: Mit dem Schirm oder als Eule springen und Springen halten, während du fällst. Supersprung: Sprungfederpfoten oder Häsin Skokica. Und das Trampolin schleudert dich bis zu den Wolken
+1476|Tauchen und Brille
+1477|Knopf Tauchen oder
+1478|und Rida taucht ab. Springen bringt sie nach oben. Die Blasen zeigen, wie viel Luft sie hat: ohne Brille 9 Sekunden, mit der Taucherbrille 45! Die Brille stellst du in der Werkstatt in der Tasche her
+1479|Unter dem Meer warten Korallen, Perlen und versunkene Schätze
+1480|Wenn du ein Boot hast, setzt sich Rida im tiefen Meer von selbst hinein. Aussteigen kannst du mit der Taste Tauchen oder wenn du ans Ufer kommst. Willst du schwimmen, schalte das Boot auf der Leiste aus, auf der Seite mit den Zaubern
+1481|Graben
+1482|Halte den Finger oder die Maus auf einem Block
+1483|Leiste mit Werkzeugen und Zaubern
+1484|Unten auf dem Bildschirm ist eine Leiste. Auf der ersten Seite sind die Pfote und die Bausteine, auf der zweiten Werkzeuge, Boot, Lampe und Zauber. Die Seite wechselst du mit der Taste
+1485|oder durch Antippen des kleinen Stabs. Die Tasten
+1486|bis
+1487|wählen den Platz. Ein grüner Punkt bedeutet eingeschaltet. Controller
+1488|wählt
+1489|benutzt. Die Taste
+1490|wirft den Haken
+1491|Schneeball
+1492|oder
+1493|Stufen
+1494|Lesen und Erkunden geben Punkte. Jede Stufe bringt eine Belohnung: neue Dinge, Goldmünzen und besondere Kräfte. Tipp oben links auf deinen Namen und sieh dir den Stufenweg an
+1495|Ein neuer Ort, ein neuer Freund und der erste seltene Schatz bringen eine Entdeckerkiste. An jedem Tag, an dem du liest, wartet eine Leserkiste
+1496|Spring und drück in der Luft noch einmal Springen
+1497|Spring und halte Springen, während du fällst
+1498|Spring und halte Springen, während du fällst, dann schwebst du
+1499|Geh ins Meer und sieh, wie schnell sie schwimmt
+1500|Einfach springen. Hoch
+1501|Einfach springen. Boing
+1502|Geh ins Meer und lauf übers Wasser. Zum Tauchen halte Tauchen
+1503|Kletterhaken
+1504|Wirf den Haken auf einen Hügel, einen Felsen oder ein Dach, und das Seil zieht dich hoch. Wuuusch
+1505|Taschentrampolin
+1506|Stell das Trampolin irgendwo auf und spring bis zu den Wolken
+1507|Tipp es auf der Leiste an, und das Trampolin erscheint vor Rida. Spring darauf
+1508|Schneeballsack
+1509|Schneebälle, die nie ausgehen. Bewirf deine Freunde
+1510|Konfettikanone
+1511|Bumm! Ein bunter Konfettiregen für jede Feier
+1512|Tipp es auf der Leiste an und feiere
+1513|Zauberstab
+1514|Schwing ihn, und um Rida sprießen bunte Blumen
+1515|Tipp den Stab auf der Leiste an und schau, wie die Blumen wachsen
+1516|Das geht beim Erkunden. Drück auf Erkunden
+1517|Aus dem Boot geht der Haken nicht. Geh zuerst an Land
+1518|Der Haken findet keinen Halt. Dreh dich zu einem Hügel, Felsen, Baum oder Dach
+1519|Das Trampolin braucht festen Boden
+1520|Hier ist kein Platz für das Trampolin. Versuch es auf ebenem Boden
+1521|Spring aufs Trampolin! Halte Springen, wenn du landest, dann springst du noch höher
+1522|Hihi! Das ist kalt
+1523|Schneeballschlacht! Hurra
+1524|He, du hast mich getroffen
+1525|Fang mich, wenn du kannst
+1526|Brrr, Schnee
+1527|Hier können keine Blumen wachsen. Probier es auf Gras
+1528|Gräbt Stein, Kohle und Kupfer. Für Eisen braucht man die Steinspitzhacke
+1529|Gräbt auch Eisen. Für Gold und Diamanten braucht man die Eisenspitzhacke
+1530|Gräbt alle Erze, auch Gold und Diamanten! Die Diamantene ist noch schneller
+1531|Die schnellste Spitzhacke der Insel. Gräbt wirklich alles
+1532|Gräbt Erde, Sand und Schnee schneller
+1533|Gräbt Erde, Sand und Schnee schnell
+1534|Die schnellste Schaufel der Insel
+1535|Fällt Holz schneller
+1536|Fällt Holz schnell
+1537|Die schnellste Axt der Insel
+1538|eingeschaltet
+1539|ausgeschaltet
+1540|Rida nimmt beim Graben selbst das richtige Werkzeug
+1541|Die Spitzhacke stellst du in der Werkstatt her
+1542|Das Boot ist eingeschaltet. Rida setzt sich im tiefen Meer hinein
+1543|Das Boot ist ausgeschaltet. Rida schwimmt und taucht jetzt
+1544|Lampe
+1545|Lampe · aus
+1546|Lampe · an
+1547|Alle Zauber
+1548|Tipp einen Zauber an, um ihn zu benutzen oder einzuschalten. Grüne sind eingeschaltet. Die zuletzt benutzten bleiben auf der Leiste
+1550|Die Luft geht zu Ende! Drück Springen und Rida taucht auf. Die Taucherbrille gibt viel mehr Luft
+1551|Wolkenwelt
+1552|Schwebende Inseln über einem Wolkenmeer, Regenbogenbrücken, tragende Winde und das Regenbogenschloss. Der Wind hat zehn Sternensteinchen verstreut
+1553|Eiskönigreich
+1554|Ein Tal unter dem Polarlicht: ein zugefrorener See zum Schlittschuhlaufen, eine Eishöhle, heiße Geysire, eine Rutsche vom Berg und der Eispalast. Hier leben ein Mammutbaby, ein schwebendes Rentier und ein kleiner Eisbär
+1555|Unterwasserstadt
+1556|Eine versunkene Stadt, Korallenriffe und leuchtende Quallen
+1557|Dinosaurier-Dschungel
+1558|Dichter Dschungel, ein Vulkan und gutmütige Dinosaurier
+1559|Himmelsfüchsin
+1560|Blau wie der Himmel über den Wolken, und hinter ihr glitzern Kristalle
+1561|Wölkchen
+1562|Hinter Rida bleiben kleine weiche Wölkchen
+1563|Schatz des Regenbogenschlosses
+1564|Auf den Wolkentreppen beim Portal
+1565|Die Sprungwolke schießt dich zu einer hohen Wolke
+1566|Oben auf dem großen Kirschbaum auf der Blumeninsel
+1567|Truhe in den Blumen
+1568|Im Kristallkreis auf der Kristallinsel
+1569|Am Grund des Teichs auf der Wasserfallinsel. Tauch
+1570|Truhe am Wasserfall
+1571|Oben auf dem Windturm. Geh hinein und lass dich vom Wind tragen
+1572|Im Goldenen Garten, am Ende der Sprungwolken
+1573|Goldene Truhe
+1574|Auf dem Heuhaufen auf der Schafweide
+1575|Hirtentruhe
+1576|Auf der Geheimen Wolke hoch oben. Der Wind bei der Kristallinsel trägt dich hinauf
+1577|Oben auf der Regenbogenbrücke
+1578|Wolkenschwelle
+1579|Blumeninsel
+1580|Wasserfallinsel
+1581|Windturm
+1582|Goldener Garten
+1583|Schafweide
+1584|Geheime Wolke
+1585|Regenbogenschloss
+1586|Zwischen den Blumen hat jemand weiche Wolken versteckt. Du kannst sie auch auf deine Insel stellen
+1587|Kristalle aus der Wolkenwelt leuchten wie der Mond
+1588|Sprungwolken! Stell sie irgendwo hin und spring bis zum Himmel
+1589|Der Goldene Garten hütet den hellsten Schatz des Himmels
+1590|Wolkenschäfchen geben die weichste Wolle der Welt
+1591|Zehn Sternensteinchen haben dem Regenbogenschloss seinen Glanz zurückgegeben. Die Wolkenwelt dankt dir für immer
+1592|Der Wind trägt dich nach oben! Wenn du oben bist, geh nach vorn und lande
+1593|Sprungwolke! Halte Springen, wenn du landest, dann springst du noch höher
+1594|Puff! Zurück in Sicherheit
+1595|Puff! Die Wolken sind weich, und der Wind hat dich an einen sicheren Ort zurückgebracht
+1596|Die Tore des Regenbogenschlosses sind offen! Das Schloss steht auf der höchsten Insel, hinter der Regenbogenbrücke
+1597|Oh, fast
+1598|Willkommen in der Wolkenwelt! Ich bin die Eule Mudrica. Der Wind hat zehn Sternensteinchen über die Inseln verstreut. Sammle sie, und du öffnest die Tore des Regenbogenschlosses
+1599|Steinchen. Der Pfeil oben zeigt das nächste. Pass auf Sprungwolken und Winde auf
+1610|Zauberportal
+1611|Das Portal führt in ganz andere Welten. Jede hat ihre eigenen Geheimnisse, Bewohner und Schätze, die es nirgendwo sonst gibt. Neue Welten werden durch Stufen freigeschaltet
+1612|Bald
+1613|Wird freigeschaltet auf Stufe
+1614|Reisen
+1615|Geh in den Erkundungsmodus und durch das Portal bei der Bibliothek
+1616|Zurück zur Geschichteninsel
+1617|Alles, was du gesammelt hast, gehört weiter dir, und hierher kannst du jederzeit durch das Portal bei der Bibliothek zurückkehren
+1618|Bring mich zur Insel zurück
+1619|Ich bleibe noch ein bisschen
+1620|Willkommen zurück auf der Geschichteninsel
+1622|Sternensteinchen
+1623|Steinchen
+1624|Alle Steinchen
+1625|Alle 10 Sternensteinchen! Die Tore des Regenbogenschlosses öffnen sich
+1626|Bravo! Der Pfeil oben zeigt den Weg zum nächsten Steinchen
+1627|Wolkenwelt! Steinchen
+1628|Das Portal hinter dir führt zurück auf die Insel
+1629|Ein Zauber hält die Truhe verschlossen. Sammle alle 10 Sternensteinchen
+1630|Die Wolkenwelt ist gerettet
+1631|Belohnung des Regenbogenschlosses
+1632|Die Himmelsfüchsin und die Wölkchen gehören jetzt dir. Du findest sie im Zauberladen. Keine andere Füchsin hat sie
+1633|Polarfüchsin
+1634|Weiß wie Schnee im Mondlicht, und hinter ihr flimmern die Farben des Polarlichts
+1635|Polarlicht
+1636|Hinter Rida wehen grüne und lila Lichtbänder
+1637|Eisstab
+1638|Schwing ihn, und das Wasser vor Rida gefriert. Lauf übers Meer, über den See, wohin du willst

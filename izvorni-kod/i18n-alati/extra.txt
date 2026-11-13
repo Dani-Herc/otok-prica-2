@@ -1,0 +1,290 @@
+karata|Tickets
+darova|Geschenke
+dar|Geschenk
+Putujemo kroz portal|Wir reisen durch das Portal
+stranice|Seiten
+U vodi drži|Im Wasser halte
+tipka|Taste
+na joysticku|am Joystick
+Rida sama uzme pravi alat: kramp za kamen, lopatu za zemlju i pijesak, sjekiru za drvo. Bolji kramp kopa tvrđe rude|Rida nimmt selbst das richtige Werkzeug: die Spitzhacke für Stein, die Schaufel für Erde und Sand, die Axt für Holz. Eine bessere Spitzhacke baut härtere Erze ab
+Dodirni gumb s notom gore|Tipp oben auf den Knopf mit der Note
+i odaberi ples|und wähle einen Tanz
+Nove plesove i čarolije nađeš u Čarobnoj trgovini|Neue Tänze und Zauber findest du im Zauberladen
+S pristaništa je vožnja brodom besplatna|Vom Anleger aus ist die Fahrt mit dem Boot kostenlos
+S pristaništa je vožnja besplatna|Vom Anleger aus ist die Fahrt kostenlos
+ako znaš|falls bekannt
+U zraku pritisni|In der Luft drück
+Pod krošnjom otrese darove i zlatnike|Unter der Baumkrone schüttelt sie Geschenke und Goldmünzen ab
+puta na dan|Mal am Tag
+za ronjenje|zum Tauchen
+stranica|Seiten
+lupa|Lupen
+Razgovaraj|Sprich mit
+Pomiluj|Streichle
+sutra opet|morgen wieder
+nakon knjige|nach dem Buch
+Skriveno blago sobe|Versteckter Schatz des Zimmers
+zlatnika. Sutra je skriveno na drugom mjestu|Goldmünzen. Morgen ist er woanders versteckt
+Zdenac želja|Wunschbrunnen
+Vilinski krug|Feenkreis
+Krug je zaiskrio! Kažu da vile ovdje plešu kad nitko ne gleda|Der Kreis funkelt! Man sagt, hier tanzen Feen, wenn niemand hinschaut
+Jednorog Sjajko|Einhorn Sjajko
+Dobro došla u Začaranu šumu! Ovdje gljive svijetle cijelu noć|Willkommen im Zauberwald! Hier leuchten die Pilze die ganze Nacht
+Stani u vilinski krug u sredini i vidi što će se dogoditi|Stell dich in den Feenkreis in der Mitte und schau, was passiert
+Na grani velikog stabla netko je vidio nešto što svjetluca. Penji se uz deblo|Auf dem Ast des großen Baums hat jemand etwas Funkelndes gesehen. Kletter den Stamm hinauf
+Zdenac želja ispunjava jednu želju na dan|Der Wunschbrunnen erfüllt einen Wunsch am Tag
+Unutra je cijela čarobna šuma|Drinnen ist ein ganzer Zauberwald
+Kotlić s napitkom|Zaubertrank-Kessel
+Mmm, miriše na jagode i kišu|Mmm, das riecht nach Erdbeeren und Regen
+Pazi, ovaj napitak te natjera da kišeš duginim bojama|Vorsicht, von diesem Trank niest du in Regenbogenfarben
+Napitak za hrabrost. Dovoljna je jedna kapljica|Ein Mut-Trank. Ein Tropfen reicht
+Kristalna kugla|Kristallkugel
+Vidim... da ćeš danas pročitati nešto napeto|Ich sehe... dass du heute etwas Spannendes liest
+Vidim zmaja koji čita knjigu. Hm, to si možda ti u kostimu|Ich sehe einen Drachen, der ein Buch liest. Hm, vielleicht bist das du im Kostüm
+Kugla kaže: tvoja sljedeća knjiga bit će još bolja|Die Kugel sagt: Dein nächstes Buch wird noch besser
+Fontana želja|Wunschbrunnen
+Vila Zvjezdica|Fee Zvjezdica
+Dobro došla u moj toranj! Dolje kuham napitke, a gore gledam zvijezde|Willkommen in meinem Turm! Unten braue ich Tränke, oben schaue ich die Sterne an
+Kristalna kugla zna što će se dogoditi. Pitaj je|Die Kristallkugel weiß, was passieren wird. Frag sie
+Stube se vrte oko stupa kao zavojnica. Gore je moja zvjezdana soba|Die Treppe windet sich um die Säule. Oben ist mein Sternenzimmer
+Dolje je čarobni laboratorij, a gore zvjezdana soba|Unten ist ein Zauberlabor und oben ein Sternenzimmer
+Ljuljačka|Schaukel
+Uuu, ljuljaj se do krošnje! Ovu ljuljačku je napravila vjeverica|Uiii, schaukle bis in die Baumkrone! Diese Schaukel hat ein Eichhörnchen gebaut
+Izvor želja|Wunschquelle
+Sova Hukica|Eule Hukica
+Huu! Dobro došla u kuću u stablu. Na katu se spava na lišću|Huu! Willkommen im Baumhaus. Oben schläft man auf Blättern
+Kroz lisnate prozore vidim cijelu šumu|Durch die Blätterfenster sehe ich den ganzen Wald
+Na katu se penješ po korijenu uz zid. Samo hodaj gore|Nach oben kletterst du über die Wurzeln an der Wand. Lauf einfach hoch
+Uđi u deblo! Uz zid se penješ na kat|Geh in den Stamm! An der Wand kletterst du nach oben
+Tajni signal|Geheimes Signal
+Brod u boci|Schiff in der Flasche
+Taj brodić sam stavio u bocu dok sam bio mlad galeb. Pitaš se kako? To je tajna svjetioničara|Dieses Schiffchen habe ich in die Flasche gesteckt, als ich eine junge Möwe war. Wie? Das ist ein Leuchtturmwärter-Geheimnis
+Galeb Kapetan|Möwe Kapitän
+Dobro došla u svjetionik! Gore svjetiljka pokazuje brodovima put kroz maglu|Willkommen im Leuchtturm! Oben zeigt die Lampe den Schiffen den Weg durch den Nebel
+Stube vijugaju oko stupa sve do svjetiljke. Penji se|Die Treppe windet sich um die Säule bis zur Lampe. Kletter hinauf
+Iz vrha se vidi cijelo more. Ponekad i kitovi|Von oben sieht man das ganze Meer. Manchmal sogar Wale
+Stube vode sve do velike svjetiljke na vrhu|Die Treppe führt bis zur großen Lampe ganz oben
+Ploča s tragovima|Pinnwand mit Spuren
+Tragovi vode do police s knjigama. Jedna knjiga ne izgleda kao ostale|Die Spuren führen zum Bücherregal. Ein Buch sieht anders aus als die anderen
+Čudna crvena knjiga|Seltsames rotes Buch
+Polica se odmaknula! Iza nje je tajna soba|Das Regal ist zur Seite gerückt! Dahinter ist ein geheimes Zimmer
+Tajni prolaz je otvoren|Der Geheimgang ist offen
+Rakun Inspektor|Waschbär Inspektor
+Dobro došla, kolegice detektivko! Ovdje rješavamo najteže zagonetke|Willkommen, Kollegin Detektivin! Hier lösen wir die schwierigsten Rätsel
+Pravi detektiv gleda pažljivo. Primijetila si da te portret prati očima|Ein echter Detektiv schaut genau hin. Hast du bemerkt, dass dir das Porträt mit den Augen folgt
+Jedna knjiga na polici desno je malo čudna. Dodirni je|Ein Buch im Regal rechts ist etwas seltsam. Tipp es an
+Detektivska radna soba. Negdje je skriven tajni prolaz|Ein Detektivbüro. Irgendwo ist ein Geheimgang versteckt
+Zazvoni zvono|Läute die Glocke
+Ding, dong! Sad cijeli otok zna koliko je sati|Ding, dong! Jetzt weiß die ganze Insel, wie spät es ist
+Golub Tik-Tak|Taube Tik-Tak
+Tik-tak! Ja navijam ovaj sat svako jutro|Tick-tack! Ich ziehe diese Uhr jeden Morgen auf
+Kazaljke na satu pokazuju pravo vrijeme. Pogledaj koliko je sati|Die Zeiger zeigen die echte Uhrzeit. Schau, wie spät es ist
+Gore na podestu visi zvono. Dodirni ga i zazvoni|Oben auf dem Podest hängt eine Glocke. Tipp sie an und läute
+Ovdje kucaju zupčanici. Sat pokazuje pravo vrijeme|Hier ticken die Zahnräder. Die Uhr zeigt die echte Zeit
+Top|Kanone
+BUM! Hihi, samo vježbamo. Ne gađamo nikoga, plašimo galebove|BUMM! Hihi, wir üben nur. Wir zielen auf niemanden, wir erschrecken nur die Möwen
+Dalekozor|Fernrohr
+Kra! Vidim brod na obzoru|Krah! Ich sehe ein Schiff am Horizont
+Kra! Ono je otok s palmama. Možda ima blaga|Krah! Da ist eine Insel mit Palmen. Vielleicht gibt es dort einen Schatz
+Kra! Vidim kita kako izbacuje vodu|Krah! Ich sehe einen Wal, der Wasser spritzt
+Kopaj: Karta blaga|Graben: Schatzkarte
+Papiga Koko|Papagei Koko
+Kra! Blago! Blago! Kra|Krah! Schatz! Schatz! Krah
+Kapetan Brko|Kapitän Brko
+Ahoj, mornarko! Dobro došla u našu utvrdu|Ahoi, Matrosin! Willkommen in unserer Festung
+Na stolu je karta blaga. Crveni X pokazuje gdje kopati|Auf dem Tisch liegt eine Schatzkarte. Das rote X zeigt, wo man graben muss
+Popni se na stražarnicu i pogledaj kroz dalekozor|Steig auf den Wachturm und schau durchs Fernrohr
+Piratska utvrda: topovi, karta blaga i stražarnica|Piratenfestung: Kanonen, Schatzkarte und Wachturm
+Viseća mreža|Hängematte
+Mornari spavaju u visećim mrežama jer se ljuljaju zajedno s brodom. Nitko ne padne iz kreveta|Matrosen schlafen in Hängematten, weil sie mit dem Schiff mitschaukeln. So fällt niemand aus dem Bett
+Kapetanova karta|Karte des Kapitäns
+Mornarka Zvjezdana|Matrosin Zvjezdana
+Dobro došla u potpalublje! Ovdje spavamo i čuvamo blago|Willkommen unter Deck! Hier schlafen wir und bewachen den Schatz
+Kroz okrugle prozore vidi se more. Brod se lagano ljulja, osjećaš li|Durch die runden Fenster sieht man das Meer. Das Schiff schaukelt sanft, spürst du es
+Kapetanova karta je na stolu. Tamo počinje svaka potraga za blagom|Die Karte des Kapitäns liegt auf dem Tisch. Dort beginnt jede Schatzsuche
+Potpalublje pravog gusarskog broda|Unter Deck eines echten Piratenschiffs
+Karta drevnog hrama|Karte des alten Tempels
+Kamen u oltaru se pomaknuo! Otvorila se tajna niša|Der Stein im Altar hat sich bewegt! Eine geheime Nische ist offen
+Kamene ploče|Steinplatten
+Ugh-ugh! Tri kamene ploče na podu. Stani na svaku i vidi što će se dogoditi|Uh-uh! Drei Steinplatten auf dem Boden. Stell dich auf jede und schau, was passiert
+Majmun Bananko|Affe Bananko
+Ugh-ugh! Dobro došla u stari hram. Ovdje je sve od kamena i zlata|Uh-uh! Willkommen im alten Tempel. Hier ist alles aus Stein und Gold
+Zlatni kip čuva tajnu. Kažu da tri ploče na podu otvaraju nešto u oltaru|Die goldene Statue hütet ein Geheimnis. Man sagt, drei Platten auf dem Boden öffnen etwas im Altar
+Pazi na kanale s vodom, tamo žive male ribice|Pass auf die Wasserkanäle auf, dort leben kleine Fische
+Stari hram u džungli. Što skrivaju kamene ploče|Ein alter Tempel im Dschungel. Was verbergen die Steinplatten
+Krava Mila|Kuh Mila
+Muuu! Dobro došla u staju. Ovdje svi spavamo na mekanom sijenu|Muuuh! Willkommen im Stall. Hier schlafen alle auf weichem Heu
+Svakog jutra dajem mlijeko za cijeli otok. Muuu|Jeden Morgen gebe ich Milch für die ganze Insel. Muuuh
+Gladni prijatelji čekaju kod korita u sredini. Pomogneš nam|Die hungrigen Freunde warten am Trog in der Mitte. Hilfst du uns
+Ponij Zlatko|Pony Zlatko
+Iii-ha! Ponekad me jašu po cijelom otoku|Iiiha! Manchmal reitet man mich über die ganze Insel
+Prase Ružica|Ferkel Ružica
+Rok-rok! Blato je najbolja kupka|Oink-oink! Schlamm ist das beste Bad
+Koka Pjegica|Huhn Pjegica
+Kokodak! Snijela sam jaje|Gack-gack! Ich habe ein Ei gelegt
+Koka Točkica|Huhn Točkica
+Kokoda-daak|Gack-gaaack
+Korito za gladne prijatelje|Trog für hungrige Freunde
+Staja puna prijatelja. Na sijeno se penješ po balama|Ein Stall voller Freunde. Aufs Heu kletterst du über die Ballen
+Mlinski kamen|Mühlstein
+Kamen melje zrno u brašno. Vjetar okreće krila, krila okreću ovaj veliki stup|Der Stein mahlt Korn zu Mehl. Der Wind dreht die Flügel, und die Flügel drehen diese große Säule
+Brašno za gladne prijatelje|Mehl für hungrige Freunde
+Vjeverica Mlinarica|Eichhörnchen Müllerin
+Dobro došla u mlin! Ja ovdje meljem brašno za kruh cijelog otoka|Willkommen in der Mühle! Hier mahle ich Mehl für das Brot der ganzen Insel
+Popni se uz zid do balkona i pogledaj kroz prozor kako se krila okreću|Kletter an der Wand zum Balkon und schau durchs Fenster, wie sich die Flügel drehen
+Vjetrenjače su nekad mljele žito u svakom selu|Windmühlen haben früher in jedem Dorf Getreide gemahlen
+Mlin radi! Vjetar okreće krila, a krila mlinski kamen|Die Mühle läuft! Der Wind dreht die Flügel und die Flügel den Mühlstein
+Žaba Kreketalica|Frosch Quakerin
+Kre-kre! Dobro došla u staklenik. Ovdje je uvijek toplo, čak i zimi|Quak-quak! Willkommen im Gewächshaus. Hier ist es immer warm, sogar im Winter
+Staklo pušta sunce unutra, a toplinu ne pušta van. Zato biljke rastu brže|Das Glas lässt die Sonne herein und die Wärme nicht hinaus. Deshalb wachsen die Pflanzen schneller
+Zalij biljke i vidi kako se raduju|Gieß die Pflanzen und schau, wie sie sich freuen
+Zalij biljke|Pflanzen gießen
+Kre! Biljke piju vodu korijenjem. Hvala ti|Quak! Pflanzen trinken mit den Wurzeln. Danke
+Jež Bodljo|Igel Bodljo
+Frk-frk! Ja jedem bubice, a ne cvijeće|Schnüff-schnüff! Ich fresse Käfer, keine Blumen
+Hranilica za gladne prijatelje|Futterstelle für hungrige Freunde
+Stakleni vrt pun povrća, cvijeća i leptira|Ein Glasgarten voller Gemüse, Blumen und Schmetterlinge
+Planetarij|Planetarium
+Huu! Merkur je najbliži Suncu i najbrže ga obiđe|Huu! Merkur ist der Sonne am nächsten und umrundet sie am schnellsten
+Huu! Zemlja je treći planet od Sunca, plavi od mora|Huu! Die Erde ist der dritte Planet von der Sonne, blau vom Meer
+Huu! Mars je crven jer mu je tlo puno hrđe|Huu! Der Mars ist rot, weil sein Boden voller Rost ist
+Huu! Svjetlost Sunca do nas putuje oko osam minuta|Huu! Das Sonnenlicht braucht etwa acht Minuten bis zu uns
+Sova Zvjezdoznanka|Eule Sternkundige
+Huu! Dobro došla u zvjezdarnicu. Kupola je puna zvijezda|Huu! Willkommen in der Sternwarte. Die Kuppel ist voller Sterne
+Kroz teleskop se vide planeti i mjeseci. Popni se na postolje|Durch das Teleskop sieht man Planeten und Monde. Steig auf das Podest
+Gledaj gore: ponekad proleti zvijezda padalica|Schau nach oben: Manchmal fliegt eine Sternschnuppe vorbei
+Zvjezdarnica: kupola puna zvijezda i veliki teleskop|Sternwarte: eine Kuppel voller Sterne und ein großes Teleskop
+Robopas Vijak|Roboterhund Vijak
+Bip-vau! Motori su spremni za let|Piep-wau! Die Motoren sind startklar
+Zvjezdana karta|Sternkarte
+Odbrojavanje|Countdown
+Polijetanje! Letimo kroz svemir|Start! Wir fliegen durchs All
+Robot Pipko|Roboter Pipko
+Bip-bup! Dobro došla u raketu, astronautkinjo|Piep-bup! Willkommen in der Rakete, Astronautin
+Dolje su motori, u sredini spavamo, a ovdje gore upravljamo|Unten sind die Motoren, in der Mitte schlafen wir und hier oben steuern wir
+Sjedni u kokpit i pritisni Odbrojavanje. Bip|Setz dich ins Cockpit und drück auf Countdown. Piep
+Tri kata rakete: motori, spavaonica i kokpit na vrhu|Drei Etagen Rakete: Motoren, Schlafraum und ganz oben das Cockpit
+Pokus|Experiment
+Bip! Kad pomiješaš ocat i sodu bikarbonu, nastane puno pjene|Piep! Wenn du Essig und Natron mischst, entsteht viel Schaum
+Bip! Voda se smrzava na nula stupnjeva, a kipi na sto|Piep! Wasser gefriert bei null Grad und kocht bei hundert
+Bip! Sve oko nas sastoji se od sitnih atoma|Piep! Alles um uns herum besteht aus winzigen Atomen
+Zvjezdani zaslon|Sternenbildschirm
+Bip-bup! Dobro došla u laboratorij. Ovdje sve istražujemo|Piep-bup! Willkommen im Labor. Hier erforschen wir alles
+Pritisni Pokus na stolu s bočicama i vidi što će se dogoditi|Drück auf Experiment am Tisch mit den Fläschchen und schau, was passiert
+Ne diraj teslin svitak, iskri! Bip|Fass die Teslaspule nicht an, sie funkt! Piep
+Laboratorij pun pokusa, iskri i svjetlucavih meduza|Ein Labor voller Experimente, Funken und leuchtender Quallen
+Mačka Mica|Katze Mica
+Mrrr... prede kraj vatre|Mrrr... sie schnurrt am Feuer
+Skuhaj čaj|Tee kochen
+Čaj od kamilice s medom. Najbolji uz dobru knjigu|Kamillentee mit Honig. Am besten mit einem guten Buch
+Kutak uspomena|Erinnerungsecke
+Vrt|Garten
+Mijau! U vrtu rastu jabuke i cvijeće. Lijepo je čitati na klupi|Miau! Im Garten wachsen Äpfel und Blumen. Auf der Bank liest es sich schön
+Topla kućica. Kroz stražnja vrata ideš u vrt|Ein gemütliches Häuschen. Durch die Hintertür kommst du in den Garten
+Kugla sladoleda|Eiskugel
+Izvoli! Kugla sladoleda, okus|Bitte schön! Eine Kugel Eis, Sorte
+jagoda|Erdbeere
+čokolada|Schokolade
+vanilija|Vanille
+pistacija|Pistazie
+Njam|Mjam
+Divovska torta|Riesentorte
+Ova torta ima pet katova sreće! Puhni svjećice i zaželi želju|Diese Torte hat fünf Stockwerke Glück! Puste die Kerzen aus und wünsch dir was
+Medvjedić Medo|Bärchen Medo
+Dobro došla u slastičarnicu! Ovdje je sve slatko|Willkommen in der Konditorei! Hier ist alles süß
+Izaberi kuglu sladoleda kod hladnjaka. Okus je iznenađenje|Hol dir eine Kugel Eis an der Kühltruhe. Die Sorte ist eine Überraschung
+Divovska torta iza mene ima pet svjećica. Zaželi želju|Die Riesentorte hinter mir hat fünf Kerzen. Wünsch dir was
+Slastičarnica! Torte, bomboni i sladoled|Konditorei! Torten, Bonbons und Eis
+Upali televizor|Fernseher an
+Crtić o ribicama! Ali knjiga je ipak najbolja priča|Ein Zeichentrick über Fische! Aber ein Buch ist doch die beste Geschichte
+Balkon|Balkon
+S balkona se vidi cijelo nebo. Lijepo mjesto za čitanje|Vom Balkon sieht man den ganzen Himmel. Ein schöner Ort zum Lesen
+Zec Skokić|Hase Skokić
+Dobro došla u našu kuću! Dolje je dnevni boravak, a gore spavaća soba|Willkommen in unserem Haus! Unten ist das Wohnzimmer und oben das Schlafzimmer
+Stube su uz lijevi zid. Gore je i balkon|Die Treppe ist an der linken Wand. Oben gibt es auch einen Balkon
+Upali televizor ako želiš, ali dobra knjiga je ipak bolja|Mach den Fernseher an, wenn du willst, aber ein gutes Buch ist doch besser
+Kuća na kat: dnevni boravak, spavaća soba i balkon|Haus mit Obergeschoss: Wohnzimmer, Schlafzimmer und Balkon
+Dalje: odaberi zgradu|Weiter: Gebäude wählen
+Koju zgradu želiš|Welches Gebäude möchtest du
+Kad završiš knjigu, u zgradi te čeka|Wenn du das Buch beendest, wartet im Gebäude auf dich
+Unutra je i soba koju možeš istraživati|Drinnen gibt es auch ein Zimmer zum Erkunden
+Preuredi zgradu|Gebäude umbauen
+To je zgrada koju već imaš. Odaberi drugu|Das ist das Gebäude, das du schon hast. Wähl ein anderes
+Svjetlina|Helligkeit
+Ako je slika previše bijela ili bliještava, pomakni ulijevo|Wenn das Bild zu weiß oder grell ist, schieb nach links
+Upoznaj novu životinju|Lerne ein neues Tier kennen
+Pozdravi|Begrüße
+prijatelja|Freund
+Otvori škrinju|Öffne die Truhe
+Pročitaj pismo|Lies den Brief
+Pogledaj|Schau es dir an
+biraj|wählen
+mijenjaj|ändern
+odaberi|auswählen
+natrag|zurück
+kartice|Reiter
+Glavna radnja: kad je na ekranu gumb sa zelenim A (uđi, razgovaraj, otvori), A radi to. Inače skok, a u vodi plivanje prema gore|Hauptaktion: Wenn auf dem Bildschirm ein Knopf mit grünem A ist (hineingehen, sprechen, öffnen), macht A genau das. Sonst Sprung, im Wasser nach oben schwimmen
+Dodir onoga što je u sredini ekrana: gradnja, berba, kockice|Berühren, was in der Bildschirmmitte ist: bauen, ernten, Blöcke
+U svakom prozoru zlatni okvir je odmah na glavnom gumbu. Križić (ili palica) ga pomiče, A pritišće gumb, a B zatvara. LB i RB mijenjaju kartice, a ◀ ▶ pomiču klizače. Na svakom gumbu na ekranu piše koji gumb joysticka mu pripada.|In jedem Fenster ist der goldene Rahmen gleich auf dem wichtigsten Knopf. Das Steuerkreuz (oder der Stick) bewegt ihn, A drückt den Knopf und B schließt. LB und RB wechseln die Reiter, ◀ ▶ bewegen die Schieberegler. Auf jedem Knopf am Bildschirm steht, welcher Controller-Knopf dazugehört.
+Zatvoreno. Riješi zadatak u blizini i ovo će se otvoriti.|Verschlossen. Löse die Aufgabe in der Nähe, dann öffnet es sich.
+Zaključano.|Abgeschlossen.
+ima ključ. Porazgovaraj i pomozi!|hat den Schlüssel. Sprich mit ihr oder ihm und hilf!
+Skupi za|Sammle für
+Svjetlucaju!|Sie glitzern!
+Netko u blizini|Jemand in der Nähe
+Skok, a u vodi plivanje prema gore|Sprung, im Wasser nach oben schwimmen
+Radnja: kad je na ekranu gumb s plavim X (uđi, razgovaraj, otvori), X radi to. Inače dodir onoga što je u sredini ekrana: gradnja, berba|Aktion: Wenn auf dem Bildschirm ein Knopf mit blauem X ist (hineingehen, sprechen, öffnen), macht X genau das. Sonst berühren, was in der Bildschirmmitte ist: bauen, ernten
+Album otkrića|Entdeckungsalbum
+Čarobna bića|Zauberwesen
+Likovi|Figuren
+Mjesta i čuda|Orte und Wunder
+Životinje|Tiere
+Otkrij lupom|Mit der Lupe aufdecken
+imaš|du hast
+Pronađi najbolji napredak|Besten Spielstand finden
+Pokaže sve spremljene kopije u ovom pregledniku i u oblaku, s razinom svake. Možete vratiti bilo koju.|Zeigt alle gespeicherten Kopien in diesem Browser und in der Cloud, jeweils mit Stufe. Sie können jede davon wiederherstellen.
+Vrati ovu|Diese wiederherstellen
+Sigurno? Pritisni opet|Sicher? Noch einmal drücken
+Tražim sve kopije...|Ich suche alle Kopien...
+Nema drugih kopija.|Keine weiteren Kopien.
+trenutno u igri|gerade im Spiel
+Učitavam...|Wird geladen...
+Ovaj preglednik, sada|Dieser Browser, jetzt
+Ovaj preglednik, dnevna kopija|Dieser Browser, Tageskopie
+Ovaj preglednik, prije vraćanja iz datoteke|Dieser Browser, vor dem Laden aus einer Datei
+Oblak, glavni|Cloud, Hauptspeicher
+Oblak, dnevna kopija|Cloud, Tageskopie
+Oblak, prije vraćanja iz datoteke|Cloud, vor dem Laden aus einer Datei
+Razina|Stufe
+stranica|Seiten
+zlatnika|Goldmünzen
+Kamo idemo?|Wohin gehen wir?
+Ovdje si sada|Du bist jetzt hier
+Već si ovdje!|Du bist schon hier!
+se otvara na razini|öffnet sich auf Stufe
+Ima zadatak za tebe. Razgovaraj!|Hat eine Aufgabe für dich. Hingehen und reden!
+Rado popriča s tobom.|Plaudert gern mit dir.
+Zadatak riješen ✓|Aufgabe erledigt ✓
+Prijatelj! ✓|Freund! ✓
+Pokaži put|Zeig den Weg
+Pokaži najbliži|Zeig den nächsten
+Skupljeno|Gesammelt
+Zadatak stanovnika|Aufgabe eines Bewohners
+Narančasti znak na kompasu.|Orangefarbenes Zeichen auf dem Kompass.
+Trg portala|Portalplatz
+Četiri portala u četiri svijeta.|Vier Portale in vier Welten.
+Izlazni portal|Ausgangsportal
+Put natrag.|Der Weg zurück.
+Izlaz|Ausgang
+Putuj|Reisen
+Knjižnica i dom|Bibliothek und Zuhause
+Četvrt|Stadtteil
+Svjetovi|Welten
+Svjetovi s Otoka priča|Welten der Geschichteninsel
+Makni oznaku puta|Wegmarkierung entfernen
+Jedan dodir i Rida putuje. Na karti u torbi vidiš cijelu kartu ovog mjesta.|Ein Tippen und Rida reist. Auf der Karte in der Tasche siehst du die ganze Karte dieses Ortes.
+Prati crveni stup svjetla i crvenu oznaku na kompasu!|Folge der roten Lichtsäule und der roten Markierung auf dem Kompass!
+Stigla si|Du bist angekommen
+Ovdje|Hier
+Cilj|Ziel
+Sljedeći|Nächster

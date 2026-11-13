@@ -1,0 +1,746 @@
+893|KNJIGA
+894|Vjetar Zaborava
+895|Šesta je zapela uz iglu na Snježnom otoku
+896|Mraz je ispremiještao slova na stranici. Složi ih u pravu riječ
+897|Onda je došao Vjetar Zaborava. On ne voli priče, jer se priče pamte, a on bi htio da se sve zaboravi. Puhao je tri dana i tri noći. Otvorio je prozore knjižnice, istrgnuo sedam stranica iz Velike knjige i razbacao ih po kopnu i moru. Otok je počeo blijedjeti, a svjetlo na tornju treperilo je kao svijeća na propuhu
+898|ČITANJE
+899|Nastavak pišeš ti
+900|Posljednja je na staroj kuli na Otoku ruševina
+901|Posljednja stranica! Složi sva slova sa stranica u jednu čarobnu riječ
+902|Ima listove, a nije biljka. Ima hrbat, a nije životinja. Što je to
+903|Knjiga
+904|Drvo
+905|Kornjača
+906|Zelena kuća, crvena soba, crni stanari. Što je to
+907|Jabuka
+908|Trešnja
+909|Leti bez krila, plače bez očiju. Što je to
+910|Ptica
+911|Leptir
+912|Što se razbije čim ga izgovoriš
+913|Tišina
+914|Jaje
+915|Što ima tipke, a ne otvara nijedna vrata
+916|Klavir
+917|Ključ
+918|Brava
+919|Što je puno rupa, a ipak drži vodu
+920|Spužva
+921|Sito
+922|Što raste kad ga hraniš, a nestane kad ga poliješ vodom
+923|Vatra
+924|Cvijet
+925|Mačka
+926|Što ima vrat, a nema glavu
+927|Boca
+928|Žirafa
+929|Lisica
+930|Što ima jedno oko, a ništa ne vidi
+931|Igla
+932|Gusar
+933|Sova
+934|Što teče, a nema nogu
+935|Rijeka
+936|Zec
+937|Što je tvoje, a drugi ga koriste više nego ti
+938|Tvoje ime
+939|Tvoj bicikl
+940|Tvoja olovka
+941|Danju spava, noću leti i visi naglavačke. Tko je to
+942|Šišmiš
+943|Mjesec
+944|Nosi kućicu na leđima i za sobom ostavlja srebrni trag. Tko je to
+945|Puž
+946|Ima šest strana, a nijednu ne možeš pročitati. Što je to
+947|Kocka
+948|Bilježnica
+949|Lopta
+950|Što je sve mokrije što više briše
+951|Ručnik
+952|Sunce
+953|Vjetar
+954|Što uvijek ide samo gore, a nikad dolje
+955|Tvoje godine
+956|Balon
+957|Što je teže: kilogram perja ili kilogram željeza
+958|Jednako su teški
+959|Perje
+960|Koliko mjeseci u godini ima 28 dana
+961|Svi
+962|Jedan
+963|Dva
+964|Pijetao snese jaje na samom vrhu krova. Na koju stranu jaje padne
+965|Pijetlovi ne nesu jaja
+966|Na lijevu
+967|Na desnu
+968|Kad ga trebaju, bace ga u more. Kad ga ne trebaju, izvuku ga. Što je to
+969|Sidro
+970|Mreža
+971|Udica
+972|Ima zube, a ne grize. Kosu uredi, a frizer nije. Što je to
+973|Češalj
+974|Pas
+975|Pila
+976|Što možeš uhvatiti, a ne možeš baciti
+977|Prehladu
+978|Loptu
+979|Ribu
+980|Ima šešir, a nema glavu. Ima nogu, a ne hoda. Što je to
+981|Gljiva
+982|Strašilo
+983|Kišobran
+984|Bijelo polje, crno sjeme. Tko ga zna čitati, mudar je. Što je to
+985|Stranica knjige
+986|Snijeg s makom
+987|Šahovska ploča
+988|Što putuje cijelim svijetom, a stalno stoji u kutu
+989|Poštanska marka
+990|Metla
+991|Što je to: što ga više ima, to se manje vidi
+992|Mrak
+993|Ima ruke, a nema prste. Ima lice, a nema usta. Što je to
+994|Sat
+995|Lutka
+996|Rukavica
+997|Ja nemam krila, a letim od ruke do ruke. Nemam usta, a pričam priče. Tko sam ja
+998|Zmaj
+999|Tajna škrinja Velike knjige
+1000|Pisci s potonulog broda ostavili su ovo za onoga tko vrati sve stranice. Hvala ti, čuvarice priča
+1001|Do stranice moraš doći s Ridom. Pritisni Istraži
+1002|Čuješ li? Iz knjižnice nas netko zove, a iznad nje sja zlatno svjetlo. Idemo vidjeti
+1003|Poglavlje
+1004|Izgubljene stranice
+1005|Na stalku leži Velika knjiga. U njoj je zapisana cijela priča otoka, ali nedostaje joj sedam stranica
+1006|Vjetar Zaborava istrgnuo ih je i razbacao po otoku i moru. Bez njih otok polako zaboravlja svoju priču
+1007|Svaku stranicu čuva jedna zagonetka. Na svakoj stranici sjaji po jedno slovo, a kad skupiš svih sedam, otkrit ćeš čarobnu riječ
+1008|Pomoći ću! Krenimo
+1009|Prati zlatno svjetlo
+1010|Velika knjiga je u knjižnici. Uđi s Ridom
+1011|Sve stranice su na svom mjestu. Hvala ti, čuvarice priča
+1012|Vraćeno
+1013|stranica. Sljedeća
+1014|Pročitaj priču
+1015|Zagonetka dana
+1016|Danas si je već riješila. Sutra te čeka nova
+1017|Točno! +10 zlatnika
+1018|Hmm, nije to. Pročitaj zagonetku još jednom
+1019|‹ Prethodno
+1020|Sljedeće ›
+1021|Zatvori
+1022|Nema usta, a priča. Nema nogu, a putuje od ruke do ruke. Ima hrbat, a nije životinja. Što je to
+1023|Pismo
+1024|Nije to. Pročitaj zagonetku još jednom
+1025|Okreni dvije kartice
+1026|Svi parovi! Trebalo ti je
+1027|poteza
+1028|Par! Još
+1029|Poslušaj opet
+1030|Slušaj
+1031|tona
+1032|Tvoj red
+1033|Ups! Poslušaj još jednom
+1034|Kristali pjevaju zajedno
+1035|Bravo! Sad još jedan ton
+1036|Dodirni komadić do praznog mjesta da ga pomakneš. Slika je karta otoka
+1037|slide button
+1038|Složila si je
+1039|SUNCE
+1040|Ključ s pločice: svaki znak je jedno slovo
+1041|Na poleđini stranice sjaji slovo
+1042|25 zlatnika
+1043|Velika knjiga je cijela
+1044|Sljedeća stranica
+1045|Svih sedam stranica vratilo se u Veliku knjigu, a svjetlo na tornju opet sja punim sjajem
+1046|Na katu knjižnice otvorila su se tajna vrata. Popni se stepenicama iza stalka i potraži škrinju
+1047|Pero priče
+1048|Hvala
+1049|Netko zove iz knjižnice
+1050|U knjižnici na stalku leži Velika knjiga, a iznad krova sja zlatno svjetlo. Uđi u knjižnicu s Ridom i saznaj što se dogodilo
+1051|Istraži s Ridom
+1052|Pročitaj poglavlje
+1053|Još je skrivena
+1054|Velika knjiga je cijela od
+1055|Zagonetka dana čeka te svaki dan kod Velike knjige
+1056|Zlatni stup svjetla pokazuje gdje je sljedeća stranica, a na karti u torbi označena je zlatnom zvijezdom
+1057|Vrati sve stranice Velikoj knjizi
+1058|Joystick je spojen! Pritisni A za početak, a u igri drži gumb Start za pomoć
+1059|ArrowLeft
+1060|ArrowRight
+1061|Igranje joystickom
+1062|Desna palica okreće pogled
+1063|Skok, a u vodi plivanje prema gore
+1064|Ronjenje i izlaz iz čamca
+1065|RT
+1066|Drži za kopanje kockice ispred Ride
+1067|Dodir: razgovor, škrinja, gradnja, berba
+1068|LB
+1069|RB
+1070|Odabir kockice u šapi
+1071|Odabir oruđa ili čarolije na traci
+1072|Koristi odabrano oruđe ili čaroliju
+1073|Kamera bliže ili dalje
+1074|Plesovi i čarolije
+1075|Kratko: natrag na otok. Drži: ova pomoć
+1076|Idemo
+1077|Zlatnici
+1078|Dodirni za brže
+1079|Dupin Plavko
+1080|Najbrži plivač u moru. Obožava skakati preko valova
+1081|Iz dubine donosi bisere i koralje
+1082|Plavko živi u moru
+1083|Crvena panda Mimi
+1084|Obožava skrivače i spava u krošnjama
+1085|Pronalazi zlatnike skrivene u grmlju
+1086|Zvjezdani konjić Luna
+1087|Galopira tako brzo da iza sebe ostavlja dugu
+1088|Nosi zvjezdanu prašinu i čarobno sjeme
+1089|Zmajić Iskra
+1090|Izlegao se iz jajeta koje je grijalo tvoje čitanje
+1091|Iz špilje donosi kristale
+1092|Utrka mrkvica
+1093|Skupi sve zlatne mrkvice prije nego što Skok dotrči do cilja
+1094|Biseri u vodi
+1095|Kvaki zaroni i pokaže gdje se pod vodom kriju biseri
+1096|Ježev nogomet
+1097|Bodlja se smota u loptu. Gurni je u gol tri puta
+1098|Oblak trampolin
+1099|Vunica napuše oblak. Skoči na njega i dohvati zvijezde na nebu
+1100|Jahanje pod morem
+1101|Polka te nosi kroz more. Pod vodom možeš ostati koliko želiš
+1102|Mačji njuh
+1103|Mrvica nanjuši zakopano blago. Prati šapice i kopaj na oznaci
+1104|Papigin kviz
+1105|Rio pamti rečenice iz tvojih knjiga i priče otoka. Znaš li odgovore
+1106|Sovin pogled
+1107|Mudrica na minutu otkrije sva skrivena blaga oko tebe, čak i kroz zidove
+1108|Klizanje na trbuhu
+1109|Pipo te uči klizati. Pokupi sve ribice prije nego što istekne vrijeme
+1110|Lopoči i krijesnice
+1111|Kvakica stvori stazu lopoča. Skači s lopoča na lopoč i skupi krijesnice
+1112|Jahanje kroz pustinju
+1113|Dina zna sve putove. Na njoj Rida juri preko pijeska
+1114|Jahanje na dupinu
+1115|Plavko juri morem i skače preko valova. Pritisni skok na površini
+1116|Skrivača
+1117|Mimi se sakrije negdje u blizini. Prati Toplo i Hladno i pronađi je tri puta
+1118|Galop duge
+1119|Luna galopira brže od vjetra i može skočiti dvaput u zraku
+1120|Let na zmaju
+1121|Iskra raširi krila i poleti s Ridom iznad otoka
+1122|Danas ste već jahali zajedno ✓
+1123|Prvo jahanje danas donosi nagradu i srce
+1124|Za jahanje trebate biti prijatelji: 2 srca
+1125|Današnja nagrada je osvojena ✓ Igrati možete opet
+1126|Danas te čeka nagrada i jedno srce prijateljstva
+1127|Jaši
+1128|Igrajmo
+1129|Istraži s Ridom i igraj
+1130|Uzmi dar
+1131|Najdraže jelo
+1132|Potraži ga u vrtu ili na tržnici
+1133|Prati Ridu ✓
+1134|Povedi u istraživanje
+1135|Najbolji prijatelji
+1136|Do najboljeg prijateljstva
+1137|Dar prijatelja
+1138|Bravo
+1139|ti je najbolji prijatelj
+1140|od 5 srca
+1141|Današnju nagradu već imaš. Sutra opet
+1142|Igre s prijateljima igraju se u istraživanju
+1143|nije u blizini
+1144|Pobjeda
+1145|Uf, vrijeme je isteklo! Pokušaj ponovno
+1146|Ovdje je premalo mjesta za utrku. Pokušaj na livadi
+1147|Na mjesta, pozor, sad! Tko prije do zadnje mrkvice
+1148|Skok je stigao prvi! Pokušaj opet, sad znaš put
+1149|Brža si od zeca
+1150|Ovdje je voda preplitka za bisere
+1151|Kvak! Ispod vode nešto sja. Zaroni
+1152|Svi biseri su tvoji
+1153|Treba nam ravna livada za nogomet
+1154|Golovi
+1155|Gurni ježa-loptu u gol! Kreni na njega i lopta se otkotrlja
+1156|GOOOL! Još
+1157|Hat-trick
+1158|Bee! Skoči na moj oblak i dohvati zvijezde
+1159|Do zvijezda i natrag
+1160|Mrvica ovdje ne nanjuši ništa. Pokušaj na otvorenom
+1161|Mijau! Nešto njušim... Prati me
+1162|Prati Mrvicu i kopaj na oznaci X
+1163|Tu! Kopaj ovdje
+1164|Zakopano blago
+1165|Rio još nema pitanja. Zapiši omiljene rečenice u dnevnik
+1166|Pitanje
+1167|Huu-huu! Vidim
+1168|skrivenih stvari. Prati svjetla
+1169|Huu! Sve je već pronađeno, bravo
+1170|Sovine oči
+1171|Treba nam više mjesta za klizanje
+1172|Lezi na trbuh i kliiizi! Wiii
+1173|Prava klizačica
+1174|Kvakica treba vodu u blizini. Priđi jezeru ili moru
+1175|Ovdje nema dovoljno vode za lopoče
+1176|Kvak-kvak! Skači s lopoča na lopoč
+1177|Krijesnice svijetle za tebe
+1178|Pronađena
+1179|Mimi se sakrila! Prati Toplo i Hladno
+1180|Vruće! 🔥
+1181|Toplo
+1182|Mlako
+1183|Hladno ❄
+1184|Našla si me! Ajmo opet
+1185|Majstorica skrivača
+1186|s questions come from the girl
+1187|“ Iz koje je knjige ova rečenica
+1188|U kojoj knjizi je lik
+1189|Kako se zove
+1190|poglavlje Velike knjige
+1191|Rio kaže: skoro! Probaj opet, pitanja se mijenjaju
+1192|Točno
+1193|Točno! Rio pjeva od sreće
+1194|Nije. Točan odgovor
+1195|pliva samo u vodi. Uđi u more i pritisni gumb Dozovi
+1196|ili Y
+1197|Iskra širi krila! Skok je gore, Roni je dolje
+1198|Jašeš na
+1199|Plavku
+1200|Polki
+1201|Na površini pritisni Skok za skok preko valova
+1202|Pod vodom možeš ostati koliko želiš
+1203|Juhu
+1204|Luna može skočiti dvaput u zraku
+1205|Dina juri preko otoka
+1206|Za silazak: gumb Siđi
+1207|Super vožnja
+1208|Jašite još malo za današnju nagradu
+1209|Siđi
+1210|Dozovi
+1211|ne pliva. Sišla si na obalu
+1212|Odlično jašete! Siđi kad želiš i uzmi nagradu
+1213|Voli ribu
+1214|Može te nositi morem
+1215|Plavko je doplivao do Ride! Nahrani ga ribom i postat ćete prijatelji. S 2 srca možeš jahati na njemu
+1216|Bok, Plavko
+1217|Tajanstveno jaje
+1218|Jaje je toplo i lagano se miče. Rida ga je odnijela u gnijezdo kraj knjižnice. Treba mu toplina priča: pročitaj još
+1219|stranica i izleći će se
+1220|Čuvat ću ga
+1221|Jaje se grije svaki put kad čitaš
+1222|do izlijeganja. Upiši pročitane stranice gumbom Čitala sam
+1223|U redu
+1224|Izleglo se
+1225|Svijetli u mraku
+1226|Leti s Ridom
+1227|Tvoje čitanje izleglo je pravog malog zmaja! Iskra može letjeti s Ridom iznad cijelog otoka
+1228|Bok, Iskra
+1229|Treba ti
+1230|zlatnika. Prodaj plodove iz vrta ili otvori škrinju
+1231|Čeka te kraj
+1232|tržnice
+1233|Jupi
+1234|Sjajkini posebni prijatelji
+1235|Pogledaj
+1236|Prijatelji iz divljine
+1237|Skače u otvorenom moru. Doplivaj ili doplovi blizu dok skače
+1238|Jaje u gnijezdu kraj knjižnice. Još
+1239|čitanja
+1240|U kristalnoj špilji nešto tajanstveno svijetli
+1241|Prijatelji s otoka
+1242|Zmajevo jaje se miče! Dodirni gnijezdo kraj knjižnice
+1243|Šumska lisica
+1244|Zelena kao mahovina u Velikoj šumi. Za njom lete listići
+1245|Arktička lisica
+1246|Bijela kao snijeg na vrhu planine
+1247|Srebrna lisica
+1248|Sjaji kao mjesečina na moru
+1249|Bombon lisica
+1250|Ružičasta kao šećerna vuna na sajmu
+1251|Noćna lisica
+1252|Tamna kao noćno nebo, a oči joj svijetle
+1253|Vatrena lisica
+1254|Iz krzna joj frcaju iskre, a ne peče nikoga
+1255|Zlatna lisica
+1256|Prava zlatna, od vrha ušiju do repa
+1257|Kristalna lisica
+1258|Svjetluca kao kristali iz duboke špilje
+1259|Dugina lisica
+1260|Polako mijenja sve boje duge
+1261|Galaktička lisica
+1262|U krznu nosi zvijezde i daleke galaksije
+1263|Zečica Skokica
+1264|Malo je, ali skače kao opruga
+1265|Skače puno više
+1266|Mačka Brzica
+1267|Tiha i brza kao vjetar
+1268|Trči brže
+1269|Pingvin Plivko
+1270|Na kopnu se gega, a u moru leti
+1271|Pliva dvaput brže i nikad se ne umori
+1272|Ježić Kotrljko
+1273|Kad potrči, smota se u loptu i kotrlja
+1274|Kotrljanje u trku
+1275|Crvena panda Akrobatka
+1276|Najspretnija penjačica na otoku
+1277|Dvostruki skok
+1278|Sovica Lepršica
+1279|Raširi krila i jedri kroz zrak
+1280|Lebdi kad u zraku držiš Skok
+1281|Lišće na vjetru
+1282|Šareni listići vrte se iza tebe
+1283|Zvjezdice
+1284|Iza svakog koraka zablista zvijezda
+1285|Mjehurići
+1286|Sapunasti mjehurići lebde prema nebu
+1287|Srca
+1288|Gdje god prođeš, ostane malo ljubavi
+1289|Pahulje
+1290|Mala zima prati tvoje korake
+1291|Glazbene note
+1292|Svaki korak zasvira tihu melodiju
+1293|Vatrene iskre
+1294|Iskre frcaju kao s vatrometa
+1295|Leptirići
+1296|Šareni leptiri lete za tobom
+1297|Duga
+1298|Za tobom se proteže prava duga
+1299|Opružne šape
+1300|Svaki skok je puno viši. Boing
+1301|Vatromet
+1302|Ukrasi nebo šarenim vatrometom kad god želiš
+1303|Raketne čizme
+1304|U zraku skoči još jednom, uz plamen
+1305|Kišobran-jedrilica
+1306|U zraku drži Skok i lagano lebdi kao maslačak
+1307|Vodene cipele
+1308|Hodaj po moru kao po livadi
+1309|Kompas putnika
+1310|Odmah otputuj na bilo koje mjesto koje si otkrila
+1311|Lebdeća daska
+1312|Juri po otoku i preko mora na dasci koja lebdi
+1313|Mahanje
+1314|Bok svima
+1315|Ples
+1316|Rida pleše uz glazbu
+1317|Puno ljubavi
+1318|Oblak srdaca za sve prijatelje
+1319|Salto
+1320|Skok s okretom unatrag
+1321|Vrtuljak
+1322|Vrti se, vrti, sve do zvijezda
+1323|Drijemež
+1324|Mali odmor na suncu. Zzz
+1325|Zvjezdani skok
+1326|Visoki skok koji eksplodira zvijezdama
+1327|Klasična Rida
+1328|Narančasta lisica kakvu svi znaju i vole
+1329|Lisica Rida
+1330|Tvoja vjerna prijateljica s otoka
+1331|Bez traga
+1332|Samo otisci šapica
+1333|Kapibara Bubi
+1334|Najmirnija životinja na svijetu. Svi je vole, čak i ptice koje joj sjedaju na glavu
+1335|Donosi mandarine i zlatnike koje nađe u travi
+1336|Robo-pas Bip
+1337|Mali robot-pas s antenom. Kaže da mu krumpir puni baterije. Bip-bip
+1338|Svojim skenerom nađe rude
+1339|Feniks Plamko
+1340|Vatrena ptica koja nikad ne peče, samo grije. Leti brže od zmaja
+1341|Donosi zlatne grumene i čarobno sjeme
+1342|Mandarine s neba
+1343|Bubi se opusti u toploj kupki, a s neba padaju mandarine. Uhvati ih prije nego što padnu na tlo
+1344|Lov na iskrice
+1345|Bip ispusti svjetleće iskrice koje lete u krug. Trči, skači i pohvataj ih sve
+1346|Let na feniksu
+1347|Plamko raširi vatrena krila i poleti s Ridom, a iza vas ostaje trag iskri
+1348|Ovdje nema dovoljno mjesta za mandarine. Pokušaj na livadi
+1349|Ahh, topla kupka... A sad pazi, s neba padaju mandarine
+1350|Sve mandarine su uhvaćene
+1351|Bip-bip! Iskrice su mi pobjegle! Uhvati ih
+1352|Bip-bip-hura
+1353|Plamko širi vatrena krila! Skok je gore, Roni je dolje. Za silazak: Siđi
+1354|Lebdeća daska radi u istraživanju. Pritisni Istraži
+1355|Prvo izađi iz vode, pa stani na dasku
+1356|Daska lebdi! Juri preko trave i mora. Za silazak: Siđi
+1357|Plesovi se plešu u istraživanju. Pritisni Istraži
+1358|Prvo siđi s prijatelja, pa pleši
+1359|Za ples treba čvrsto tlo
+1360|Hej, ovdje sam
+1361|Pozdrav svima
+1362|Samo malo ću odmoriti
+1363|Izgled
+1364|Lik
+1365|Trag
+1366|Čarolija
+1367|Životinja
+1368|Zlatna kiša
+1369|Zvjezdana prašina
+1370|Svako novo mjesto, svaki novi prijatelj i prvo rijetko blago donose Kutiju otkrića. Svaki dan kad čitaš čeka te Kutija čitača. Trgovinu otvaraš zvjezdanim gumbom s darom
+1371|Novo
+1372|Rida ga već nosi
+1373|Sve nađeš u Čarobnoj trgovini
+1374|Svako otkriće puni tvoju zbirku. Zbirka
+1375|Dar za tebe
+1376|Kutija čitača
+1377|Čarobna kutija
+1378|Kutija otkrića
+1379|Novo mjesto
+1380|Prvi dijamant
+1381|Prvi smaragd
+1382|Prvo zlato
+1383|Prvi kristal
+1384|Prvi biser
+1385|Prvo čarobno sjeme
+1386|Čitala si danas! Kutija čitača te čeka u Čarobnoj trgovini
+1387|Tragovi
+1388|Čarolije
+1389|Plesovi
+1390|Životinje
+1391|Kutije
+1392|Nova boja krzna? Rida se pretvori u tren oka
+1393|Popij čarobni napitak i igraj kao netko drugi. Svaki lik ima svoju moć
+1394|Iza Ridinih šapica može ostati duga, srca ili leptiri
+1395|Čarobne sprave za prave istraživače. Stalno ih možeš uključiti ili isključiti
+1396|Plesovi i trikovi za svaki trenutak. Pleši ih tipkom G ili gumbom s notom
+1397|Tri nova prijatelja čekaju dom. Svaki ima svoju igru
+1398|Kutije su pune iznenađenja. Ono što već imaš nikad ne dobiješ dvaput
+1399|Svaki dan
+1400|Otvara se svaki dan kad pritisneš „Čitala sam!“ i upišeš stranice
+1401|Sutra opet ✓
+1402|Prvo čitaj
+1403|Iznenađenje
+1404|Uvijek nešto novo: izgled, trag, čarolija ili ples koji još nemaš
+1405|Imaš sve
+1406|Otkrića
+1407|Dobiješ je za svako novo mjesto, novog prijatelja i prvo rijetko blago. Do sada
+1408|Gdje istražiti
+1409|Pleši
+1410|Koristi
+1411|Uključeno ✓
+1412|Isključeno
+1413|Igraš ✓
+1414|Nosiš ✓
+1415|Čarobna trgovina
+1416|Ovo se ne može kupiti. Čeka te kao nagrada
+1417|Kupljeno
+1418|Rida je odmah promijenila krzno! Klasičnu boju uvijek možeš vratiti
+1419|Sad igraš kao
+1420|Moć
+1421|Ridu vraćaš u kartici Likovi
+1422|Prošeći i pogledaj iza sebe
+1423|Treba ti još
+1424|zlatnika. Čitaj, otkrivaj nova mjesta i otvaraj škrinje
+1425|Čeka te kraj knjižnice
+1426|Pritisni „Čitala sam!“ i upiši koliko si danas pročitala. Tada se kutija otvara
+1427|Bravo, čitateljice
+1428|Kupi za 150
+1429|Što li je unutra
+1430|Kompas radi u istraživanju. Pritisni Istraži
+1431|Kamo želiš otputovati? Kompas zna sva mjesta koja si otkrila
+1432|Još nisi otkrila nijedno mjesto. Istraži otok
+1433|Kompas ne može naći mjesto za slijetanje. Pokušaj drugo mjesto
+1434|Kompas te odnio do
+1435|U Čarobnoj trgovini čekaju još plesovi, vatromet, lebdeća daska i kompas putnika
+1436|Čarobna trgovina je otvorena
+1437|Daska ne može pod vodu. Rida je skočila u more
+1438|Čarobnica priča
+1439|Kraljica knjiga
+1440|Legenda otoka
+1441|Zvjezdana čitateljica
+1442|Vladarica Otoka priča
+1443|Dugi dah
+1444|Rida pod vodom ima pola više zraka
+1445|Brzo plivanje
+1446|Rida pliva četvrtinu brže
+1447|Jake šape
+1448|Kopanje je puno brže
+1449|Brze noge
+1450|Rida trči malo brže
+1451|Sretna zvijezda
+1452|U svakoj kutiji pola više zlatnika
+1453|Kutija iznenađenja
+1454|i još
+1455|Na razini
+1456|čeka
+1457|Nove razine
+1458|bodova
+1459|Put razina
+1460|bodova do razine
+1461|bodova od čitanja
+1462|bodova od istraživanja
+1463|Svaka pročitana stranica je 1 bod. Nova mjesta, novi prijatelji, škrinje i kutije daju još bodova. Na svakoj razini čeka nagrada, a neke donose i posebne moći
+1464|Kako se igra
+1465|lvrow.next
+1466|lvrow.done:last-of-type
+1467|Hodanje i kamera
+1468|ili strelice vode Ridu
+1469|Shift
+1470|je trčanje. Na tabletu je lijevo palica za hodanje, a povlačenjem prsta okrećeš pogled. Na joysticku: lijeva palica hoda, desna gleda
+1471|Razmaknica
+1472|gumb Skok ili
+1473|na joysticku. Što duže držiš, Rida skoči više
+1474|Posebni skokovi
+1475|Dupli skok: s Raketnim čizmama ili kao Crvena panda skoči, pa u zraku pritisni Skok još jednom. Lebdenje: s Kišobranom ili kao Sovica skoči i drži Skok dok padaš. Superskok: Opružne šape ili Zečica Skokica. A trampolin te baci do oblaka
+1476|Ronjenje i maska
+1477|gumb Roni ili
+1478|i Rida zaroni. Skok je vodi gore. Mjehurići pokazuju koliko zraka ima: bez maske 9 sekundi, s Ronilačkom maskom 45! Masku izradiš u Radionici u torbi
+1479|Pod morem čekaju koralji, biseri i potopljeno blago
+1480|Kad imaš čamac, Rida sama sjedne u njega u dubokom moru. Izlaziš tipkom Roni ili kad dođeš do obale. Želiš li plivati, isključi čamac na traci, na stranici s čarolijama
+1481|Kopanje
+1482|Drži prst ili miš na kockici
+1483|Traka s oruđima i čarolijama
+1484|Dolje na ekranu je traka. Na prvoj stranici su šapa i kockice, na drugoj alati, čamac, lampa i čarolije. Stranicu mijenjaš tipkom
+1485|ili dodirom na mali štapić. Tipke
+1486|do
+1487|biraju mjesto. Zelena točka znači uključeno. Joystick
+1488|bira
+1489|koristi. Tipka
+1490|baca kuku
+1491|grudvu
+1492|ili
+1493|Razine
+1494|Čitanje i istraživanje daju bodove. Svaka razina donosi nagradu: nove stvari, zlatnike i posebne moći. Dodirni svoje ime gore lijevo i vidi Put razina
+1495|Novo mjesto, novi prijatelj i prvo rijetko blago donose Kutiju otkrića. Svaki dan kad čitaš čeka te Kutija čitača
+1496|Skoči, pa u zraku pritisni Skok još jednom
+1497|Skoči i drži Skok dok padaš
+1498|Skoči i drži Skok dok padaš, pa lebdi
+1499|Uđi u more i vidi kako brzo pliva
+1500|Samo skoči. Visoko
+1501|Samo skoči. Boing
+1502|Uđi u more i hodaj po vodi. Za ronjenje drži Roni
+1503|Kuka za penjanje
+1504|Baci kuku na brdo, stijenu ili krov i uže te povuče gore. Vuuuš
+1505|Džepni trampolin
+1506|Postavi trampolin bilo gdje i odskoči do oblaka
+1507|Dodirni ga na traci i trampolin se pojavi ispred Ride. Skoči na njega
+1508|Vreća grudvi
+1509|Snježne grudve koje nikad ne ponestanu. Gađaj prijatelje
+1510|Konfeti-top
+1511|Bum! Šarena kiša konfeta za svaku proslavu
+1512|Dodirni ga na traci i proslavi
+1513|Čarobni štapić
+1514|Mahni i oko Ride nikne šareno cvijeće
+1515|Dodirni štapić na traci i gledaj kako cvijeće raste
+1516|To radi u istraživanju. Pritisni Istraži
+1517|Iz čamca kuka ne može. Prvo izađi na obalu
+1518|Kuka nema za što zapeti. Okreni se prema brdu, stijeni, drvetu ili krovu
+1519|Trampolin treba čvrsto tlo
+1520|Ovdje nema mjesta za trampolin. Pokušaj na ravnom
+1521|Skoči na trampolin! Drži Skok kad sletiš i odskočit ćeš još više
+1522|Hihi! Hladno je
+1523|Grudanje! Hura
+1524|Ej, pogodila si me
+1525|Uhvati me ako možeš
+1526|Brrr, snijeg
+1527|Ovdje cvijeće ne može rasti. Probaj na travi
+1528|Kopa kamen, ugljen i bakar. Za željezo treba Kameni kramp
+1529|Kopa i željezo. Za zlato i dijamante treba Željezni kramp
+1530|Kopa sve rude, i zlato i dijamante! Dijamantni je još brži
+1531|Najbrži kramp na otoku. Kopa baš sve
+1532|Kopa zemlju, pijesak i snijeg brže
+1533|Brzo kopa zemlju, pijesak i snijeg
+1534|Najbrža lopata na otoku
+1535|Siječe drvo brže
+1536|Brzo siječe drvo
+1537|Najbrža sjekira na otoku
+1538|uključeno
+1539|isključeno
+1540|Rida sama uzme pravi alat kad kopaš
+1541|Kramp izradiš u Radionici
+1542|Čamac je uključen. Rida sjedne u njega u dubokom moru
+1543|Čamac je isključen. Rida sad pliva i roni
+1544|Lampa
+1545|Lampa · ugašena
+1546|Lampa · upaljena
+1547|Sve čarolije
+1548|Dodirni čaroliju da je upotrijebiš ili uključiš. Zelene su uključene. Zadnje korištene ostaju na traci
+1549|hud-top .who
+1550|Zrak je pri kraju! Pritisni Skok i Rida izroni. Ronilačka maska daje puno više zraka
+1551|Svijet oblaka
+1552|Lebdeći otoci iznad mora oblaka, dugini mostovi, vjetrovi koji nose i Dvorac duge. Vjetar je raznio deset zvjezdanih kamenčića
+1553|Ledeno kraljevstvo
+1554|Dolina pod polarnom svjetlošću: zaleđeno jezero za klizanje, ledena špilja, vrela gejziri, tobogan s planine i Ledena palača. Ovdje žive mamutić, irvas koji lebdi i bijeli medvjedić
+1555|Podvodni grad
+1556|Potonuli grad, koraljni grebeni i svijetleće meduze
+1557|Džungla dinosaura
+1558|Gusta džungla, vulkan i dobroćudni dinosauri
+1559|Nebeska lisica
+1560|Plava kao nebo iznad oblaka, a za njom svjetlucaju kristalići
+1561|Oblačići
+1562|Iza Ride ostaju mali mekani oblačići
+1563|Blago Dvorca duge
+1564|Na oblačnim stepenicama kod portala
+1565|Skočni oblak lansira te do visokog oblaka
+1566|Na vrhu velike trešnje na Cvjetnom otoku
+1567|Škrinja u cvijeću
+1568|U krugu kristala na Kristalnom otoku
+1569|Na dnu jezerca na Otoku slapova. Zaroni
+1570|Škrinja uz slap
+1571|Na vrhu Vjetrovite kule. Uđi unutra i pusti vjetar da te nosi
+1572|U Zlatnom vrtu, na kraju skočnih oblaka
+1573|Zlatna škrinja
+1574|Na plastu sijena na Ovčjem pašnjaku
+1575|Pastirska škrinja
+1576|Na Tajnom oblaku visoko gore. Vjetar kraj Kristalnog otoka nosi te gore
+1577|Na vrhu duginog mosta
+1578|Oblačni prag
+1579|Cvjetni otok
+1580|Otok slapova
+1581|Vjetrovita kula
+1582|Zlatni vrt
+1583|Ovčji pašnjak
+1584|Tajni oblak
+1585|Dvorac duge
+1586|Među cvijećem netko je sakrio meke oblake. Možeš ih staviti i na svoj otok
+1587|Kristali iz Svijeta oblaka svijetle kao mjesec
+1588|Skočni oblaci! Stavi ih bilo gdje i skači do neba
+1589|Zlatni vrt čuva najsjajnije blago neba
+1590|Ovčice iz oblaka daju najmekšu vunu na svijetu
+1591|Deset zvjezdanih kamenčića vratilo je sjaj Dvorcu duge. Svijet oblaka ti zauvijek zahvaljuje
+1592|Vjetar te nosi gore! Kad budeš na vrhu, kreni naprijed i sleti
+1593|Skočni oblak! Drži Skok dok sletiš i odskočit ćeš još više
+1594|Puf! Natrag na sigurno
+1595|Puf! Oblaci su mekani, pa te vjetar vratio na sigurno mjesto
+1596|Vrata Dvorca duge su otvorena! Dvorac je na najvišem otoku, iza duginog mosta
+1597|Uh, skoro
+1598|Dobro došla u Svijet oblaka! Ja sam sova Mudrica. Vjetar je raznio deset zvjezdanih kamenčića po otocima. Skupi ih i otvorit ćeš vrata Dvorca duge
+1599|kamenčića. Strelica gore pokazuje najbliži. Pazi na skočne oblake i vjetrove
+1600|Mudrica
+1601|Oblačko
+1602|Pahuljica
+1603|Vunko
+1604|Mekica
+1605|Kuglica
+1606|Sunčica
+1607|Skokić
+1608|Hopko
+1609|Plavka
+1610|Čarobni portal
+1611|Portal vodi u sasvim druge svjetove. Svaki ima svoje tajne, stanovnike i blago kojeg nema nigdje drugdje. Nove svjetove otključavaju razine
+1612|Uskoro
+1613|Otključava se na razini
+1614|Putuj
+1615|Uđi u istraživanje i prođi kroz portal kod knjižnice
+1616|Natrag na Otok priča
+1617|Sve što si skupila ostaje tvoje, a ovdje se možeš vratiti kad god želiš kroz portal kod knjižnice
+1618|Vrati me na otok
+1619|Ostajem još malo
+1620|Dobro došla natrag na Otok priča
+1621|Rida
+1622|Zvjezdani kamenčić
+1623|Kamenčići
+1624|Svi kamenčići
+1625|Svih 10 zvjezdanih kamenčića! Vrata Dvorca duge se otvaraju
+1626|Bravo! Strelica gore pokazuje put do najbližeg kamenčića
+1627|Svijet oblaka! Kamenčići
+1628|Portal iza tebe vodi natrag na otok
+1629|Čarolija drži škrinju zatvorenom. Skupi svih 10 zvjezdanih kamenčića
+1630|Svijet oblaka je spašen
+1631|Nagrada Dvorca duge
+1632|Nebeska lisica i Oblačići su sad tvoji. Nađeš ih u Čarobnoj trgovini. Nijedna druga lisica ih nema
+1633|Polarna lisica
+1634|Bijela kao snijeg pod mjesečinom, a za njom trepere boje polarne svjetlosti
+1635|Polarna svjetlost
+1636|Iza Ride vijore zelene i ljubičaste vrpce svjetla
+1637|Ledeni štapić
+1638|Mahni i voda pred Ridom se zaledi. Hodaj po moru, po jezeru, kamo god poželiš

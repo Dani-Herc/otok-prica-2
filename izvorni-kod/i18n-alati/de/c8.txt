@@ -1,0 +1,392 @@
+5325|Hallo, kleine Forscherin! Ich bin der Zwerg Grumenko. Meine Grubenlaternen sind durch alle Hallen gerollt, und jetzt ist das Bergwerk dunkel. Bringst du mir alle fünf? Dann öffne ich dir meine Hütte
+5326|Alle fünf Laternen! Das Bergwerk leuchtet wieder. Geh in meine Hütte, dort wartet etwas, das ich extra für dich ausgegraben habe
+5327|Das Bergwerk leuchtet, danke
+5328|Die Laternen leuchten gelb. Es gibt sie in allen Hallen
+5329|Du bist oben im Bergwerk angekommen! Zum Zurückkommen spring einfach aufs Gerüst hinunter
+5330|Fahrt mit dem Grubenwagen! Halt dich fest
+5331|Ein glühender Spalt! Warme Luft hebt alles nach oben. Stell dich in die Mitte
+5332|Pilzhüte führen über den Abgrund. Spring vorsichtig! Wenn du fällst, gibt es Steinstufen am Südrand des Abgrunds
+5333|Ein riesiges Fossil! Steig auf den Schwanz und lauf über die Wirbelsäule bis zum Kopf
+5334|Station der Grubenwagen. Stell dich in den Wagen, und los geht es
+5335|Die Kristalltür im Herzen des Berges ist offen! Der Eingang ist in der Großen Halle, unter dem Kristallturm
+5336|Willkommen in den Kristalltiefen! Ich bin der Zwerg Kremenko. Hier unter dem Berg gibt es zehn Kristalle aus der Tiefe. Wenn du sie sammelst, öffnet sich die Kristalltür im Herzen des Berges. Hab keine Angst vor der Dunkelheit, die Kristalle leuchten
+5337|Kristalle aus der Tiefe
+5338|In den Höhlen gibt es auch Freunde, die Hilfe brauchen
+5339|Unter dem Berg: die Große Kristallhalle mit Lichtschacht, ein unterirdischer See unter leuchtenden Würmchen, ein altes Bergwerk mit Grubenwagen, eine Pilzhöhle, ein riesiges Fossil und eine Geode
+5340|Grubenwagen
+5341|leuchtende Würmchen
+5342|riesiges Fossil
+5343|Kristall aus der Tiefe
+5344|Kristalle aus der Tiefe
+5345|Alle Kristalle aus der Tiefe
+5346|Alle 10 Kristalle aus der Tiefe! Die Kristalltür im Herzen des Berges hat sich geöffnet
+5347|Der erste Kristall aus der Tiefe! Der Kompass oben zeigt den nächsten
+5348|Kristalltiefen! Kristalle aus der Tiefe
+5349|Der Zwerg Kremenko wartet beim Portal auf dich
+5350|Kristalle wachsen sehr langsam, Schicht für Schicht. Die größten Kristalle der Welt, in einer Höhle in Mexiko, sind so lang wie ein Bus
+5351|Tief unter der Erde ist der Fels heiß. Je tiefer du gräbst, desto wärmer wird es, und ganz im Erdmittelpunkt ist es so heiß wie auf der Oberfläche der Sonne
+5352|In den Höhlen Kroatiens lebt der Grottenolm. Er ist blind und rosa, kann hundert Jahre alt werden und zehn Jahre ohne Futter auskommen
+5353|Früher arbeiteten in Bergwerken auch Ponys, die die Wagen zogen. Heute ziehen kleine Lokomotiven die Wagen
+5354|Eine Geode sieht von außen wie ein gewöhnlicher Stein aus, aber innen ist ein Hohlraum voller Kristalle. Sie entsteht, wenn Wasser Hunderte Jahre lang in einen Hohlraum im Fels tropft
+5355|Bergleute nahmen früher Kanarienvögel mit ins Bergwerk. Das Vögelchen warnte sie, wenn die Luft schlecht wurde
+5356|Der Diamant ist der härteste natürliche Stein. Er besteht aus demselben Kohlenstoff wie ein Bleistift, nur unter riesigem Druck tief in der Erde
+5357|Manche Pilze in Höhlen leuchten im Dunkeln. Dieses Licht heißt Biolumineszenz, wie bei Glühwürmchen
+5358|Fossilien sind Überreste von Tieren, die vor Millionen Jahren lebten. Die Knochen sind langsam zu Stein geworden
+5359|Ein Tropfstein, der von der Decke hängt, heißt Stalaktit, und einer, der vom Boden wächst, Stalagmit. Sie wachsen nur etwa einen Zentimeter in hundert Jahren
+5360|Kremenko ist mein Bruder. Er redet, und ich grabe
+5361|Das Fischchen schaut dich an, obwohl es keine Augen hat. Es spürt dich im Wasser
+5362|Schnupper, schnupper! Hier irgendwo gibt es Pilzchen
+5363|Ziii! Du bist eine Füchsin, ich höre dich am Echo
+5364|Tagsüber schlafen wir kopfüber, und nachts fliegen wir hinaus und holen Obst
+5365|Die Kristalltür im Herzen des Berges ist geschlossen. Sammle alle 10 Kristalle aus der Tiefe
+5366|Das Herz des Berges ist offen
+5367|Die Kristallfüchsin und die Kristallsplitter gehören jetzt dir. Der Zwerg Kremenko sagt, du bist eine echte Tiefenforscherin
+5368|Drachenfüchsin
+5369|Rot-goldene Schuppen, kleine Flügel auf dem Rücken und ein Schwanz, der wie Glut glimmt
+5370|Drachenfunken
+5371|Hinter Rida sprühen warme Funken und kleine Flämmchen, als hätte gerade ein Drachenbaby geniest
+5372|Drachenbaby Iskrica
+5373|Ein kleiner roter Drache, gerade erst geschlüpft. Wenn er niest, sprühen Funken aus seiner Nase
+5374|Bringt Goldmünzen und warme Steinchen aus dem Nest
+5375|Drachenflug
+5376|Iskrica breitet die Flügel aus, und ihr fliegt über den Wolken! Springen ist hoch, Tauchen ist runter
+5377|Iskrica fliegt! Springen ist hoch, Tauchen ist runter
+5378|Steinbock Rogo
+5379|Ein Bergsteinbock, der über Felsen springt, als wären es Stufen. Er hat nie Höhenangst
+5380|Bringt Blumen und Goldmünzen von den Bergwiesen
+5381|Steinbocksprung
+5382|Rogo springt hoch und weit, und zwar zweimal hintereinander
+5383|Rogo trägt dich! Spring zweimal hintereinander
+5384|Drachenglut
+5385|Edelweiß
+5386|Oben auf der Adlernadel, dem hohen Felsen östlich vom Portal. Die Seilbahn von der Station beim Portal fährt hin
+5387|Im gold-roten Käfig beim Portal. Er öffnet sich, wenn du auf der Brücke durch alle Drachenringe fliegst
+5388|Drachenringe
+5389|Du bist durch alle Drachenringe geflogen! Der Käfig beim Portal hat sich geöffnet
+5390|Willkommensgipfel
+5392|Oben auf dem Drachenhorn, der Steinsäule beim Nest. Spring über die roten Steinchen um sie herum
+5393|Im Goldhaufen des Drachen vergraben, unter einem roten X. Grab
+5394|Du gräbst durch den Münzhaufen... und da ist er! Ein Drachenstein
+5395|In der Pagode des Drachenhüters Plamenko im Nest. Bring ihm die verlorenen Dracheneier zurück
+5396|Drachenschatzkammer
+5397|Drachennest
+5398|In der Höhle hinter dem Wasserfall auf dem Wasserfallgipfel. Geh einfach durchs Wasser
+5399|Wasserfallgipfel
+5400|In der Pagode auf dem Glockengipfel. Läute die Glocken in der richtigen Reihenfolge
+5401|Die Glocken haben das Drachenlied geläutet! Die Tür der Pagode hat sich geöffnet
+5402|Falsche Glocke! Schau dir die Holzsäule mit den Würfeln an, von oben nach unten, und fang von vorn an
+5403|WUSCH! Das Drachenkatapult hat dich bis zur schwebenden Insel geschleudert
+5404|Glockengipfel
+5405|Auf der schwebenden Insel zwischen Nest und Vulkan. Das Drachenkatapult auf dem Glockengipfel schleudert dich hin
+5406|Das Katapult hat dich zurück ins Drachennest gebracht
+5407|Ganz oben auf dem Eisgipfel. Steig den Schneeweg um den Felsen hinauf
+5408|Eisgipfel
+5409|Auf dem schwebenden Felsen über dem Vulkan. Warme Luft aus dem Krater trägt dich hinauf
+5410|Vulkantruhe
+5411|Hinter dem Wasserfall hat jemand Perlen und Moos für den Garten versteckt
+5412|Vulkanstein und glimmende Glut. Bau einen Kamin
+5413|Die Drachenschatzkammer! Gold, rubinroter Stein und Laternen aus der Drachenpagode
+5414|Drachenhüterin Iskra
+5415|Drachenhüter Plamenko
+5416|Drachendame Ruža
+5417|Drachenbaby Mahić
+5418|Drachenbaby Ljubić
+5419|Drachenbaby Travko
+5420|Yak Čupko
+5421|Yak-Dame Runa
+5422|Steinbock Kamenko
+5423|Ziege Stijenka
+5424|Adler Krešimir
+5425|Adlerin Vida
+5426|Adlerküken Brzić
+5427|Hatschi! Entschuldigung, ich habe geniest. Ich bin Iskrica. Drachenbabys müssen warme Glut essen, damit das Feuer in ihrem Bauch nicht ausgeht. Bringst du mir vier? Sie leuchten orange, deshalb findet man sie leicht
+5428|Mmm, warm! Das Feuer brennt wieder in meinem Bauch. Jetzt kann ich fliegen! Kommst du mit über die Wolken
+5429|Drachen gibt es nur in Geschichten, aber auf der Insel Komodo lebt eine echte Echse, der Komodowaran. Er ist so lang wie ein Bett und die größte Echse der Welt
+5430|Mäh! Ich bin Rogo. Ich mag Edelweiß, die weiße Bergblume mit sternförmigen Blütenblättern. Es wächst nur hoch oben in den Bergen. Bringst du mir drei
+5431|Das schönste Edelweiß von allen Gipfeln! Steig auf, wir springen über die Felsen
+5432|Steinböcke haben besondere Hufe mit weichen Polstern, die am Fels haften wie Gummistiefelchen. Deshalb klettern sie ohne Angst über steile Felswände
+5433|Oh, gut, dass du da bist! Ich bin der Drachenhüter Plamenko. Der Wind hat fünf Dracheneier aus dem Nest geweht, und die Drachendame Ruža schläft und weiß von nichts. Findest du sie, bevor sie aufwacht? Die Eier sind auf allen Gipfeln
+5434|Alle fünf Eier sind zurück im Nest! Ruža wird überglücklich sein. Geh in meine Pagode, dort wartet ein Geschenk auf dich
+5435|Die Eier sind in Sicherheit, danke
+5436|Die Dracheneier sind rot mit goldenen Streifen. Es gibt sie auf allen Gipfeln
+5437|Du bist auf der Adlernadel angekommen! Zum Zurückfahren stell dich wieder in die Kabine
+5438|Die Seilbahn fährt los! Genieß die Aussicht
+5439|Uff! Ein kleiner Drache hat dich in den Wolken aufgefangen und zurück auf den Felsen gebracht
+5440|Seilbahnstation! Stell dich in die rote Kabine und fahr zur Adlernadel
+5441|Psst! Die Drachendame Ruža schläft im Nest. Geh leise
+5442|Der Vulkan ist warm, aber er brennt nicht. Stell dich in die Mitte des Kraters, und die warme Luft hebt dich hoch
+5443|Das Drachenkatapult! Stell dich auf die goldene Platte
+5444|Hinter dem Wasserfall funkelt etwas. Geh durchs Wasser
+5445|Die Drachenschatzkammer ist offen! Sie ist im Drachennest, hinter der Drachenmama
+5446|Willkommen auf den Drachengipfeln! Ich bin die Drachenhüterin Iskra. Die Drachen haben zehn Drachensteine auf den Gipfeln versteckt. Wenn du sie sammelst, öffnet sich die Drachenschatzkammer. Die Brücken sind fest, und wenn du in die Wolken fällst, fängt dich ein Drachenbaby auf
+5447|Drachensteine
+5448|Auf den Gipfeln gibt es auch Freunde, die Hilfe brauchen
+5449|Gipfel über einem Wolkenmeer, verbunden durch Hängebrücken: Drachennest, ein Wasserfall, durch den man gehen kann, eine Pagode mit Glocken, Eisgipfel, Vulkan, Seilbahn und Drachenkatapult
+5450|Hängebrücken
+5451|Seilbahn
+5452|Drachenkatapult
+5453|Drachenstein
+5454|Drachensteine
+5455|Alle Drachensteine
+5456|Alle 10 Drachensteine! Die Drachenschatzkammer im Nest hat sich geöffnet
+5457|Der erste Drachenstein! Der Kompass oben zeigt den nächsten
+5458|Drachengipfel! Drachensteine
+5459|Die Drachenhüterin Iskra wartet beim Portal auf dich
+5460|Die längste Seilbahn der Welt fährt über sieben Kilometer. Die Kabinen bringen Menschen manchmal hoch über dem Tal zu Dörfern in den Bergen
+5461|Adler fliegen hoch, ohne mit den Flügeln zu schlagen. Sie nutzen warme Luftströme, die vom Boden aufsteigen, genau wie du über dem Vulkan
+5462|Wenn Berge sich heben, bricht der Fels, und hohe Steinsäulen bleiben stehen. Manche stehen Hunderte Jahre allein da
+5463|Gold rostet nicht und wird nicht dunkel, deshalb sieht es auch nach tausend Jahren gleich aus. Darum hielten die Menschen es immer für einen Schatz
+5464|Das größte Ei der Welt legt der Strauß. Es ist so schwer wie zwanzig Hühnereier, und seine Schale ist hart wie Porzellan
+5465|Der höchste Wasserfall der Welt, der Salto Ángel, fällt fast einen Kilometer tief. Das Wasser zerstäubt zu Nebel, bevor es unten ankommt
+5466|Pagoden sind Türme mit vielen Dächern übereinander. An den Dachrändern hängen oft kleine Glöckchen, die im Wind klingen
+5467|Wolken bestehen aus winzigen Wassertröpfchen. Eine gewöhnliche Wolke kann so schwer sein wie hundert Elefanten und schwebt trotzdem
+5468|Der höchste Berg der Welt ist der Mount Everest. Oben ist es so kalt und die Luft so dünn, dass Bergsteiger eine Sauerstoffflasche mitnehmen
+5469|Ein Vulkan ist ein Berg, aus dem glühende Lava aus der Tiefe der Erde kommt. In Deutschland gibt es keine aktiven Vulkane, aber Italien hat mehrere
+5470|Zzzz... chrrr... zzzz
+5471|Ruža lächelt im Schlaf und pustet ein kleines Rauchwölkchen aus
+5472|Hatschi! Vorsicht, Funken
+5473|Wenn ich groß bin, fliege ich zum Mond
+5474|Muuh. Mir ist nicht kalt, ich habe den wärmsten Mantel auf dem Berg
+5475|Mäh! Schau, wie ich springe
+5476|Der Adler schaut dich mit scharfem Blick an. Er sieht eine Maus aus einem Kilometer Höhe
+5477|Die Kristalltür der Drachenschatzkammer ist geschlossen. Sammle alle 10 Drachensteine
+5478|Die Drachenschatzkammer ist offen
+5479|Schatz der Drachengipfel
+5480|Die Drachenfüchsin und die Drachenfunken gehören jetzt dir. Die Drachendame Ruža ist aufgewacht und sagt, du bist eine echte Freundin der Drachen
+5481|Wüstenfüchsin
+5482|Helles sandfarbenes Fell und riesige Ohren wie ein Fennek, mit einem orangen Karawanenschal
+5483|Sandwirbel
+5484|Hinter Rida steigt goldener Sand auf und dreht sich wie ein kleiner Wüstenwind
+5486|Fennek Uško
+5487|Der kleinste Fuchs der Welt, mit Ohren größer als sein Kopf. Er hört sogar ein Insekt über den Sand laufen
+5488|Bringt Datteln und Goldmünzen aus der Wüste
+5489|Fenneksprint
+5490|Uško saust schneller als der Wind über den Sand und springt über Dünen
+5491|Uško trägt dich! Spring zweimal hintereinander
+5492|Kamel Grbica
+5493|Ein ruhiges Kamel mit zwei Höckern. Es läuft tagelang durch die Wüste und hat es nie eilig, aber wenn es rennt, holt es niemand ein
+5494|Bringt mit der Karawane Goldmünzen und Stoffe
+5495|Kamelreiten
+5496|Grbica trägt dich hoch über dem Sand. Von oben sieht man die ganze Wüste
+5497|Du reitest auf Grbica! Von oben sieht man alles
+5498|Dattel
+5499|Kaktusblüte
+5500|Wasserkrug
+5501|Oben auf dem Steinbogen über dem Canyon. Steig auf den Aussichtspunkt beim Portal und lauf über den Canyonrand
+5502|Steinbogen
+5503|Am Ende des schmalen Lichtspalts, östlich vom Canyon beim Tempel. Geh in die Spalte im Fels
+5504|Lichtspalt
+5505|Im geheimen Raum des Felsentempels. Die Hieroglyphen auf dem Boden öffnen die Tür
+5506|Die Hieroglyphen haben geleuchtet, und die Steintür hat sich zur Seite geschoben! Der geheime Raum des Tempels ist offen
+5507|Falsches Zeichen! Schau dir die Zeichen an der hinteren Wand an, von oben nach unten, und fang von vorn an
+5508|Schatz des Pharaonentempels
+5509|Felsentempel
+5510|Im Felsenhaus hoch oben an der Westwand des Canyons. Warme Luft vom Canyongrund hebt dich bis zum Sims
+5511|Truhe der alten Baumeister
+5512|Felsenhäuser
+5513|Im Zelt der Karawanenführerin Zara in der Oase. Hilf ihr, die verlorenen Krüge zu finden
+5514|Am Grund des alten Brunnens in der Oase, in einer versteckten unterirdischen Zisterne. Tauch in den Brunnen
+5515|Oase
+5516|Oben auf der Großen Düne im Südosten der Wüste. Kletter über den Sand bis ganz nach oben
+5517|Oben auf der Sandsäule in den Dünen. Die heiße Quelle schleudert dich hinauf
+5518|SCHSCHSCH! Die heiße Quelle hat dich bis auf die Sandsäule geschleudert
+5519|In den Dünen vergraben, unter einem roten X. Grab
+5520|Du gräbst durch den heißen Sand... und da ist er! Der verlorene Schatz der Karawane
+5521|Goldene Dünen
+5522|Im goldenen Käfig vor dem Felsentempel. Er öffnet sich, wenn du durch alle Ringe im Canyon rennst
+5523|Canyonringe
+5524|Du bist durch alle Canyonringe gerannt! Der goldene Käfig vor dem Tempel hat sich geöffnet
+5525|Die alten Baumeister haben Lehmziegel dagelassen. Bau ein Felsenhaus
+5526|Der Schatz des Pharaonentempels! Gold und verzierter Sandstein für deine Pyramide
+5527|Archäologin Nada
+5528|Karawanenführerin Zara
+5529|Kamel Sahara
+5530|Kamel Dina
+5531|Erdmännchen Wächter
+5532|Erdmännchen Mrvica
+5533|Erdmännchen Brko
+5534|Erdmännchen Pjega
+5535|Eidechse Sunčko
+5536|Eidechse Brza
+5537|Eidechse Pjesko
+5538|Fennek Pustinjko
+5539|Fennek-Dame Uška
+5540|Psst! Hörst du mich? Ich bin Uško, der Fennek. Meine Ohren hören alles, aber mein Bäuchlein knurrt. Die Palmen in der Oase haben Datteln fallen lassen. Bringst du mir vier
+5541|Mjam, süße Datteln! Danke! Willst du mit mir über die Dünen sausen? Niemand ist schneller als ein Fennek
+5542|Der Fennek hat im Verhältnis zum Körper die größten Ohren aller Füchse. Über die Ohren gibt er Wärme ab, deshalb ist ihm nicht einmal in der Wüste heiß
+5543|Mmmm. Langsam, langsam. Ich bin Grbica. Kakteen in der Wüste blühen nur einmal im Jahr, und ich mag ihre rosa Blüten sehr. Bringst du mir drei
+5544|Wunderschöne Blüten! Steig auf meinen Höcker, ich zeige dir die Wüste von oben
+5545|Im Höcker trägt das Kamel kein Wasser, sondern Fett. Deshalb kann es tagelang ohne Futter laufen, und wenn es trinkt, trinkt es eine ganze Badewanne Wasser auf einmal
+5546|Willkommen in der Oase, Reisende! Ich bin Zara und führe die Karawane. Ein Sandsturm hat unsere fünf Wasserkrüge im ganzen Canyon verstreut. Ohne sie können wir nicht weiter. Hilfst du uns
+5547|Alle fünf Krüge! Die Karawane kann weiterziehen. Geh in mein Zelt, ich habe dir etwas Besonderes hingelegt
+5548|Die Krüge sind voll, danke
+5549|Die Krüge sind aus rotem Ton mit einem türkisen Ring. Es gibt sie im ganzen Canyon
+5550|Wiii! Die Sandrutsche trägt dich die Düne hinunter
+5551|Eine Sandrutsche! Tritt auf den Sand und rutsch bis zu den Dünen
+5552|Heiße Luft vom Canyongrund steigt an der Wand hoch! Stell dich auf den glühenden Stein
+5553|Eine heiße Quelle! Stell dich in die Mitte und warte, bis sie dich hochschleudert
+5554|Der Lichtspalt! Ein schmaler Pfad schlängelt sich durch den Fels, und die Sonne fällt in Strahlen von oben herein
+5555|Ein Aussichtspunkt! Die Stufen um den Turm führen zum Canyonrand
+5556|Die Schatzkammer des Tempels ist offen! Der Tempel ist in die Ostwand des Canyons gemeißelt, und die Schatzkammer liegt hinter der Kristalltür
+5557|Willkommen im Wüstencanyon! Ich bin die Archäologin Nada. Hier sind zehn alte Skarabäen versteckt. Wenn du sie sammelst, öffnet sich die Schatzkammer des Felsentempels. Nimm Wasser mit, die Sonne ist stark
+5558|Skarabäen
+5559|In der Wüste gibt es auch Freunde, die Hilfe brauchen
+5560|Ein roter Canyon mit einem Bach: Steinbogen, schmaler Lichtspalt, Felsenhäuser, ein in die Felswand gemeißelter Tempel, eine Oase mit Palmen und Brunnen, goldene Dünen mit Sandrutsche
+5561|Felsentempel
+5562|Sandrutsche
+5563|Lichtspalt
+5564|Alter Skarabäus
+5565|Alte Skarabäen
+5566|Alle alten Skarabäen
+5567|Alle 10 alten Skarabäen! Die Schatzkammer des Felsentempels hat sich geöffnet
+5568|Der erste alte Skarabäus! Der Kompass oben zeigt den nächsten
+5569|Wüstencanyon! Alte Skarabäen
+5570|Die Archäologin Nada wartet beim Portal auf dich
+5571|Steinbögen entstehen in Tausenden Jahren, während Wind und Wasser langsam den weicheren Stein abtragen und der härtere wie eine Brücke stehen bleibt
+5572|Schmale Canyons, in die Sonnenstrahlen fallen, hat Regenwasser ausgehöhlt. Wenn es regnet, schießt eine Flut hindurch, deshalb geht man nur bei trockenem Wetter hinein
+5573|Die alten Ägypter schrieben mit Hieroglyphen, kleinen Bildern statt Buchstaben. Es gab mehr als tausend verschiedene
+5574|Vor mehr als siebenhundert Jahren bauten Menschen in Amerika ganze Dörfer in Felsnischen. Sie stiegen auf Leitern hinauf
+5575|Karawanen sind Reihen von Kamelen, die Waren durch die Wüste tragen. Sie waren monatelang unterwegs, von Oase zu Oase
+5576|Unter der Wüste versteckt sich oft Wasser. Eine Oase entsteht dort, wo dieses Grundwasser an die Oberfläche kommt
+5577|Sanddünen bewegen sich! Der Wind trägt die Sandkörner über den Kamm, und so wandert die ganze Düne langsam durch die Wüste
+5578|Hohe Steinsäulen in der Wüste sind Reste großer Felsen. Alles um sie herum hat der Wind weggetragen, und sie stehen da wie Riesen
+5579|Der Skarabäus ist ein Mistkäfer. Die alten Ägypter hielten ihn für heilig und machten aus Edelsteinen Skarabäen als Glücksbringer
+5580|Tagsüber ist es in der Wüste sehr heiß, und nachts kann es kälter sein als im Kühlschrank. Deshalb schlafen Wüstentiere tagsüber in Höhlen
+5581|Das Erdmännchen steht Wache und passt auf, dass kein Adler kommt
+5582|Pssst! Leise, ich halte Wache
+5583|Die Eidechse sonnt sich auf einem warmen Stein. Sie winkt dir mit dem Schwanz
+5584|Mmmm. Das Kamel kaut langsam und schaut dich mit langen Wimpern an
+5585|Der Fennek dreht seine großen Ohren zu dir. Er hört dein Herz klopfen
+5586|Die Kristalltür der Tempelschatzkammer ist geschlossen. Sammle alle 10 alten Skarabäen
+5587|Die Schatzkammer des Tempels ist offen
+5588|Schatz des Wüstencanyons
+5589|Die Wüstenfüchsin und der Sandwirbel gehören jetzt dir. Die Archäologin Nada sagt, du bist die größte Wüstenforscherin
+5590|Astronautenfüchsin
+5591|Ein weißer Raumanzug mit orangen Streifen, ein goldenes Visier und ein kleines Fähnchen auf dem Rücken
+5592|Mondstaub
+5593|Jeder Schritt wirbelt ein Wölkchen silbernen Mondstaub auf, das langsam schwebt, denn auf dem Mond gibt es keinen Wind
+5594|Mondhase Skok
+5595|Ein weißes Häschen vom Mond. Alte Geschichten sagen, dass man auf dem Mond einen Hasen sieht, und hier ist er wirklich
+5596|Bringt Sternkarotten und Goldmünzen vom Mond
+5597|Mondsprung
+5598|Skok trägt dich mit Sprüngen so hoch wie ein Haus! Und zwar zweimal hintereinander
+5599|Skok trägt dich! Auf dem Mond springt er bis zum Himmel
+5600|Roboter Bip
+5601|Ein kleiner Forscherroboter mit Antenne. Wenn er glücklich ist, blinkt er blau und piept eine Melodie
+5602|Bringt Ersatzteile und Goldmünzen aus der Station
+5603|Roboter-Düsenflug
+5604|Bip zündet seine kleinen Düsen, und ihr fliegt über die Krater! Springen ist hoch, Tauchen ist runter
+5605|Bip fliegt mit Düsen! Springen ist hoch, Tauchen ist runter
+5606|Sternkarotte
+5607|Roboterschraube
+5608|Solarzelle
+5609|In der Mondstation. Die Astronautin Vega öffnet die Luftschleuse, wenn du ihr die Solarzellen zurückbringst
+5610|Oben auf dem Startturm neben der Rakete. Auf dem Mond springst du hoch: Spring von Sims zu Sims
+5611|Schatz der Goldenen Kuppel
+5612|Goldene Kuppel
+5613|Im Observatorium auf dem hohen Felsen westlich der Station. Fahr mit der Mond-Einschienenbahn
+5614|Observatorium
+5615|Oben auf dem Felsen in der Mitte des Großen Kraters. Spring die steilen Felsen hinauf, die Schwerkraft ist gering
+5616|Großer Krater
+5617|Auf dem höchsten schwebenden Asteroiden nordwestlich der Station. Spring von Stein zu Stein
+5618|SCHWUUUM! Die elektromagnetische Kanone hat dich auf den Goldenen Asteroiden geschossen
+5619|Auf dem Goldenen Asteroiden, der hoch über der Kuppel schwebt. Die elektromagnetische Kanone schießt dich hin
+5620|Unter dem Eis am Grund des Eiskraters vergraben, wo die Sonne nie scheint. Grab durchs Eis
+5621|Du gräbst durch gefrorenes Wasser... und da ist er! Ein Mondkristall
+5622|Eiskrater
+5623|Unter der großen Radioantenne. Sende mit den Platten um sie herum das richtige Signal
+5624|Das Signal ist zur Erde gesendet! Die Antenne hat aufgeblitzt, und eine kleine Tür darunter hat sich geöffnet
+5625|Falsches Signal! Schau dir die Säule mit den Würfeln an, von oben nach unten, und fang von vorn an
+5626|Radioantenne
+5627|In der Lavaröhre unter der Mondoberfläche. Spring durch das runde Loch und fall langsam ins Dunkel
+5628|Lavaröhre
+5629|Im blauen Käfig östlich der Kuppel. Er öffnet sich, wenn du durch alle Umlaufringe fliegst
+5630|Umlaufringe
+5631|Du bist durch alle Umlaufringe geflogen! Der blaue Käfig hat sich geöffnet
+5632|Der Schatz der Goldenen Kuppel! Quarz, Glas und Gold für deine Raumstation
+5633|Astronaut Luka
+5634|Astronautin Vega
+5635|Roboter Čistko
+5636|Roboter Kopko
+5637|Roboter Antenko
+5638|Häsin Mjesečina
+5639|Hase Krater
+5640|Häschen Prašinko
+5641|Hopp! Hopp! Ich bin Skok, der Mondhase. Auf dem Mond wachsen Sternkarotten, die leuchten wie kleine Sterne. Ich habe sie beim Springen fallen lassen. Bringst du mir vier
+5642|Mampf, mampf, lecker! Jetzt habe ich Kraft für die größten Sprünge. Steig auf, wir springen bis zu den Sternen
+5643|Auf dem Mond ist die Schwerkraft sechsmal schwächer als auf der Erde. Wenn du dort springen würdest, kämst du sechsmal höher
+5644|Bip-bup! Ich bin der Roboter Bip. Mir sind die Schrauben aus den Düsen gefallen, deshalb kann ich nicht fliegen. Bip! Findest du mir drei Schrauben
+5645|Bip-bip-hurra! Die Düsen funktionieren! Willst du mit mir über die Krater fliegen
+5646|Auf dem Mond und dem Mars fahren Forscherroboter, die Rover. Sie werden von der Erde gesteuert, und eine Nachricht zum Mars braucht bis zu zwanzig Minuten
+5647|Hallo, kleine Astronautin! Ich bin Vega. Meteoriten haben fünf Solarzellen über den Mond verstreut, und ohne sie hat die Station keinen Strom und die Luftschleuse öffnet sich nicht. Bringst du sie mir
+5648|Alle fünf Zellen! Die Station hat wieder Strom. Die Luftschleuse ist offen, komm rein! Drinnen wartet etwas Besonderes auf dich
+5649|Die Station leuchtet, danke
+5650|Die Solarzellen sind blaue Plättchen, die funkeln. Sie liegen über den ganzen Mond verstreut
+5651|Du bist beim Observatorium angekommen! Zum Zurückfahren steig wieder in die Einschienenbahn
+5652|Die Einschienenbahn fährt los! Halt dich fest
+5653|Auf dem Mond ist die Schwerkraft gering! Spring und schau, wie hoch du fliegst
+5654|Haltestelle der Einschienenbahn! Steig in die Kabine und fahr zum Observatorium auf dem Felsen
+5655|Der Startturm! Alle paar Blöcke gibt es einen Sims. Auf dem Mond springst du leicht hinauf
+5656|Die elektromagnetische Kanone! Stell dich auf die helle Platte
+5657|Das runde Loch führt in die Lavaröhre! Keine Angst, auf dem Mond fällst du langsam
+5658|Die Goldene Kuppel ist offen! Sie liegt nördlich der Station, zwischen der Station und dem Großen Krater
+5659|Willkommen auf dem Mond! Ich bin der Astronaut Luka. Auf dem Mond sind zehn Mondkristalle verstreut. Wenn du sie sammelst, öffnet sich die Goldene Kuppel. Und pass auf: Hier springst du so hoch wie nie
+5660|Mondkristalle
+5661|Auf dem Mond gibt es auch Freunde, die Hilfe brauchen
+5662|Mit der Rakete zum Mond! Geringe Schwerkraft und Sprünge bis zum Himmel, Krater, eine Mondstation mit Gewächshaus, eine Einschienenbahn zum Observatorium, schwebende Asteroiden, eine Lavaröhre und die Erde am schwarzen Himmel
+5663|geringe Schwerkraft
+5664|schwebende Asteroiden
+5665|Mondkristall
+5666|Mondkristalle
+5667|Alle Mondkristalle
+5668|Alle 10 Mondkristalle! Die Goldene Kuppel hat sich geöffnet
+5669|Der erste Mondkristall! Der Kompass oben zeigt den nächsten
+5670|Mondstation! Mondkristalle
+5671|Der Astronaut Luka wartet beim Portal auf dich
+5672|Die Internationale Raumstation kreist um die Erde und umrundet sie sechzehnmal am Tag. Die Astronauten sehen dort sechzehn Sonnenaufgänge täglich
+5673|Die ersten Menschen auf dem Mond waren Neil Armstrong und Buzz Aldrin, im Jahr 1969. Ihre Fußabdrücke sind immer noch dort, denn auf dem Mond gibt es keinen Wind, der sie wegwehen könnte
+5674|Vom Mond aus sieht man die Sterne auch tagsüber, weil der Mond keine Luft hat, die das Sonnenlicht streut. Der Himmel ist immer schwarz
+5675|Krater entstehen, wenn ein Stein aus dem All, ein Meteorit, auf den Mond prallt. Der Mond hat Hunderttausende davon
+5676|Asteroiden sind Felsen, die um die Sonne kreisen. Manche sind klein wie ein Kieselstein, und manche so groß wie ein ganzes Land
+5677|Auf dem Mond gibt es keine Luft, also auch keinen Schall. Wenn jemand rufen würde, würdest du ihn nicht hören, selbst wenn er direkt neben dir steht
+5678|Am Grund mancher Mondkrater scheint die Sonne nie. Dort versteckt sich Eis, Wasser, das Astronauten eines Tages trinken könnten
+5679|Radioantennen senden Nachrichten durchs All. Ein Signal vom Mond zur Erde braucht etwas mehr als eine Sekunde
+5680|Lavaröhren sind Tunnel, die vor langer Zeit glühende Lava ausgehöhlt hat. Wissenschaftler denken, dass darin eines Tages Häuser für Astronauten sein könnten
+5681|Der Mond zeigt der Erde immer dieselbe Seite. Deshalb sehen wir von der Erde aus nie die andere Seite des Mondes
+5682|Bip-bup! Ich putze Staub von den Solarplatten
+5683|Bip! Ich habe alle Systeme zweimal geprüft
+5684|Hopp! Auf dem Mond springe ich bis zu den Wolken. Aber hier gibt es keine Wolken
+5685|Schau hoch! Das Blaue am Himmel ist unsere Erde
+5686|Die Kristalltür der Goldenen Kuppel ist geschlossen. Sammle alle 10 Mondkristalle
+5687|Die Goldene Kuppel ist offen
+5688|Schatz der Mondstation
+5689|Die Astronautenfüchsin und der Mondstaub gehören jetzt dir. Der Astronaut Luka sagt, du bist eine echte Astronautin
+5690|Hallo! Diese Insel gehört ab heute dir. Sie heißt Geschichteninsel, weil auf ihr alles aus den Büchern wächst, die du liest. Jedes Mal, wenn du ein paar Seiten gelesen hast, drück auf „Ich habe gelesen!“ und schau, was passiert. Ich warte hier auf deine Geschichten
+5691|Willkommen auf der Insel
+5692|Hallo! Ich bin Rida, die Füchsin von dieser Insel. Die Insel gehört ab heute dir, aber sie ist noch fast leer. Jedes Buch, das du liest, baut hier etwas Neues: einen Wald, einen Leuchtturm, einen Bauernhof oder sogar eine Sternwarte
+5693|Wie heißt du
+5694|Freut mich
+5695|Siehst du die Flasche im Meer? Tipp sie an
+5696|Guten Morgen
+5697|Über Nacht sind auf der Insel neue Blumen gewachsen
+5698|Stufe 1
+5699|Ich habe gelesen
+5700|Tagebuch
+5701|Setzen
+5702|Abbauen
+5703|Fertig
+5704|Ridas Kleiderschrank
+5705|Deine 3D-Insel. Zum Drehen ziehen, zum Zoomen mit zwei Fingern oder mit dem Mausrad
+5706|Bis zur nächsten Stufe
+5707|Tickets für Spiele
+5708|Tageszeit ändern
+5709|Blick auf die ganze Insel
+5710|Nach links drehen
+5711|Nach rechts drehen
+5712|Näher
+5713|Weiter weg
+5714|Links
+5715|Rechts
+5716|Luft
+5717|Kraft zum Schwimmen
+5718|Springen

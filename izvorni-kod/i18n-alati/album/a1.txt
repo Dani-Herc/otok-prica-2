@@ -1,0 +1,249 @@
+@galeb|cetvrti|z|Galeb|Möwe|ent=galeb|sci=Larus michahellis
+i|Dom|Zuhause|obala, luke i otoci|Küsten, Häfen und Inseln
+i|Hrana|Nahrung|ribe, rakovi, školjke|Fische, Krebse, Muscheln
+i|Veličina|Größe|krila do 1,4 m|Flügel bis 1,4 m
+h|Leti nad obalom u Lučkom gradu.|Fliegt über der Küste der Hafenstadt.
+f|Galeb može piti i slanu morsku vodu. Iznad očiju ima posebne žlijezde koje izbacuju višak soli kroz kljun.|Die Möwe kann sogar salziges Meerwasser trinken. Über den Augen hat sie Drüsen, die das Salz durch den Schnabel wieder hinausbringen.
+q|Što galeb može piti?|Was kann eine Möwe trinken?
+a|Slanu morsku vodu|Salziges Meerwasser
+w|Samo kišnicu|Nur Regenwasser
+w|Samo mlijeko|Nur Milch
+f|Mladi galebovi kljucaju crvenu točku na roditeljskom kljunu. Tako roditelju kažu: gladan sam!|Junge Möwen picken auf den roten Punkt am Schnabel der Eltern. So sagen sie: Ich habe Hunger!
+q|Zašto mladi galeb kljuca crvenu točku na kljunu roditelja?|Warum pickt die junge Möwe auf den roten Punkt am Elternschnabel?
+a|Tako traži hranu|So bittet sie um Futter
+w|Tako se igra skrivača|So spielt sie Verstecken
+w|Tako čisti kljun|So putzt sie den Schnabel
+f|Galebovi znaju lupkati nogama po mokrom pijesku ili travi. Crvi misle da pada kiša i izađu na površinu.|Möwen trippeln mit den Füßen auf nassem Sand oder Gras. Die Würmer denken, es regnet, und kommen nach oben.
+q|Zašto galeb lupka nogama po tlu?|Warum trippelt die Möwe auf dem Boden?
+a|Da crvi izađu van|Damit die Würmer herauskommen
+w|Da se zagrije|Um sich aufzuwärmen
+w|Da pleše za druge galebove|Um für andere Möwen zu tanzen
+
+@vjeverica|cetvrti|z|Vjeverica|Eichhörnchen|ent=vjeverica|sci=Sciurus vulgaris
+i|Dom|Zuhause|šume i parkovi|Wälder und Parks
+i|Hrana|Nahrung|orasi, žir, sjemenke, gljive|Nüsse, Eicheln, Samen, Pilze
+i|Veličina|Größe|oko 20 cm, rep još toliko|etwa 20 cm, der Schwanz noch einmal so lang
+h|Skače po smrekama u Gorskom kraju.|Springt in den Fichten im Bergland herum.
+f|Vjeverica u jesen zakopa stotine oraha i žireva. Neke zaboravi, pa iz njih izrastu nova stabla.|Im Herbst vergräbt das Eichhörnchen Hunderte Nüsse und Eicheln. Einige vergisst es, und daraus wachsen neue Bäume.
+q|Što se dogodi s orasima koje vjeverica zaboravi?|Was passiert mit den Nüssen, die das Eichhörnchen vergisst?
+a|Izrastu nova stabla|Es wachsen neue Bäume
+w|Pretvore se u kamen|Sie werden zu Stein
+w|Pojedu ih ribe|Fische fressen sie
+f|Kad skače s grane na granu, vjeverica repom drži ravnotežu kao kormilom.|Wenn das Eichhörnchen von Ast zu Ast springt, hält es mit dem Schwanz das Gleichgewicht wie mit einem Steuer.
+q|Čemu vjeverici služi dugi rep pri skakanju?|Wozu braucht das Eichhörnchen beim Springen den langen Schwanz?
+a|Za ravnotežu|Für das Gleichgewicht
+w|Za kopanje|Zum Graben
+w|Za plivanje|Zum Schwimmen
+f|Vjeverica može silaziti niz stablo glavom prema dolje jer stražnje noge okrene unatrag.|Das Eichhörnchen kann kopfüber den Baum hinunterklettern, weil es die Hinterfüße nach hinten drehen kann.
+q|Kako vjeverica silazi niz stablo?|Wie klettert das Eichhörnchen einen Baum hinunter?
+a|Glavom prema dolje|Kopfüber
+w|Skače s vrha na tlo|Es springt von oben auf den Boden
+w|Uopće ne silazi|Es kommt nie herunter
+
+@jelen|cetvrti|z|Jelen|Hirsch|ent=jelen|sci=Cervus elaphus
+i|Dom|Zuhause|šume i gorske livade|Wälder und Bergwiesen
+i|Hrana|Nahrung|trava, lišće, kora, žir|Gras, Blätter, Rinde, Eicheln
+i|Veličina|Größe|do 1,5 m u ramenima|bis 1,5 m Schulterhöhe
+h|Pase u gorskoj šumi.|Weidet im Bergwald.
+f|Jelenu rogovi svake godine otpadnu i izrastu ponovno, svake godine malo veći.|Das Geweih des Hirsches fällt jedes Jahr ab und wächst neu, jedes Jahr ein bisschen größer.
+q|Što se svake godine dogodi s jelenovim rogovima?|Was passiert jedes Jahr mit dem Geweih des Hirsches?
+a|Otpadnu i izrastu novi|Es fällt ab und wächst neu
+w|Promijene boju u plavu|Es wird blau
+w|Ništa, uvijek su isti|Nichts, es bleibt immer gleich
+f|Rogovi rastu nevjerojatno brzo, i do 2 centimetra na dan. Dok rastu, prekriveni su mekom kožom poput baršuna.|Das Geweih wächst unglaublich schnell, bis zu 2 Zentimeter am Tag. Solange es wächst, ist es mit weicher Haut wie Samt bedeckt.
+q|Čime su prekriveni rogovi dok rastu?|Womit ist das Geweih bedeckt, solange es wächst?
+a|Mekom kožom poput baršuna|Weicher Haut wie Samt
+w|Ljuskama|Schuppen
+w|Perjem|Federn
+f|Mladunče jelena ima bijele točkice na leđima. Kad leži u travi, točkice izgledaju kao sunčeve mrlje pa ga je teško vidjeti.|Das Hirschkalb hat weiße Punkte auf dem Rücken. Wenn es im Gras liegt, sehen sie aus wie Sonnenflecken, und man sieht es kaum.
+q|Čemu služe bijele točkice mladog jelena?|Wozu hat das Hirschkalb weiße Punkte?
+a|Da se sakrije u travi|Um sich im Gras zu verstecken
+w|Da ga mama lakše nađe noću|Damit die Mama es nachts findet
+w|Da bude ljepši od drugih|Um schöner als die anderen zu sein
+
+@leptir|cetvrti|z|Leptir|Schmetterling|ent=leptir|sci=Lepidoptera
+i|Dom|Zuhause|livade i vrtovi pune cvijeća|Wiesen und Gärten voller Blumen
+i|Hrana|Nahrung|nektar iz cvijeća|Nektar aus Blüten
+i|Veličina|Größe|krila od 1 do 25 cm|Flügel von 1 bis 25 cm
+h|Leti iznad cvijeća u Cvjetnoj dolini.|Fliegt über den Blumen im Blumental.
+f|Leptir okus osjeća nogama. Čim sleti na cvijet, zna je li slatko.|Der Schmetterling schmeckt mit den Füßen. Sobald er auf einer Blüte landet, weiß er, ob sie süß ist.
+q|Čime leptir osjeća okus?|Womit schmeckt der Schmetterling?
+a|Nogama|Mit den Füßen
+w|Krilima|Mit den Flügeln
+w|Antenama za radio|Mit Radioantennen
+f|Krila leptira prekrivena su tisućama sićušnih ljuskica u boji, poslaganih kao crjepovi na krovu.|Die Flügel des Schmetterlings sind mit Tausenden winziger farbiger Schuppen bedeckt, die wie Dachziegel liegen.
+q|Čime su prekrivena krila leptira?|Womit sind Schmetterlingsflügel bedeckt?
+a|Sićušnim ljuskicama|Winzigen Schuppen
+w|Dlakama kao u mačke|Haaren wie bei einer Katze
+w|Sitnim perjem|Kleinen Federn
+f|Svaki leptir prvo je bio gusjenica. U kukuljici se gusjenica potpuno promijeni i izađe s krilima.|Jeder Schmetterling war zuerst eine Raupe. In der Puppe verwandelt sich die Raupe ganz und kommt mit Flügeln heraus.
+q|Što je leptir bio prije nego što je dobio krila?|Was war der Schmetterling, bevor er Flügel hatte?
+a|Gusjenica|Eine Raupe
+w|Pčela|Eine Biene
+w|Puž|Eine Schnecke
+
+@pcela|cetvrti|z|Pčela|Biene|ent=pcela,pcelica,pcela2|sci=Apis mellifera
+i|Dom|Zuhause|košnica s tisućama pčela|ein Bienenstock mit Tausenden Bienen
+i|Hrana|Nahrung|nektar i pelud|Nektar und Pollen
+i|Veličina|Größe|oko 1,5 cm|etwa 1,5 cm
+h|Zuji na cvijetu na livadi.|Summt auf einer Blüte auf der Wiese.
+f|Pčela drugim pčelama plesom pokaže gdje je cvijeće. Pleše u obliku osmice, a smjer plesa pokazuje put.|Die Biene zeigt den anderen Bienen mit einem Tanz, wo Blumen sind. Sie tanzt eine Acht, und die Richtung zeigt den Weg.
+q|Kako pčela drugima pokaže gdje je cvijeće?|Wie zeigt die Biene den anderen, wo die Blumen sind?
+a|Plesom|Mit einem Tanz
+w|Pjesmom|Mit einem Lied
+w|Crta kartu|Sie malt eine Karte
+f|Za jednu žličicu meda pčela mora posjetiti tisuće cvjetova.|Für einen Teelöffel Honig muss eine Biene Tausende Blüten besuchen.
+q|Koliko cvjetova treba za žličicu meda?|Wie viele Blüten braucht man für einen Teelöffel Honig?
+a|Tisuće|Tausende
+w|Samo jedan|Nur eine
+w|Deset|Zehn
+f|Dok skuplja nektar, pčela prenosi pelud s cvijeta na cvijet. Tako biljke mogu napraviti plodove, kao jabuke i jagode.|Beim Nektarsammeln trägt die Biene Pollen von Blüte zu Blüte. So können Pflanzen Früchte bilden, wie Äpfel und Erdbeeren.
+q|Kako pčele pomažu biljkama?|Wie helfen Bienen den Pflanzen?
+a|Prenose pelud s cvijeta na cvijet|Sie tragen Pollen von Blüte zu Blüte
+w|Zalijevaju ih|Sie gießen sie
+w|Plaše puževe|Sie verscheuchen Schnecken
+
+@majmun|gusari|z|Kapucin majmun|Kapuzineraffe|ent=majmun|sci=Cebus capucinus
+i|Dom|Zuhause|tropske šume|tropische Wälder
+i|Hrana|Nahrung|voće, kukci, orasi|Früchte, Insekten, Nüsse
+i|Veličina|Größe|oko 40 cm, rep još toliko|etwa 40 cm, der Schwanz noch einmal so lang
+h|Skače po palmama u Gusarskoj uvali.|Springt in der Piratenbucht über die Palmen.
+f|Kapucini su jako pametni. Tvrde orahe razbijaju kamenom kao čekićem.|Kapuzineraffen sind sehr klug. Harte Nüsse knacken sie mit einem Stein wie mit einem Hammer.
+q|Kako kapucin otvara tvrdi orah?|Wie öffnet der Kapuzineraffe eine harte Nuss?
+a|Razbije ga kamenom|Er schlägt sie mit einem Stein auf
+w|Čeka da se sam otvori|Er wartet, bis sie von selbst aufgeht
+w|Baci ga u more|Er wirft sie ins Meer
+f|Ime su dobili po redovnicima kapucinima, jer im krzno na glavi izgleda kao mala kapuljača.|Ihren Namen haben sie von den Kapuzinermönchen, weil ihr Fell am Kopf wie eine kleine Kapuze aussieht.
+q|Po čemu je kapucin dobio ime?|Woher hat der Kapuzineraffe seinen Namen?
+a|Krzno izgleda kao kapuljača|Das Fell sieht aus wie eine Kapuze
+w|Voli kapućino|Er mag Cappuccino
+w|Živi u kapelici|Er wohnt in einer Kapelle
+f|Kapucini se trljaju listovima nekih biljaka. Miris tjera komarce, kao krema protiv uboda.|Kapuzineraffen reiben sich mit bestimmten Blättern ein. Der Duft hält Mücken fern, wie eine Creme gegen Stiche.
+q|Zašto se kapucini trljaju nekim listovima?|Warum reiben sich Kapuzineraffen mit Blättern ein?
+a|Da otjeraju komarce|Um Mücken fernzuhalten
+w|Da budu zeleni|Um grün zu werden
+w|Da se ugriju|Um sich zu wärmen
+
+@tukan|gusari|z|Tukan|Tukan|ent=tukan|sci=Ramphastos toco
+i|Dom|Zuhause|tropske šume Južne Amerike|Tropenwälder Südamerikas
+i|Hrana|Nahrung|voće, bobice, kukci|Früchte, Beeren, Insekten
+i|Veličina|Größe|oko 60 cm, kljun do 20 cm|etwa 60 cm, Schnabel bis 20 cm
+h|Sjedi visoko u krošnjama tropskog otočića.|Sitzt hoch oben in den Bäumen der Tropeninsel.
+f|Tukanov kljun izgleda teško, ali je lagan. Iznutra je kao spužva puna zraka.|Der Schnabel des Tukans sieht schwer aus, ist aber leicht. Innen ist er wie ein Schwamm voller Luft.
+q|Kakav je tukanov kljun iznutra?|Wie ist der Tukanschnabel innen?
+a|Kao spužva puna zraka|Wie ein Schwamm voller Luft
+w|Pun kamenja|Voller Steine
+w|Pun vode|Voller Wasser
+f|Kad je vruće, tukan kroz veliki kljun ispušta toplinu, kao da ima ugrađeni ventilator.|Wenn es heiß ist, gibt der Tukan über den großen Schnabel Wärme ab, als hätte er einen eingebauten Ventilator.
+q|Kako tukanu pomaže veliki kljun kad je vruće?|Wie hilft der große Schnabel dem Tukan, wenn es heiß ist?
+a|Kroz njega ispušta toplinu|Er gibt darüber Wärme ab
+w|U njemu nosi led|Er trägt Eis darin
+w|Njime maše kao lepezom|Er fächelt damit
+f|Tukani se igraju bacajući voće jedni drugima iz kljuna u kljun.|Tukane spielen, indem sie sich Früchte von Schnabel zu Schnabel zuwerfen.
+q|Kako se tukani igraju?|Wie spielen Tukane?
+a|Bacaju si voće|Sie werfen sich Früchte zu
+w|Utrkuju se po tlu|Sie rennen um die Wette
+w|Kopaju rupe|Sie graben Löcher
+
+@gusari|gusari|l|Gusari|Piraten|ent=gusar,gusarka,kapetan|em=🏴‍☠️|bg=#3a2a1a
+i|Posao|Beruf|plovidba i potraga za blagom|Segeln und Schatzsuche
+i|Brod|Schiff|Crni galeb|Die Schwarze Möwe
+h|Žive u gusarskom selu u Gusarskoj uvali.|Sie wohnen im Piratendorf in der Piratenbucht.
+f|Pravi gusari imali su pravila na brodu. Plijen su dijelili po dogovoru, a kapetana su često birali svi zajedno glasanjem.|Echte Piraten hatten Regeln an Bord. Die Beute teilten sie nach Absprache, und den Kapitän wählten sie oft alle zusammen.
+q|Kako su gusari često birali kapetana?|Wie wählten Piraten oft ihren Kapitän?
+a|Glasanjem svih|Alle stimmten ab
+w|Tko je najviši|Wer am größten war
+w|Bacanjem novčića|Mit einer Münze
+f|Gusari su rijetko zakapali blago. Ideja o karti s velikim X došla je najviše iz knjige Otok s blagom.|Piraten vergruben ihren Schatz nur selten. Die Idee der Schatzkarte mit dem großen X kommt vor allem aus dem Buch Die Schatzinsel.
+q|Odakle najviše dolazi ideja o karti blaga s velikim X?|Woher kommt vor allem die Idee der Schatzkarte mit dem großen X?
+a|Iz knjige Otok s blagom|Aus dem Buch Die Schatzinsel
+w|Iz pravih gusarskih zakona|Aus echten Piratengesetzen
+w|S kineskih karata|Von chinesischen Karten
+f|Mornari su na dugim plovidbama jeli tvrde dvopeke, kekse koji se nisu kvarili mjesecima.|Seeleute aßen auf langen Reisen harten Schiffszwieback, Kekse, die monatelang nicht schlecht wurden.
+q|Što su mornari jeli na dugim plovidbama?|Was aßen Seeleute auf langen Reisen?
+a|Tvrde dvopeke|Harten Schiffszwieback
+w|Svježu tortu|Frische Torte
+w|Sladoled|Eis
+
+@morz|svjetionik|z|Morž|Walross|ent=morz|sci=Odobenus rosmarus
+i|Dom|Zuhause|hladna sjeverna mora|kalte Nordmeere
+i|Hrana|Nahrung|školjke s morskog dna|Muscheln vom Meeresgrund
+i|Veličina|Größe|do 3,5 m i preko tone|bis 3,5 m und über eine Tonne
+h|Djed Lovro odmara na stijenama Otoka svjetionika.|Opa Lovro ruht auf den Felsen der Leuchtturminsel.
+f|Morž se dugim kljovama zabija u led i povlači se na njega iz vode, kao penjač cepinom.|Das Walross hakt seine langen Stoßzähne ins Eis und zieht sich aus dem Wasser hinauf, wie ein Kletterer mit dem Eispickel.
+q|Čemu moržu služe dugi zubi?|Wozu braucht das Walross seine langen Zähne?
+a|Da se izvuče na led|Um sich aufs Eis zu ziehen
+w|Za žvakanje trave|Zum Grasfressen
+w|Za sviranje|Zum Musizieren
+f|Morž školjke pronalazi brkovima. Ima ih stotine i jako su osjetljivi.|Das Walross findet Muscheln mit seinen Schnurrhaaren. Es hat Hunderte davon, und sie sind sehr empfindlich.
+q|Čime morž pronalazi školjke na dnu?|Womit findet das Walross Muscheln am Boden?
+a|Brkovima|Mit den Schnurrhaaren
+w|Repom|Mit dem Schwanz
+w|Ušima|Mit den Ohren
+f|Ispod kože morž ima debeli sloj sala koji ga grije u ledenoj vodi kao topli kaput.|Unter der Haut hat das Walross eine dicke Speckschicht, die es im eiskalten Wasser wärmt wie ein Mantel.
+q|Što grije morža u ledenoj vodi?|Was wärmt das Walross im eiskalten Wasser?
+a|Debeli sloj sala|Eine dicke Speckschicht
+w|Vuneni šal|Ein Wollschal
+w|Topla krv iz vulkana|Warmes Blut aus dem Vulkan
+
+@tuljan|svjetionik|z|Tuljan|Seehund|ent=tuljan,tuljan2|sci=Phoca vitulina
+i|Dom|Zuhause|stjenovite obale i pješčani sprudovi|Felsküsten und Sandbänke
+i|Hrana|Nahrung|ribe, lignje, rakovi|Fische, Tintenfische, Krebse
+i|Veličina|Größe|do 1,9 m|bis 1,9 m
+h|Sunča se na stijenama Otoka svjetionika.|Sonnt sich auf den Felsen der Leuchtturminsel.
+f|Tuljan pod vodom zatvori nosnice i može ne disati i do pola sata.|Unter Wasser verschließt der Seehund die Nasenlöcher und kann bis zu einer halben Stunde ohne Atmen bleiben.
+q|Što tuljan napravi s nosnicama pod vodom?|Was macht der Seehund unter Wasser mit seinen Nasenlöchern?
+a|Zatvori ih|Er verschließt sie
+w|Puše mjehuriće|Er bläst Blasen
+w|Njima pije vodu|Er trinkt damit
+f|Tuljan u mutnoj vodi lovi pomoću brkova. Osjeti i sićušne valove koje ostavlja riba dok pliva.|Im trüben Wasser jagt der Seehund mit den Schnurrhaaren. Er spürt sogar die winzigen Wellen, die ein Fisch beim Schwimmen macht.
+q|Kako tuljan pronalazi ribu u mutnoj vodi?|Wie findet der Seehund Fische im trüben Wasser?
+a|Brkovima osjeti valove|Er spürt die Wellen mit den Schnurrhaaren
+w|Pjeva im|Er singt ihnen etwas vor
+w|Svijetli kao lampa|Er leuchtet wie eine Lampe
+f|Na kopnu se tuljan kreće skakutanjem na trbuhu, ali u vodi je brz i graciozan plivač.|An Land hoppelt der Seehund auf dem Bauch, aber im Wasser ist er ein schneller und eleganter Schwimmer.
+q|Kako se tuljan kreće na kopnu?|Wie bewegt sich der Seehund an Land?
+a|Skakuće na trbuhu|Er hoppelt auf dem Bauch
+w|Hoda na dvije noge|Er läuft auf zwei Beinen
+w|Leti|Er fliegt
+
+@pufin|svjetionik|z|Pufin|Papageitaucher|ent=pufin,pufin2|sci=Fratercula arctica
+i|Dom|Zuhause|strme obale sjevernih mora|steile Küsten der Nordmeere
+i|Hrana|Nahrung|male ribice|kleine Fische
+i|Veličina|Größe|oko 30 cm|etwa 30 cm
+h|Gnijezdi se na liticama Otoka svjetionika.|Brütet an den Klippen der Leuchtturminsel.
+f|Pufin u kljunu može nositi i desetak ribica odjednom, jer ih jezikom pritišće uz nepce.|Der Papageitaucher kann zehn kleine Fische auf einmal im Schnabel tragen, weil er sie mit der Zunge an den Gaumen drückt.
+q|Koliko ribica pufin može nositi u kljunu?|Wie viele Fischchen kann ein Papageitaucher im Schnabel tragen?
+a|Desetak odjednom|Etwa zehn auf einmal
+w|Samo jednu|Nur eines
+w|Nijednu|Keines
+f|Šareni kljun pufin ima samo u proljeće i ljeto. Zimi mu kljun postane siviji.|Den bunten Schnabel hat der Papageitaucher nur im Frühling und Sommer. Im Winter wird er grauer.
+q|Kada pufin ima najšareniji kljun?|Wann hat der Papageitaucher den buntesten Schnabel?
+a|U proljeće i ljeto|Im Frühling und Sommer
+w|Samo na rođendan|Nur am Geburtstag
+w|Samo noću|Nur nachts
+f|Pufini krilima mašu i do 400 puta u minuti. Pod vodom ta ista krila koriste kao vesla.|Papageitaucher schlagen bis zu 400 Mal in der Minute mit den Flügeln. Unter Wasser benutzen sie dieselben Flügel als Ruder.
+q|Kako pufin pliva pod vodom?|Wie schwimmt der Papageitaucher unter Wasser?
+a|Krilima vesla|Er rudert mit den Flügeln
+w|Ne zna plivati|Er kann nicht schwimmen
+w|Pušta mjehuriće kao motor|Er bläst Blasen wie ein Motor
+
+@ribar|svjetionik|l|Ribari|Fischer|ent=ribar|em=🎣|bg=#2a5a8a
+i|Posao|Beruf|lov ribe i briga o mrežama|Fischfang und Netze flicken
+i|Alat|Werkzeug|mreže, vrše, udice, čamac|Netze, Reusen, Haken, Boot
+h|Ribarica Nela i ribar Jakov žive kraj svjetionika.|Fischerin Nela und Fischer Jakob wohnen beim Leuchtturm.
+f|Svjetionici ribarima noću pokazuju gdje je obala. Svaki svjetionik ima svoj ritam bljeskanja, pa ih mornari razlikuju.|Leuchttürme zeigen den Fischern nachts, wo die Küste ist. Jeder Leuchtturm blinkt in seinem eigenen Takt, so erkennen ihn die Seeleute.
+q|Kako mornari razlikuju svjetionike noću?|Wie unterscheiden Seeleute nachts die Leuchttürme?
+a|Svaki ima svoj ritam bljeskanja|Jeder blinkt in seinem eigenen Takt
+w|Po boji krova|An der Dachfarbe
+w|Po glazbi koju sviraju|An der Musik
+f|Ribari već tisućama godina popravljaju mreže rukom, čvor po čvor, posebnom drvenom iglom.|Seit Tausenden Jahren flicken Fischer ihre Netze von Hand, Knoten für Knoten, mit einer besonderen Holznadel.
+q|Čime ribari popravljaju mreže?|Womit flicken Fischer ihre Netze?
+a|Drvenom iglom|Mit einer Holznadel
+w|Ljepilom|Mit Kleber
+w|Čarobnim štapićem|Mit einem Zauberstab
+f|Ribari prate galebove. Gdje se galebovi okupljaju i rone, ispod je obično jato ribe.|Fischer achten auf Möwen. Wo sich Möwen sammeln und tauchen, ist darunter meist ein Fischschwarm.
+q|Kako galebovi pomažu ribarima?|Wie helfen Möwen den Fischern?
+a|Pokažu gdje je jato ribe|Sie zeigen, wo ein Fischschwarm ist
+w|Vuku mreže|Sie ziehen die Netze
+w|Čuvaju čamac|Sie bewachen das Boot

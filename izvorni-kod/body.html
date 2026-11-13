@@ -1,0 +1,78 @@
+
+
+<canvas id="gl" aria-label="Tvoj 3D otok. Povuci za okretanje, štipni ili kotačić za zumiranje."></canvas>
+<div id="loading">Otok priča</div><script>try{var s0=JSON.parse(localStorage.getItem("otok-prica-v3")||"{}"),L0=document.getElementById("loading");if(s0.world){L0.className="warp";L0.innerHTML="<span>Putujemo kroz portal...</span>";}else if(s0.worldBack){L0.className="warp home";L0.innerHTML="<span>Natrag na Otok priča...</span>";}}catch(e){}</script>
+
+<div class="hud hud-top">
+  <div class="card who">
+    <div class="logo">Otok priča</div>
+    <div class="lvl"><span id="who">Čitateljica</span> · <span id="lvlName">Razina 1</span></div>
+    <div class="xp" title="Do sljedeće razine"><i id="xpBar"></i></div>
+  </div>
+  <div class="stats">
+    <div class="card chip" id="streakChip"><svg width="18" height="22" viewBox="0 0 9 11" shape-rendering="crispEdges" aria-hidden="true"><path fill="#e8542f" d="M4 0h1v1h1v1h1v2h1v4h1v2H8v1H1v-1H0V7h1V5h1V3h1V1h1z"/><path fill="#f6b628" d="M4 4h1v1h1v1h1v3H6v1H3V9H2V7h1V5h1z"/><path fill="#fff1a8" d="M4 7h1v2H4z"/></svg><b id="streakN">0</b><small id="streakL">dana zaredom</small></div>
+    <div class="card chip pg"><svg class="ico" viewBox="0 0 12 10" shape-rendering="crispEdges" aria-hidden="true"><path fill="#16243a" d="M0 1h5v1h1V1h1V0h5v9H7v1H5V9H0z"/><path fill="#fff" d="M1 2h4v1h1v5H5V8H1zM7 1h4v7H7v1H6V3h1z"/></svg><b id="pagesN">0</b><small>stranica</small></div>
+    <div class="card chip" id="coinChip" title="Zlatnici"><svg class="ico" viewBox="0 0 10 10" shape-rendering="crispEdges" aria-hidden="true"><path fill="#16243a" d="M3 0h4v1h2v2h1v4H9v2H7v1H3V9H1V7H0V3h1V1h2z"/><path fill="#ffc53d" d="M3 1h4v1h1v1h1v4H8v1H7v1H3V8H2V7H1V3h1V2h1z"/><path fill="#fff1a8" d="M3 2h2v1H4v2H3z"/><path fill="#c98a00" d="M6 3h1v4H6z"/></svg><b id="coinN">0</b><small>zlatnika</small></div>
+    <div class="card chip" id="tixChip" title="Karte za igre"><svg class="ico" viewBox="0 0 12 9" shape-rendering="crispEdges" aria-hidden="true"><path fill="#16243a" d="M0 1h12v3h-1v1h1v3H0V5h1V4H0z"/><path fill="#ff7fa8" d="M1 2h10v1h-1v3h1v1H1V6h1V3H1z"/><path fill="#fff" d="M4 3h1v3H4zM6 3h3v1H6zM6 5h2v1H6z"/></svg><b id="tixN">0</b><small>karata</small></div>
+  </div>
+</div>
+<div class="side-btns" id="sideBtns">
+  <button class="card round rel" id="questBtn" aria-label="Zadaci dana"><svg viewBox="0 0 13 12" shape-rendering="crispEdges"><path fill="#16243a" d="M0 5h13v7H0zM1 0h11v1h1v4H0V1h1z"/><path fill="#a8642e" d="M1 6h11v5H1z"/><path fill="#c47a3a" d="M1 1h11v3H1z"/><path fill="#ffc53d" d="M5 1h3v7H5z"/></svg><span class="badge" id="qBadge" hidden>0</span></button>
+  <button class="card round" id="timeBtn" aria-label="Promijeni doba dana"></button>
+  <button class="card round" id="soundBtn" aria-label="Zvuk"></button>
+  <button class="card round" id="homeBtn" aria-label="Pogled na cijeli otok"><svg viewBox="0 0 10 10" shape-rendering="crispEdges"><path fill="#16243a" d="M4 1h2v1h1v1h1v1h1v1H8v4H2V5H1V4h1V3h1V2h1z"/><path fill="#ffc53d" d="M4 6h2v3H4z"/></svg></button>
+  <button class="card round" id="parentBtn" aria-label="Kutak za roditelje"><svg viewBox="0 0 10 10" shape-rendering="crispEdges"><path fill="#16243a" d="M3 0h4v1h1v3h1v6H1V4h1V1h1zM4 2v2h2V2z"/><path fill="#ffc53d" d="M2 5h6v4H2z"/><path fill="#16243a" d="M4 6h2v2H4z"/></svg></button>
+</div>
+
+<div class="camctl" id="camCtl"><button class="card round" data-h="l" aria-label="Okreni lijevo"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 15.5a7 7 0 1 0 .8-8.2" fill="none" stroke="#16243a" stroke-width="3" stroke-linecap="round"/><path d="M5 3.5v5h5" fill="none" stroke="#16243a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></button><button class="card round" data-h="r" aria-label="Okreni desno"><svg viewBox="0 0 24 24" style="transform:scaleX(-1)" aria-hidden="true"><path d="M6.5 15.5a7 7 0 1 0 .8-8.2" fill="none" stroke="#16243a" stroke-width="3" stroke-linecap="round"/><path d="M5 3.5v5h5" fill="none" stroke="#16243a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></button><button class="card round" data-h="i" aria-label="Približi"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14" stroke="#16243a" stroke-width="3.4" stroke-linecap="round"/></svg></button><button class="card round" data-h="o" aria-label="Udalji"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14" stroke="#16243a" stroke-width="3.4" stroke-linecap="round"/></svg></button></div>
+<div id="bubble" hidden></div>
+<div id="toast" hidden></div>
+
+<div class="hud hud-bot">
+  <nav class="bar" id="mainBar">
+    <button class="btn big rel" id="readBtn"><svg viewBox="0 0 12 10" shape-rendering="crispEdges" aria-hidden="true"><path fill="#16243a" d="M0 1h5v1h1V1h1V0h5v9H7v1H5V9H0z"/><path fill="#fff" d="M1 2h4v1h1v5H5V8H1zM7 1h4v7H7v1H6V3h1z"/></svg>Čitala sam!</button>
+    <button class="btn green" id="buildBtn"><svg viewBox="0 0 10 10" shape-rendering="crispEdges" aria-hidden="true"><path fill="#16243a" d="M1 2h8v7H1z"/><path fill="#8fdc6a" d="M2 3h6v2H2z"/><path fill="#a86b3a" d="M2 5h6v3H2z"/></svg>Gradi</button>
+    <button class="btn sea" id="exploreBtn"><svg viewBox="0 0 10 10" shape-rendering="crispEdges" aria-hidden="true"><rect x="2" y="0" width="1" height="2" fill="#e8772e"/><rect x="7" y="0" width="1" height="2" fill="#e8772e"/><rect x="1" y="1" width="1" height="1" fill="#e8772e"/><rect x="8" y="1" width="1" height="1" fill="#e8772e"/><rect x="1" y="2" width="8" height="1" fill="#e8772e"/><rect x="0" y="3" width="10" height="2" fill="#e8772e"/><rect x="1" y="5" width="8" height="1" fill="#e8772e"/><rect x="2" y="6" width="6" height="1" fill="#e8772e"/><rect x="3" y="7" width="4" height="1" fill="#e8772e"/><rect x="4" y="8" width="2" height="1" fill="#e8772e"/><rect x="1" y="5" width="2" height="1" fill="#fff4e6"/><rect x="7" y="5" width="2" height="1" fill="#fff4e6"/><rect x="2" y="6" width="2" height="1" fill="#fff4e6"/><rect x="6" y="6" width="2" height="1" fill="#fff4e6"/><rect x="3" y="7" width="4" height="1" fill="#fff4e6"/><rect x="2" y="0" width="1" height="1" fill="#16243a"/><rect x="7" y="0" width="1" height="1" fill="#16243a"/><rect x="3" y="4" width="1" height="1" fill="#16243a"/><rect x="6" y="4" width="1" height="1" fill="#16243a"/><rect x="4" y="8" width="2" height="1" fill="#16243a"/></svg>Istraži</button>
+    <button class="btn rel" id="diaryBtn">Dnevnik</button>
+    <button class="btn purple rel" id="gamesBtn"><svg class="ico" viewBox="0 0 12 9" shape-rendering="crispEdges" aria-hidden="true"><path fill="#16243a" d="M0 1h12v3h-1v1h1v3H0V5h1V4H0z"/><path fill="#ff7fa8" d="M1 2h10v1h-1v3h1v1H1V6h1V3H1z"/><path fill="#fff" d="M4 3h1v3H4zM6 3h3v1H6zM6 5h2v1H6z"/></svg>Igre<span class="badge" id="gBadge" hidden>0</span></button>
+  </nav>
+  <nav class="bar buildbar" id="buildBar" hidden>
+    <div class="blabel" id="blabel">Trava</div>
+    <div class="card palette" id="palette" aria-label="Kockice"></div>
+    <div class="row" style="justify-content:center">
+      <button class="btn" id="modePlace" aria-pressed="true">Postavi</button>
+      <button class="btn" id="modeRemove" aria-pressed="false">Ruši</button>
+      <button class="btn" id="bagOpen">Torba</button>
+      <button class="btn big" id="buildDone">Gotovo</button>
+    </div>
+  </nav>
+</div>
+
+<div id="findPop" class="card" hidden></div>
+<div id="gameUI" hidden>
+  <div class="card gtop pe"><span id="gTitle"></span><span id="gInfo"></span><button class="btn soft" id="gExit">Završi</button></div>
+  <div class="gbot" id="fishPanel" hidden>
+    <div class="gmsg" id="fishMsg"></div>
+    <div id="reelBox" hidden><div class="reel"><div class="zone" id="zone"></div><div class="mark" id="mark"></div></div><div class="prog2"><i id="reelProg"></i></div></div>
+    <button class="btn big pe" id="fishBtn">Baci udicu</button>
+  </div>
+  <div class="gbot" id="balloonPanel" hidden>
+    <div class="gmsg" id="balMsg"></div>
+    <div class="gctl"><button class="gbtn pe" id="bL" aria-label="Lijevo"></button><button class="gbtn up pe" id="bU" aria-label="Gore"></button><button class="gbtn pe" id="bR" aria-label="Desno"></button></div>
+  </div>
+  <div id="gPop" class="gpop card" hidden></div>
+</div>
+<div id="padRet" hidden aria-hidden="true"></div>
+<div id="fpUI" hidden>
+  <div class="card fptop pe"><span class="fpar" id="fpArrow" hidden><svg viewBox="0 0 10 10" shape-rendering="crispEdges" aria-hidden="true"><path fill="#16243a" d="M4 0h2v1h1v1h1v1h1v1h1v2H7v4H3V6H0V4h1V3h1V2h1V1h1z"/><path fill="#ffc53d" d="M4 1h2v1h1v1h1v1h1v1H6v4H4V5H1V4h1V3h1V2h1z"/></svg></span><span id="fpInfo"></span><b id="fpDist"></b><button class="btn soft" id="fpExit">Završi</button></div>
+  <div class="fpstat" id="fpStat" hidden><div class="breath" id="fpBreath" aria-label="Zrak"></div><div class="stam" id="fpStam" aria-label="Snaga za plivanje"><i></i></div></div>
+  <div class="hotbar card pe" id="hotbar" aria-label="Kockice u ruci"></div>
+  <div class="fpjoy pe" id="fpJoy" aria-hidden="true"><div id="fpKnob"></div></div>
+  <button class="fpjump pe" id="fpJump" aria-label="Skoči">Skok</button>
+  <button class="fpdive pe" id="fpDive" aria-label="Roni" hidden>Roni</button>
+  <button class="fpoff pe" id="fpOff" aria-label="Siđi" hidden>Siđi</button>
+  <div class="acthud pe" id="actHud" hidden><b id="actT"></b><span id="actN"></span><i id="actBar"><u></u></i><button id="actX" aria-label="Odustani">×</button></div>
+</div>
+<div id="shopUI" hidden><div class="card shop"><div class="row"><h3>Ridin ormar</h3><span id="shopCoins" class="row" style="gap:6px;font-family:var(--display);font-size:1.3rem"></span></div><div class="tabs" id="shopSlots" role="tablist"></div><p class="muted" id="shopReq" hidden></p><div class="hats" id="shopList"></div><div class="row"><button class="btn green" id="shopAct">Stavi</button><button class="btn" id="shopClose">Gotovo</button></div></div></div>
+<div class="veil" id="veil" hidden><div class="sheet" id="sheet" role="dialog" aria-modal="true"><button class="x" id="sheetX" aria-label="Zatvori">×</button><div id="sheetBody" style="display:flex;flex-direction:column;gap:14px"></div></div></div>
+
